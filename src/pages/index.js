@@ -1,20 +1,18 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <h1>Advancing scholarship at U-M and beyond</h1>
+    <p>Michigan Publishing publishes scholarly and educational materials in a range of formats for wide distribution and permanent preservation. We support the broadest possible access to scholarship by promoting:</p>
+    <ul>
+      <li>faculty public engagement and expert connections;</li>
+      <li>diversity, equity, and inclusion through the 	selection and distribution of content; and</li>
+      <li>academic innovation by publishing work that 	leverages digital technology.</li>
+    </ul>
   </Layout>
 )
 
