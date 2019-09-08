@@ -2,13 +2,13 @@
 
 ## Collections
 
-### Page
+### Pages
 
 - Title [string]
 - Body [markdown]
 - Path [string]
 
-### Book
+### Books
 
 - Title [string]
 - Author [string]
@@ -17,7 +17,7 @@
   - Alt text [string]
 - Description [text]
 
-### Story
+### Stories
 
 - Title [string]
 - Hero section [object]
@@ -25,22 +25,26 @@
   - Image [image]
 - Author [string]
 - Date [date]
-- Categories [select]
+- Categories [relation]
 - Image [object]
   - File [image]
   - Alt text [string]
   - Caption [string]
   - Credit [string]
-- Profiles [list / relation]
+- Profiles [relation]
 - Project partners [markdown]
-- Related stories [list / related]
+- Related stories [relation]
 - Body [markdown]
 
-### Profile
+### Profiles
 
 - Name [string]
 - Title [string]
 - Quote [text]
+
+### Categories
+
+- Name [string]
 
 ## Custom pages
 
@@ -56,7 +60,7 @@
   - Link URL [string]
   - Image [image]
 - Featured profile [relation]
-- Featured stories [list / relation]
+- Featured stories [relation]
 - Trending [list / string]
 - Infographics section [object]
   - Heading [string]

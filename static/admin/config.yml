@@ -17,3 +17,99 @@ collections:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
       - { name: path, label: Path }
+
+  - name: books
+    label: Books
+    label_singular: Book
+    create: true
+    editor:
+      preview: false
+    folder: src/content/books
+    fields:
+      - { name: title, label: Title }
+      - { name: author, label: Author }
+      - name: image
+        label: Image
+        widget: object
+        fields:
+          - { name: file, label: File, widget: image }
+          - { name: alt, label: Alt text }
+      - { name: description, label: Description, widget: text }
+
+  - name: stories
+    label: Stories
+    label_singular: Story
+    create: true
+    editor:
+      preview: false
+    folder: src/content/stories
+    fields:
+      - { name: title, label: Title }
+      - name: hero
+        label: Hero section
+        widget: object
+        fields:
+          - { name: text, label: Text, widget: text }
+          - { name: image, label: Image, widget: image }
+      - { name: author, label: Author }
+      - { name: date, label: Date, widget: date }
+      - {
+          name: categories,
+          label: Categories,
+          widget: relation,
+          collection: categories,
+          searchFields: [title],
+          valueField: title,
+          multiple: true,
+        }
+      - name: image
+        label: Image
+        widget: object
+        fields:
+          - { name: file, label: File, widget: image }
+          - { name: alt, label: Alt text }
+          - { name: caption, label: Caption }
+          - { name: credit, label: Credit }
+      - {
+          name: profiles,
+          label: Profiles,
+          widget: relation,
+          collection: profiles,
+          searchFields: [title],
+          valueField: title,
+          multiple: true,
+        }
+      - { name: project_partners, label: Project Partners, widget; markdown }
+      - {
+          name: related_stories,
+          label: Related Stores,
+          widget: relation,
+          collection: stories,
+          searchFields: [title],
+          valueField: title,
+          multiple: true,
+        }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: profiles
+    label: Profiles
+    label_singular: Profile
+    create: true
+    folder: src/content/profiles
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Name }
+      - { name: job_title, label: Title }
+      - { name: image, label: Image, widget: image }
+      - { name: quote, label: Quote, widget: text }
+
+  - name: categories
+    label: Categories
+    label_singular: Category
+    create: true
+    folder: src/content/categories
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
