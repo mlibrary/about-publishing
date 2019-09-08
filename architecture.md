@@ -20,7 +20,6 @@
 * Hero section [object]
   * Text [text]
   * Image [image]
-  * Image alt [string]
 * Author [string]
 * Date [date]
 * Categories [select]
@@ -29,6 +28,7 @@
   * Alt text [string]
   * Caption [string]
   * Credit [string]
+* Profiles [list / relation]
 * Project partners [markdown]
 * Related stories [list / related]
 * Body [markdown]
@@ -59,3 +59,10 @@
     * Large text [string]
     * Small text [string]
 
+## Config
+
+### Contact info
+* Address [markdown]
+* Email [string]
+* Contact page URL [string]
+* Social links [list / string]
