@@ -44,7 +44,7 @@
 
 ### Categories
 
-- Name [string]
+- Title [string]
 
 ## Custom pages
 
