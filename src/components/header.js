@@ -3,6 +3,8 @@ import PropTypes from "prop-types"
 import React from "react"
 import Signature from "./signature"
 
+import { UniversalHeader } from "@umich-lib/core";
+
 const Header = ({ siteTitle }) => (
   <header
     style={{
@@ -10,6 +12,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+    <UniversalHeader />
     <div
       style={{
         margin: `0 auto`,
