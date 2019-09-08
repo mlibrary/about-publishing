@@ -1,0 +1,19 @@
+backend:
+  name: gitlab
+  repo: umichcreative/publishing
+  auth_type: implicit
+  app_id: 1425f6591e2190ac420513b6d866409b6d23f6ad75100233a0ff9e466df0198a
+media_folder: static/assets
+public_folder: assets
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    editor:
+      preview: false
+    folder: src/content/pages
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
+      - { name: path, label: Path }
