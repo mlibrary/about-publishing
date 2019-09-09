@@ -11,6 +11,8 @@ collections:
     files:
       - name: homepage
         label: Homepage
+        editor:
+          preview: false
         file: src/content/homepage.md
         fields:
           - { name: type, label: Name, widget: hidden, default: homepage }
