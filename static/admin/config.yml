@@ -13,11 +13,19 @@ collections:
         label: Homepage
         file: src/content/homepage.md
         fields:
+          - { name: type, label: Name, widget: hidden, default: homepage }
           - name: hero_section
             label: Hero section
             widget: object
             fields:
               - { name: heading, label: Heading }
+              - { name: text, label: Text, widget: markdown }
+              - name: image
+                label: Image
+                widget: object
+                fields:
+                  - { name: file, label: File, widget: image }
+                  - { name: alt, label: Alt text }
 
   - name: pages
     label: Pages
@@ -30,6 +38,7 @@ collections:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
       - { name: path, label: Path }
+      - { name: type, label: Type, widget: hidden, default: page }
 
   - name: books
     label: Books
@@ -110,6 +119,8 @@ collections:
           required: false,
         }
       - { name: body, label: Body, widget: markdown }
+      - { name: path, label: Path, default: /stories/ }
+      - { name: type, label: Type, widget: hidden, default: story }
 
   - name: profiles
     label: Profiles

@@ -18,6 +18,20 @@ module.exports = {
         path: `${__dirname}/src/content/pages`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `stories`,
+        path: `${__dirname}/src/content/stories`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `homepage`,
+        path: `${__dirname}/src/content/homepage.md`,
+      },
+    },
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
     {
