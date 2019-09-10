@@ -19,6 +19,8 @@ const Signature = () => {
     <Img
       style={{ maxWidth: `337px` }}
       fluid={data.placeholderImage.childImageSharp.fluid}
+      fadeIn="false"
+      loading="eager"
     />
   )
 }

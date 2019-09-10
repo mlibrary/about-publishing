@@ -32,6 +32,13 @@ module.exports = {
         path: `${__dirname}/src/content/homepage.md`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `books`,
+        path: `${__dirname}/src/content/books`,
+      },
+    },
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
     {
