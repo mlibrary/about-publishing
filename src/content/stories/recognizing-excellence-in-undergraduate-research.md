@@ -7,7 +7,7 @@ categories:
 image:
   alt: story image
   file: /assets/bideo.jpg
-path: /stories/excellence
+path: /stories-of-impact/excellence
 type: story
 ---
 Each year, the library’s Undergraduate Research Awards recognize the work of undergraduate students who have ...

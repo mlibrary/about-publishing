@@ -5,34 +5,33 @@
  */
 const path = require(`path`)
 
-// exports.createPages = async ({ actions, graphql, reporter }) => {
-//   const { createPage } = actions
+exports.createPages = async ({ actions, graphql, reporter }) => {
+  const { createPage } = actions
 
-//   const pageTemplate = path.resolve(`src/templates/pageTemplate.js`)
+  const storiesQuery = await graphql(`
+    {
+      allMarkdownRemark(filter: { frontmatter: { type: { eq: "story" } } }) {
+        edges {
+          node {
+            frontmatter {
+              path
+            }
+          }
+        }
+      }
+    }
+  `)
 
-//   const homepageQuery = await graphql(`
-//     {
-//       markdownRemark(frontmatter: { type: { eq: "homepage" } }) {
-//         html
-//         frontmatter {
-//           hero_section {
-//             heading
-//           }
-//         }
-//       }
-//     }
-//   `)
+  if (storiesQuery.errors) {
+    reporter.panicOnBuild(`Error while running stories GraphQL query.`)
+    return
+  }
 
-//   if (homepageQuery.errors) {
-//     reporter.panicOnBuild(`Error while running homepage GraphQL query.`)
-//     return
-//   }
-
-//   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-//     createPage({
-//       path: node.frontmatter.path,
-//       component: pageTemplate,
-//       context: {}, // additional data can be passed via context
-//     })
-//   })
-// }
+  storiesQuery.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.path,
+      component: path.resolve(`src/templates/storyTemplate.js`),
+      context: {},
+    })
+  })
+}

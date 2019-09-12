@@ -24,11 +24,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Michigan Publishing`,
+        short_name: `Publishing`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#00274c`,
+        theme_color: `#00274c`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },

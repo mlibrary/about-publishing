@@ -131,7 +131,7 @@ collections:
         widget: object
         fields:
           - { name: text, label: Text, widget: text, required: false }
-          - { name: image, label: Image, widget: image, required: false }
+          - { name: story_hero_image, label: Image, widget: image, required: false }
       - { name: author, label: Author }
       - { name: date, label: Date, widget: date }
       - {
@@ -178,7 +178,7 @@ collections:
           required: false,
         }
       - { name: body, label: Body, widget: markdown }
-      - { name: path, label: Path, default: /stories/ }
+      - { name: path, label: Path, default: /stories-of-impact/ }
       - { name: type, label: Type, widget: hidden, default: story }
 
   - name: profiles

@@ -5,7 +5,7 @@ import showdown from "showdown"
 const converter = new showdown.Converter()
 
 const MarkdownContent = ({ content, className }) => (
-  <div
+  <span
     className={className}
     dangerouslySetInnerHTML={{ __html: converter.makeHtml(content) }}
   />
