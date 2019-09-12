@@ -9,16 +9,20 @@ import { UniversalHeader } from "@umich-lib/core";
 const Header = ({ siteTitle }) => (
   <header
     css={{
+      borderBottom: `1px solid rgba(6, 8, 10, 0.21)`,
       background: `#fefefe`,
-      marginBottom: `1.45rem`,
     }}
   >
     <UniversalHeader />
     <div
       css={{
+        alignItems: `center`,
+        display: `flex`,
+        justifyContent: `space-between`,
         margin: `0 auto`,
         maxWidth: 1280,
-        padding: `1rem`,
+        padding: `2rem 2.5rem 1rem`,
+        position: `relative`,
       }}
     >
       <h1 style={{ margin: 0 }}>

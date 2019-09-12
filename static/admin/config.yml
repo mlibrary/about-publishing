@@ -88,15 +88,8 @@ collections:
                 label_singular: Infographic
                 widget: list
                 fields:
-                  - {name: large_text, label: Large text}
-                  - {name: small_text, label: Small text}
-
-      - name: stories
-        label: Stories of impact
-        file: src/landing-pages/stories-of-impact.md
-        fields:
-          - { name: title, label: Title }
-          - { name: body, label: Body, widget: markdown }
+                  - { name: large_text, label: Large text }
+                  - { name: small_text, label: Small text }
 
   - name: pages
     label: Pages
