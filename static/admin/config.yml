@@ -26,6 +26,11 @@ collections:
             fields: 
               - { name: social_name, label: Social name }
               - { name: social_link, label: Social link }
+  - name: landing_pages
+    label: Landing pages
+    editor:
+      preview: false
+    files:
       - name: homepage
         label: Homepage
         file: src/content/homepage.md
@@ -85,6 +90,13 @@ collections:
                 fields:
                   - {name: large_text, label: Large text}
                   - {name: small_text, label: Small text}
+
+      - name: stories
+        label: Stories of impact
+        file: src/landing-pages/stories-of-impact.md
+        fields:
+          - { name: title, label: Title }
+          - { name: body, label: Body, widget: markdown }
 
   - name: pages
     label: Pages

@@ -22,8 +22,27 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
   `)
 
+  const pageQuery = await graphql(`
+    {
+      allMarkdownRemark(filter: { frontmatter: { type: { eq: "page" } } }) {
+        edges {
+          node {
+            frontmatter {
+              path
+            }
+          }
+        }
+      }
+    }
+  `)
+
   if (storiesQuery.errors) {
     reporter.panicOnBuild(`Error while running stories GraphQL query.`)
+    return
+  }
+
+  if (pageQuery.errors) {
+    reporter.panicOnBuild(`Error while running pages GraphQL query.`)
     return
   }
 
@@ -31,6 +50,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.frontmatter.path,
       component: path.resolve(`src/templates/storyTemplate.js`),
+      context: {},
+    })
+  })
+
+  pageQuery.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.path,
+      component: path.resolve(`src/templates/pageTemplate.js`),
       context: {},
     })
   })

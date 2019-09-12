@@ -8,23 +8,23 @@ import { UniversalHeader } from "@umich-lib/core";
 
 const Header = ({ siteTitle }) => (
   <header
-    style={{
+    css={{
       background: `#fefefe`,
       marginBottom: `1.45rem`,
     }}
   >
     <UniversalHeader />
     <div
-      style={{
+      css={{
         margin: `0 auto`,
-        maxWidth: 1200,
+        maxWidth: 1280,
         padding: `1rem`,
       }}
     >
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
-          style={{
+          css={{
             color: `white`,
             textDecoration: `none`,
           }}

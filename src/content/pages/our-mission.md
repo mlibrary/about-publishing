@@ -1,6 +1,6 @@
 ---
-path: "/about"
-title: "About"
+path: "/our-mission"
+title: "Our Mission"
 type: page
 ---
 
