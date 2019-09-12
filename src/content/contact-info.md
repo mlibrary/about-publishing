@@ -1,4 +1,5 @@
 ---
+type: contact_info
 address: |-
   **Michigan Publishing**
 
@@ -6,8 +7,7 @@ address: |-
 
   Ann Arbor, MI 48104-3209
 email: mpublishing@umich.edu
-contact_link: /contact-us
-type: contact_info
+contact_link: /contact-us/
 social:
   - social_link: 'http://www.youtube.com/umichpress'
     social_name: YouTube
