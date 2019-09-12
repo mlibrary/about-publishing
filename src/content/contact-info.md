@@ -1,7 +1,9 @@
 ---
 address: |-
-  **Michigan Publishing**\
-  839 Greene Street\
+  **Michigan Publishing**
+
+  839 Greene Street
+
   Ann Arbor, MI 48104-3209
 email: mpublishing@umich.edu
 contact_link: /contact-us
