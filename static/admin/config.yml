@@ -8,11 +8,11 @@ public_folder: assets
 collections:
   - name: settings
     label: Settings
+    editor:
+      preview: false
     files:
       - name: homepage
         label: Homepage
-        editor:
-          preview: false
         file: src/content/homepage.md
         fields:
           - { name: type, label: Name, widget: hidden, default: homepage }
@@ -28,6 +28,48 @@ collections:
                 fields:
                   - { name: file, label: File, widget: image }
                   - { name: alt, label: Alt text }
+          - name: highlight
+            label: Highlight
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: link_text, label: Link text }
+              - { name: link_url, label: Link URL }
+              - name: image
+                label: Image
+                widget: object
+                fields:
+                  - { name: file, label: File, widget: image }
+                  - { name: alt, label: Alt text }
+          - {
+            name: profile,
+            label: Featured profile,
+            widget: relation,
+            collection: profiles,
+            searchFields: [title],
+            valueField: title,
+          }
+          - {
+            name: stories,
+            label: Featured stories,
+            widget: relation,
+            collection: stories,
+            searchFields: [title],
+            valueField: title,
+            multiple: true,
+          }
+          - name: infographics
+            label: Infographics section
+            widget: object
+            fields:
+              - {name: heading, label: Heading}
+              - name: infographics
+                label: Infographics
+                label_singular: Infographic
+                widget: list
+                fields:
+                  - {name: large_text, label: Large text}
+                  - {name: small_text, label: Small text}
 
   - name: pages
     label: Pages
@@ -134,7 +176,7 @@ collections:
     fields:
       - { name: title, label: Name }
       - { name: job_title, label: Title }
-      - { name: image, label: Image, widget: image }
+      - { name: faculty_image, label: Image, widget: image }
       - { name: quote, label: Quote, widget: text }
 
   - name: categories

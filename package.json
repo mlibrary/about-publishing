@@ -22,6 +22,7 @@
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
     "showdown": "^1.9.0",
+    "typeface-crimson-text": "0.0.72",
     "typeface-muli": "0.0.71"
   },
   "devDependencies": {

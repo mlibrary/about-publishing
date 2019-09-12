@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import "typeface-muli";
+import "typeface-crimson-text";
 
 import Header from "./header"
 import "./layout.css"

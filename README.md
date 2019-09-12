@@ -14,6 +14,12 @@
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
+3. **Project notes**
+
+    Project interacts with this API for trending books on front page:
+    https://api.altmetric.com/
+    https://www.altmetric.com/explorer/outputs?publisher_id%5B%5D=874d100a-8085-4491-a085-7445c912ee93&view=list
+
 ## 🧐 What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
