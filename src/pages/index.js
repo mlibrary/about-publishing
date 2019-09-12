@@ -131,6 +131,7 @@ const IndexPage = () => {
         {featuredStories.map(story => {
           return (
             <Card
+              key={story.frontmatter.title}
               title={story.frontmatter.title}
               href={story.frontmatter.path}
               image={story.frontmatter.image.file}
@@ -142,14 +143,16 @@ const IndexPage = () => {
         })}
       </Section>
 
-      <Section heading="Trending">
-        Need to connect to API.
-      </Section>
+      <Section heading="Trending">Need to connect to API.</Section>
 
       <Section heading={frontmatter.infographics.heading}>
         {frontmatter.infographics.infographics.map(infographic => {
           return (
-            <Infographic largeText={infographic.large_text} smallText={infographic.small_text} />
+            <Infographic
+              key={infographic.small_text}
+              largeText={infographic.large_text}
+              smallText={infographic.small_text}
+            />
           )
         })}
       </Section>

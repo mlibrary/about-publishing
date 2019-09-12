@@ -15,12 +15,17 @@ collections:
         label: Contact info
         file: src/content/contact-info.md
         fields:
-          - {name: address, label: Address, widget: text}
-          - {name: email, label: Email}
-          - {name: contact_link, label: "Contact us URL"}
+          - { name: type, label: Type, widget: hidden, default: contact_info }
+          - { name: address, label: Address, widget: markdown }
+          - { name: email, label: Email }
+          - { name: contact_link, label: "Contact us URL" }
           - name: social
             label: Social links
+            label_singular: Social link
             widget: list
+            fields: 
+              - { name: social_name, label: Social name }
+              - { name: social_link, label: Social link }
       - name: homepage
         label: Homepage
         file: src/content/homepage.md
