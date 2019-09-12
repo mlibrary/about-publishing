@@ -11,6 +11,16 @@ collections:
     editor:
       preview: false
     files:
+      - name: contact_info
+        label: Contact info
+        file: src/content/contact-info.md
+        fields:
+          - {name: address, label: Address, widget: text}
+          - {name: email, label: Email}
+          - {name: contact_link, label: "Contact us URL"}
+          - name: social
+            label: Social links
+            widget: list
       - name: homepage
         label: Homepage
         file: src/content/homepage.md

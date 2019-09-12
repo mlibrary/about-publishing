@@ -9,7 +9,6 @@ import SEO from "../components/seo"
 import MarkdownContent from "../components/markdownContent"
 import Section from "../components/section"
 import Profile from "../components/profile"
-import infographic from "../components/infographic"
 import Infographic from "../components/infographic"
 
 const IndexPage = () => {
@@ -82,7 +81,6 @@ const IndexPage = () => {
   `)
 
   const { frontmatter } = data.content
-  console.log(frontmatter)
 
   // Get profile.
   const selectedProfile = data.profiles.edges.filter(
