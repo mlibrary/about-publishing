@@ -2,8 +2,7 @@ import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Card } from "@umich-lib/core"
-
+import Card from "../components/card"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -33,13 +32,7 @@ const StoriesPage = () => {
     <Layout>
       <SEO title="Stories of Impact" />
       <h1>Stories of Impact</h1>
-      <div
-        css={{
-          display: `flex`,
-          flexWrap: `wrap`,
-          margin: `-1rem`,
-        }}
-      >
+      <div className="flex flex-wrap -m-4">
         {stories &&
           stories.map(story => {
             return (
@@ -49,16 +42,7 @@ const StoriesPage = () => {
                 title={story.frontmatter.title}
                 image={story.frontmatter.image.file}
                 subtitle={story.frontmatter.categories.join(` | `)}
-                css={{
-                  padding: `1rem`,
-                  flexBasis: `33%`,
-                  "@media(max-width: 960px)": {
-                    flexBasis: `50%`,
-                  },
-                  "@media(max-width: 640px)": {
-                    flexBasis: `100%`,
-                  },
-                }}
+                className="p-4 w-full md:w-1/2 lg:w-1/3"
               >
                 {story.frontmatter.excerpt}
               </Card>

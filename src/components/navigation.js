@@ -1,76 +1,55 @@
 import { Link } from "gatsby"
 import React from "react"
-import { css } from "@emotion/core"
 
 import { Icon } from "@umich-lib/core"
 
-const link = css`
-  color: #212b36;
-  font-weight: 700;
-  position: relative;
-  text-transform: uppercase;
-
-  &::after {
-    background-color: #00274c;
-    bottom: -25px;
-    content: "";
-    height: 0;
-    left: 0;
-    position: absolute;
-    transition: height 0.15s ease;
-    width: 100%;
-  }
-
-  &.active::after,
-  &:hover::after,
-  &:focus::after {
-    height: 5px;
-    transition: height 0.15s ease;
-  }
-`
-
 const Navigation = () => (
   <nav>
-    <ul
-      css={{
-        display: `flex`,
-        "& li": {
-          marginRight: `3.25rem`,
-          "&:last-child": {
-            marginRight: `0`,
-          },
-        },
-      }}
-    >
-      <li>
-        <Link to="/" activeClassName="active" css={link}>
+    <ul className="flex uppercase list-none m-0">
+      <li className="pr-12">
+        <Link
+          to="/"
+          activeClassName="active"
+          className="nav-item text-dark font-bold relative"
+        >
           Home
         </Link>
       </li>
-      <li>
-        <Link to="/our-mission" activeClassName="active" css={link}>
+      <li className="pr-12">
+        <Link
+          to="/our-mission"
+          activeClassName="active"
+          className="nav-item text-dark font-bold relative"
+        >
           Our Mission
         </Link>
       </li>
-      <li>
-        <Link to="/stories-of-impact" activeClassName="active" css={link}>
+      <li className="pr-12">
+        <Link
+          to="/stories-of-impact"
+          activeClassName="active"
+          className="nav-item text-dark font-bold relative"
+        >
           Stories of Impact
         </Link>
       </li>
-      <li>
-        <Link to="/our-reach" activeClassName="active" css={link}>
+      <li className="pr-12">
+        <Link
+          to="/our-reach"
+          activeClassName="active"
+          className="nav-item text-dark font-bold relative"
+        >
           Our Reach
         </Link>
       </li>
       <li>
-        <Link to="/search" activeClassName="active" css={link}>
+        <Link
+          to="/search"
+          activeClassName="active"
+          className="nav-item text-dark font-bold relative"
+        >
           Search
-          <Icon
-            icon="search"
-            css={{
-              marginLeft: `0.5rem`,
-            }}
-          />
+          <Icon icon="search" className="ml-2" />
         </Link>
       </li>
     </ul>

@@ -10,7 +10,6 @@ hero_section:
     of formats for wide distribution and permanent preservation. We support the
     broadest possible access to scholarship by promoting:
 
-
     * faculty public engagement and expert connections;
 
     * diversity, equity, and inclusion through the selection and distribution of

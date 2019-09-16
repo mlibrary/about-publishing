@@ -23,25 +23,9 @@ const Footer = () => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <footer
-      css={{
-        maxWidth: `1280px`,
-        margin: `0 auto`,
-        paddingLeft: `2.5rem`,
-        paddingRight: `2.5rem`,
-      }}
-    >
-      <div
-        css={{
-          borderTop: `10px solid #e5e9ed`,
-        }}
-      >
-        <div
-          css={{
-            marginBottom: `4.375rem`,
-            marginTop: `1.5rem`,
-          }}
-        >
+    <footer className="container mx-auto px-10">
+      <div className="border-t-8 border-very-light-blue">
+        <div className="mb-16 mt-6">
           <address>
             <MarkdownContent content={frontmatter.address} />
           </address>

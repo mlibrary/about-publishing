@@ -1,0 +1,58 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+ul {
+  list-style: disc;
+  margin-left: 1.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+img {
+  object-fit: cover;
+}
+
+body {
+  background-color: #fefefe;
+}
+
+/* Navigation */
+.nav-item::after {
+  background-color: #00274c;
+  bottom: -25px;
+  content: "";
+  height: 0;
+  left: 0;
+  position: absolute;
+  transition: height 0.15s ease;
+  width: 100%;
+}
+
+.nav-item:hover::after,
+.nav-item:focus::after,
+.nav-item.active::after {
+  height: 5px;
+  transition: height 0.15s ease;
+}
+
+.line-heading {
+  position: relative;
+}
+
+.line-heading::after {
+  border-bottom: 1px solid #aab9e3;
+  content: "";
+  position: absolute;
+  width: 100%;
+}
+
+.line-heading > * {
+  background-color: #fefefe;
+  position: relative;
+  z-index: 1;
+}

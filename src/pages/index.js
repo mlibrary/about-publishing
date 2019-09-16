@@ -2,8 +2,7 @@ import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Card } from "@umich-lib/core"
-
+import Card from "../components/card"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import MarkdownContent from "../components/markdownContent"
@@ -98,63 +97,94 @@ const IndexPage = () => {
     <Layout>
       <SEO title="Home" />
 
-      <h1>{frontmatter.hero_section.heading}</h1>
+      <div className="lg:flex justify-between mb-20">
+        <div className="lg:w-5/12 mr-6 mb-8 lg:mb-0">
+          <h1 className="text-35 font-extrabold leading-tight mb-10">
+            {frontmatter.hero_section.heading}
+          </h1>
 
-      <MarkdownContent content={frontmatter.hero_section.text} />
+          <div className="text-lg border-l-8 border-michigan-maize pl-6 leading-normal">
+            <MarkdownContent content={frontmatter.hero_section.text} />
+          </div>
+        </div>
 
-      <img
-        src={frontmatter.hero_section.image.file}
-        alt={frontmatter.hero_section.image.alt}
-      />
+        <img
+          src={frontmatter.hero_section.image.file}
+          alt={frontmatter.hero_section.image.alt}
+        />
+      </div>
+
+      <div className="lg:flex -mx-4 mb-20">
+        <Section
+          heading={frontmatter.highlight.heading}
+          linkURL={frontmatter.highlight.link_url}
+          linkText={frontmatter.highlight.link_text}
+          className="lg:w-1/2 px-4 mb-8 lg:mb-0"
+        >
+          <img
+            src={frontmatter.highlight.image.file}
+            alt={frontmatter.highlight.image.alt}
+            className="w-full"
+          />
+        </Section>
+
+        <Section heading="Profiles" className="lg:w-1/2 px-4">
+          <Profile
+            name={profileData.title}
+            image={profileData.faculty_image}
+            quote={profileData.quote}
+            title={profileData.job_title}
+          />
+        </Section>
+      </div>
 
       <Section
-        heading={frontmatter.highlight.heading}
-        linkURL={frontmatter.highlight.link_url}
-        linkText={frontmatter.highlight.link_text}
+        heading="Stories of Impact"
+        className="mb-20"
+        linkText="More Stories"
+        linkURL="/stories-of-impact"
       >
-        <img
-          src={frontmatter.highlight.image.file}
-          alt={frontmatter.highlight.image.alt}
-        />
+        <div className="md:flex flex-wrap -mx-3">
+          {featuredStories.map(story => {
+            return (
+              <Card
+                key={story.frontmatter.title}
+                title={story.frontmatter.title}
+                href={story.frontmatter.path}
+                image={story.frontmatter.image.file}
+                alt={story.frontmatter.image.alt}
+                subtitle={story.frontmatter.categories.join("|")}
+                className="md:w-1/2 lg:w-1/3 px-3 flex flex-col"
+              >
+                {story.excerpt}
+              </Card>
+            )
+          })}
+        </div>
       </Section>
 
-      <Section heading="Profiles">
-        <Profile
-          name={profileData.title}
-          image={profileData.faculty_image}
-          quote={profileData.quote}
-          title={profileData.job_title}
-        />
+      <Section
+        heading="Trending"
+        className="mb-20"
+        linkURL="https://www.altmetric.com/explorer/outputs?publisher_id%5B%5D=874d100a-8085-4491-a085-7445c912ee93&view=list"
+        linkText="See More"
+      >
+        Need to connect to API.
       </Section>
 
-      <Section heading="Stories of Impact">
-        {featuredStories.map(story => {
-          return (
-            <Card
-              key={story.frontmatter.title}
-              title={story.frontmatter.title}
-              href={story.frontmatter.path}
-              image={story.frontmatter.image.file}
-              subtitle={story.frontmatter.categories.join("|")}
-            >
-              {story.excerpt}
-            </Card>
-          )
-        })}
-      </Section>
-
-      <Section heading="Trending">Need to connect to API.</Section>
-
-      <Section heading={frontmatter.infographics.heading}>
-        {frontmatter.infographics.infographics.map(infographic => {
-          return (
-            <Infographic
-              key={infographic.small_text}
-              largeText={infographic.large_text}
-              smallText={infographic.small_text}
-            />
-          )
-        })}
+      <Section heading={frontmatter.infographics.heading} className="mb-20">
+        <div className="lg:flex justify-between">
+          {frontmatter.infographics.infographics.map(infographic => {
+            return (
+              <Infographic
+                key={infographic.small_text}
+                largeText={infographic.large_text}
+                smallText={infographic.small_text}
+                className="max-w-xs flex"
+              />
+            )
+          })}
+        </div>
       </Section>
     </Layout>
   )
