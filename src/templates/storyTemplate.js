@@ -16,9 +16,9 @@ export default function Template({ data }) {
       <SEO title={frontmatter.title} />
 
       <div className="flex">
-        <div className="w-3/12"></div>
+        <div className="w-1/5"></div>
 
-        <div className="w-9/12 max-w-2xl">
+        <div className="w-4/5 max-w-2xl">
           <p className="text-sm uppercase text-dusk-blue mb-0 tracking-widest mb-4">
             {frontmatter.categories.join("|")}
           </p>
@@ -29,7 +29,7 @@ export default function Template({ data }) {
       </div>
 
       <div className="flex items-start">
-        <div className="w-3/12 sticky top-2">
+        <div className="w-1/5 sticky top-2">
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">
             <a href={`https://www.facebook.com/sharer/sharer.php?u=${href}`}>
@@ -46,7 +46,7 @@ export default function Template({ data }) {
           </div>
         </div>
 
-        <div className="w-9/12 max-w-2xl">
+        <div className="w-4/5 max-w-2xl">
           <figure className="mb-20 text-xs text-slate-grey">
             <img
               src={frontmatter.story_image.file}

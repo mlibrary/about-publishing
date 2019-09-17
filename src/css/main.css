@@ -22,6 +22,24 @@ img {
   margin-bottom: 2rem;
 }
 
+.content blockquote {
+  background-color: #506fc5;
+  border-left: 0.5rem solid #274391;
+  color: #fff;
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.5;
+  margin-left: 1.5rem;
+  margin-right: -6rem;
+  max-width: 336px;
+  padding: 1rem 1.5rem;
+}
+
+.content blockquote p {
+  margin: 0;
+}
+
 /* Navigation */
 .nav-item::after {
   background-color: #00274c;
@@ -85,13 +103,13 @@ img {
 }
 
 /* Drop cap */
-.drop-cap p:first-child:first-letter {
+.drop-cap > p:first-child:first-letter {
   color: #00274c;
   float: left;
   font-family: "Crimson Text";
   font-size: 6.25rem;
   font-weight: 700;
-  line-height: 100px;
+  line-height: 6.25rem;
   margin-top: -1rem;
-  padding-right: 0.5rem;
+  padding-right: 0.75rem;
 }
