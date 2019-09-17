@@ -6,9 +6,9 @@ categories:
   - Academic Innovation
 story_image:
   alt: Providing public access to research data
-  file: /assets/bideo.jpg
   caption: Nullam quis risus eget urna mollis ornare vel eu leo tiburon
-  credit: Julian Rothschild, AP Photo
+  credit: 'Julian Rothschild, AP Photo'
+  file: /assets/bideo.jpg
 path: /stories-of-impact/public-access
 type: story
 ---
@@ -17,12 +17,6 @@ For many researchers, sharing data outside of their research team is still a rel
 To address this situation, Michigan Publishing pursued and received a grant from the LYRASIS foundation to explore what guidance,
 training, and support should be provided to researchers studying vulnerable populations in managing and sharing data sets.
 
-This work will support public scholarship and allow
-research findings to be applied outside of academia to
-inform policy, practice, and public opinion. The primary
-deliverable will be a toolkit designed to promote the
-incorporation of open data, public scholarship, and
-DEI&A principles into data management and sharing
-practices. The toolkit will be written for a wide variety
-of data producers and consumers — from academics to community members. Workshops will also be developed to introduce and teach the toolkit to researchers, librarians, and the public. 
+> This work will support public scholarship and allow research findings to be applied outside of academia to inform policy, practice, and public opinion
 
+This work will support public scholarship and allow research findings to be applied outside of academia to inform policy, practice, and public opinion. The primary deliverable will be a toolkit designed to promote the incorporation of open data, public scholarship, and DEI&A principles into data management and sharing practices. The toolkit will be written for a wide variety of data producers and consumers — from academics to  community members. Workshops will also be developed to introduce and teach the toolkit to researchers, librarians, and the public.
