@@ -10,6 +10,9 @@ module.exports = {
         "-1": "-1rem",
         "9": "9rem",
       },
+      spacing: {
+        "1675": "16.75rem",
+      },
     },
     colors: {
       "almost-black": {
@@ -20,6 +23,7 @@ module.exports = {
       "cloudy-blue": "#aab9e3",
       dark: "#212b36",
       "dusk-blue": "#274391",
+      "michigan-blue": "#00274c",
       "michigan-maize": "#ffcb05",
       "mid-blue": "#1e80a2",
       "very-light-blue": "#e5e9ed",

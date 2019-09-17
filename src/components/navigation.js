@@ -5,8 +5,8 @@ import { Icon } from "@umich-lib/core"
 
 const Navigation = () => (
   <nav>
-    <ul className="flex uppercase list-none m-0">
-      <li className="pr-12">
+    <ul className="flex justify-between uppercase list-none m-0">
+      <li>
         <Link
           to="/"
           activeClassName="active"
@@ -15,7 +15,7 @@ const Navigation = () => (
           Home
         </Link>
       </li>
-      <li className="pr-12">
+      <li>
         <Link
           to="/our-mission"
           activeClassName="active"
@@ -24,7 +24,7 @@ const Navigation = () => (
           Our Mission
         </Link>
       </li>
-      <li className="pr-12">
+      <li>
         <Link
           to="/stories-of-impact"
           activeClassName="active"
@@ -33,7 +33,7 @@ const Navigation = () => (
           Stories of Impact
         </Link>
       </li>
-      <li className="pr-12">
+      <li>
         <Link
           to="/our-reach"
           activeClassName="active"

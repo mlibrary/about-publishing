@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
     <>
       <Helmet
         bodyAttributes={{
-          class: "font-sans text-dark",
+          class: "font-sans text-dark bg-white",
         }}
       />
       

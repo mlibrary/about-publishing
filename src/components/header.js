@@ -10,7 +10,7 @@ const Header = ({ siteTitle }) => (
   <header className="border-b border-almost-black-21">
     <UniversalHeader />
     <div className="items-center flex justify-between mx-auto container pt-8 px-10 pb-4 relative">
-      <h1>
+      <h1 className="w-5/12 mr-6">
         <Link to="/">
           <img
             src="/assets/signature.svg"
@@ -18,7 +18,9 @@ const Header = ({ siteTitle }) => (
           />
         </Link>
       </h1>
-      <Navigation />
+      <div className="w-7/12">
+        <Navigation />
+      </div>
     </div>
   </header>
 )

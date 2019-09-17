@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.0001"
+   height="20"
+   version="1.1"
+   viewBox="0 0 10.0001 20"
+   id="svg898"
+   sodipodi:docname="facebook.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs902" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1417"
+     inkscape:window-height="902"
+     id="namedview900"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.9"
+     inkscape:cx="2.2914129"
+     inkscape:cy="12.057133"
+     inkscape:window-x="2752"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg898" />
+  <metadata
+     id="metadata894">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 2.5,6.6667 H 0 V 10 H 2.5 V 20 H 6.6667 V 10 h 3.035 L 10.00003,6.6667 H 6.66673 V 5.2775 c 0,-0.79583 0.16,-1.1108 0.92917,-1.1108 h 2.4042 V 0 H 6.8268 C 3.8301,0 2.5001,1.3192 2.5001,3.8458 Z"
+     id="path896"
+     inkscape:connector-curvature="0"
+     style="fill:#00274c;stroke-width:0.83332998" />
+</svg>

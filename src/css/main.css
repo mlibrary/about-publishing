@@ -17,10 +17,6 @@ img {
   object-fit: cover;
 }
 
-body {
-  background-color: #fefefe;
-}
-
 /* Navigation */
 .nav-item::after {
   background-color: #00274c;
@@ -40,6 +36,7 @@ body {
   transition: height 0.15s ease;
 }
 
+/* Line heading */
 .line-heading {
   position: relative;
 }
@@ -55,4 +52,29 @@ body {
   background-color: #fefefe;
   position: relative;
   z-index: 1;
+}
+
+/* Clip */
+.clip {
+  position: fixed !important;
+  _position: absolute !important;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+/* Social links */
+.social-link[href*="feed"] {
+  background-image: url("../../static/assets/rss.svg");
+}
+
+.social-link[href*="facebook"] {
+  background-image: url("../../static/assets/facebook.svg");
+}
+
+.social-link[href*="twitter"] {
+  background-image: url("../../static/assets/twitter.svg");
+}
+
+.social-link[href*="youtube"] {
+  background-image: url("../../static/assets/youtube.svg");
 }

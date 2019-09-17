@@ -111,6 +111,7 @@ const IndexPage = () => {
         <img
           src={frontmatter.hero_section.image.file}
           alt={frontmatter.hero_section.image.alt}
+          className="w-7/12"
         />
       </div>
 

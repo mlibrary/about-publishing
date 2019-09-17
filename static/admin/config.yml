@@ -16,7 +16,11 @@ collections:
         file: src/content/contact-info.md
         fields:
           - { name: type, label: Type, widget: hidden, default: contact_info }
-          - { name: address, label: Address, widget: markdown }
+          - { name: name, label: Name }
+          - { name: address, label: Address }
+          - { name: city, label: City }
+          - { name: state, label: State }
+          - { name: zip, label: Zip }
           - { name: email, label: Email }
           - { name: contact_link, label: "Contact us URL" }
           - name: social
