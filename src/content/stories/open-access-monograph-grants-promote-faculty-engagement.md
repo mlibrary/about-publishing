@@ -6,9 +6,17 @@ categories:
   - Faculty Public Engagement
 story_image:
   alt: story image
+  caption: ''
+  credit: ''
   file: /assets/bideo.jpg
-  caption: ""
-  credit: ""
+project_partners: >-
+  [National Center for Institutional Diversity
+  (NCID)](https://lsa.umich.edu/ncid) at the University of Michigan
+
+
+  [Data Driven Detroit](https://datadrivendetroit.org/), a community
+  organization dedicated providing equitable access to high-quality data to the
+  citizens of Detroit
 path: /stories-of-impact/open-access
 type: story
 ---
