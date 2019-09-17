@@ -10,6 +10,14 @@ story_image:
   credit: 'Julian Rothschild, AP Photo'
   file: /assets/bideo.jpg
 path: /stories-of-impact/public-access
+project_partners: >-
+  [National Center for Institutional Diversity
+  (NCID)](https://lsa.umich.edu/ncid) at the University of Michigan
+
+
+  [Data Driven Detroit](https://datadrivendetroit.org/), a community
+  organization dedicated providing equitable access to high-quality data to the
+  citizens of Detroit
 type: story
 ---
 For many researchers, sharing data outside of their research team is still a relatively new practice and most have not received training. In helping researchers develop their data management and sharing practices, Michigan Publishing saw a strong need to articulate how Diversity, Equity, Inclusion and Accessibility (DEI&A) values and principles could be applied. This is particularly important for research that impacts vulnerable communities as historically researchers have not considered the perspectives or needs of the communities from whom they are gathering data.

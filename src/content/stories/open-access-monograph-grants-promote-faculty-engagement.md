@@ -9,14 +9,7 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
-project_partners: >-
-  [National Center for Institutional Diversity
-  (NCID)](https://lsa.umich.edu/ncid) at the University of Michigan
-
-
-  [Data Driven Detroit](https://datadrivendetroit.org/), a community
-  organization dedicated providing equitable access to high-quality data to the
-  citizens of Detroit
+project_partners: ""
 path: /stories-of-impact/open-access
 type: story
 ---

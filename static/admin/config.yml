@@ -175,6 +175,7 @@ collections:
           label: Project Partners,
           widget: markdown,
           required: false,
+          default: ""
         }
       - {
           name: related_stories,

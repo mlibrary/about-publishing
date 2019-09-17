@@ -10,6 +10,7 @@ story_image:
   caption: ""
   credit: ""
 path: /stories-of-impact/excellence
+project_partners: ""
 type: story
 ---
 Each year, the library’s Undergraduate Research Awards recognize the work of undergraduate students who have ...

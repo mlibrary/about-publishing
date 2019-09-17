@@ -99,6 +99,7 @@ export const pageQuery = graphql`
           caption
           credit
         }
+        project_partners
       }
     }
   }
