@@ -19,6 +19,7 @@ const Navigation = () => (
         <Link
           to="/our-mission"
           activeClassName="active"
+          partiallyActive={true}
           className="nav-item text-dark font-bold relative"
         >
           Our Mission
@@ -28,6 +29,7 @@ const Navigation = () => (
         <Link
           to="/stories-of-impact"
           activeClassName="active"
+          partiallyActive={true}
           className="nav-item text-dark font-bold relative"
         >
           Stories of Impact
@@ -38,6 +40,7 @@ const Navigation = () => (
           to="/our-reach"
           activeClassName="active"
           className="nav-item text-dark font-bold relative"
+          partiallyActive={true}
         >
           Our Reach
         </Link>
@@ -47,6 +50,7 @@ const Navigation = () => (
           to="/search"
           activeClassName="active"
           className="nav-item text-dark font-bold relative"
+          partiallyActive={true}
         >
           Search
           <Icon icon="search" className="ml-2" />
