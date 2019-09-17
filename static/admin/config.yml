@@ -152,14 +152,14 @@ collections:
           valueField: title,
           multiple: true,
         }
-      - name: image
+      - name: story_image
         label: Image
         widget: object
         fields:
           - { name: file, label: File, widget: image }
           - { name: alt, label: Alt text }
-          - { name: caption, label: Caption, required: false }
-          - { name: credit, label: Credit, required: false }
+          - { name: caption, label: Caption, required: false, default: "" }
+          - { name: credit, label: Credit, required: false, default: "" }
       - {
           name: profiles,
           label: Profiles,

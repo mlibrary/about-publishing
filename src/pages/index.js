@@ -67,7 +67,7 @@ const IndexPage = () => {
           frontmatter {
             title
             path
-            image {
+            story_image {
               alt
               file
             }
@@ -152,8 +152,8 @@ const IndexPage = () => {
                 key={story.frontmatter.title}
                 title={story.frontmatter.title}
                 href={story.frontmatter.path}
-                image={story.frontmatter.image.file}
-                alt={story.frontmatter.image.alt}
+                image={story.frontmatter.story_image.file}
+                alt={story.frontmatter.story_image.alt}
                 subtitle={story.frontmatter.categories.join("|")}
                 className="md:w-1/2 lg:w-1/3 px-3 flex flex-col"
               >

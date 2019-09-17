@@ -14,7 +14,7 @@ const StoriesPage = () => {
           frontmatter {
             title
             path
-            image {
+            story_image {
               alt
               file
             }
@@ -40,7 +40,7 @@ const StoriesPage = () => {
                 key={story.frontmatter.path}
                 href={story.frontmatter.path}
                 title={story.frontmatter.title}
-                image={story.frontmatter.image.file}
+                image={story.frontmatter.story_image.file}
                 subtitle={story.frontmatter.categories.join(` | `)}
                 className="p-4 w-full md:w-1/2 lg:w-1/3"
               >

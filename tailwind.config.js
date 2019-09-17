@@ -31,6 +31,7 @@ module.exports = {
       "michigan-blue": "#00274c",
       "michigan-maize": "#ffcb05",
       "mid-blue": "#1e80a2",
+      "slate-grey": "#5F686D",
       "very-light-blue": "#e5e9ed",
       white: "#fefefe",
     },

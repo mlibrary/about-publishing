@@ -17,6 +17,11 @@ img {
   object-fit: cover;
 }
 
+/* Content */
+.content p {
+  margin-bottom: 2rem;
+}
+
 /* Navigation */
 .nav-item::after {
   background-color: #00274c;
@@ -77,4 +82,16 @@ img {
 
 .social-link[href*="youtube"] {
   background-image: url("../../static/assets/youtube.svg");
+}
+
+/* Drop cap */
+.drop-cap p:first-child:first-letter {
+  color: #00274c;
+  float: left;
+  font-family: "Crimson Text";
+  font-size: 6.25rem;
+  font-weight: 700;
+  line-height: 100px;
+  margin-top: -1rem;
+  padding-right: 0.5rem;
 }

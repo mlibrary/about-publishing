@@ -55,7 +55,7 @@ const Footer = () => {
             </div>
 
             <div className="flex flex-col items-end justify-between">
-              <div class="flex">
+              <div className="flex">
                 {frontmatter.social &&
                   frontmatter.social.map(social => {
                     return (

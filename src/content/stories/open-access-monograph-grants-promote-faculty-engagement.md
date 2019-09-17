@@ -4,9 +4,11 @@ author: Test author
 date: 2019-09-09T19:17:07.922Z
 categories:
   - Faculty Public Engagement
-image:
+story_image:
   alt: story image
   file: /assets/bideo.jpg
+  caption: ""
+  credit: ""
 path: /stories-of-impact/open-access
 type: story
 ---
