@@ -19,8 +19,6 @@ export default function Template({ data }) {
     frontmatter.related_stories.includes(story.frontmatter.title)
   )
 
-  console.log(featuredStories)
-
   return (
     <Layout>
       <SEO title={frontmatter.title} />

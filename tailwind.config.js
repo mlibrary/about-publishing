@@ -23,6 +23,7 @@ module.exports = {
       "almost-black": {
         default: "#06080a",
         "21": "rgba(6, 8, 10, 0.21)",
+        "30": "rgba(6, 8, 10, 0.30)",
       },
       "bluey-grey": "#8a96a1",
       "cloudy-blue": "#aab9e3",
