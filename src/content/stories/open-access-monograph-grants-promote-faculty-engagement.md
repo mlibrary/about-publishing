@@ -11,6 +11,7 @@ story_image:
   file: /assets/bideo.jpg
 project_partners: ""
 path: /stories-of-impact/open-access
+related_stories: []
 type: story
 ---
 The University of Michigan Press is a charter participant in a digital monograph publishing initiative that seeks ...

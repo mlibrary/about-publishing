@@ -5,16 +5,25 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import MarkdownContent from "../components/markdownContent"
+import Card from "../components/card"
+import Section from "../components/section"
 
 export default function Template({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   const href = globalHistory.location.href
 
+  // Get related stories.
+  const featuredStories = data.stories.nodes.filter(story =>
+    frontmatter.related_stories.includes(story.frontmatter.title)
+  )
+
+  console.log(featuredStories)
+
   return (
     <Layout>
       <SEO title={frontmatter.title} />
-
       <div className="flex">
         <div className="w-1/5"></div>
 
@@ -27,7 +36,6 @@ export default function Template({ data }) {
           </h1>
         </div>
       </div>
-
       <div className="flex items-start">
         <div className="w-1/5 sticky top-2">
           <p className="font-serif uppercase text-2xl">Share this</p>
@@ -69,15 +77,46 @@ export default function Template({ data }) {
 
           <div
             dangerouslySetInnerHTML={{ __html: html }}
-            className="content text-lg mb-8 drop-cap"
+            className="markdown text-lg mb-8 drop-cap"
           />
 
-          <div className="text-almost-black border-t border-b lg:flex justify-between py-2 text-sm mb-8">
+          <div className="text-almost-black border-t border-b lg:flex justify-between py-2 text-sm mb-12">
             <div>By {frontmatter.author}</div>
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
+
+          {frontmatter.project_partners && (
+            <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
+              <h2 className="text-2xl font-semibold mb-4">Project Partners</h2>
+              <MarkdownContent
+                content={frontmatter.project_partners}
+                className="markdown small-margin"
+              />
+            </div>
+          )}
         </div>
       </div>
+      {featuredStories.length > 0 && (
+        <Section heading="Explore more stories:" className="mb-20">
+          <div className="lg:flex">
+            {featuredStories.map(story => {
+              return (
+                <Card
+                  key={story.frontmatter.title}
+                  title={story.frontmatter.title}
+                  href={story.frontmatter.path}
+                  image={story.frontmatter.story_image.file}
+                  alt={story.frontmatter.story_image.alt}
+                  subtitle={story.frontmatter.categories.join("|")}
+                  className="md:w-1/2 lg:w-1/3 px-3 flex flex-col"
+                >
+                  {story.excerpt}
+                </Card>
+              )
+            })}
+          </div>
+        </Section>
+      )}
     </Layout>
   )
 }
@@ -100,6 +139,24 @@ export const pageQuery = graphql`
           credit
         }
         project_partners
+        related_stories
+      }
+    }
+
+    stories: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "story" } } }
+    ) {
+      nodes {
+        frontmatter {
+          title
+          path
+          story_image {
+            alt
+            file
+          }
+          categories
+        }
+        excerpt(pruneLength: 140, truncate: true)
       }
     }
   }

@@ -10,7 +10,7 @@ story_image:
   credit: ''
   file: /assets/bideo.jpg
 project_partners: ''
-related_stories: ''
+related_stories: []
 path: /stories-of-impact/another-test-story
 type: story
 ---

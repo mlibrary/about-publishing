@@ -18,11 +18,11 @@ img {
 }
 
 /* Content */
-.content p {
+.markdown p {
   margin-bottom: 2rem;
 }
 
-.content blockquote {
+.markdown blockquote {
   background-color: #506fc5;
   border-left: 0.5rem solid #274391;
   color: #fff;
@@ -36,8 +36,17 @@ img {
   padding: 1rem 1.5rem;
 }
 
-.content blockquote p {
+.markdown blockquote p {
   margin: 0;
+}
+
+.markdown a {
+  color: #1e80a2;
+  text-decoration: underline;
+}
+
+.markdown.small-margin p {
+  margin-bottom: 1rem;
 }
 
 /* Navigation */
