@@ -1,7 +1,8 @@
 ---
-path: "/our-reach"
-title: "Our Reach"
+title: Our Reach
+path: /our-reach
 type: page
 ---
+Michigan Publishing serves faculty, staff, and students across the campus.
 
-Here is some page content.
+![map](/assets/group-14.jpg "map")
