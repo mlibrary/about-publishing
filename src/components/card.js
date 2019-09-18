@@ -1,17 +1,17 @@
 import React from "react"
 import PropTypes from "prop-types"
-import { Link } from "gatsby"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 const Card = ({ title, href, image, alt, subtitle, children, className }) => {
   return (
-    <Link to={href} className={className}>
+    <AniLink fade duration={.25} to={href} className={className}>
       <img src={image} alt={alt} className="rounded-t" />
       <div className="border border-very-light-blue px-4 h-full rounded-b">
         <p className="text-sm uppercase text-dusk-blue mb-2 mt-4 tracking-widest">{subtitle}</p>
         <h3 className="text-3xl leading-tight mb-6">{title}</h3>
         <p className="mb-8">{children}</p>
       </div>
-    </Link>
+    </AniLink>
   )
 }
 

@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 import React from "react"
 
 import { Icon } from "@umich-lib/core"
@@ -7,46 +7,46 @@ const Navigation = () => (
   <nav>
     <ul className="flex justify-between uppercase list-none m-0">
       <li>
-        <Link
+        <AniLink fade duration={0.25}
           to="/"
           activeClassName="active"
           className="nav-item text-dark font-bold relative"
         >
           Home
-        </Link>
+        </AniLink>
       </li>
       <li>
-        <Link
+        <AniLink fade duration={0.25}
           to="/our-mission"
           activeClassName="active"
           partiallyActive={true}
           className="nav-item text-dark font-bold relative"
         >
           Our Mission
-        </Link>
+        </AniLink>
       </li>
       <li>
-        <Link
+        <AniLink fade duration={0.25}
           to="/stories-of-impact"
           activeClassName="active"
           partiallyActive={true}
           className="nav-item text-dark font-bold relative"
         >
           Stories of Impact
-        </Link>
+        </AniLink>
       </li>
       <li>
-        <Link
+        <AniLink fade duration={0.25}
           to="/our-reach"
           activeClassName="active"
           className="nav-item text-dark font-bold relative"
           partiallyActive={true}
         >
           Our Reach
-        </Link>
+        </AniLink>
       </li>
       <li>
-        <Link
+        <AniLink fade duration={0.25}
           to="/search"
           activeClassName="active"
           className="nav-item text-dark font-bold relative"
@@ -54,7 +54,7 @@ const Navigation = () => (
         >
           Search
           <Icon icon="search" className="ml-2" />
-        </Link>
+        </AniLink>
       </li>
     </ul>
   </nav>
