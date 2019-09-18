@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 import PropTypes from "prop-types"
 import React from "react"
 
@@ -11,12 +11,12 @@ const Header = ({ siteTitle }) => (
     <UniversalHeader />
     <div className="items-center flex justify-between mx-auto container pt-8 px-10 pb-4 relative">
       <h1 className="w-5/12 mr-6">
-        <Link to="/">
+        <AniLink fade duration={.25} to="/">
           <img
             src="/assets/signature.svg"
             alt="Michigan Publishing signature"
           />
-        </Link>
+        </AniLink>
       </h1>
       <div className="w-7/12">
         <Navigation />

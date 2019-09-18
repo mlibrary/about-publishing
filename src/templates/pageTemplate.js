@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import PageHeading from "../components/pageHeading"
 
 export default function Template({ data }) {
   const { markdownRemark } = data
@@ -10,8 +11,8 @@ export default function Template({ data }) {
   return (
     <Layout>
       <SEO title={frontmatter.title} />
-      <h1>{frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: html }} />
+      <PageHeading heading={frontmatter.title} />
+      <div className="markdown" dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
 }

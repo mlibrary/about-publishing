@@ -169,9 +169,7 @@ const IndexPage = () => {
         className="mb-20"
         linkURL="https://www.altmetric.com/explorer/outputs?publisher_id%5B%5D=874d100a-8085-4491-a085-7445c912ee93&view=list"
         linkText="See More"
-      >
-        Need to connect to API.
-      </Section>
+      ></Section>
 
       <Section heading={frontmatter.infographics.heading} className="mb-20">
         <div className="lg:flex justify-between">
