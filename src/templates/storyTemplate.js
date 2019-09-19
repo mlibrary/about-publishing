@@ -19,27 +19,38 @@ export default function Template({ data }) {
     frontmatter.related_stories.includes(story.frontmatter.title)
   )
 
+  const hero = frontmatter.hero.story_hero_image
+
   return (
     <Layout>
       <SEO title={frontmatter.title} />
-      {frontmatter.hero.story_hero_image &&
-      <div>hi</div>
-      }
+      {frontmatter.hero.story_hero_image && (
+        <img
+          className="w-full absolute left-0 max-h-38125 object-cover"
+          src={frontmatter.hero.story_hero_image}
+          alt=""
+          role="presentation"
+        />
+      )}
 
-      <div className="flex">
+      <div className={`flex relative z-10 ${hero ? "pt-48" : ""}`}>
         <div className="w-1/5"></div>
 
         <div className="w-4/5 max-w-2xl">
-          <p className="text-sm uppercase text-dusk-blue mb-0 tracking-widest mb-4">
+          <p className={`text-sm uppercase mb-0 tracking-widest mb-4 ${hero ? "text-michigan-maize" : "text-dusk-blue"}`}>
             {frontmatter.categories.join("|")}
           </p>
-          <h1 className="font-serif text-375 mb-16 leading-none font-semibold">
+          <h1
+            className={`font-serif text-375 mb-16 leading-none font-semibold ${
+              hero ? "text-very-light-blue" : ""
+            }`}
+          >
             {frontmatter.title}
           </h1>
         </div>
       </div>
-      <div className="flex items-start">
-        <div className="w-1/5 sticky top-2">
+      <div className="flex items-start relative z-10">
+        <div className={`w-1/5 sticky top-2 ${hero ? "pt-48" : ""}`}>
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">
             <a href={`https://www.facebook.com/sharer/sharer.php?u=${href}`}>
@@ -89,7 +100,9 @@ export default function Template({ data }) {
 
           {frontmatter.highlight_box.heading && frontmatter.highlight_box.text && (
             <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
-              <h2 className="text-2xl font-semibold mb-4">{frontmatter.highlight_box.heading}</h2>
+              <h2 className="text-2xl font-semibold mb-4">
+                {frontmatter.highlight_box.heading}
+              </h2>
               <MarkdownContent
                 content={frontmatter.highlight_box.text}
                 className="markdown small-margin"

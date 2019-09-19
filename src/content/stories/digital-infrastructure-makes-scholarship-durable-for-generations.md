@@ -1,7 +1,7 @@
 ---
 title: Digital Infrastructure Makes Scholarship Durable for Generations
 hero:
-  story_hero_image: /assets/bideo.jpg
+  story_hero_image: /assets/story-hero.jpg
   text: >-
     It sometimes feels like you’ll always be able to retrieve electronic files
     or data. Until you can’t. 
@@ -27,7 +27,7 @@ highlight_box:
     [CLOCKSS](https://clockss.org/), provides a sustainable dark archive to
     ensure the long-term survival of Web-based scholarly content.
 related_stories: [""]
-path: /stories-of-impact/story-name
+path: /stories-of-impact/digital-infrastructure
 type: story
 ---
 It sometimes feels like you’ll always be able to retrieve electronic files or data. Until you can’t. 
