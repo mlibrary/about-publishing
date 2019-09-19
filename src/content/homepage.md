@@ -25,9 +25,7 @@ highlight:
   link_url: /our-reach
 profile: Emily Wilcox
 stories:
-  - Providing public access to research data
-  - Open access monograph grants promote faculty engagement
-  - Recognizing excellence in undergraduate research
+  - Sustainable Publishing for Digital Scholarship in the Humanities
 infographics:
   heading: By the Numbers
   infographics:
