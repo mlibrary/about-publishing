@@ -208,12 +208,12 @@ class IndexPage extends Component {
             <div className="lg:flex -m-4">
               {this.state.trending.map(book => {
                 return (
-                  <div className="lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue">
+                  <div className="lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue overflow-hidden">
                     <img
                       src={book.image}
                       alt=""
                       role="presentation"
-                      className="mb-8 w-full"
+                      className="mb-8 w-full trending-image overflow-hidden"
                     />
                     <div className="mt-auto">
                       <h4 className="uppercase font-semibold mb-4">

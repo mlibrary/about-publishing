@@ -202,3 +202,16 @@ img {
 .css-lveure-HeaderContainer {
   background-color: #fefefe !important;
 }
+
+.trending-image {
+  overflow: hidden;
+  width: 276px;
+  transition: transform 0.15s ease;
+
+}
+
+.trending-image:hover {
+  filter: grayscale(1);
+  transform: scale(1.05) rotate(-10deg);
+  transition: transform 0.15s ease;
+}
