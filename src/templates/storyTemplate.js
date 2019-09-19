@@ -22,6 +22,10 @@ export default function Template({ data }) {
   return (
     <Layout>
       <SEO title={frontmatter.title} />
+      {frontmatter.hero.story_hero_image &&
+      <div>hi</div>
+      }
+
       <div className="flex">
         <div className="w-1/5"></div>
 
@@ -144,7 +148,6 @@ export const pageQuery = graphql`
           heading
           text
         }
-        related_stories
       }
     }
 

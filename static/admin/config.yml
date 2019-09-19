@@ -187,7 +187,7 @@ collections:
           valueField: title,
           multiple: true,
           required: false,
-          default: "",
+          default: [""],
         }
       - { name: body, label: Body, widget: markdown }
       - { name: path, label: Path, default: /stories-of-impact/story-name }

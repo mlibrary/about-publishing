@@ -40,13 +40,13 @@ const Footer = () => {
 
               <div>
                 <a
-                  className="text-mid-blue underline mr-16"
+                  className="text-mid-blue mr-16 link-hover"
                   href="mailto:{frontmatter.email}"
                 >
                   {frontmatter.email}
                 </a>
                 <Link
-                  className="text-mid-blue underline"
+                  className="text-mid-blue link-hover"
                   to={frontmatter.contact_link}
                 >
                   Contact Us
@@ -79,7 +79,7 @@ const Footer = () => {
 
               <div>
                 &copy; {new Date().getFullYear()}{" "}
-                <a href="http://regents.umich.edu/">
+                <a href="http://regents.umich.edu/" className="hover:underline">
                   Regents of the University of Michigan
                 </a>
               </div>

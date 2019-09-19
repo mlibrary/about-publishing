@@ -25,7 +25,7 @@ highlight_box:
     Museum of Anthropological Archaeology at the University of Michigan
 
     <https://lsa.umich.edu/ummaa>
-related_stories: ''
+related_stories: [""]
 path: /stories-of-impact/when-digs-go-digital
 type: story
 ---

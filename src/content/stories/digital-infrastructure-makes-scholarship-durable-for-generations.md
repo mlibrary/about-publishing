@@ -26,7 +26,7 @@ highlight_box:
 
     [CLOCKSS](https://clockss.org/), provides a sustainable dark archive to
     ensure the long-term survival of Web-based scholarly content.
-related_stories: []
+related_stories: [""]
 path: /stories-of-impact/story-name
 type: story
 ---

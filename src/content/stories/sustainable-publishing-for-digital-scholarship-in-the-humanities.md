@@ -26,7 +26,7 @@ highlight_box:
     [Fulcrum](https://www.fulcrum.org/), a publishing platform helping
     publishers present the full richness of their authors' research outputs in a
     durable, discoverable, accessible, and flexible form.
-related_stories: ""
+related_stories: [""]
 path: /stories-of-impact/story-name
 type: story
 ---
