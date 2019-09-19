@@ -69,6 +69,10 @@ img {
   top: -1rem;
 }
 
+.markdown blockquote > p::after {
+  content: "\"";
+}
+
 .markdown blockquote.quote > footer {
   font-family: "Muli", sans-serif;
   font-size: 0.9375rem;
