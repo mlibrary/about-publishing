@@ -166,3 +166,13 @@ img {
   margin-top: -1rem;
   padding-right: 0.75rem;
 }
+
+/* Infographics */
+.infographic {
+  background: url("../../static/assets/info-border.svg") center no-repeat;
+}
+
+/* Overrides */
+.css-lveure-HeaderContainer {
+  background-color: #fefefe !important;
+}

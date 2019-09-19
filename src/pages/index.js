@@ -240,8 +240,8 @@ class IndexPage extends Component {
           )}
         </Section>
 
-        <Section heading={frontmatter.infographics.heading} className="mb-20">
-          <div className="lg:flex justify-between">
+        <Section heading={frontmatter.infographics.heading} className="mb-16">
+          <div className="lg:flex justify-between mx-12">
             {frontmatter.infographics.infographics.map(infographic => {
               return (
                 <Infographic
