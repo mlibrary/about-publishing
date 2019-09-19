@@ -1,6 +1,7 @@
 ---
 title: Opening Access to Books Increases Reach and Engagement
 hero:
+  story_hero_image: /assets/bideo.jpg
   text: >-
     Letting people read a book for free can actually be good business. Open
     Access (OA) expands the purchasing audience and supports authors’ ambitions
