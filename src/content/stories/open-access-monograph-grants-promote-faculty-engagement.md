@@ -9,7 +9,9 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
-project_partners: ""
+highlight_box:
+  heading: ""
+  text: ""
 path: /stories-of-impact/open-access
 related_stories: []
 type: story

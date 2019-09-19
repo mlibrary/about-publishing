@@ -10,7 +10,9 @@ story_image:
   caption: ""
   credit: ""
 path: /stories-of-impact/excellence
-project_partners: ""
+highlight_box:
+  heading: ""
+  text: ""
 related_stories: []
 type: story
 ---

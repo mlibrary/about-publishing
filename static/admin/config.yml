@@ -138,6 +138,7 @@ collections:
       - name: hero
         label: Hero section
         widget: object
+        required: false
         fields:
           - { name: text, label: Text, widget: text, required: false }
           - { name: story_hero_image, label: Image, widget: image, required: false }
@@ -170,13 +171,13 @@ collections:
           multiple: true,
           required: false,
         }
-      - {
-          name: project_partners,
-          label: Project Partners,
-          widget: markdown,
-          required: false,
-          default: ""
-        }
+      - name: highlight_box
+        label: Highlight box
+        widget: object
+        required: false
+        fields:
+          - { name: heading, label: Heading, required: false, default: "" }
+          - { name: text, label: Text, widget: markdown, required: false, default: "" }
       - {
           name: related_stories,
           label: Related Stores,
@@ -189,7 +190,7 @@ collections:
           default: [],
         }
       - { name: body, label: Body, widget: markdown }
-      - { name: path, label: Path, default: /stories-of-impact/ }
+      - { name: path, label: Path, default: /stories-of-impact/story-name }
       - { name: type, label: Type, widget: hidden, default: story }
 
   - name: profiles

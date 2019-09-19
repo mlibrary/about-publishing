@@ -9,7 +9,9 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
-project_partners: ''
+highlight_box:
+  heading: ""
+  text: ""
 related_stories: []
 path: /stories-of-impact/another-test-story
 type: story

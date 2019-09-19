@@ -41,6 +41,45 @@ img {
   margin: 0;
 }
 
+.markdown blockquote.quote {
+  background-color: #ffcb05;
+  border-color: #eaba02;
+  color: #00274c;
+  float: none;
+  font-family: "Crimson Text", serif;
+  font-weight: normal;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+  max-width: none;
+}
+
+.markdown blockquote > p {
+  font-size: 1.5rem;
+  padding-left: 1.5rem;
+  padding-top: 0.75rem;
+  position: relative;
+}
+
+.markdown blockquote > p::before {
+  content: "“";
+  font-family: "Muli";
+  font-size: 75px;
+  left: -.5rem;
+  position: absolute;
+  top: -1rem;
+}
+
+.markdown blockquote.quote > footer {
+  font-family: "Muli", sans-serif;
+  font-size: 0.9375rem;
+  margin-top: 1.5rem;
+  text-align: right;
+}
+
+.markdown blockquote.quote cite {
+  font-style: normal;
+}
+
 .markdown a {
   color: #1e80a2;
   text-decoration: underline;

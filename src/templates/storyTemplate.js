@@ -83,11 +83,11 @@ export default function Template({ data }) {
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
 
-          {frontmatter.project_partners && (
+          {frontmatter.highlight_box.heading && frontmatter.highlight_box.text && (
             <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
-              <h2 className="text-2xl font-semibold mb-4">Project Partners</h2>
+              <h2 className="text-2xl font-semibold mb-4">{frontmatter.highlight_box.heading}</h2>
               <MarkdownContent
-                content={frontmatter.project_partners}
+                content={frontmatter.highlight_box.text}
                 className="markdown small-margin"
               />
             </div>
@@ -136,7 +136,10 @@ export const pageQuery = graphql`
           caption
           credit
         }
-        project_partners
+        highlight_box {
+          heading
+          text
+        }
         related_stories
       }
     }

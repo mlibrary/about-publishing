@@ -9,14 +9,16 @@ story_image:
   caption: Nullam quis risus eget urna mollis ornare vel eu leo tiburon
   credit: 'Julian Rothschild, AP Photo'
   file: /assets/bideo.jpg
-project_partners: >-
-  [National Center for Institutional Diversity
-  (NCID)](https://lsa.umich.edu/ncid) at the University of Michigan
+highlight_box: 
+  heading: Project Partners
+  text: >-
+    [National Center for Institutional Diversity
+    (NCID)](https://lsa.umich.edu/ncid) at the University of Michigan
 
 
-  [Data Driven Detroit](https://datadrivendetroit.org/), a community
-  organization dedicated providing equitable access to high-quality data to the
-  citizens of Detroit
+    [Data Driven Detroit](https://datadrivendetroit.org/), a community
+    organization dedicated providing equitable access to high-quality data to the
+    citizens of Detroit
 related_stories:
   - Open access monograph grants promote faculty engagement
   - 'Fusce dapibus, tellus ac cursus commodo.'
