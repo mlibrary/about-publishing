@@ -20,7 +20,7 @@ profiles:
   - Abigail De Kosnik and Keith Feldman
   - Jacob Smith
 highlight_box:
-  heading: Partners & Books
+  heading: ''
   text: >-
     **Partners**
 
