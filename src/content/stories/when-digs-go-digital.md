@@ -9,6 +9,9 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
+profiles:
+  - Jon McGlone
+  - Dr. Mike Galaty
 highlight_box:
   heading: Project Partners
   text: |-
