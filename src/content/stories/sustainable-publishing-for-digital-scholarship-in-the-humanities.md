@@ -16,6 +16,9 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
+profiles:
+  - Beth Bouloukos
+  - Collection Building
 highlight_box:
   heading: ''
   text: >-
