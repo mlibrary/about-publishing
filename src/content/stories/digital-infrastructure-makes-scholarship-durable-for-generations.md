@@ -8,7 +8,7 @@ hero:
 author: Author TBD
 date: 2019-09-19T19:58:25.768Z
 categories:
-  - Academic Innovation
+  - Sustainability
 story_image:
   alt: test
   caption: ''
