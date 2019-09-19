@@ -33,4 +33,4 @@ Ensuring public engagement is top of mind for Dr. Mike Galaty, Director of the U
 
 U-M archaeologists seek to engage the public in new ways while staying true to the values of their discipline. Through the expertise of its editors and technologists, the Press is finding new ways of bringing the lessons of the past to life.
 
-<blockquote>Here is some blockquote text</blockquote>
+<blockquote><p>I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries.</p><footer><cite>- Emily Wilcox<br>Associate professor of modern Chinese studies</cite></footer></blockquote>
