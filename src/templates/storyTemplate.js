@@ -148,6 +148,7 @@ export const pageQuery = graphql`
           heading
           text
         }
+        related_stories
       }
     }
 
