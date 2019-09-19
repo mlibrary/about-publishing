@@ -37,7 +37,7 @@ export default function StoryList({ data, pageContext }) {
               title={frontmatter.title}
               image={frontmatter.story_image.file}
               subtitle={frontmatter.categories.join(` | `)}
-              className="p-4 w-full md:w-1/2 lg:w-1/3 flex flex-col"
+              className="p-4 w-full md:w-1/2 lg:w-1/3"
             >
               {story.node.excerpt}
             </Card>

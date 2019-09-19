@@ -130,6 +130,10 @@ export const pageQuery = graphql`
         date(formatString: "MMMM D, YYYY")
         plainDate: date
         categories
+        hero {
+          text
+          story_hero_image
+        }
         story_image {
           file
           alt

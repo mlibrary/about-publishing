@@ -131,9 +131,9 @@ class IndexPage extends Component {
       <Layout>
         <SEO title="Home" />
 
-        <div className="lg:flex justify-between mb-20">
+        <div className="lg:flex justify-between items-center mb-20">
           <div className="lg:w-5/12 mr-6 mb-8 lg:mb-0">
-            <h1 className="text-35 font-extrabold leading-tight mb-10">
+            <h1 className="text-35 font-extrabold leading-118 mb-10">
               {frontmatter.hero_section.heading}
             </h1>
 
@@ -215,7 +215,6 @@ class IndexPage extends Component {
                       role="presentation"
                       className="mb-8 w-full"
                     />
-                    <h3 className="mb-8 font-semibold text-xl">{book.title}</h3>
                     <div className="mt-auto">
                       <h4 className="uppercase font-semibold mb-4">
                         Mentioned By:
