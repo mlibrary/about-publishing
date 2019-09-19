@@ -32,3 +32,5 @@ Their first work, [A Mid-Republican House from Gabii](https://www.press.umich.ed
 Ensuring public engagement is top of mind for Dr. Mike Galaty, Director of the U-M Museum of Anthropological Archaeology, as he oversees the [UMMA Publication Series](https://lsa.umich.edu/ummaa/books.html), established in 1932 and boasting over 100 archaeological and ethnographic titles. He observes, “If we don’t pop up at the top of the list when someone searches on ‘archaeology’, then we are losing the battle.” For the publication series, working with the Press and the Library’s Digital Conversion Unit to move from print into a digital format was essential.
 
 U-M archaeologists seek to engage the public in new ways while staying true to the values of their discipline. Through the expertise of its editors and technologists, the Press is finding new ways of bringing the lessons of the past to life.
+
+<blockquote>Here is some blockquote text</blockquote>
