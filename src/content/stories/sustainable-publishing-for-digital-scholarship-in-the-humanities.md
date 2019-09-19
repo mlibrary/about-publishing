@@ -19,6 +19,7 @@ story_image:
 profiles:
   - Beth Bouloukos
   - Collection Building
+  - Andrée Rathemacher
 highlight_box:
   heading: ''
   text: >-
