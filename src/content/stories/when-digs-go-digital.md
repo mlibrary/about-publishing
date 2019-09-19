@@ -1,9 +1,12 @@
 ---
 title: When Digs Go Digital
+hero:
+  story_hero_image: ''
+  text: ''
 author: Author needed
 date: 2019-09-19T13:56:37.869Z
 categories:
-  - Academic Innovation
+  - Sustainability
 story_image:
   alt: when digs go digital
   caption: ''
@@ -22,12 +25,9 @@ highlight_box:
     Museum of Anthropological Archaeology at the University of Michigan
 
     <https://lsa.umich.edu/ummaa>
-related_stories: ""
+related_stories: ''
 path: /stories-of-impact/when-digs-go-digital
 type: story
-hero:
-  text: ""
-  story_hero_image: ""
 ---
 When archaeologists dig, they simultaneously erase the evidence of ancient civilizations. This means that publishing their finds is vital. At the University of Michigan, scholars are working with U-M Press to create innovative publications that present data in immersive ways, while still preserving the quality that specialists value.
 
