@@ -12,7 +12,7 @@ story_image:
   credit: ''
   file: /assets/bideo.jpg
 highlight_box:
-  heading: ''
+  heading: Project Partners
   text: >-
     [English Language Institute (ELI) at the University of
     Michigan](https://lsa.umich.edu/eli)
