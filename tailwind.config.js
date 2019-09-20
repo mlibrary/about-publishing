@@ -31,6 +31,7 @@ module.exports = {
         "21": "rgba(6, 8, 10, 0.21)",
         "30": "rgba(6, 8, 10, 0.30)",
       },
+      "battleship-grey": "#637381",
       "bluey-grey": "#8a96a1",
       "cloudy-blue": "#aab9e3",
       "cornflower-blue": "#506fc5",

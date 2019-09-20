@@ -207,6 +207,17 @@ main {
   box-shadow: inset 0 -2px #1E80A2;
 }
 
+/* Trending */
+.trending img{
+  transition: box-shadow 0.15s ease;
+}
+
+.trending:focus img,
+.trending:hover img {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
+  transition: box-shadow 0.15s ease;
+}
+
 /* Overrides */
 .css-lveure-HeaderContainer {
   background-color: #fefefe !important;

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="417" viewBox="0 0 278 417">
+    <defs>
+        <rect id="a" width="276" height="415" rx="5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#E5E9ED" stroke="#D7DBDF" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <g transform="translate(-8 139)">
+                <rect width="135" height="27" fill="#506FC5" rx="5"/>
+                <rect width="135" height="27" x="209" y="111" fill="#AAB9E3" rx="5" transform="rotate(180 276.5 124.5)"/>
+                <rect width="187" height="27" x="179" y="74" fill="#AAB9E3" rx="5" transform="rotate(180 272.5 87.5)"/>
+                <rect width="169" height="27" x="197" y="37" fill="#AAB9E3" rx="5" transform="rotate(180 281.5 50.5)"/>
+                <rect width="199" height="27" x="145" fill="#AAB9E3" rx="5" transform="rotate(180 244.5 13.5)"/>
+                <rect width="187" height="27" y="37" fill="#506FC5" rx="5"/>
+                <rect width="169" height="27" y="74" fill="#506FC5" rx="5"/>
+                <rect width="199" height="27" y="111" fill="#506FC5" rx="5"/>
+            </g>
+        </g>
+        <g mask="url(#b)" opacity=".15">
+            <g transform="matrix(-1 0 0 1 288 287)">
+                <rect width="135" height="27" fill="#506FC5" rx="5"/>
+                <rect width="135" height="27" x="209" y="111" fill="#AAB9E3" rx="5" transform="rotate(180 276.5 124.5)"/>
+                <rect width="187" height="27" x="179" y="74" fill="#AAB9E3" rx="5" transform="rotate(180 272.5 87.5)"/>
+                <rect width="169" height="27" x="197" y="37" fill="#AAB9E3" rx="5" transform="rotate(180 281.5 50.5)"/>
+                <rect width="199" height="27" x="145" fill="#AAB9E3" rx="5" transform="rotate(180 244.5 13.5)"/>
+                <rect width="187" height="27" y="37" fill="#506FC5" rx="5"/>
+                <rect width="169" height="27" y="74" fill="#506FC5" rx="5"/>
+                <rect width="199" height="27" y="111" fill="#506FC5" rx="5"/>
+            </g>
+        </g>
+        <g mask="url(#b)" opacity=".15">
+            <g transform="matrix(-1 0 0 1 288 -9)">
+                <rect width="135" height="27" fill="#506FC5" rx="5"/>
+                <rect width="135" height="27" x="209" y="111" fill="#AAB9E3" rx="5" transform="rotate(180 276.5 124.5)"/>
+                <rect width="187" height="27" x="179" y="74" fill="#AAB9E3" rx="5" transform="rotate(180 272.5 87.5)"/>
+                <rect width="169" height="27" x="197" y="37" fill="#AAB9E3" rx="5" transform="rotate(180 281.5 50.5)"/>
+                <rect width="199" height="27" x="145" fill="#AAB9E3" rx="5" transform="rotate(180 244.5 13.5)"/>
+                <rect width="187" height="27" y="37" fill="#506FC5" rx="5"/>
+                <rect width="169" height="27" y="74" fill="#506FC5" rx="5"/>
+                <rect width="199" height="27" y="111" fill="#506FC5" rx="5"/>
+            </g>
+        </g>
+        <text fill="#E5E9ED" font-family="Univers-UltraCondensed, Univers" font-size="27" font-style="condensed" font-weight="600" letter-spacing="-.1" mask="url(#b)">
+            <tspan x="60.328" y="162">ARTICLE</tspan>
+        </text>
+    </g>
+</svg>

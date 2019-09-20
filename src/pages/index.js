@@ -1,5 +1,4 @@
 import React, { Component } from "react"
-import axios from "axios"
 
 import { graphql } from "gatsby"
 
@@ -10,6 +9,7 @@ import MarkdownContent from "../components/markdownContent"
 import Section from "../components/section"
 import Profile from "../components/profile"
 import Infographic from "../components/infographic"
+import Trending from "../components/trending"
 
 export const IndexQuery = graphql`
   {
@@ -80,38 +80,6 @@ export const IndexQuery = graphql`
 `
 
 class IndexPage extends Component {
-  state = {
-    loading: false,
-    trending: [],
-  }
-
-  componentDidMount() {
-    this.fetchTrending()
-  }
-
-  fetchTrending = () => {
-    this.setState({ loading: true })
-    axios
-      .get(
-        `https://www.altmetric.com/explorer/api/research_outputs?digest=a3ae1892185418ae27381af7debdfc27079cf849&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Bview%5D=list&key=a4456035b7204a529a25fb2431effed5&page[number]=1&page[size]=4`
-      )
-      .then(({ data }) => {
-        data.data.forEach(({ attributes }) => {
-          const bookData = {
-            title: attributes.title,
-            mentions: attributes.mentions,
-            image: attributes["badge-url"],
-          }
-
-          // Add book data to trending state.
-          this.setState({ trending: [...this.state.trending, bookData] })
-        })
-
-        // Set loading to false to display our trending books.
-        this.setState({ loading: false })
-      })
-  }
-
   render() {
     const { frontmatter } = this.props.data.content
 
@@ -198,43 +166,8 @@ class IndexPage extends Component {
           </div>
         </Section>
 
-        <Section
-          heading="Trending"
-          className="mb-20"
-        >
-          {!this.state.loading && (
-            <div className="lg:flex -m-4">
-              {this.state.trending.map(book => {
-                return (
-                  <div className="lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue overflow-hidden">
-                    <img
-                      src={book.image}
-                      alt=""
-                      role="presentation"
-                      className="mb-8 w-full trending-image overflow-hidden"
-                    />
-                    <div className="mt-auto">
-                      <h4 className="uppercase font-semibold mb-4">
-                        Mentioned By:
-                      </h4>
-                      {book.mentions.msm && (
-                        <div>{book.mentions.msm} news outlets</div>
-                      )}
-                      {book.mentions.blog && (
-                        <div>{book.mentions.blog} blogs</div>
-                      )}
-                      {book.mentions.tweet && (
-                        <div>{book.mentions.tweet} tweeters</div>
-                      )}
-                      {book.mentions.fbwall && (
-                        <div>{book.mentions.fbwall} Facebook pages</div>
-                      )}
-                    </div>
-                  </div>
-                )
-              })}
-            </div>
-          )}
+        <Section heading="Trending" className="mb-20">
+          <Trending />
         </Section>
 
         <Section heading={frontmatter.infographics.heading} className="mb-16">
