@@ -25,6 +25,8 @@ If there is an ESL course taught at an R1 institution in the United States, the 
 
 This partnership has produced essential textbooks from some of the most well-respected authors in the field. Academic Writing for Graduate Students has been used in 85% of RI institutions in the United States and Canada. Renowned author Keith Folse has published over 30 books under the ELT imprint. In addition, the close relationship between ELT and ELI is unique.
 
+<blockquote class="quote"><p>I cannot think of any other situation in any other university where a Press and a unit have been so closely integrated for so many years. The whole idea of the ELI and [ELT at] Michigan Press over so many years is such an incredible, pure academic success story.</p><footer><cite>- Larry Selinker<br>former ELI Director</cite></footer></blockquote>
+
 “I cannot think of any other situation in any other university where a Press and a unit have been so closely integrated for so many years,” said former ELI director Larry Selinker during his remarks at the Institute’s 75th anniversary celebration in 2016. “The whole idea of the ELI and Michigan Press over so many years is such an incredible, pure academic success story.”
 
 Now in its 3rd edition, Academic Writing for Graduate Students (known globally as “Swales & Feak,” after authors John M. Swales & Christine B. Feak) has sold nearly 185,000 copies. The book embodies what a Michigan English for Academic Purposes (EAP) book is—one that teaches the skills international students need to get admitted to a university, complete a degree, and establish their voice and identity as a junior scholar in their field.
