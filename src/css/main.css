@@ -18,6 +18,10 @@ img {
 }
 
 /* Content */
+.markdown {
+  max-width: 42rem;
+}
+
 .markdown p {
   font-size: 1.125rem;
   margin-bottom: 2rem;
@@ -204,8 +208,6 @@ img {
 }
 
 .trending-image {
-  overflow: hidden;
-  width: 276px;
   transition: transform 0.15s ease;
 
 }
