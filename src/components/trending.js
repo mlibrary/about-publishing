@@ -52,7 +52,9 @@ class Trending extends Component {
     }
 
     // Disable loading.
-    this.setState({ loading: false })
+    setTimeout(() => {
+      this.setState({ loading: false })
+    }, 1000)
   }
 
   // Grabs info from altmetric doi endpoint.
@@ -81,22 +83,41 @@ class Trending extends Component {
   render() {
     return (
       <div>
+        {this.state.loading && (
+          <div class="spinner">
+            <div class="double-bounce1"></div>
+            <div class="double-bounce2"></div>
+          </div>
+        )}
+
         {!this.state.loading && (
-          <div className="lg:flex -m-4">
+          <div className="lg:flex -m-4 fade-in">
             {this.state.trending.map(book => {
+              let bookImageLoaded = false
+
               return (
-                <a href={book.link} className="trending lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue overflow-hidden">
-                  <img
-                    src={book.image}
-                    alt=""
-                    role="presentation"
-                    className="mb-8 w-full trending-image overflow-hidden rounded"
-                  />
+                <a
+                  href={book.link}
+                  className="trending lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue overflow-hidden"
+                >
+                  <div className="h-414 mb-8">
+                    {book.image && (
+                      <img
+                        src={book.image}
+                        alt=""
+                        role="presentation"
+                        className="w-full trending-image overflow-hidden rounded fade-in"
+                        onLoad={(bookImageLoaded = true)}
+                      />
+                    )}
+                  </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-1">{book.title}</h3>
-                    {book.authors &&
-                      <p className="text-battleship-grey">{book.authors.join(" | ")}</p>
-                    }
+                    {book.authors && (
+                      <p className="text-battleship-grey">
+                        {book.authors.join(" | ")}
+                      </p>
+                    )}
                   </div>
                   <div className="mt-auto">
                     <h4 className="uppercase font-semibold mb-4">
