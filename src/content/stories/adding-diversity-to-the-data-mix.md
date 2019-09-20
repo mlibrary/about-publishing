@@ -19,6 +19,17 @@ highlight_box:
 
     [National Center for Institutional Diversity (NCID) at the University of
     Michigan](https://lsa.umich.edu/ncid)
+
+
+    [Data Driven Detroit (D3)](https://datadrivendetroit.org/) was founded in
+    2008 to serve as a one-stop shop for data on Detroit and the region and to
+    provide accessible high-quality information and analysis to drive informed
+    decision-making.
+
+
+    [LYRASIS](https://www.lyrasis.org/) was created by its members to help
+    libraries, archives and museums tackle wide-reaching challenges with a
+    collective strength.
 related_stories:
   - ''
 path: /stories-of-impact/adding-diversity
