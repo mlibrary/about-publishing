@@ -26,8 +26,9 @@ highlight_box:
     [Fulcrum](https://www.fulcrum.org/), a publishing platform helping
     publishers present the full richness of their authors' research outputs in a
     durable, discoverable, accessible, and flexible form.
-related_stories: [""]
-path: /stories-of-impact/story-name
+related_stories:
+  - ''
+path: /stories-of-impact/sustainable-publishing
 type: story
 ---
 Michigan Publishing is pushing the boundaries of the book. The 2018 launch of Fulcrum—an open source publishing platform developed with support from the Andrew W. Mellon Foundation—was not only a symbol of this innovation, but has opened the door for partnerships that sustain the next generation of humanities scholarship.
