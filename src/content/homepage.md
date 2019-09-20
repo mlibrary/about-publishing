@@ -26,6 +26,8 @@ highlight:
 profile: Emily Wilcox
 stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
+  - Opening Access to Books Increases Reach and Engagement
+  - Student Journals Catalyze Lifelong Learning and Success
 infographics:
   heading: By the Numbers
   infographics:
