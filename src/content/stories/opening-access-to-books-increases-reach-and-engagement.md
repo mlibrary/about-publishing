@@ -62,7 +62,7 @@ highlight_box:
 
     By Abigail De Kosnik and Keith Feldman
 related_stories: []
-path: /stories-of-impact/story-name
+path: /stories-of-impact/opening-access-to-books
 type: story
 ---
 Letting people read a book for free can actually be good business. Open Access (OA) expands the purchasing audience and supports authors’ ambitions to reach all readers who need their work, not just those who can afford to buy it.
