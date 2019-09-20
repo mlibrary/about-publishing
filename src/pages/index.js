@@ -201,8 +201,6 @@ class IndexPage extends Component {
         <Section
           heading="Trending"
           className="mb-20"
-          linkURL="https://www.altmetric.com/explorer/outputs?publisher_id%5B%5D=874d100a-8085-4491-a085-7445c912ee93&view=list"
-          linkText="See More"
         >
           {!this.state.loading && (
             <div className="lg:flex -m-4">
