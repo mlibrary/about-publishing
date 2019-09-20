@@ -17,6 +17,10 @@ img {
   object-fit: cover;
 }
 
+main {
+  min-height: 50vh;
+}
+
 /* Content */
 .markdown {
   max-width: 42rem;
