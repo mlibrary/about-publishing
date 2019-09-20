@@ -18,7 +18,7 @@ img {
 }
 
 main {
-  min-height: 50vh;
+  min-height: 25vh;
 }
 
 /* Content */
@@ -210,15 +210,4 @@ main {
 /* Overrides */
 .css-lveure-HeaderContainer {
   background-color: #fefefe !important;
-}
-
-.trending-image {
-  transition: transform 0.15s ease;
-
-}
-
-.trending-image:hover {
-  filter: grayscale(1);
-  transform: scale(1.05) rotate(-10deg);
-  transition: transform 0.15s ease;
 }
