@@ -1,7 +1,7 @@
 ---
 title: Student Journals Catalyze Lifelong Learning and Success
 hero:
-  story_hero_image: /assets/bideo.jpg
+  story_hero_image: ''
   text: >-
     In many cases, students go to college for experiences and insights that will
     prepare them for their professional lives. Michigan Publishing provides a
