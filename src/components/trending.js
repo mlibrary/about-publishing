@@ -90,7 +90,7 @@ class Trending extends Component {
                     src={book.image}
                     alt=""
                     role="presentation"
-                    className="mb-8 w-full trending-image overflow-hidden"
+                    className="mb-8 w-full trending-image overflow-hidden rounded"
                   />
                   <div>
                     <h3 className="text-2xl font-semibold mb-1">{book.title}</h3>
