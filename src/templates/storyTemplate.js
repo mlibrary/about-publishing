@@ -98,7 +98,7 @@ export default function Template({ data }) {
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
 
-          {frontmatter.highlight_box.heading && frontmatter.highlight_box.text && (
+          {(frontmatter.highlight_box.heading || frontmatter.highlight_box.text) && (
             <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
               <h2 className="text-2xl font-semibold mb-4">
                 {frontmatter.highlight_box.heading}
