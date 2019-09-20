@@ -27,10 +27,8 @@ This partnership has produced essential textbooks from some of the most well-res
 
 <blockquote class="quote"><p>I cannot think of any other situation in any other university where a Press and a unit have been so closely integrated for so many years. The whole idea of the ELI and [ELT at] Michigan Press over so many years is such an incredible, pure academic success story.</p><footer><cite>- Larry Selinker<br>former ELI Director</cite></footer></blockquote>
 
-“I cannot think of any other situation in any other university where a Press and a unit have been so closely integrated for so many years,” said former ELI director Larry Selinker during his remarks at the Institute’s 75th anniversary celebration in 2016. “The whole idea of the ELI and Michigan Press over so many years is such an incredible, pure academic success story.”
-
 Now in its 3rd edition, Academic Writing for Graduate Students (known globally as “Swales & Feak,” after authors John M. Swales & Christine B. Feak) has sold nearly 185,000 copies. The book embodies what a Michigan English for Academic Purposes (EAP) book is—one that teaches the skills international students need to get admitted to a university, complete a degree, and establish their voice and identity as a junior scholar in their field.
 
-“Without these texts, many students would not publish the research that launches their academic careers, let alone finish the dissertation that gets them hired or produce the first scholarly monograph and that ultimately gets them tenure,” said ELT Manager Kelly Sippell. 
+<blockquote class="quote"><p>Without these texts, many students would not publish the research that launches their academic careers, let alone finish the dissertation that gets them hired or produce the first scholarly monograph and that ultimately gets them tenure.</p><footer><cite>- Kelly Sippell<br>ELT Manager</cite></footer></blockquote>
 
 The ELT list will continue to have an impact on L2 publishing, the field of second language writing, and graduate student development.
