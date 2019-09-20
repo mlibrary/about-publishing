@@ -31,7 +31,7 @@ highlight_box:
     * Absinthe: A Journal of World Literature in Translation
 related_stories:
   - ''
-path: /stories-of-impact/story-name
+path: /stories-of-impact/student-journals
 type: story
 ---
 In many cases, students go to college for experiences and insights that will prepare them for their professional lives. Michigan Publishing provides a meaningful, measurable output of that experience.
