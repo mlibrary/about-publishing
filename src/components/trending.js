@@ -93,8 +93,6 @@ class Trending extends Component {
         {!this.state.loading && (
           <div className="lg:flex -m-4 fade-in">
             {this.state.trending.map(book => {
-              let bookImageLoaded = false
-
               return (
                 <a
                   href={book.link}
@@ -107,7 +105,6 @@ class Trending extends Component {
                         alt=""
                         role="presentation"
                         className="w-full trending-image overflow-hidden rounded fade-in"
-                        onLoad={(bookImageLoaded = true)}
                       />
                     )}
                   </div>
