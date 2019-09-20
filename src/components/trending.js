@@ -93,7 +93,7 @@ class Trending extends Component {
                     className="mb-8 w-full trending-image overflow-hidden rounded"
                   />
                   <div>
-                    <h3 className="text-2xl font-semibold mb-1">{book.title}</h3>
+                    <h3 className="text-xl font-semibold mb-1">{book.title}</h3>
                     {book.authors &&
                       <p className="text-battleship-grey">{book.authors.join(" | ")}</p>
                     }
