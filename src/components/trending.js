@@ -33,6 +33,8 @@ class Trending extends Component {
         mentions: book.attributes.mentions,
         authors: pubData.data.authors,
         link: pubData.data.url,
+        id: book.id,
+        imageLoaded: false,
       }
 
       // Add book cover
@@ -80,13 +82,27 @@ class Trending extends Component {
     return thumbnail
   }
 
+  replaceImage = id => {
+    this.setState(state => {
+      const trendingState = state.trending.map(publication => {
+        if (publication.id === id) {
+          publication.imageLoaded = true
+        }
+        
+        return publication
+      })
+
+      return trendingState
+    })
+  }
+
   render() {
     return (
       <div>
         {this.state.loading && (
-          <div class="spinner">
-            <div class="double-bounce1"></div>
-            <div class="double-bounce2"></div>
+          <div className="spinner">
+            <div className="double-bounce1"></div>
+            <div className="double-bounce2"></div>
           </div>
         )}
 
@@ -97,14 +113,18 @@ class Trending extends Component {
                 <a
                   href={book.link}
                   className="trending lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue overflow-hidden"
+                  key={book.id}
                 >
                   <div className="h-414 mb-8">
                     {book.image && (
                       <img
                         src={book.image}
-                        alt=""
+                        alt={book.title}
                         role="presentation"
-                        className="w-full trending-image overflow-hidden rounded fade-in"
+                        className={`w-full trending-image overflow-hidden rounded ${
+                          book.imageLoaded ? "fade-in" : ""
+                        }`}
+                        onLoad={() => this.replaceImage(book.id)}
                       />
                     )}
                   </div>
