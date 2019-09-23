@@ -32,6 +32,8 @@ related_stories:
 path: /stories-of-impact/kitchen-sink
 type: story
 ---
+## Wow
+
 The [University of Michigan Press](https://www.press.umich.edu/) is a charter participant in a digital monograph publishing initiative that seeks to increase academic and public engagement with long-form humanities scholarship.
 
 The initiative awards Toward an Open Monograph Ecosystem grants, which promote the digital dissemination of humanities scholarship by providing academic publishers with funds to produce and distribute an open access version of long-form scholarly works.
