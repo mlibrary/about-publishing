@@ -84,7 +84,7 @@ Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultric
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
 
-<figure class="advanced-image md:float-left md:mr-8 mb-4 -ml-32"><img src="/assets/so-s-18-biology-benzie-p-2-104.jpg" alt="jellyfish"><figcaption>Nullam quis risus eget urna mollis ornare vel eu leo.<p>Julian Rothschild, AP Photo</p></figcaption></figure>
+<figure class="advanced-image md:float-left md:mr-8 mb-4 -ml-32"><img src="/assets/so-s-18-biology-benzie-p-2-104.jpg" alt="jellyfish"><figcaption class="text-xs text-slate-grey mt-2">Nullam quis risus eget urna mollis ornare vel eu leo.<p>Julian Rothschild, AP Photo</p><div class="w-40 h-1 bg-michigan-blue"></div></figcaption></figure>
 
 Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
