@@ -42,7 +42,7 @@ Each award is for around $15,000, and there is no departmental cost-share. U-M f
 
 The initiative was developed by the Association of American Universities, Association of Research Libraries, and Association of University Presses.
 
-<p class="callout"><h2 id="hereisaheading">Here is a heading</h2></p>
+<p class="callout">## Howdy</p>
 
 Wilcox was interested in making an electronic version of her book open access in order to expand her audience. 
 
