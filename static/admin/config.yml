@@ -176,7 +176,6 @@ collections:
         widget: object
         required: false
         fields:
-          - { name: heading, label: Heading, required: false, default: "" }
           - { name: text, label: Text, widget: markdown, required: false, default: "" }
       - {
           name: related_stories,

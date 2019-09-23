@@ -35,6 +35,12 @@ main {
   margin-bottom: 2rem;
 }
 
+.markdown h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
 .markdown blockquote {
   background-color: #506fc5;
   border-left: 0.5rem solid #274391;

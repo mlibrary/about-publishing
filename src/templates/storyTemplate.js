@@ -1,4 +1,5 @@
 import React from "react"
+import showdown from "showdown"
 
 import { globalHistory } from "@reach/router"
 import { graphql } from "gatsby"
@@ -10,9 +11,14 @@ import Card from "../components/card"
 import Section from "../components/section"
 
 export default function Template({ data }) {
+  const converter = new showdown.Converter()
+
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   const href = globalHistory.location.href
+
+  let howdy = `<div class="hello" markdown="1">## heading</div>`
+  console.log(converter.makeHtml(howdy))
 
   // Get related stories.
   const featuredStories = data.stories.nodes.filter(story =>
@@ -33,10 +39,10 @@ export default function Template({ data }) {
         />
       )}
 
-      <div className={`flex relative z-5 ${hero ? "pt-48" : ""}`}>
+      <div className={`flex relative z-5 ${hero ? "pt-40" : ""}`}>
         <div className="w-1/5"></div>
 
-        <div className="w-4/5 max-w-2xl">
+        <div className="w-4/5 max-w-2xl mb-16">
           <p
             className={`text-sm uppercase mb-0 tracking-widest mb-4 ${
               hero ? "text-michigan-maize" : "text-dusk-blue"
@@ -45,12 +51,15 @@ export default function Template({ data }) {
             {frontmatter.categories.join("|")}
           </p>
           <h1
-            className={`font-serif text-375 mb-16 leading-105 font-semibold ${
+            className={`font-serif text-375 leading-105 font-semibold ${
               hero ? "text-very-light-blue" : ""
             }`}
           >
             {frontmatter.title}
           </h1>
+          {(frontmatter.hero.story_hero_image && frontmatter.hero.text) &&
+            <p className="font-semibold mt-2 text-white text-lg">{frontmatter.hero.text}</p>
+          }
         </div>
       </div>
       <div className="flex items-start relative z-5">
@@ -100,7 +109,7 @@ export default function Template({ data }) {
           </figure>
 
           <div
-            dangerouslySetInnerHTML={{ __html: html }}
+            dangerouslySetInnerHTML={{ __html: converter.makeHtml(html) }}
             className="markdown text-lg mb-8 drop-cap"
           />
 
@@ -109,12 +118,8 @@ export default function Template({ data }) {
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
 
-          {(frontmatter.highlight_box.heading ||
-            frontmatter.highlight_box.text) && (
+          {frontmatter.highlight_box.text && (
             <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
-              <h2 className="text-2xl font-semibold mb-4">
-                {frontmatter.highlight_box.heading}
-              </h2>
               <MarkdownContent
                 content={frontmatter.highlight_box.text}
                 className="markdown small-margin"
@@ -125,7 +130,7 @@ export default function Template({ data }) {
       </div>
       {featuredStories.length > 0 && (
         <Section heading="Explore more stories:" className="mb-20">
-          <div className="lg:flex">
+          <div className="lg:flex -mx-3">
             {featuredStories.map(story => {
               return (
                 <Card
@@ -170,7 +175,6 @@ export const pageQuery = graphql`
           credit
         }
         highlight_box {
-          heading
           text
         }
         related_stories
