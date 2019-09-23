@@ -79,3 +79,13 @@ Although open access ebooks are not yet popular in the film and media studies fi
 University of Michigan Press, which publishes more than 100 books a year by scholars from around the world, is also seeing growing interest from authors in open access book publishing.
 
 “Last year around 15 percent of our book publications were published open access, and we are seeing increasing funding becoming available from initiatives such as the TOME initiative,”  U-M Press Director Charles Watkinson said.
+
+Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
+
+<figure class="md:float-left md:mr-8 mb-4"><img src="/assets/so-s-18-biology-benzie-p-2-104.jpg" alt="jellyfish" class="lozad"><figcaption>Nullam quis risus eget urna mollis ornare vel eu leo.<p>Julian Rothschild, AP Photo</p></figcaption></figure>
+
+Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
