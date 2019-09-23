@@ -45,7 +45,7 @@ export default function Template({ data }) {
             {frontmatter.categories.join("|")}
           </p>
           <h1
-            className={`font-serif text-375 mb-16 leading-none font-semibold ${
+            className={`font-serif text-375 mb-16 leading-105 font-semibold ${
               hero ? "text-very-light-blue" : ""
             }`}
           >
@@ -83,7 +83,7 @@ export default function Template({ data }) {
             <img
               src={frontmatter.story_image.file}
               alt={frontmatter.story_image.alt}
-              className="mb-4"
+              className="mb-4 rounded-lg"
             />
             {(frontmatter.story_image.caption ||
               frontmatter.story_image.credit) && (

@@ -1,10 +1,8 @@
 ---
 title: Digital Infrastructure Makes Scholarship Durable for Generations
 hero:
-  story_hero_image: /assets/story-hero.jpg
-  text: >-
-    It sometimes feels like you’ll always be able to retrieve electronic files
-    or data. Until you can’t. 
+  story_hero_image: 
+  text:
 author: Author TBD
 date: 2019-09-19T19:58:25.768Z
 categories:
