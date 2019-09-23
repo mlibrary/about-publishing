@@ -37,7 +37,11 @@ export default function Template({ data }) {
         <div className="w-1/5"></div>
 
         <div className="w-4/5 max-w-2xl">
-          <p className={`text-sm uppercase mb-0 tracking-widest mb-4 ${hero ? "text-michigan-maize" : "text-dusk-blue"}`}>
+          <p
+            className={`text-sm uppercase mb-0 tracking-widest mb-4 ${
+              hero ? "text-michigan-maize" : "text-dusk-blue"
+            }`}
+          >
             {frontmatter.categories.join("|")}
           </p>
           <h1
@@ -53,16 +57,23 @@ export default function Template({ data }) {
         <div className={`w-1/5 sticky top-2 ${hero ? "pt-48" : ""}`}>
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">
-            <a href={`https://www.facebook.com/sharer/sharer.php?u=${href}`}>
-              <img src="/assets/facebook.svg" alt="" role="presentation" />
+            <a
+              className="social-link"
+              href={`https://www.facebook.com/sharer/sharer.php?u=${href}`}
+            >
+              <span className="clip">Share on Facebook</span>
             </a>
             <a
+              className="social-link"
               href={`https://www.linkedin.com/shareArticle?mini=true&url=${href}`}
             >
-              <img src="/assets/linkedin.svg" alt="" role="presentation" />
+              <span className="clip">Share on LinkedIn</span>
             </a>
-            <a href={`https://twitter.com/share?url=${href}`}>
-              <img src="/assets/twitter.svg" alt="" role="presentation" />
+            <a
+              className="social-link"
+              href={`https://twitter.com/share?url=${href}`}
+            >
+              <span className="clip">Share on Twitter</span>
             </a>
           </div>
         </div>
@@ -98,7 +109,8 @@ export default function Template({ data }) {
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
 
-          {(frontmatter.highlight_box.heading || frontmatter.highlight_box.text) && (
+          {(frontmatter.highlight_box.heading ||
+            frontmatter.highlight_box.text) && (
             <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
               <h2 className="text-2xl font-semibold mb-4">
                 {frontmatter.highlight_box.heading}

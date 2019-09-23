@@ -31,6 +31,10 @@ main {
   margin-bottom: 2rem;
 }
 
+.markdown ul {
+  margin-bottom: 2rem;
+}
+
 .markdown blockquote {
   background-color: #506fc5;
   border-left: 0.5rem solid #274391;
@@ -153,20 +157,43 @@ main {
 }
 
 /* Social links */
+.social-link {
+  background-image: url("../../static/assets/social.svg");
+  background-repeat: no-repeat;
+  height: 1.5rem;
+  margin-right: 0.5rem;
+  width: 1.5rem;
+}
+
+.social-link:last-child {
+  margin-right: 0;
+}
+
 .social-link[href*="feed"] {
-  background-image: url("../../static/assets/rss.svg");
+  background-position: 0 0;
 }
 
 .social-link[href*="facebook"] {
-  background-image: url("../../static/assets/facebook.svg");
+  background-position: -1.5rem 0;
 }
 
 .social-link[href*="twitter"] {
-  background-image: url("../../static/assets/twitter.svg");
+  background-position: -3rem 0;
 }
 
 .social-link[href*="youtube"] {
-  background-image: url("../../static/assets/youtube.svg");
+  background-position: -4.5rem 0;
+  width: 2.25rem;
+}
+
+.social-link[href*="linkedin"] {
+  background-position: -6.75rem 0;
+  width: 2.25rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background-position-y: -1.5rem;
 }
 
 /* Drop cap */
@@ -232,6 +259,7 @@ main {
   margin: 100px auto;
 }
 
+/* Animation */
 .double-bounce1,
 .double-bounce2 {
   width: 100%;

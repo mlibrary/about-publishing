@@ -62,7 +62,7 @@ const Footer = () => {
                       <a
                         key={social.social_link}
                         href={social.social_link}
-                        className="social-link w-10 h-5 block bg-no-repeat bg-center"
+                        className="social-link w-6 h-6 block bg-no-repeat bg-center"
                       >
                         <span className="clip">{social.social_name}</span>
                       </a>
