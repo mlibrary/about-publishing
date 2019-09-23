@@ -42,7 +42,7 @@ Each award is for around $15,000, and there is no departmental cost-share. U-M f
 
 The initiative was developed by the Association of American Universities, Association of Research Libraries, and Association of University Presses.
 
-<div class="callout">**The first two U-M faculty awardees were:**
+<div class="callout">The first two U-M faculty awardees were:
 
 Emily Wilcox, assistant professor of modern Chinese studies, and an expert in Chinese dance, author of “Revolutionary Bodies: Chinese Dance and the Socialist Legacy.”
 
