@@ -44,8 +44,6 @@ The initiative was developed by the Association of American Universities, Associ
 
 <span class="callout" markdown="1">
 hello
-
-there
 </span>
 
 Wilcox was interested in making an electronic version of her book open access in order to expand her audience. 
