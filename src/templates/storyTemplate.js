@@ -33,7 +33,7 @@ export default function Template({ data }) {
         />
       )}
 
-      <div className={`flex relative z-10 ${hero ? "pt-48" : ""}`}>
+      <div className={`flex relative z-5 ${hero ? "pt-48" : ""}`}>
         <div className="w-1/5"></div>
 
         <div className="w-4/5 max-w-2xl">
@@ -53,7 +53,7 @@ export default function Template({ data }) {
           </h1>
         </div>
       </div>
-      <div className="flex items-start relative z-10">
+      <div className="flex items-start relative z-5">
         <div className={`w-1/5 sticky top-2 ${hero ? "pt-48" : ""}`}>
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">

@@ -27,6 +27,9 @@ module.exports = {
       spacing: {
         "1675": "16.75rem",
       },
+      zIndex: {
+        "5": "5",
+      },
     },
     colors: {
       "almost-black": {
