@@ -14,7 +14,6 @@ story_image:
   credit: 'Julian Rothschild, AP Photo'
   file: /assets/kitchen-sink.jpg
 highlight_box:
-  heading: ''
   text: >-
     ## Project Partners
 
@@ -41,9 +40,19 @@ Each award is for around $15,000, and there is no departmental cost-share. U-M f
 
 The initiative was developed by the Association of American Universities, Association of Research Libraries, and Association of University Presses.
 
-Wilcox was interested in making an electronic version of her book open access in order to expand her audience. “I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries,” she said. 
+<div class="callout">## The first two U-M faculty awardees were:
 
-Bertellini shared this sentiment regarding his book. “Enabling readers around the globe to access your work freely is a win-win situation. Free and open access enables … expansion of readership, often in ways that would not otherwise be possible,” he said.  Wilcox said she appreciated the multimedia capabilities afforded by an open access platform, which allowed her to include a large number of color photographs and embedded digital videos as multimedia illustrations in the electronic version of the book.
+**Emily Wilcox**, assistant professor of modern Chinese studies, and an expert in Chinese dance, author of “Revolutionary Bodies: Chinese Dance and the Socialist Legacy.”
+
+**Giorgio Bertellini**, professor of film, television and media, and romance languages and literatures, and author of “The Divo and the Duce: Promoting Film Stardom and Political Leadership in 1920s America.”</div>
+
+Wilcox was interested in making an electronic version of her book open access in order to expand her audience. 
+
+“I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries,” she said. 
+
+Bertellini shared this sentiment regarding his book. 
+
+“Enabling readers around the globe to access your work freely is a win-win situation. Free and open access enables … expansion of readership, often in ways that would not otherwise be possible,” he said.  Wilcox said she appreciated the multimedia capabilities afforded by an open access platform, which allowed her to include a large number of color photographs and embedded digital videos as multimedia illustrations in the electronic version of the book.
 
 When sales are out of the picture, authors have to measure the success of their publications in new ways.
 
