@@ -65,7 +65,7 @@ Wilcox and Bertellini said they hope to find out how many downloads their books 
 
 Wilcox also is interested in how many users have streamed online video materials that accompany the book, where it gets reviewed, and in comparing the attention it gets internationally and in trade publications to that of typical scholarly titles.
 
-<blockquote class="quote float-none w-full bg-michigan-maize"><p>I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries.</p><footer><cite>- Emily Wilcox<br>Associate professor of modern Chinese studies</cite></footer></blockquote>
+<blockquote class="quote float-none bg-michigan-maize"><p>I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries.</p><footer><cite>- Emily Wilcox<br>Associate professor of modern Chinese studies</cite></footer></blockquote>
 
 Bertellini added he wants to learn about the professions of the users and the ways they use his book.
 
