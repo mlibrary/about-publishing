@@ -45,9 +45,9 @@ The initiative was developed by the Association of American Universities, Associ
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">
 ## The first two U-M faculty awardees were:
 
-Emily Wilcox, assistant professor of modern Chinese studies, and an expert in Chinese dance, author of “Revolutionary Bodies: Chinese Dance and the Socialist Legacy.”
+**Emily Wilcox**, assistant professor of modern Chinese studies, and an expert in Chinese dance, author of “Revolutionary Bodies: Chinese Dance and the Socialist Legacy.”
 
-Giorgio Bertellini, professor of film, television and media, and romance languages and literatures, and author of “The Divo and the Duce: Promoting Film Stardom and Political Leadership in 1920s America.”
+**Giorgio Bertellini**, professor of film, television and media, and romance languages and literatures, and author of “The Divo and the Duce: Promoting Film Stardom and Political Leadership in 1920s America.”
 
 </div>
 
