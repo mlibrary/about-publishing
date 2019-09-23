@@ -1,16 +1,16 @@
 ---
 title: Opening Access to Books Increases Reach and Engagement
 hero:
-  story_hero_image: /assets/story-hero.jpg
-  text: Increasing engagement with humanities scholarship
-author: Danielle Colburn
-date: 2018-10-23T20:21:33.599Z
+  story_hero_image: ''
+  text: ''
+author: TBD
+date: 2019-09-23T04:00:00.000Z
 categories:
   - Faculty Public Engagement
 story_image:
   alt: Open access monograph grants promote faculty engagement
-  caption: Nullam quis risus eget urna mollis ornare vel eu leo tiburon
-  credit: 'Julian Rothschild, AP Photo'
+  caption: ''
+  credit: ''
   file: /assets/open-access.jpg
 profiles:
   - Abigail De Kosnik and Keith Feldman
