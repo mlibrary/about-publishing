@@ -137,18 +137,18 @@ export default function Template({ data }) {
               <div className="sm:flex flex-grow justify-between">
                 {books.map(book => {
                   return (
-                    <div className="w-2/5 text-sm">
+                    <a href={book.frontmatter.link} className="group w-2/5 text-sm">
                       <img
-                        className="mb-4 w-full"
+                        className="mb-4 w-full group-hover:shadow-1"
                         src={book.frontmatter.image.file}
                         alt={book.frontmatter.image.alt}
                       />
-                      <h3 className="font-bold mb-0">
+                      <h3 className="font-bold mb-0 group-hover:underline">
                         {book.frontmatter.title}
                       </h3>
                       <p>{book.frontmatter.description}</p>
                       <p className="text-xs">by {book.frontmatter.author}</p>
-                    </div>
+                    </a>
                   )
                 })}
               </div>
@@ -235,6 +235,7 @@ export const pageQuery = graphql`
         frontmatter {
           title
           author
+          link
           description
           image {
             file

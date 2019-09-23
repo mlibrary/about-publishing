@@ -64,6 +64,8 @@ module.exports = {
       mono: ["Menlo", "Monaco", "Consolars", "Libertation Mono", "monospace"],
     },
   },
-  variants: {},
+  variants: {
+    textDecoration: ["responsive", "hover", "focus", "active", "group-hover"],
+  },
   plugins: [],
 }
