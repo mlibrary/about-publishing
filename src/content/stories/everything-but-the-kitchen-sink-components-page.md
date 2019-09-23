@@ -40,8 +40,6 @@ The initiative awards Toward an Open Monograph Ecosystem grants, which promote t
 
 Each award is for around $15,000, and there is no departmental cost-share. U-M faculty are eligible to apply. Applicants are limited to one award during the five-year pilot, which runs from 2018-22.
 
-The initiative was developed by the Association of American Universities, Association of Research Libraries, and Association of University Presses.
-
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">
 ## The first two U-M faculty awardees were:
 
@@ -50,6 +48,8 @@ The initiative was developed by the Association of American Universities, Associ
 **Giorgio Bertellini**, professor of film, television and media, and romance languages and literatures, and author of “The Divo and the Duce: Promoting Film Stardom and Political Leadership in 1920s America.”
 
 </div>
+
+The initiative was developed by the Association of American Universities, Association of Research Libraries, and Association of University Presses.
 
 Wilcox was interested in making an electronic version of her book open access in order to expand her audience. 
 
