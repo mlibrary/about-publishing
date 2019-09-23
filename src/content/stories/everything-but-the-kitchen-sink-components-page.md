@@ -71,6 +71,8 @@ Bertellini added he wants to learn about the professions of the users and the wa
 
 The popularity of open access books differs from field to field. In Wilcox’s case, open access ebooks are already becoming popular, which she credits to the work by leading academic presses in her field to develop sophisticated open access publishing platforms.
 
+<blockquote class="quote float-right -mr-24 w-1/2 bg-michigan-blue"><p>Enabling readers around the globe to access your work freely is a win-win situation. Free and open access enables … expansion of readership, often in ways that would not otherwise be possible.</p><footer><cite>- Giorgio Bertellini<br>Professor of film, television and media, and romance languages and literatures</cite></footer></blockquote>
+
 Although open access ebooks are not yet popular in the film and media studies field, Bertellini acknowledges the value of what can be achieved with the new format.
 
 University of Michigan Press, which publishes more than 100 books a year by scholars from around the world, is also seeing growing interest from authors in open access book publishing.
