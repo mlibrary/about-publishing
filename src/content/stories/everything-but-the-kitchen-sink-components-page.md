@@ -26,9 +26,9 @@ highlight_box:
     organization dedicated providing equitable access to high-quality data to
     the citizens of Detroit
 related_stories:
-  - Adding Diversity to the Data Mix
   - Cultivating the Perfect Guidebook through Teaching
   - ELT Reflects Humanity and Broadens Access in Its Publishing
+  - Opening Access to Books Increases Reach and Engagement
 path: /stories-of-impact/kitchen-sink
 type: story
 ---
@@ -43,7 +43,11 @@ Each award is for around $15,000, and there is no departmental cost-share. U-M f
 The initiative was developed by the Association of American Universities, Association of Research Libraries, and Association of University Presses.
 
 <span class="callout" markdown="1">
-hello
+## The first two U-M faculty awardees were:
+
+Emily Wilcox, assistant professor of modern Chinese studies, and an expert in Chinese dance, author of “Revolutionary Bodies: Chinese Dance and the Socialist Legacy.”
+
+Giorgio Bertellini, professor of film, television and media, and romance languages and literatures, and author of “The Divo and the Duce: Promoting Film Stardom and Political Leadership in 1920s America.”
 </span>
 
 Wilcox was interested in making an electronic version of her book open access in order to expand her audience. 
