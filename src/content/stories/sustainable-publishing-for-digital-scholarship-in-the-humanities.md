@@ -9,6 +9,8 @@ hero:
     humanities scholarship.
 author: Author TBD
 date: 2019-09-19T19:45:46.638Z
+books:
+  - ''
 categories:
   - Academic Innovation
 story_image:

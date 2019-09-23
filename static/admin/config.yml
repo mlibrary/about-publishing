@@ -117,6 +117,7 @@ collections:
     folder: src/content/books
     fields:
       - { name: title, label: Title }
+      - { name: link, label: Link, required: false, default: "" }
       - { name: author, label: Author }
       - name: image
         label: Image
@@ -125,6 +126,7 @@ collections:
           - { name: file, label: File, widget: image }
           - { name: alt, label: Alt text }
       - { name: description, label: Description, widget: text }
+      - { name: type, label: Type, widget: hidden, default: book }
 
   - name: stories
     label: Stories
@@ -135,6 +137,7 @@ collections:
     folder: src/content/stories
     fields:
       - { name: title, label: Title }
+      - { name: path, label: Path, default: /stories-of-impact/story-name }
       - name: hero
         label: Hero section
         widget: object
@@ -188,8 +191,18 @@ collections:
           required: false,
           default: [""],
         }
+      - {
+          name: books,
+          label: Books,
+          widget: relation,
+          collection: books,
+          searchFields: [title],
+          valueField: title,
+          multiple: true,
+          required: false,
+          default: [""]
+        }
       - { name: body, label: Body, widget: markdown }
-      - { name: path, label: Path, default: /stories-of-impact/story-name }
       - { name: type, label: Type, widget: hidden, default: story }
 
   - name: profiles

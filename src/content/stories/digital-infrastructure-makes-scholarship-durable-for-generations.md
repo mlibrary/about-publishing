@@ -27,6 +27,8 @@ highlight_box:
 related_stories: [""]
 path: /stories-of-impact/digital-infrastructure
 type: story
+books:
+  - ''
 ---
 It sometimes feels like you’ll always be able to retrieve electronic files or data. Until you can’t. 
 

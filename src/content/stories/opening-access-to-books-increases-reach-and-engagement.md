@@ -15,6 +15,8 @@ story_image:
 profiles:
   - Abigail De Kosnik and Keith Feldman
   - Jacob Smith
+books:
+  - ''
 highlight_box:
   heading: ''
   text: >-

@@ -4,6 +4,8 @@ hero:
   story_hero_image: ''
   text: ''
 author: Author needed
+books:
+  - ''
 date: 2019-09-19T13:56:37.869Z
 categories:
   - Sustainability

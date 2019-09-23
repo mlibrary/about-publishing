@@ -14,6 +14,8 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
+books:
+  - ''
 profiles:
   - Caitlin Heenan
   - Sean Guynes

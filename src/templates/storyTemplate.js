@@ -17,12 +17,14 @@ export default function Template({ data }) {
   const { frontmatter, html } = markdownRemark
   const href = globalHistory.location.href
 
-  let howdy = `<div class="hello" markdown="1">## heading</div>`
-  console.log(converter.makeHtml(howdy))
-
   // Get related stories.
   const featuredStories = data.stories.nodes.filter(story =>
     frontmatter.related_stories.includes(story.frontmatter.title)
+  )
+
+  // Get books.
+  const books = data.books.nodes.filter(book =>
+    frontmatter.books.includes(book.frontmatter.title)
   )
 
   const hero = frontmatter.hero.story_hero_image
@@ -57,9 +59,11 @@ export default function Template({ data }) {
           >
             {frontmatter.title}
           </h1>
-          {(frontmatter.hero.story_hero_image && frontmatter.hero.text) &&
-            <p className="font-semibold mt-2 text-white text-lg">{frontmatter.hero.text}</p>
-          }
+          {frontmatter.hero.story_hero_image && frontmatter.hero.text && (
+            <p className="font-semibold mt-2 text-white text-lg">
+              {frontmatter.hero.text}
+            </p>
+          )}
         </div>
       </div>
       <div className="flex items-start relative z-5">
@@ -126,8 +130,33 @@ export default function Template({ data }) {
               />
             </div>
           )}
+
+          {books.length > 0 && (
+            <div className="lg:flex justify-between mb-20">
+              <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">Books:</h2>
+              <div className="sm:flex flex-grow justify-between">
+                {books.map(book => {
+                  return (
+                    <div className="w-2/5 text-sm">
+                      <img
+                        className="mb-4 w-full"
+                        src={book.frontmatter.image.file}
+                        alt={book.frontmatter.image.alt}
+                      />
+                      <h3 className="font-bold mb-0">
+                        {book.frontmatter.title}
+                      </h3>
+                      <p>{book.frontmatter.description}</p>
+                      <p className="text-xs">by {book.frontmatter.author}</p>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+          )}
         </div>
       </div>
+
       {featuredStories.length > 0 && (
         <Section heading="Explore more stories:" className="mb-20">
           <div className="lg:flex -mx-3">
@@ -178,6 +207,7 @@ export const pageQuery = graphql`
           text
         }
         related_stories
+        books
       }
     }
 
@@ -195,6 +225,22 @@ export const pageQuery = graphql`
           categories
         }
         excerpt(pruneLength: 140, truncate: true)
+      }
+    }
+
+    books: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "book" } } }
+    ) {
+      nodes {
+        frontmatter {
+          title
+          author
+          description
+          image {
+            file
+            alt
+          }
+        }
       }
     }
   }

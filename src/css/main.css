@@ -41,6 +41,7 @@ main {
   margin-bottom: 1rem;
 }
 
+/* Blockquotes */
 .markdown blockquote {
   background-color: #506fc5;
   border-left: 0.5rem solid #274391;
@@ -60,16 +61,36 @@ main {
 }
 
 .markdown blockquote.quote {
-  background-color: #ffcb05;
-  border-color: #eaba02;
-  color: #00274c;
-  float: none;
+  clear: both;
   font-family: "Crimson Text", serif;
   font-weight: normal;
   margin-bottom: 2rem;
   margin-left: -1.5rem;
   margin-right: -1.5rem;
+}
+
+.markdown blockquote.quote.yellow {
+  background-color: #ffcb05;
+  border-color: #eaba02;
+  color: #00274c;
+}
+
+.markdown blockquote.quote.blue {
+  background-color: #00274c;
+  border-color: #001324;
+}
+
+.markdown blockquote.quote.full {
+  float: none;
   max-width: none;
+}
+
+.markdown blockquote.quote.floated {
+  float: right;
+  margin-left: 1.5rem;
+  margin-right: -10rem;
+  max-width: none;
+  width: 70%;
 }
 
 .markdown blockquote > p {
@@ -86,6 +107,10 @@ main {
   left: -0.5rem;
   position: absolute;
   top: -1rem;
+}
+
+.markdown blockquote.blue > p::before {
+  color: #ffcb05;
 }
 
 .markdown blockquote > p::after {

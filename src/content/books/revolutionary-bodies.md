@@ -5,5 +5,6 @@ image:
   alt: Revolutionary Bodies book cover
   file: /assets/revolutionay-bodies.jpg
 description: Chinese Dance and the Socialist Legacy
+type: book
 ---
 

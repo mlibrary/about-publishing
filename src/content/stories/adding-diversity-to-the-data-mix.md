@@ -33,6 +33,8 @@ highlight_box:
 related_stories:
   - ''
 path: /stories-of-impact/adding-diversity
+books:
+  - ''
 type: story
 ---
 The University of Michigan Library has always harnessed data to solve big problems. Now, with a recent LYRASIS grant, they will partner with the National Center for Institutional Diversity (NCID) and collaborate with Data Driven Detroit (D3) to develop a toolkit for diversity scholars. 

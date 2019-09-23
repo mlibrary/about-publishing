@@ -18,6 +18,8 @@ related_stories:
   - ''
 path: /stories-of-impact/born-accessible-publishing
 type: story
+books:
+  - ''
 ---
 Michigan Publishing is committed to leading on accessibility and disability issues. When readers with visual impairments couldn’t effectively read Press ebooks, comprehensive work to address the ongoing needs of our readers began.
 
