@@ -173,6 +173,7 @@ collections:
           valueField: title,
           multiple: true,
           required: false,
+          default: [""],
         }
       - name: highlight_box
         label: Highlight box
@@ -217,6 +218,8 @@ collections:
       - { name: job_title, label: Title }
       - { name: faculty_image, label: Image, widget: image }
       - { name: quote, label: Quote, widget: text }
+      - { name: bio, label: Bio, widget: text, default: "", required: false }
+      - { name: type, label: Type, widget: hidden, default: profile}
 
   - name: categories
     label: Categories

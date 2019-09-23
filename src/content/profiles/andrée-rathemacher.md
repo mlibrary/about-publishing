@@ -2,6 +2,8 @@
 title: Andrée Rathemacher
 job_title: the Head of Acquisitions at the University of Rhode Island Library
 faculty_image: /assets/dsc-51089.jpg
+type: profile
+bio: ""
 quote: >-
   “At a time when most of our materials budget goes to STEM content from large
   commercial publishers, it feels good to support a non-profit university press

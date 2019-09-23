@@ -26,6 +26,8 @@ related_stories:
   - ''
 path: /stories-of-impact/cultivating-perfect-guidebook
 type: story
+profiles:
+  - ''
 books:
   - ''
 ---

@@ -2,6 +2,8 @@
 title: Matthew Ward
 job_title: UMURJ Editor (2018-2019)
 faculty_image: /assets/dsc-51089.jpg
+type: profile
+bio: ""
 quote: >-
   “Working on the UM Undergraduate Research Journal has been an incredibly
   rewarding experience. Through working on a student journal, I’ve gained

@@ -27,6 +27,11 @@ export default function Template({ data }) {
     frontmatter.books.includes(book.frontmatter.title)
   )
 
+  // Get profiles.
+  const profiles = data.profiles.nodes.filter(profile =>
+    frontmatter.profiles.includes(profile.frontmatter.title)
+  )
+
   const hero = frontmatter.hero.story_hero_image
 
   return (
@@ -133,11 +138,16 @@ export default function Template({ data }) {
 
           {books.length > 0 && (
             <div className="lg:flex justify-between mb-20">
-              <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">Books:</h2>
+              <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">
+                Books:
+              </h2>
               <div className="sm:flex flex-grow justify-between">
                 {books.map(book => {
                   return (
-                    <a href={book.frontmatter.link} className="group w-2/5 text-sm">
+                    <a
+                      href={book.frontmatter.link}
+                      className="group w-2/5 text-sm"
+                    >
                       <img
                         className="mb-4 w-full group-hover:shadow-1"
                         src={book.frontmatter.image.file}
@@ -208,6 +218,7 @@ export const pageQuery = graphql`
         }
         related_stories
         books
+        profiles
       }
     }
 
@@ -241,6 +252,19 @@ export const pageQuery = graphql`
             file
             alt
           }
+        }
+      }
+    }
+
+    profiles: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "profile" } } }
+    ) {
+      nodes {
+        frontmatter {
+          image {
+            file
+          }
+          bio
         }
       }
     }

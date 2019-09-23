@@ -4,6 +4,8 @@ job_title: >-
   Northwestern University - OA podcast project: ESC: Sonic Adventure in the
   Anthropocene
 faculty_image: /assets/dsc-51089.jpg
+bio: ""
+type: profile
 quote: >-
   “Michigan had the vision to recognize the potential for this new model for
   academic publication, and the unique set of skills and infrastructure required

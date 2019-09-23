@@ -25,6 +25,8 @@ related_stories:
   - ''
 path: /stories-of-impact/elt-reflects-humanity
 type: story
+profiles:
+  - ''
 books:
   - ''
 ---

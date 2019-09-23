@@ -2,6 +2,8 @@
 title: Anna Kang
 job_title: UMURJ Editor (2019-2020)
 faculty_image: /assets/dsc-51089.jpg
+type: profile
+bio: ""
 quote: >-
   “The way I see it, publishing and research are, in many ways, complements.
   When you better your skills in one, you better your skills in the other, and

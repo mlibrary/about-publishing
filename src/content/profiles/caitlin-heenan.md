@@ -2,6 +2,8 @@
 title: Caitlin Heenan
 job_title: UJPH Editor (2018-2019)
 faculty_image: /assets/dsc-51089.jpg
+type: profile
+bio: ""
 quote: >-
   “Working as an editor on a student-run publication gave me the opportunity to
   work on projects I found meaningful with like-minded people. As an editor for

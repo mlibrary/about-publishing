@@ -18,6 +18,8 @@ related_stories:
   - ''
 path: /stories-of-impact/born-accessible-publishing
 type: story
+profiles:
+  - ''
 books:
   - ''
 ---

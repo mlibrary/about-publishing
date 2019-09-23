@@ -11,6 +11,8 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
+profiles:
+  - ''
 highlight_box:
   heading: Project Partners
   text: >-

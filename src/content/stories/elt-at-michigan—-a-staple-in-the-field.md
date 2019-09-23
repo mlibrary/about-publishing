@@ -20,6 +20,8 @@ related_stories:
   - ''
 path: /stories-of-impact/elt-at-michigan
 type: story
+profiles:
+  - ''
 books:
   - ''
 ---

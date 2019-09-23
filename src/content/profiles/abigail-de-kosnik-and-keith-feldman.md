@@ -13,5 +13,6 @@ quote: >-
   readers and teachers have multiple options for viewing and using our research.
   We wanted our work to reach as many people as possible, and open access is
   facilitating that goal.”
+type: profile
+bio: ""
 ---
-
