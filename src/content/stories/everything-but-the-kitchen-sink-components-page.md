@@ -1,5 +1,6 @@
 ---
 title: Everything but the kitchen sink components page!
+path: /stories-of-impact/kitchen-sink
 hero:
   story_hero_image: /assets/story-hero.jpg
   text: Here is some hero text
@@ -29,7 +30,9 @@ related_stories:
   - Cultivating the Perfect Guidebook through Teaching
   - ELT Reflects Humanity and Broadens Access in Its Publishing
   - Opening Access to Books Increases Reach and Engagement
-path: /stories-of-impact/kitchen-sink
+books:
+  - Revolutionary Bodies
+  - The Divo and the Duce
 type: story
 ---
 ## Wow
