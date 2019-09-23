@@ -65,13 +65,13 @@ Wilcox and Bertellini said they hope to find out how many downloads their books 
 
 Wilcox also is interested in how many users have streamed online video materials that accompany the book, where it gets reviewed, and in comparing the attention it gets internationally and in trade publications to that of typical scholarly titles.
 
-<blockquote class="quote float-none bg-michigan-maize"><p>I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries.</p><footer><cite>- Emily Wilcox<br>Associate professor of modern Chinese studies</cite></footer></blockquote>
+<blockquote class="quote full yellow"><p>I wanted my book to reach the largest possible readership, especially among international audiences and economically underprivileged communities who may not have the financial or institutional resources to easily purchase books or access them through university libraries.</p><footer><cite>- Emily Wilcox<br>Associate professor of modern Chinese studies</cite></footer></blockquote>
 
 Bertellini added he wants to learn about the professions of the users and the ways they use his book.
 
 The popularity of open access books differs from field to field. In Wilcox’s case, open access ebooks are already becoming popular, which she credits to the work by leading academic presses in her field to develop sophisticated open access publishing platforms.
 
-<blockquote class="quote float-right -mr-24 w-1/2 bg-michigan-blue"><p>Enabling readers around the globe to access your work freely is a win-win situation. Free and open access enables … expansion of readership, often in ways that would not otherwise be possible.</p><footer><cite>- Giorgio Bertellini<br>Professor of film, television and media, and romance languages and literatures</cite></footer></blockquote>
+<blockquote class="quote floated blue"><p>Enabling readers around the globe to access your work freely is a win-win situation. Free and open access enables … expansion of readership, often in ways that would not otherwise be possible.</p><footer><cite>- Giorgio Bertellini<br>Professor of film, television and media, and romance languages and literatures</cite></footer></blockquote>
 
 Although open access ebooks are not yet popular in the film and media studies field, Bertellini acknowledges the value of what can be achieved with the new format.
 
