@@ -1,21 +1,21 @@
 ---
 title: Opening Access to Books Increases Reach and Engagement
 hero:
-  story_hero_image: ''
+  story_hero_image: /assets/story-hero.jpg
   text: >-
     Letting people read a book for free can actually be good business. Open
     Access (OA) expands the purchasing audience and supports authors’ ambitions
     to reach all readers who need their work, not just those who can afford to
     buy it.
-author: TBD
-date: 2019-09-19T20:21:33.599Z
+author: Danielle Colburn
+date: 2018-10-23T20:21:33.599Z
 categories:
   - Faculty Public Engagement
 story_image:
-  alt: test
-  caption: ''
-  credit: ''
-  file: /assets/bideo.jpg
+  alt: Open access monograph grants promote faculty engagement
+  caption: Nullam quis risus eget urna mollis ornare vel eu leo tiburon
+  credit: 'Julian Rothschild, AP Photo'
+  file: /assets/open-access.jpg
 profiles:
   - Abigail De Kosnik and Keith Feldman
   - Jacob Smith
@@ -51,8 +51,8 @@ highlight_box:
     By Jacob Smith, Northwestern University
 
 
-    __[_Global Digital Cultures: Perspectives from South
-    Asian_](https://www.press.umich.edu/9561751/global_digital_cultures)__\
+    __**[_Global Digital Cultures: Perspectives from South
+    Asian_](https://www.press.umich.edu/9561751/global_digital_cultures)**__\
 
     edited by Aswin Panathambekar and Sriram Mohan
 
