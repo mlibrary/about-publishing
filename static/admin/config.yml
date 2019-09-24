@@ -217,7 +217,13 @@ collections:
       - { name: title, label: Name }
       - { name: job_title, label: Title }
       - { name: faculty_image, label: Image, widget: image }
-      - { name: quote, label: Quote, widget: text }
+      - name: quotes
+        label: Quotes
+        label_singular: Quote
+        widget: list
+        required: false
+        fields:
+          - { name: quote, label: Quote, widget: text }
       - { name: bio, label: Bio, widget: text, default: "", required: false }
       - { name: type, label: Type, widget: hidden, default: profile}
 

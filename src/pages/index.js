@@ -51,7 +51,9 @@ export const IndexQuery = graphql`
       edges {
         node {
           frontmatter {
-            quote
+            quotes {
+              quote
+            }
             title
             job_title
             faculty_image
@@ -131,11 +133,13 @@ class IndexPage extends Component {
             />
           </Section>
 
+          {console.log(profileData)}
+
           <Section heading="Profiles" className="lg:w-1/2 px-4">
             <Profile
               name={profileData.title}
               image={profileData.faculty_image}
-              quote={profileData.quote}
+              quote={profileData.quotes[0].quote}
               title={profileData.job_title}
             />
           </Section>
