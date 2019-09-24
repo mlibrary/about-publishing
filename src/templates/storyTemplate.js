@@ -32,13 +32,11 @@ export default function Template({ data }) {
     frontmatter.profiles.includes(profile.frontmatter.title)
   )
 
-  console.log(data.profiles)
-
   const hero = frontmatter.hero.story_hero_image
 
   return (
     <Layout>
-      <SEO title={frontmatter.title} />
+      <SEO title={frontmatter.title} description={markdownRemark.excerpt} />
       {frontmatter.hero.story_hero_image && (
         <img
           className="w-full absolute left-0 max-h-38125 object-cover"
@@ -103,7 +101,7 @@ export default function Template({ data }) {
             <img
               src={frontmatter.story_image.file}
               alt={frontmatter.story_image.alt}
-              className="mb-4 rounded-lg animated fade-in-up"
+              className="mb-4 metaDescriptionrounded-lg animated fade-in-up"
             />
             {(frontmatter.story_image.caption ||
               frontmatter.story_image.credit) && (
@@ -218,6 +216,7 @@ export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
+      excerpt(pruneLength: 140, truncate: true)
       frontmatter {
         path
         title
