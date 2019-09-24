@@ -32,6 +32,8 @@ export default function Template({ data }) {
     frontmatter.profiles.includes(profile.frontmatter.title)
   )
 
+  console.log(data.profiles)
+
   const hero = frontmatter.hero.story_hero_image
 
   return (
@@ -55,7 +57,7 @@ export default function Template({ data }) {
               hero ? "text-michigan-maize" : "text-dusk-blue"
             }`}
           >
-            {frontmatter.categories.join("|")}
+            {frontmatter.categories.join(" | ")}
           </p>
           <h1
             className={`font-serif text-375 leading-105 font-semibold ${
@@ -101,7 +103,7 @@ export default function Template({ data }) {
             <img
               src={frontmatter.story_image.file}
               alt={frontmatter.story_image.alt}
-              className="mb-4 rounded-lg"
+              className="mb-4 rounded-lg animated fade-in-up"
             />
             {(frontmatter.story_image.caption ||
               frontmatter.story_image.credit) && (
@@ -164,6 +166,26 @@ export default function Template({ data }) {
               </div>
             </div>
           )}
+
+          {profiles.length > 0 && (
+            <div className="my-20">
+              <h2 className="text-4xl font-serif font-semibold mb-10">
+                Profiles
+              </h2>
+              {profiles.map(profile => {
+                return (
+                  <div className="md:flex items-center mb-16 text-lg">
+                    <img
+                      src={profile.frontmatter.faculty_image}
+                      alt={profile.frontmatter.title}
+                      className="lg:w-1/3 mb-8 lg:mb-0"
+                    />
+                    <p className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">{profile.frontmatter.bio}</p>
+                  </div>
+                )
+              })}
+            </div>
+          )}
         </div>
       </div>
 
@@ -178,7 +200,7 @@ export default function Template({ data }) {
                   href={story.frontmatter.path}
                   image={story.frontmatter.story_image.file}
                   alt={story.frontmatter.story_image.alt}
-                  subtitle={story.frontmatter.categories.join("|")}
+                  subtitle={story.frontmatter.categories.join(" | ")}
                   className="md:w-1/2 lg:w-1/3 px-3 flex flex-col"
                 >
                   {story.excerpt}
@@ -261,10 +283,9 @@ export const pageQuery = graphql`
     ) {
       nodes {
         frontmatter {
-          image {
-            file
-          }
+          faculty_image
           bio
+          title
         }
       }
     }

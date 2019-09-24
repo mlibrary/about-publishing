@@ -4,11 +4,11 @@ import PropTypes from "prop-types"
 const Profile = ({ name, quote, image, title }) => {
   return (
     <div>
-      <img src={image} alt={name} className="float-left mr-12" />
+      <img src={image} alt={name} className="float-left mr-12 w-1/4" />
       <div>
       <blockquote className="relative">
         <span className="absolute text-michigan-maize text-6 top-0 leading-none left-9 -top-1">“</span>
-        <p className="text-2xl">{quote}</p>
+        <p className="text-2xl font-serif">{quote}</p>
         <cite className="text-bluey-grey text-right block not-italic">
           <span className="block">– {name}</span>
           <span>{title}</span>

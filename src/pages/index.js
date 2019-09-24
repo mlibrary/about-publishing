@@ -101,7 +101,7 @@ class IndexPage extends Component {
       <Layout>
         <SEO title="Home" />
 
-        <div className="lg:flex justify-between items-center mb-20">
+        <div className="lg:flex justify-between items-center mb-20 animated fade-in-up">
           <div className="lg:w-5/12 mr-6 mb-8 lg:mb-0">
             <h1 className="text-35 font-extrabold leading-118 mb-10">
               {frontmatter.hero_section.heading}

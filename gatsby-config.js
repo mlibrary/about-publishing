@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Michigan Publishing`,
-    description: `Gatsby website coupled with Netlify CMS.`,
+    description: `Advancing scholarship at U-M and beyond`,
     author: `Michigan Creative`,
   },
   plugins: [
