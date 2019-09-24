@@ -87,7 +87,7 @@ Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultric
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
 
-<figure class="advanced-image max-w-60 md:float-left md:mr-8 mb-4 -ml-32"><img class="w-full" src="/assets/so-s-18-biology-benzie-p-2-104.jpg" alt="jellyfish"><figcaption class="w-7/12 text-xs text-slate-grey mt-2">Nullam quis risus eget urna mollis ornare vel eu leo.<div class="mb-2">Julian Rothschild, AP Photo</div><div class="w-40 h-1 bg-michigan-blue"></div></figcaption></figure>
+<figure class="advanced-image max-w-60 md:float-left md:mr-8 mb-4 -ml-32"><img class="w-full" src="/assets/so-s-18-biology-benzie-p-2-104.jpg" alt="jellyfish"><figcaption class="text-xs text-slate-grey mt-2">Nullam quis risus eget urna mollis ornare vel eu leo.<div class="mb-2">Julian Rothschild, AP Photo</div><div class="w-40 h-1 bg-michigan-blue"></div></figcaption></figure>
 
 Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
@@ -97,7 +97,7 @@ Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultric
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
 
-<figure class="advanced-image max-w-60 md:float-right md:ml-8 mb-4 -mr-32"><img class="w-full" src="/assets/so-s-18-biology-benzie-p-1-77-2.jpg" alt="dolphin"><figcaption class="w-7/12 text-xs text-slate-grey mt-2">Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod.<div class="mb-2">Loream Ipisumio, AP</div><div class="w-40 h-1 bg-michigan-blue"></div></figcaption></figure>
+<figure class="advanced-image max-w-60 md:float-right md:ml-8 mb-4 -mr-32"><img class="w-full" src="/assets/so-s-18-biology-benzie-p-1-77-2.jpg" alt="dolphin"><figcaption class="text-xs text-slate-grey mt-2">Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod.<div class="mb-2">Loream Ipisumio, AP</div><div class="w-40 h-1 bg-michigan-blue"></div></figcaption></figure>
 
 Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
