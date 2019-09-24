@@ -14,6 +14,9 @@ story_image:
   caption: Nullam quis risus eget urna mollis ornare vel eu leo tiburon
   credit: 'Julian Rothschild, AP Photo'
   file: /assets/kitchen-sink.jpg
+profiles:
+  - Emily Wilcox
+  - Giorgio Bertellini
 highlight_box:
   text: >-
     ## Project Partners
@@ -34,8 +37,6 @@ books:
   - Revolutionary Bodies
   - The Divo and the Duce
 type: story
-profiles:
-  - ''
 ---
 The [University of Michigan Press](https://www.press.umich.edu/) is a charter participant in a digital monograph publishing initiative that seeks to increase academic and public engagement with long-form humanities scholarship.
 
