@@ -133,8 +133,6 @@ class IndexPage extends Component {
             />
           </Section>
 
-          {console.log(profileData)}
-
           <Section heading="Profiles" className="lg:w-1/2 px-4">
             <Profile
               name={profileData.title}
