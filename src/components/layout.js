@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
       
       <Header siteTitle={data.site.siteMetadata.title} />
 
-      <div className="container mx-auto px-10 py-4 mt-8">
+      <div className="container mx-auto lg:px-10 px-4 py-4 mt-8">
         <main>{children}</main>
       </div>
       <Footer />

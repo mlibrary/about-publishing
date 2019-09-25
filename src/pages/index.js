@@ -103,7 +103,7 @@ class IndexPage extends Component {
 
         <div className="lg:flex justify-between items-center mb-20 animated fade-in-up">
           <div className="lg:w-5/12 mr-6 mb-8 lg:mb-0">
-            <h1 className="text-35 font-extrabold leading-118 mb-10">
+            <h1 className="md:text-35 text-5xl font-extrabold leading-118 mb-10">
               {frontmatter.hero_section.heading}
             </h1>
 
@@ -115,7 +115,7 @@ class IndexPage extends Component {
           <img
             src={frontmatter.hero_section.image.file}
             alt={frontmatter.hero_section.image.alt}
-            className="w-7/12"
+            className="lg:w-7/12"
           />
         </div>
 

@@ -1,4 +1,3 @@
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 import React from "react"
 
 import NavItem from "../components/navItem"
