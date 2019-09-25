@@ -76,6 +76,9 @@ class Trending extends Component {
     // Replace the zoom so we can get a larger image.
     thumbnail = thumbnail.replace(`zoom=1`, `zoom=2`)
 
+    // Ensure we are using the https URL.
+    thumbnail = thumbnail.replace(`http`, `https`)
+
     // Remove book curl.
     thumbnail = thumbnail.replace(`&edge=curl`, ``)
 
