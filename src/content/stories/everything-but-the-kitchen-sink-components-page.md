@@ -91,7 +91,7 @@ Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultric
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
 
-<figure class="advanced-image none"><img src="/assets/so-s-18-biology-benzie-p-1-77-2.jpg" alt="a dolphin"><figcaption><div class="caption"></div><div class="credit"></div></figcaption></figure>
+<figure class="advanced-image none"><img src="/assets/so-s-18-biology-benzie-p-1-77-2.jpg" alt="a dolphin"><figcaption><div class="caption">A dolphin!</div><div class="credit"></div></figcaption></figure>
 
 Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
