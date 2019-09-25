@@ -8,6 +8,7 @@ module.exports = {
         "6": "6rem",
       },
       height: {
+        "38125": "38.125rem",
         "414": "414px",
       },
       inset: {

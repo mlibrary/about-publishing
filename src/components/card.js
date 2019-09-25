@@ -4,7 +4,7 @@ import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 const Card = ({ title, href, image, alt, subtitle, children, className }) => {
   return (
-    <AniLink fade duration={0.25} to={href} className={className}>
+    <AniLink fade duration={0.25} to={href} className={`block ${className}`}>
       <div className="card rounded flex flex-col h-full">
         <img src={image} alt={alt} className="rounded-t" />
         <div className="border border-very-light-blue px-6 h-full">

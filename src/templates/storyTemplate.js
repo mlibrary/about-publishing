@@ -37,42 +37,35 @@ export default function Template({ data }) {
   return (
     <Layout>
       <SEO title={frontmatter.title} description={markdownRemark.excerpt} />
-      {frontmatter.hero.story_hero_image && (
-        <img
-          className="w-full absolute left-0 max-h-38125 object-cover"
-          src={frontmatter.hero.story_hero_image}
-          alt=""
-          role="presentation"
-        />
-      )}
+      <div className="full-width" style={{background: `url(${hero}) no-repeat center/cover`}}>
+        <div className={`container mx-auto px-10 flex relative z-5 ${hero ? "pt-20 lg:pt-40" : ""}`}>
+          <div className="lg:w-1/5"></div>
 
-      <div className={`flex relative z-5 ${hero ? "pt-40" : ""}`}>
-        <div className="w-1/5"></div>
-
-        <div className="w-4/5 max-w-2xl mb-16">
-          <p
-            className={`text-sm uppercase mb-0 tracking-widest mb-4 ${
-              hero ? "text-michigan-maize" : "text-dusk-blue"
-            }`}
-          >
-            {frontmatter.categories.join(" | ")}
-          </p>
-          <h1
-            className={`font-serif text-375 leading-105 font-semibold ${
-              hero ? "text-very-light-blue" : ""
-            }`}
-          >
-            {frontmatter.title}
-          </h1>
-          {frontmatter.hero.story_hero_image && frontmatter.hero.text && (
-            <p className="font-semibold mt-2 text-white text-lg">
-              {frontmatter.hero.text}
+          <div className="lg:w-4/5 max-w-2xl mb-56">
+            <p
+              className={`text-sm uppercase mb-0 tracking-widest mb-4 ${
+                hero ? "text-michigan-maize" : "text-dusk-blue"
+              }`}
+            >
+              {frontmatter.categories.join(" | ")}
             </p>
-          )}
+            <h1
+              className={`font-serif text-5xl lg:text-375 leading-105 font-semibold ${
+                hero ? "text-very-light-blue" : ""
+              }`}
+            >
+              {frontmatter.title}
+            </h1>
+            {frontmatter.hero.story_hero_image && frontmatter.hero.text && (
+              <p className="font-semibold mt-2 text-white text-lg">
+                {frontmatter.hero.text}
+              </p>
+            )}
+          </div>
         </div>
       </div>
-      <div className="flex items-start relative z-5">
-        <div className={`w-1/5 sticky top-2 ${hero ? "pt-48" : ""}`}>
+      <div className="flex flex-col-reverse lg:flex-row items-start relative z-5 -mt-32">
+        <div className="lg:w-1/5 lg:sticky top-2 lg:pt-48 mb-10 lg:mb-0 mx-auto lg:mx-0">
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">
             <a
@@ -96,7 +89,7 @@ export default function Template({ data }) {
           </div>
         </div>
 
-        <div className="w-4/5 max-w-2xl">
+        <div className="lg:w-4/5 max-w-2xl">
           <figure className="mb-20 text-xs text-slate-grey">
             <img
               src={frontmatter.story_image.file}
@@ -146,10 +139,10 @@ export default function Template({ data }) {
                   return (
                     <a
                       href={book.frontmatter.link}
-                      className="group w-2/5 text-sm"
+                      className="group sm:w-2/5 text-sm mb-8 sm:mb-0 block"
                     >
                       <img
-                        className="mb-4 w-full group-hover:shadow-1"
+                        className="mb-4 lg:w-full group-hover:shadow-1"
                         src={book.frontmatter.image.file}
                         alt={book.frontmatter.image.alt}
                       />
@@ -172,13 +165,15 @@ export default function Template({ data }) {
               </h2>
               {profiles.map(profile => {
                 return (
-                  <div className="md:flex items-center mb-16 text-lg">
+                  <div className="lg:flex items-center mb-16 text-lg">
                     <img
                       src={profile.frontmatter.faculty_image}
                       alt={profile.frontmatter.title}
-                      className="lg:w-1/3 mb-8 lg:mb-0"
+                      className="lg:w-1/3 mb-8 lg:mb-0 mx-auto lg:mx-0 mb-8 lg:mb-0"
                     />
-                    <p className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">{profile.frontmatter.bio}</p>
+                    <p className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
+                      {profile.frontmatter.bio}
+                    </p>
                   </div>
                 )
               })}
@@ -189,7 +184,7 @@ export default function Template({ data }) {
 
       {featuredStories.length > 0 && (
         <Section heading="Explore more stories:" className="mb-20">
-          <div className="lg:flex -mx-3">
+          <div className="flex flex-wrap -mx-3">
             {featuredStories.map(story => {
               return (
                 <Card
@@ -199,7 +194,7 @@ export default function Template({ data }) {
                   image={story.frontmatter.story_image.file}
                   alt={story.frontmatter.story_image.alt}
                   subtitle={story.frontmatter.categories.join(" | ")}
-                  className="md:w-1/2 lg:w-1/3 px-3 flex flex-col"
+                  className="md:w-1/2 lg:w-1/3 px-3 flex flex-col mb-8 lg:mb-0"
                 >
                   {story.excerpt}
                 </Card>

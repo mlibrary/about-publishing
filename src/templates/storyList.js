@@ -26,7 +26,7 @@ export default function StoryList({ data, pageContext }) {
 
       <PageHeading heading="Stories of Impact" />
 
-      <div className="lg:flex flex-wrap -m-4 mb-12">
+      <div className="flex flex-wrap justify-between -m-4 mb-12">
         {stories.map(story => {
           const { frontmatter } = story.node
 
@@ -54,7 +54,7 @@ export default function StoryList({ data, pageContext }) {
                   fade
                   duration={0.25}
                   to="/stories-of-impact"
-                  className="mr-8"
+                  className="mr-8 hidden md:inline"
                 >
                   « first
                 </AniLink>
@@ -67,13 +67,13 @@ export default function StoryList({ data, pageContext }) {
 
             {isFirst && (
               <div className="text-almost-black-30">
-                <span className="mr-8">« first</span>
+                <span className="mr-8 hidden md:inline">« first</span>
                 <span>‹ previous</span>
               </div>
             )}
           </div>
 
-          <div>
+          <div className="hidden md:block">
             {Array.from({ length: storyPages }, (_, i) => (
               <AniLink
                 fade
@@ -100,7 +100,7 @@ export default function StoryList({ data, pageContext }) {
                   fade
                   duration={0.025}
                   to={`/stories-of-impact/${storyPages.toString()}`}
-                  className="ml-8"
+                  className="ml-8 hidden md:inline"
                 >
                   last »
                 </AniLink>
@@ -110,7 +110,7 @@ export default function StoryList({ data, pageContext }) {
             {isLast && (
               <div className="text-almost-black-30">
                 <span className="mr-8">next ›</span>
-                <span>last »</span>
+                <span className="hidden md:inline">last »</span>
               </div>
             )}
           </div>
