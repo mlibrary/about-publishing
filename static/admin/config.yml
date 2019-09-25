@@ -1,8 +1,12 @@
 backend:
   name: gitlab
-  repo: umichcreative/publishing
+  repo: michigan-creative/publishing
   auth_type: implicit
-  app_id: 1425f6591e2190ac420513b6d866409b6d23f6ad75100233a0ff9e466df0198a
+  app_id: 7a1434b77176325d09d8968ecf6d424c1d2f1bc38d2300b4fdb2ae77adcdebca
+  api_root: https://gitlab.umich.edu/api/v4
+  base_url: https://gitlab.umich.edu
+  auth_endpoint: oauth/authorize
+
 media_folder: static/assets
 public_folder: assets
 collections:
