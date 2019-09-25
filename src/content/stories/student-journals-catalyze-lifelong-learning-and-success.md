@@ -12,11 +12,7 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
-profiles:
-  - Caitlin Heenan
-  - Sean Guynes
-  - Anna Kang
-  - Matthew Ward
+profiles: []
 highlight_box:
   text: |-
     ## Student-led publications:
