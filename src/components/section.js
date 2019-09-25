@@ -6,10 +6,10 @@ import DynamicLink from "../components/dynamicLink"
 const Section = ({ children, heading, linkText, linkURL, className }) => {
   return (
     <section className={className}>
-      <div className="flex items-center justify-between line-heading">
-        <h2 className="font-serif text-35 mb-6 pr-4">{heading}</h2>
+      <div className="md:flex items-center justify-between md:line-heading mb-8 md:mb-0">
+        <h2 className="font-serif md:text-35 text-4xl md:mb-6 pr-4">{heading}</h2>
         {linkURL && (
-          <DynamicLink className="text-mid-blue pl-4" to={linkURL}>
+          <DynamicLink className="text-mid-blue md:pl-4" to={linkURL}>
             <span className="link-hover">{linkText} ></span>
           </DynamicLink>
         )}

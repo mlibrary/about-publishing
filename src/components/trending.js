@@ -88,7 +88,7 @@ class Trending extends Component {
         if (publication.id === id) {
           publication.imageLoaded = true
         }
-        
+
         return publication
       })
 
@@ -107,21 +107,21 @@ class Trending extends Component {
         )}
 
         {!this.state.loading && (
-          <div className="lg:flex -m-4 fade-in">
+          <div className="md:flex flex-wrap lg:flex-no-wrap justify-between -m-4 fade-in">
             {this.state.trending.map(book => {
               return (
                 <a
                   href={book.link}
-                  className="trending lg:w-1/4 m-4 pb-8 flex flex-col border-b-4 border-dusk-blue overflow-hidden"
+                  className="trending lg:w-1/4 md:w-1/2 lg:m-4 px-4 lg:px-0 pb-8 mb-8 lg:mb-0 flex flex-col border-b-4 border-dusk-blue overflow-hidden"
                   key={book.id}
                 >
-                  <div className="h-414 mb-8">
+                  <div className="lg:h-414 mb-8">
                     {book.image && (
                       <img
                         src={book.image}
                         alt={book.title}
                         role="presentation"
-                        className={`w-full trending-image overflow-hidden rounded ${
+                        className={`trending-image overflow-hidden rounded ${
                           book.imageLoaded ? "fade-in" : ""
                         }`}
                         onLoad={() => this.replaceImage(book.id)}

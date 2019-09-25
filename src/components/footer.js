@@ -28,9 +28,9 @@ const Footer = () => {
     <footer className="site-footer container mx-auto px-10">
       <div className="border-t-8 border-very-light-blue">
         <div className="mb-16 mt-6">
-          <div className="flex justify-between">
-            <div className="flex flex-col justify-between">
-              <div className="mb-8">
+          <div className="md:flex justify-between">
+            <div className="flex flex-col justify-between items-center md:items-start">
+              <div className="mb-8 text-center md:text-left">
                 <p className="mb-0 font-bold">{frontmatter.name}</p>
                 <address className="not-italic">
                   <span className="block">{frontmatter.address}</span>
@@ -38,9 +38,9 @@ const Footer = () => {
                 </address>
               </div>
 
-              <div>
+              <div className="mb-8 md:mb-0 text-center md:text-left">
                 <a
-                  className="text-mid-blue mr-16 link-hover"
+                  className="text-mid-blue md:mr-16 link-hover block md:inline mb-8 md:mb-0"
                   href="mailto:{frontmatter.email}"
                 >
                   {frontmatter.email}
@@ -54,8 +54,8 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="flex flex-col items-end justify-between">
-              <div className="flex">
+            <div className="flex flex-col md:items-end justify-between items-center">
+              <div className="flex mb-8 md:mb-0">
                 {frontmatter.social &&
                   frontmatter.social.map(social => {
                     return (
@@ -74,6 +74,7 @@ const Footer = () => {
                 <img
                   src="/assets/m-library-logo.svg"
                   alt="UM Library logo"
+                  className="mb-8 md:mb-0"
                 ></img>
               </a>
 

@@ -170,21 +170,23 @@ main {
 }
 
 /* Line heading */
-.line-heading {
-  position: relative;
-}
+@responsive {
+  .line-heading {
+    position: relative;
+  }
 
-.line-heading::after {
-  border-bottom: 1px solid #aab9e3;
-  content: "";
-  position: absolute;
-  width: 100%;
-}
+  .line-heading::after {
+    border-bottom: 1px solid #aab9e3;
+    content: "";
+    position: absolute;
+    width: 100%;
+  }
 
-.line-heading > * {
-  background-color: #fefefe;
-  position: relative;
-  z-index: 1;
+  .line-heading > * {
+    background-color: #fefefe;
+    position: relative;
+    z-index: 1;
+  }
 }
 
 /* Shadows */

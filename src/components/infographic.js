@@ -6,7 +6,7 @@ const Infographic = ({ largeText, smallText, className }) => {
     <div className={`infographic ${className}`}>
       <div className="text-center text-michigan-blue rounded-full h-1675 w-1675 flex flex-col justify-center">
         <div className="text-525 font-semibold leading-none">{largeText}</div>
-        <div className="w-56 mx-auto">{smallText}</div>
+        <div className="w-13 mx-auto">{smallText}</div>
       </div>
     </div>
   )

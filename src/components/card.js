@@ -11,7 +11,7 @@ const Card = ({ title, href, image, alt, subtitle, children, className }) => {
           <p className="text-sm uppercase text-dusk-blue mb-2 mt-4 tracking-widest">
             {subtitle}
           </p>
-          <h3 className="text-3xl leading-tight mb-6">{title}</h3>
+          <h3 className="text-2xl xl:text-3xl leading-tight mb-6">{title}</h3>
           <p className="mb-8">{children}</p>
         </div>
       </div>

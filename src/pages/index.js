@@ -101,7 +101,7 @@ class IndexPage extends Component {
       <Layout>
         <SEO title="Home" />
 
-        <div className="lg:flex justify-between items-center mb-20 animated fade-in-up">
+        <div className="lg:flex justify-between items-center mb-10 md:mb-20 animated fade-in-up">
           <div className="lg:w-5/12 mr-6 mb-8 lg:mb-0">
             <h1 className="md:text-35 text-5xl font-extrabold leading-118 mb-10">
               {frontmatter.hero_section.heading}
@@ -119,7 +119,7 @@ class IndexPage extends Component {
           />
         </div>
 
-        <div className="lg:flex -mx-4 mb-20">
+        <div className="lg:flex -mx-4 mb-10 lg:mb-20">
           <Section
             heading={frontmatter.highlight.heading}
             linkURL={frontmatter.highlight.link_url}
@@ -145,7 +145,7 @@ class IndexPage extends Component {
 
         <Section
           heading="Stories of Impact"
-          className="mb-20"
+          className="mb-10 lg:mb-20"
           linkText="More Stories"
           linkURL="/stories-of-impact"
         >
@@ -159,7 +159,7 @@ class IndexPage extends Component {
                   image={story.frontmatter.story_image.file}
                   alt={story.frontmatter.story_image.alt}
                   subtitle={story.frontmatter.categories.join("|")}
-                  className="md:w-1/2 lg:w-1/3 px-3 flex flex-col"
+                  className="md:w-1/2 lg:w-1/3 px-3 flex flex-col lg:mb-0 mb-8"
                 >
                   {story.excerpt}
                 </Card>
@@ -168,19 +168,19 @@ class IndexPage extends Component {
           </div>
         </Section>
 
-        <Section heading="Trending" className="mb-20">
+        <Section heading="Trending" className="mb-10 lg:mb-20">
           <Trending />
         </Section>
 
         <Section heading={frontmatter.infographics.heading} className="mb-16">
-          <div className="lg:flex justify-between mx-12">
+          <div className="flex lg:flex-row flex-col items-center justify-between lg:mx-12">
             {frontmatter.infographics.infographics.map(infographic => {
               return (
                 <Infographic
                   key={infographic.small_text}
                   largeText={infographic.large_text}
                   smallText={infographic.small_text}
-                  className="max-w-xs flex"
+                  className="max-w-xs flex justify-center mb-8 lg:mb-0"
                 />
               )
             })}
