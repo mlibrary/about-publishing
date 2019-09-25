@@ -1,5 +1,6 @@
 ---
 title: Cultivating the Perfect Guidebook through Teaching
+path: /stories-of-impact/cultivating-perfect-guidebook
 hero:
   story_hero_image: ''
   text: ''
@@ -10,9 +11,10 @@ story_image:
   alt: Cultivating the Perfect Guidebook through Teaching
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
+  file: /assets/trees2.png
+profiles:
+  - ''
 highlight_box:
-  heading: Books
   text: >-
     [Michigan Trees
     (2004)](https://www.press.umich.edu/17709/michigan_trees_revised_and_updated)
@@ -24,12 +26,9 @@ highlight_box:
     Burton V. Barnes and Warren H. Wagner, Jr.
 related_stories:
   - ''
-path: /stories-of-impact/cultivating-perfect-guidebook
-type: story
-profiles:
-  - ''
 books:
   - ''
+type: story
 ---
 University of Michigan Press publishes a rich collection of books that explore the history, culture, and environment of the Great Lakes region. These books are collaborative efforts with campus partners. A particularly fruitful example involves a book that has been in print since 1913 and a beloved undergraduate course taught in the School for Environment and Sustainability.
 
