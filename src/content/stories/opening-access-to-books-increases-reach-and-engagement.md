@@ -1,5 +1,6 @@
 ---
 title: Opening Access to Books Increases Reach and Engagement
+path: /stories-of-impact/opening-access-to-books
 hero:
   story_hero_image: ''
   text: ''
@@ -8,17 +9,14 @@ date: 2019-09-23T04:00:00.000Z
 categories:
   - Faculty Public Engagement
 story_image:
-  alt: Open access monograph grants promote faculty engagement
+  alt: Photo of a data network
   caption: ''
   credit: ''
-  file: /assets/open-access.jpg
+  file: /assets/gere_cover_art_istock-544982936.jpg
 profiles:
   - Abigail De Kosnik and Keith Feldman
   - Jacob Smith
-books:
-  - ''
 highlight_box:
-  heading: ''
   text: >-
     **Partners**
 
@@ -60,7 +58,8 @@ highlight_box:
 
     By Abigail De Kosnik and Keith Feldman
 related_stories: []
-path: /stories-of-impact/opening-access-to-books
+books:
+  - ''
 type: story
 ---
 Letting people read a book for free can actually be good business. Open Access (OA) expands the purchasing audience and supports authors’ ambitions to reach all readers who need their work, not just those who can afford to buy it.
