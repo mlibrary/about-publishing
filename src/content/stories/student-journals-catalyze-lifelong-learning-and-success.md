@@ -8,10 +8,10 @@ date: 2019-09-19T20:55:18.258Z
 categories:
   - Academic Innovation
 story_image:
-  alt: test
+  alt: Student studying in the library
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
+  file: /assets/general-campus-images-3.jpg
 profiles: []
 highlight_box:
   text: |-
