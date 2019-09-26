@@ -9,10 +9,10 @@ date: 2019-09-19T13:56:37.869Z
 categories:
   - Sustainability
 story_image:
-  alt: when digs go digital
+  alt: Archaeological dig at the site of Gabii near Rome
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
+  file: /assets/gabii-1.jpg
 profiles: []
 highlight_box:
   text: >-
