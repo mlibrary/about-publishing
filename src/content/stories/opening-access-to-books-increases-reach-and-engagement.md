@@ -80,3 +80,13 @@ Jacob Smith’s _ESC: Sonic Adventure in the Anthropocene_ uses OA to enrich dig
 Aswin Punathambekar and Sriram Mohan saw an opportunity to engage a broader international audience for their edited volume, _Global Digital Cultures: Perspectives from South Asia_. For them, OA also facilitates cross-disciplinary engagement, aligned with the ambitions of the University’s Global Media Studies Institute.
 
 While authors’ primary motivations are different, being able to offer an OA option can provide acquiring editors with a competitive advantage. Through its support of sustainable OA, Michigan Publishing is also catalyzing engagement with the next generation of humanities scholarship.
+
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">## Open Access by the Numbers
+
+5,000: The average number of times that a UMP open access monograph gets downloaded by users . Users in the Philippines top the list of 180 different countries where the books are used.
+
+1 million: Users of the 30+ open access journals produced by Michigan Publishing last year . The 600 articles received 2+ million page hits, 53,892 article downloads and 8,640 mentions across social media, news and blogs, policy documents, and Wikipedia.
+
+10 million: Downloads from the Deep Blue institutional repository last year reflect high demand for U-M scholarship . The #1 institutional repository in North America contains over 100,000 different research outputs from U-M faculty
+
+and graduate students, including research data, technical reports, theses and dissertations, and journal articles .</div>
