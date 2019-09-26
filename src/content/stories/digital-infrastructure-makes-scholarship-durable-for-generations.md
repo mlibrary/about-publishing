@@ -1,21 +1,19 @@
 ---
 title: Digital Infrastructure Makes Scholarship Durable for Generations
-hero:
-  story_hero_image: 
-  text:
+path: /stories-of-impact/digital-infrastructure
+hero: {}
 author: Author TBD
 date: 2019-09-19T19:58:25.768Z
 categories:
   - Sustainability
 story_image:
-  alt: test
+  alt: Digital preservation meeting
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
+  file: /assets/digital-preservation-experts-meet-in-ann-arbor-sept-2018.jpg
 profiles:
   - Jeremy Morse
 highlight_box:
-  heading: Project Partners
   text: >-
     [Academic Preservation Trust](http://aptrust.org/), committed to the
     creation and management of a sustainable environment for digital
@@ -24,11 +22,11 @@ highlight_box:
 
     [CLOCKSS](https://clockss.org/), provides a sustainable dark archive to
     ensure the long-term survival of Web-based scholarly content.
-related_stories: [""]
-path: /stories-of-impact/digital-infrastructure
-type: story
+related_stories:
+  - ''
 books:
   - ''
+type: story
 ---
 It sometimes feels like you’ll always be able to retrieve electronic files or data. Until you can’t. 
 
