@@ -10,7 +10,7 @@ import MarkdownContent from "../components/markdownContent"
 import Card from "../components/card"
 import Section from "../components/section"
 
-export default function Template({ data }) {
+export default function StoryTemplate({ data }) {
   const converter = new showdown.Converter()
 
   const { markdownRemark } = data
@@ -65,7 +65,7 @@ export default function Template({ data }) {
         </div>
       </div>
       <div className="flex flex-col-reverse lg:flex-row items-start relative z-5 -mt-32">
-        <div className="lg:w-1/5 lg:sticky top-2 lg:pt-48 mb-10 lg:mb-0 mx-auto lg:mx-0">
+        <div className={`lg:w-1/5 lg:sticky top-9 mb-10 lg:mb-0 mx-auto lg:mx-0 ${hero ? "lg:pt-48" : ""}`}>
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">
             <a

@@ -38,6 +38,7 @@ module.exports = {
       },
       zIndex: {
         "5": "5",
+        "8": "8",
       },
     },
     colors: {

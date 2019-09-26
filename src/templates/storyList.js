@@ -26,7 +26,7 @@ export default function StoryList({ data, pageContext }) {
 
       <PageHeading heading="Stories of Impact" />
 
-      <div className="flex flex-wrap justify-between -m-4 mb-12">
+      <div className="flex flex-wrap -m-4 mb-12">
         {stories.map(story => {
           const { frontmatter } = story.node
 

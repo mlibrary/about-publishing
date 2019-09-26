@@ -136,8 +136,6 @@ collections:
     label: Stories
     label_singular: Story
     create: true
-    editor:
-      preview: false
     folder: src/content/stories
     fields:
       - { name: title, label: Title }
