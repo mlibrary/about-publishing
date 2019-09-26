@@ -2,6 +2,7 @@
 title: Sustainable Publishing for Digital Scholarship in the Humanities
 path: /stories-of-impact/sustainable-publishing
 hero:
+  story_hero_image: ''
   text: >-
     Michigan Publishing is pushing the boundaries of the book. The 2018 launch
     of Fulcrum—an open source publishing platform developed with support from
@@ -13,7 +14,7 @@ date: 2019-09-19T19:45:46.638Z
 categories:
   - Academic Innovation
 story_image:
-  alt: Fulcrum booth at ACRL conference
+  alt: test
   caption: ''
   credit: ''
   file: /assets/fulcrum-at-acrl-conference-2.jpg

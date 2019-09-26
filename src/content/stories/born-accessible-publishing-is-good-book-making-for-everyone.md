@@ -8,7 +8,7 @@ date: 2019-09-20T14:20:01.016Z
 categories:
   - Academic Innovation
 story_image:
-  alt: Person holding a smartphone
+  alt: Born-accessible Publishing is Good Book-making for Everyone
   caption: ''
   credit: ''
   file: /assets/accessible-books-work-on-any-device.jpg

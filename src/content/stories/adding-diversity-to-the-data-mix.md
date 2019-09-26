@@ -8,7 +8,7 @@ date: 2019-09-20T14:25:02.928Z
 categories:
   - 'Diversity, Equity & Inclusion'
 story_image:
-  alt: Attendees at U-M's Diversity Summit
+  alt: Adding Diversity to the Data Mix
   caption: ''
   credit: ''
   file: /assets/divsummprtnshpminst15-78-.jpg

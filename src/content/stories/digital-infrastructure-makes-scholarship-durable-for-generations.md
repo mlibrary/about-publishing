@@ -7,7 +7,7 @@ date: 2019-09-19T19:58:25.768Z
 categories:
   - Sustainability
 story_image:
-  alt: Digital preservation meeting
+  alt: test
   caption: ''
   credit: ''
   file: /assets/digital-preservation-experts-meet-in-ann-arbor-sept-2018.jpg
