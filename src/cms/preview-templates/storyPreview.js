@@ -1,6 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-import showdown from "showdown"
 
 const StoryPreview = ({ entry, widgetFor }) => {
   const hero = entry.getIn(["data", "hero", "story_hero_image"])
@@ -12,10 +11,6 @@ const StoryPreview = ({ entry, widgetFor }) => {
   const caption = entry.getIn(["data", "story_image", "caption"])
   const credit = entry.getIn(["data", "story_image", "credit"])
   const body = widgetFor("body")
-
-  console.log(body)
-
-  const converter = new showdown.Converter()
 
   return (
     <div className="font-sans text-dark bg-white container mx-auto lg:px-10 px-4 pb-4">
