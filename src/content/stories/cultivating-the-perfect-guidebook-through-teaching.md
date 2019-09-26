@@ -11,7 +11,7 @@ story_image:
   alt: Cultivating the Perfect Guidebook through Teaching
   caption: ''
   credit: ''
-  file: /assets/trees2.png
+  file: /assets/trees2.jpg
 profiles:
   - ''
 highlight_box:
