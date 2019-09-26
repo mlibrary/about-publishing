@@ -1,5 +1,6 @@
 ---
 title: Adding Diversity to the Data Mix
+path: /stories-of-impact/adding-diversity
 hero:
   story_hero_image: ''
   text: ''
@@ -7,14 +8,13 @@ date: 2019-09-20T14:25:02.928Z
 categories:
   - 'Diversity, Equity & Inclusion'
 story_image:
-  alt: Adding Diversity to the Data Mix
+  alt: Attendees at U-M's Diversity Summit
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
+  file: /assets/divsummprtnshpminst15-78-.jpg
 profiles:
   - ''
 highlight_box:
-  heading: Project Partners
   text: >-
     [U-M Library at the University of Michigan](https://www.lib.umich.edu/)
 
@@ -34,7 +34,6 @@ highlight_box:
     collective strength.
 related_stories:
   - ''
-path: /stories-of-impact/adding-diversity
 books:
   - ''
 type: story
