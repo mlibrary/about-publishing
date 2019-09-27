@@ -31,6 +31,15 @@ type: story
 ---
 Much like all of the work at Michigan Publishing, the values of diversity and accessibility are woven into the English Language Teaching (ELT) list. Not only does the list serve multilingual teachers and students around the world, it supports accessibility through innovative content.
 
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">The deal with digi-minis:
+
+* 40-60 single-spaced pages or about 18,000 words
+* Limited art/figures/tables
+* No copyrighted material
+* Author copyright
+* High royalty rate as an incentive to produce quickly
+* $3 .99 Net price</div>
+
 A perfect example is the 2018 title: Refugee Students: What Every Teacher Needs to Know, which serves as an advocate for international students, immigrants, and refugees. It was published in the fall of 2018 to coincide with author Jeffra Flaitz being invited to several ESL Advocacy events based on her experience as an advocate in a detainee camp in 2016, her experience in the Florida public schools, and as a professor/teacher trainer (PhD in Linguistics). 
 
 “Teachers were thrilled to have a small guide to give to people that reinforce the truth about refugees and immigrants in the U.S. ahead of the 2018 elections,” said ELT Director Kelly Sippell. An expanded version is planned for 2020 due to the success of the book.
@@ -43,5 +52,5 @@ As one of ELT’s newest e-singles/digi-minis, Refugee Students is also an examp
 
 The increased access also generates more speaking opportunities for authors to talk about their work internationally. These texts can also be included in massive open online courses, thus increasing the visibility of Michigan as an innovative ELT publisher in a “bit” / a la carte purchasing environment.
 
-<blockquote class="quote full yellow"><p>In some ways, it helps lure authors into the digital publishing world in a more
-‘reasonable’ way, which can lead to thinking about their existing (or new) print content in new ways.</p><footer><cite>- Kelly Sippell <br>ELT Director</cite></footer></blockquote>
+<blockquote class="quote full blue"><p>In some ways, it helps lure authors into the digital publishing world in a more
+‘reasonable’ way, which can lead to thinking about their existing (or new) print content in new ways.</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
