@@ -43,5 +43,11 @@ module.exports = {
     },
     `gatsby-plugin-postcss`,
     `gatsby-plugin-transition-link`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-20101573-1",
+      },
+    },
   ],
 }
