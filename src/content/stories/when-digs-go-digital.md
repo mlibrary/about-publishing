@@ -1,21 +1,18 @@
 ---
+categories:
+  - Sustainability
 title: When Digs Go Digital
 path: /stories-of-impact/when-digs-go-digital
 hero:
   story_hero_image: ''
   text: ''
-author: Author needed
-date: 2019-09-19T13:56:37.869Z
-categories:
-  - Sustainability
 story_image:
   alt: when digs go digital
   caption: ''
   credit: ''
   file: /assets/gabii-1.jpg
-profiles:
-  - Jon McGlone
-  - Dr. Mike Galaty
+author: Author needed
+date: 2019-09-19T13:56:37.869Z
 highlight_box:
   text: |-
     Kelsey Museum of Archaeology at the University of Michigan
@@ -25,9 +22,12 @@ highlight_box:
     Museum of Anthropological Archaeology at the University of Michigan
 
     <https://lsa.umich.edu/ummaa>
-related_stories:
-  - ''
 books:
+  - A Mid-Republican House from Gabii
+profiles:
+  - Jon McGlone
+  - Dr. Mike Galaty
+related_stories:
   - ''
 type: story
 ---
