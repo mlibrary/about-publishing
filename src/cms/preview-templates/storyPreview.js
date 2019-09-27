@@ -80,7 +80,7 @@ const StoryPreview = ({ entry, widgetFor }) => {
             <img
               src={image}
               alt={imageAlt}
-              className="mb-4 metaDescriptionrounded-lg animated fade-in-up"
+              className="mb-4 rounded-lg animated fade-in-up"
             />
             {(caption || credit) && (
               <div>

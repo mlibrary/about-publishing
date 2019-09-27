@@ -108,8 +108,8 @@ collections:
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
       - { name: path, label: Path }
+      - { name: body, label: Body, widget: markdown }
       - { name: type, label: Type, widget: hidden, default: page }
 
   - name: books
@@ -138,17 +138,6 @@ collections:
     create: true
     folder: src/content/stories
     fields:
-      - { name: title, label: Title }
-      - { name: path, label: Path, default: /stories-of-impact/story-name }
-      - name: hero
-        label: Hero section
-        widget: object
-        required: false
-        fields:
-          - { name: text, label: Text, widget: text, required: false, default: "" }
-          - { name: story_hero_image, label: Image, widget: image, required: false, default: "" }
-      - { name: author, label: Author, required: false }
-      - { name: date, label: Date, widget: date }
       - {
           name: categories,
           label: Categories,
@@ -158,6 +147,15 @@ collections:
           valueField: title,
           multiple: true,
         }
+      - { name: title, label: Title }
+      - { name: path, label: Path, default: /stories-of-impact/story-name }
+      - name: hero
+        label: Hero section
+        widget: object
+        required: false
+        fields:
+          - { name: text, label: Text, widget: text, required: false, default: "" }
+          - { name: story_hero_image, label: Image, widget: image, required: false, default: "" }
       - name: story_image
         label: Image
         widget: object
@@ -166,34 +164,15 @@ collections:
           - { name: alt, label: Alt text }
           - { name: caption, label: Caption, required: false, default: "" }
           - { name: credit, label: Credit, required: false, default: "" }
-      - {
-          name: profiles,
-          label: Profiles,
-          widget: relation,
-          collection: profiles,
-          searchFields: [title],
-          valueField: title,
-          multiple: true,
-          required: false,
-          default: [""],
-        }
+      - { name: body, label: Body, widget: markdown }
+      - { name: author, label: Author, required: false }
+      - { name: date, label: Date, widget: date }
       - name: highlight_box
         label: Highlight box
         widget: object
         required: false
         fields:
           - { name: text, label: Text, widget: markdown, required: false, default: "" }
-      - {
-          name: related_stories,
-          label: Related Stores,
-          widget: relation,
-          collection: stories,
-          searchFields: [title],
-          valueField: title,
-          multiple: true,
-          required: false,
-          default: [""],
-        }
       - {
           name: books,
           label: Books,
@@ -205,7 +184,28 @@ collections:
           required: false,
           default: [""]
         }
-      - { name: body, label: Body, widget: markdown }
+      - {
+          name: profiles,
+          label: Profiles,
+          widget: relation,
+          collection: profiles,
+          searchFields: [title],
+          valueField: title,
+          multiple: true,
+          required: false,
+          default: [""],
+        }
+      - {
+          name: related_stories,
+          label: Related Stores,
+          widget: relation,
+          collection: stories,
+          searchFields: [title],
+          valueField: title,
+          multiple: true,
+          required: false,
+          default: [""],
+        }
       - { name: type, label: Type, widget: hidden, default: story }
 
   - name: profiles
