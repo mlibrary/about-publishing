@@ -1,17 +1,17 @@
 ---
+categories:
+  - Academic Innovation
 title: ELT Reflects Humanity and Broadens Access in Its Publishing
 path: /stories-of-impact/elt-reflects-humanity
 hero:
   story_hero_image: ''
   text: ''
-date: 2019-09-20T14:33:57.441Z
-categories:
-  - Academic Innovation
 story_image:
   alt: ELT Reflects Humanity and Broadens Access in Its Publishing
   caption: ''
   credit: ''
   file: /assets/bideo.jpg
+date: 2019-09-20T14:33:57.441Z
 profiles:
   - ''
 highlight_box:
@@ -53,4 +53,4 @@ As one of ELT’s newest e-singles/digi-minis, Refugee Students is also an examp
 The increased access also generates more speaking opportunities for authors to talk about their work internationally. These texts can also be included in massive open online courses, thus increasing the visibility of Michigan as an innovative ELT publisher in a “bit” / a la carte purchasing environment.
 
 <blockquote class="quote full blue"><p>In some ways, it helps lure authors into the digital publishing world in a more
-‘reasonable’ way, which can lead to thinking about their existing (or new) print content in new ways.</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
+reasonable way, which can lead to thinking about their existing (or new) print content in new ways.</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
