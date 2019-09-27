@@ -52,5 +52,4 @@ As one of ELT’s newest e-singles/digi-minis, Refugee Students is also an examp
 
 The increased access also generates more speaking opportunities for authors to talk about their work internationally. These texts can also be included in massive open online courses, thus increasing the visibility of Michigan as an innovative ELT publisher in a “bit” / a la carte purchasing environment.
 
-<blockquote class="quote full blue"><p>In some ways, it helps lure authors into the digital publishing world in a more
-reasonable way, which can lead to thinking about their existing (or new) print content in new ways.</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
+<blockquote class="quote full blue"><p>In some ways, it helps lure authors into the digital publishing world in a more reasonable way, which can lead to thinking about their existing (or new) print content in new ways.</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
