@@ -1,22 +1,19 @@
 ---
+categories:
+  - 'Diversity, Equity & Inclusion'
+  - Faculty Public Engagement
 title: Everything but the kitchen sink components page!
 path: /stories-of-impact/kitchen-sink
 hero:
   story_hero_image: /assets/story-hero.jpg
   text: Here is some hero text
-author: Author goes here
-date: 2019-09-23T12:38:56.440Z
-categories:
-  - 'Diversity, Equity & Inclusion'
-  - Faculty Public Engagement
 story_image:
   alt: Everything but the kitchen sink components page!
   caption: Nullam quis risus eget urna mollis ornare vel eu leo tiburon
   credit: 'Julian Rothschild, AP Photo'
   file: /assets/kitchen-sink.jpg
-profiles:
-  - Emily Wilcox
-  - Giorgio Bertellini
+author: Author goes here
+date: 2019-09-23T12:38:56.440Z
 highlight_box:
   text: >-
     ## Project Partners
@@ -29,13 +26,17 @@ highlight_box:
     [Data Driven Detroit](https://datadrivendetroit.org/), a community
     organization dedicated providing equitable access to high-quality data to
     the citizens of Detroit
+books:
+  - Revolutionary Bodies
+  - The Divo and the Duce
+  - A Mid-Republican House from Gabii
+profiles:
+  - Emily Wilcox
+  - Giorgio Bertellini
 related_stories:
   - Cultivating the Perfect Guidebook through Teaching
   - ELT Reflects Humanity and Broadens Access in Its Publishing
   - Opening Access to Books Increases Reach and Engagement
-books:
-  - Revolutionary Bodies
-  - The Divo and the Duce
 type: story
 ---
 The [University of Michigan Press](https://www.press.umich.edu/) is a charter participant in a digital monograph publishing initiative that seeks to increase academic and public engagement with long-form humanities scholarship.
