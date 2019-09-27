@@ -12,8 +12,6 @@ story_image:
   credit: ''
   file: /assets/bideo.jpg
 date: 2019-09-20T14:33:57.441Z
-profiles:
-  - ''
 highlight_box:
   text: >-
     [The Three Minute Thesis in the Classroom: What Every ESL Teacher Needs to
@@ -23,6 +21,8 @@ highlight_box:
 
     [MOOCs: What Every ESL Teacher Needs to
     Know](https://www.press.umich.edu/10140778/moocs) By Pamela S.H. Bogart
+profiles:
+  - ''
 related_stories:
   - ''
 books:
@@ -46,7 +46,7 @@ A perfect example is the 2018 title: Refugee Students: What Every Teacher Needs 
 
 As one of ELT’s newest e-singles/digi-minis, Refugee Students is also an example of how the ELT list is broadening access through more easily accessible content. The e-singles were designed to not only attract new audiences of teachers—both local and abroad—but new authors. These works are short, easily digestible, low-cost ebooks on topics that can (and should) be updated—and often provide a good opportunity for authors to do so. 
 
-<blockquote class="quote floated yellow"><p>“Teachers were thrilled to have a small guide to give to people that reinforce the truth about refugees and immigrants in the U.S. ahead of the 2018 elections.”</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
+<blockquote class="quote floated yellow"><p>Teachers were thrilled to have a small guide to give to people that reinforce the truth about refugees and immigrants in the U.S. ahead of the 2018 elections.</p><footer><cite>- Kelly Sippell<br>ELT Director</cite></footer></blockquote>
 
 “In some ways, it helps lure authors into the digital publishing world in a more ‘reasonable’ way, which can lead to thinking about their existing (or new) print content in new ways,” Sippell says.
 
