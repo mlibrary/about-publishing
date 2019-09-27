@@ -37,11 +37,18 @@ export default function StoryTemplate({ data }) {
   return (
     <Layout>
       <SEO title={frontmatter.title} description={markdownRemark.excerpt} />
-      <div className="full-width" style={{background: `url(${hero}) no-repeat center/cover`}}>
-        <div className={`container mx-auto px-10 flex relative z-5 ${hero ? "pt-20 lg:pt-40" : ""}`}>
+      <div
+        className="full-width"
+        style={{ background: `url(${hero}) no-repeat center/cover` }}
+      >
+        <div
+          className={`container mx-auto px-4 lg:px-10 flex relative z-5 ${
+            hero ? "pt-20 lg:pt-40" : ""
+          }`}
+        >
           <div className="lg:w-1/5"></div>
 
-          <div className="lg:w-4/5 max-w-2xl mb-56">
+          <div className="lg:w-4/5 max-w-2xl mb-40 md:mb-56">
             <p
               className={`text-sm uppercase mb-0 tracking-widest mb-4 ${
                 hero ? "text-michigan-maize" : "text-dusk-blue"
@@ -50,7 +57,7 @@ export default function StoryTemplate({ data }) {
               {frontmatter.categories.join(" | ")}
             </p>
             <h1
-              className={`font-serif text-5xl lg:text-375 leading-105 font-semibold ${
+              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 font-semibold ${
                 hero ? "text-very-light-blue" : ""
               }`}
             >
@@ -65,7 +72,11 @@ export default function StoryTemplate({ data }) {
         </div>
       </div>
       <div className="flex flex-col-reverse lg:flex-row items-start relative z-5 -mt-32">
-        <div className={`lg:w-1/5 lg:sticky top-9 mb-10 lg:mb-0 mx-auto lg:mx-0 ${hero ? "lg:pt-48" : ""}`}>
+        <div
+          className={`lg:w-1/5 lg:sticky top-9 mb-10 lg:mb-0 mx-auto lg:mx-0 ${
+            hero ? "lg:pt-48" : ""
+          }`}
+        >
           <p className="font-serif uppercase text-2xl">Share this</p>
           <div className="flex justify-between max-w-8125">
             <a
@@ -116,7 +127,7 @@ export default function StoryTemplate({ data }) {
           />
 
           <div className="text-almost-black border-t border-b lg:flex justify-between py-2 text-sm mb-12">
-            <div>By {frontmatter.author}</div>
+            {frontmatter.author && <div>By {frontmatter.author}</div>}
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
 
