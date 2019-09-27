@@ -22,8 +22,7 @@ highlight_box:
     Museum of Anthropological Archaeology at the University of Michigan
 
     <https://lsa.umich.edu/ummaa>
-books:
-  - A Mid-Republican House from Gabii
+books: []
 profiles:
   - Jon McGlone
   - Dr. Mike Galaty
