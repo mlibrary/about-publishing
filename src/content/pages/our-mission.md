@@ -38,11 +38,3 @@ We're here to support the publishing aspirations of faculty, researchers, and st
 **Want to support our commitment to?**
 
 \[LINK: Support Our Work]
-
-\-----------------------
-
-Founded in 1930, it produces over 100 books a year. Core publishing fields are Political science, Performing arts, Classics and Archaeology, English Language Teaching, American studies, Michigan and the Great Lakes, and Asian studies. Press editors constantly work together to connect the Press’s strongest lists via new interdisciplinary areas. Most of our authors come from outside U-M, but the nine members of the Executive Board and a number of its series editors are U-M faculty members. UMP also has a long tradition of publishing partnerships with centers on campus, such as the Center for Japanese Studies, African Studies Center, and English Language Institute.
-
-It has developed from the Library’s Scholarly Publishing Office, founded in 2000. MPS supports over 30 open access journals, most originally founded at U-M; by employing streamlined workflows built on library infrastructure, MPS reduces the cost of open access publishing to a level which can be supported without article-processing charges. MPS also publishes over 20 books a year, ranging from conference proceedings to grant reports, and supports digital collections such as http://www.influenzaarchive.org/ and http://www.humanitiesebook.org/.
-
-Founded in 2006, almost all the content in Deep Blue is open access, freely available worldwide, with the exception of some embargoed content – particularly some theses and dissertations. Librarian experts work to support faculty who wish to make research data and other outputs openly available, whether through Deep Blue or the disciplinary or subject repositories most appropriate to their field, <https://www.lib.umich.edu/research-data-services>.
