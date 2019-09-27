@@ -1,4 +1,6 @@
 ---
+categories:
+  - Academic Innovation
 title: Sustainable Publishing for Digital Scholarship in the Humanities
 path: /stories-of-impact/sustainable-publishing
 hero:
@@ -9,27 +11,25 @@ hero:
     the Andrew W. Mellon Foundation—was not only a symbol of this innovation,
     but has opened the door for partnerships that sustain the next generation of
     humanities scholarship.
-author: Author TBD
-date: 2019-09-19T19:45:46.638Z
-categories:
-  - Academic Innovation
 story_image:
   alt: test
   caption: ''
   credit: ''
   file: /assets/fulcrum-at-acrl-conference-2.jpg
-profiles:
-  - Beth Bouloukos
-  - Collection Building
-  - Andrée Rathemacher
+author: Author TBD
+date: 2019-09-19T19:45:46.638Z
 highlight_box:
   text: >-
     ## [Fulcrum](https://www.fulcrum.org/), a publishing platform helping
     publishers present the full richness of their authors' research outputs in a
     durable, discoverable, accessible, and flexible form.
-related_stories:
-  - ''
 books:
+  - ''
+profiles:
+  - Beth Bouloukos
+  - Collection Building
+  - Andrée Rathemacher
+related_stories:
   - ''
 type: story
 ---
