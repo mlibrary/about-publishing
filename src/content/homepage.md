@@ -32,7 +32,7 @@ infographics:
   heading: By the Numbers
   infographics:
     - large_text: '2,000'
-      small_text: Original contributions published every a year
+      small_text: Original contributions published every year
     - large_text: 10m
       small_text: >-
         Readers download U-M faculty scholary outputs, advancing public
