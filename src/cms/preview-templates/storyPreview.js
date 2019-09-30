@@ -41,7 +41,7 @@ const StoryPreview = ({ entry, widgetFor }) => {
                 hero ? "text-michigan-maize" : "text-dusk-blue"
               }`}
             >
-              {categories.join(" | ")}
+              {categories && categories.join(" | ")}
             </p>
             <h1
               className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 font-semibold ${
@@ -75,7 +75,7 @@ const StoryPreview = ({ entry, widgetFor }) => {
             </a>
           </div>
         </div>
-        <div className="lg:w-4/5 max-w-2xl">
+        <div className="w-full lg:w-4/5 max-w-2xl">
           <figure className="mb-20 text-xs text-slate-grey">
             <img
               src={image}
