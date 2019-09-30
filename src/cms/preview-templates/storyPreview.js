@@ -22,6 +22,20 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
   const books = entry.getIn(["data", "books"])
   const profiles = entry.getIn(["data", "profiles"])
 
+  // Check to see if any books exist.
+  let booksExist = false
+
+  books.forEach(book => {
+    booksExist = book === "" ? false : true
+  })
+
+  // Check to see if any profiles exist.
+  let profilesExist = false
+
+  profiles.forEach(profile => {
+    profilesExist = profile === "" ? false : true
+  })
+
   return (
     <div className="font-sans">
       {!published && (
@@ -122,7 +136,7 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
               </div>
             )}
 
-            {books.size > 0 && (
+            {booksExist && (
               <div className="lg:flex justify-between mb-20">
                 <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">
                   Books:
@@ -173,7 +187,7 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
               </div>
             )}
 
-            {profiles.size > 0 && (
+            {profilesExist && (
               <div className="my-20">
                 <h2 className="text-4xl font-serif font-semibold mb-10">
                   Profiles
@@ -213,7 +227,6 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
           </div>
         </div>
       </div>
-      )}
     </div>
   )
 }
