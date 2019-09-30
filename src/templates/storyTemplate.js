@@ -227,7 +227,7 @@ export const pageQuery = graphql`
         path
         title
         author
-        date(formatString: "MMMM D, YYYY")
+        date(formatString: "MMMM YYYY")
         plainDate: date
         categories
         hero {
