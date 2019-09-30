@@ -138,6 +138,7 @@ collections:
     create: true
     folder: src/content/stories
     fields:
+      - { name: published, label: Published, widget: boolean, default: true }
       - {
           name: categories,
           label: Categories,

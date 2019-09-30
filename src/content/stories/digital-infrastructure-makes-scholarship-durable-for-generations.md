@@ -27,6 +27,7 @@ related_stories:
 books:
   - ''
 type: story
+published: true
 ---
 It sometimes feels like you’ll always be able to retrieve electronic files or data. Until you can’t. 
 

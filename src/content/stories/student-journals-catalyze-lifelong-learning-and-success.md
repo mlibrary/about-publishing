@@ -34,6 +34,7 @@ related_stories:
 books:
   - ''
 type: story
+published: true
 ---
 In many cases, students go to college for experiences and insights that will prepare them for their professional lives. Michigan Publishing provides a meaningful, measurable output of that experience.
 

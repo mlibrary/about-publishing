@@ -63,7 +63,7 @@ export const IndexQuery = graphql`
     }
 
     stories: allMarkdownRemark(
-      filter: { frontmatter: { type: { eq: "story" } } }
+      filter: { frontmatter: { published: { eq: true }, type: { eq: "story" } } }
     ) {
       nodes {
         frontmatter {

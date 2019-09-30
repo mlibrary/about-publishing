@@ -30,6 +30,7 @@ profiles:
 related_stories:
   - ''
 type: story
+published: true
 ---
 When archaeologists dig, they simultaneously erase the evidence of ancient civilizations. This means that publishing their finds is vital. At the University of Michigan, scholars are working with U-M Press to create innovative publications that present data in immersive ways, while still preserving the quality that specialists value.
 

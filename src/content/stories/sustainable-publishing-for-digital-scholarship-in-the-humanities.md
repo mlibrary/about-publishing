@@ -32,6 +32,7 @@ profiles:
 related_stories:
   - ''
 type: story
+published: true
 ---
 Michigan Publishing is pushing the boundaries of the book. The 2018 launch of Fulcrum—an open source publishing platform developed with support from the Andrew W. Mellon Foundation—was not only a symbol of this innovation, but has opened the door for partnerships that sustain the next generation of humanities scholarship.
 

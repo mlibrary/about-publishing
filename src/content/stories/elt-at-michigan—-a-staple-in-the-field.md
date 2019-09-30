@@ -23,6 +23,7 @@ related_stories:
 books:
   - ''
 type: story
+published: true
 ---
 If there is an ESL course taught at an R1 institution in the United States, the odds are good that it has used a textbook from the English Language Teaching (ELT) list at the University of Michigan. For more than 60 years, University of Michigan Press’s ELT list has served as the publishing arm of the University’s English Language Institute, the first place in the United States to offer English as a Second Language courses. 
 

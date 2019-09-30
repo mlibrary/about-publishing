@@ -28,6 +28,7 @@ related_stories:
 books:
   - ''
 type: story
+published: true
 ---
 Much like all of the work at Michigan Publishing, the values of diversity and accessibility are woven into the English Language Teaching (ELT) list. Not only does the list serve multilingual teachers and students around the world, it supports accessibility through innovative content.
 

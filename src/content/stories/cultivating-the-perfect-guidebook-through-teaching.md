@@ -29,6 +29,7 @@ related_stories:
 books:
   - ''
 type: story
+published: true
 ---
 University of Michigan Press publishes a rich collection of books that explore the history, culture, and environment of the Great Lakes region. These books are collaborative efforts with campus partners. A particularly fruitful example involves a book that has been in print since 1913 and a beloved undergraduate course taught in the School for Environment and Sustainability.
 

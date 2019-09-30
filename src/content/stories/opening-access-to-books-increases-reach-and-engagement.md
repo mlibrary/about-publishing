@@ -41,6 +41,7 @@ profiles:
   - Jacob Smith
 related_stories: []
 type: story
+published: true
 ---
 Letting people read a book for free can actually be good business. Open Access (OA) expands the purchasing audience and supports authors’ ambitions to reach all readers who need their work, not just those who can afford to buy it.
 
