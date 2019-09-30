@@ -1,4 +1,5 @@
 ---
+published: false
 categories:
   - 'Diversity, Equity & Inclusion'
   - Faculty Public Engagement
@@ -38,7 +39,6 @@ related_stories:
   - ELT Reflects Humanity and Broadens Access in Its Publishing
   - Opening Access to Books Increases Reach and Engagement
 type: story
-published: true
 ---
 The [University of Michigan Press](https://www.press.umich.edu/) is a charter participant in a digital monograph publishing initiative that seeks to increase academic and public engagement with long-form humanities scholarship.
 
