@@ -145,12 +145,12 @@ export default function StoryTemplate({ data }) {
               <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">
                 Books:
               </h2>
-              <div className="sm:flex flex-grow justify-between">
+              <div className="sm:flex flex-grow flex-wrap justify-between">
                 {books.map(book => {
                   return (
                     <a
                       href={book.frontmatter.link}
-                      className="group sm:w-2/5 text-sm mb-8 sm:mb-0 block"
+                      className="group sm:w-2/5 text-sm mb-8 sm:mb-4 block"
                     >
                       <img
                         className="mb-4 lg:w-full group-hover:shadow-1"
