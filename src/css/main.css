@@ -23,11 +23,16 @@ main {
 
 /* Content */
 .markdown {
+  font-size: 1.125rem;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol {
   max-width: 42rem;
 }
 
 .markdown p {
-  font-size: 1.125rem;
   margin-bottom: 2rem;
 }
 
