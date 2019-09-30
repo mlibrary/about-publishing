@@ -72,9 +72,9 @@ const Footer = () => {
 
               <a href="http://www.lib.umich.edu/">
                 <img
-                  src="/assets/m-library-logo.svg"
+                  src="/assets/library.png"
                   alt="UM Library logo"
-                  className="mb-8 md:mb-0"
+                  className="mb-8 md:mb-4 md:mt-4 h-24"
                 ></img>
               </a>
 
