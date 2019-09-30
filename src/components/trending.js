@@ -32,6 +32,7 @@ class Trending extends Component {
         title: book.attributes.title,
         mentions: book.attributes.mentions,
         authors: pubData.data.authors,
+        editors: pubData.data.editors,
         link: pubData.data.url,
         id: book.id,
         imageLoaded: false,
@@ -133,11 +134,11 @@ class Trending extends Component {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-1">{book.title}</h3>
-                    {book.authors && (
-                      <p className="text-battleship-grey">
-                        {book.authors.join(" | ")}
-                      </p>
-                    )}
+
+                    <p className="text-battleship-grey">
+                      {book.authors && book.authors.join(" | ")}
+                      {!book.authors && book.editors.join(" | ")}
+                    </p>
                   </div>
                   <div className="mt-auto">
                     <h4 className="uppercase font-semibold mb-4">
