@@ -1,4 +1,5 @@
 ---
+published: true
 categories:
   - Faculty Public Engagement
 title: Opening Access to Books Increases Reach and Engagement
@@ -34,13 +35,13 @@ highlight_box:
     Publishing Services and is supported by a consortium of fifty-four liberal
     arts institutions of higher education.
 books:
-  - 'ESC: Sonic Adventure in the Anthropocene'
-  - 'Global Digital Cultures: Perspectives from South Asian'
+  - 'ESC '
+  - Global Digital Cultures
+  - '#identity'
 profiles:
   - ''
 related_stories: []
 type: story
-published: true
 ---
 Letting people read a book for free can actually be good business. Open Access (OA) expands the purchasing audience and supports authors’ ambitions to reach all readers who need their work, not just those who can afford to buy it.
 
