@@ -1,21 +1,18 @@
 ---
+categories:
+  - Faculty Public Engagement
 title: Opening Access to Books Increases Reach and Engagement
 path: /stories-of-impact/opening-access-to-books
 hero:
   story_hero_image: ''
   text: ''
-author: TBD
-date: 2019-09-23T04:00:00.000Z
-categories:
-  - Faculty Public Engagement
 story_image:
   alt: Open access monograph grants promote faculty engagement
   caption: ''
   credit: ''
   file: /assets/gere_cover_art_istock-544982936.jpg
-profiles:
-  - Abigail De Kosnik and Keith Feldman
-  - Jacob Smith
+author: TBD
+date: 2019-09-23T04:00:00.000Z
 highlight_box:
   text: >-
     **Partners**
@@ -41,12 +38,6 @@ highlight_box:
     **Books**
 
 
-    [ESC: Sonic Adventure in the
-    Anthropocene](https://www.press.umich.edu/10120795/esc) \
-
-    By Jacob Smith, Northwestern University
-
-
     [_Global Digital Cultures: Perspectives from South
     Asian_](https://www.press.umich.edu/9561751/global_digital_cultures)\
 
@@ -57,9 +48,12 @@ highlight_box:
     Nation](https://www.press.umich.edu/9697041/#identity)\
 
     By Abigail De Kosnik and Keith Feldman
-related_stories: []
 books:
-  - ''
+  - 'ESC: Sonic Adventure in the Anthropocene'
+profiles:
+  - Abigail De Kosnik and Keith Feldman
+  - Jacob Smith
+related_stories: []
 type: story
 ---
 Letting people read a book for free can actually be good business. Open Access (OA) expands the purchasing audience and supports authors’ ambitions to reach all readers who need their work, not just those who can afford to buy it.
