@@ -36,7 +36,7 @@ Scholarship at its best is collaborative, innovative, and engages and solves rea
 
 We're here to support the publishing aspirations of faculty, researchers, students, and staff across the U-M campus and beyond. We invite you to work with us or reach out with your questions or information about your project.
 
-[Schedule a Consultation](http://pub-help@umich.edu)
+[Schedule a Consultation](mpublishing@umich.edu)
 
 **Want to support our commitment to?**
 
