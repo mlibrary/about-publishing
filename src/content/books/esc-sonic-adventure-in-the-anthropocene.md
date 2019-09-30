@@ -5,9 +5,7 @@ author: Jacob Smith
 image:
   alt: 'Book Cover ESC: Sonic Adventure in the Anthropocene'
   file: /assets/esc.jpg
-description: |-
-  ESC: Sonic Adventure in the Anthropocene
-  by Jacob Smith
+description: by Jacob Smith
 type: book
 ---
 
