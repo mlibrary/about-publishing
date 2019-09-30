@@ -33,23 +33,9 @@ highlight_box:
     partnership between the Oberlin Group, Amherst College Press, and Michigan
     Publishing Services and is supported by a consortium of fifty-four liberal
     arts institutions of higher education.
-
-
-    **Books**
-
-
-    [_Global Digital Cultures: Perspectives from South
-    Asian_](https://www.press.umich.edu/9561751/global_digital_cultures)\
-
-    edited by Aswin Panathambekar and Sriram Mohan
-
-
-    [\#identity: Hashtagging Race, Gender, Sexuality and
-    Nation](https://www.press.umich.edu/9697041/#identity)\
-
-    By Abigail De Kosnik and Keith Feldman
 books:
   - 'ESC: Sonic Adventure in the Anthropocene'
+  - 'Global Digital Cultures: Perspectives from South Asian'
 profiles:
   - Abigail De Kosnik and Keith Feldman
   - Jacob Smith
