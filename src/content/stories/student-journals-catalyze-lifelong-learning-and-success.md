@@ -16,10 +16,7 @@ story_image:
   credit: ''
   file: /assets/general-campus-images-3.jpg
 profiles:
-  - Caitlin Heenan
-  - Sean Guynes
-  - Anna Kang
-  - Matthew Ward
+  - ''
 highlight_box:
   text: |-
     Student-led publications:

@@ -12,7 +12,7 @@ story_image:
   credit: ''
   file: /assets/digital-preservation-experts-meet-in-ann-arbor-sept-2018.jpg
 profiles:
-  - Jeremy Morse
+  - ''
 highlight_box:
   text: >-
     [Academic Preservation Trust](http://aptrust.org/), committed to the

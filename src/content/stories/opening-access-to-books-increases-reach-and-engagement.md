@@ -37,8 +37,7 @@ books:
   - 'ESC: Sonic Adventure in the Anthropocene'
   - 'Global Digital Cultures: Perspectives from South Asian'
 profiles:
-  - Abigail De Kosnik and Keith Feldman
-  - Jacob Smith
+  - ''
 related_stories: []
 type: story
 published: true

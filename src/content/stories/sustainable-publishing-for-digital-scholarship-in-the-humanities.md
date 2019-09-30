@@ -26,9 +26,7 @@ highlight_box:
 books:
   - ''
 profiles:
-  - Beth Bouloukos
-  - Collection Building
-  - Andrée Rathemacher
+  - ''
 related_stories:
   - ''
 type: story
