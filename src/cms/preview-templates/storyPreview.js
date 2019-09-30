@@ -22,10 +22,10 @@ const StoryPreview = ({ entry, widgetFor }) => {
   return (
     <div className="font-sans">
       {!published && (
-        <div className="text-center bg-scarlet text-white p-4">Story is not published and will not display on the site.</div>
+        <div className="text-center bg-scarlet text-white p-4 sticky top-0 z-10">Story is not published and will not display on the site.</div>
       )}
       {published && (
-        <div className="text-center bg-eggshell p-4">Story is published and will display on the site.</div>
+        <div className="text-center bg-eggshell p-4 sticky top-0 z-10">Story is published and will display on the site.</div>
       )}
       <div
         className={`${
