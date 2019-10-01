@@ -1,4 +1,5 @@
 ---
+published: true
 categories:
   - 'Diversity, Equity & Inclusion'
 title: ELT Reflects Humanity and Broadens Access in Its Publishing
