@@ -50,12 +50,10 @@ collections:
             fields:
               - { name: heading, label: Heading }
               - { name: text, label: Text, widget: markdown }
-              - name: image
-                label: Image
-                widget: object
-                fields:
-                  - { name: file, label: File, widget: image }
-                  - { name: alt, label: Alt text }
+              - name: video
+                label: Video
+                widget: file
+                default: ""
           - name: highlight
             label: Highlight
             widget: object

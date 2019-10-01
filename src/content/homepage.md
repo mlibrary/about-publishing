@@ -1,6 +1,7 @@
 ---
 type: homepage
 hero_section:
+  video: /assets/infographic.mp4
   heading: Advancing scholarship at U-M and beyond
   image:
     alt: map
