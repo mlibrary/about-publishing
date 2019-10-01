@@ -8,6 +8,7 @@ const NavItem = ({ children, to }) => (
       duration={0.25}
       to={to}
       activeClassName="active"
+      partiallyActive={true}
       className="nav-item text-dark font-bold relative text-xl lg:text-sm xl:text-base block"
     >
       {children}

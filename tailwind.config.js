@@ -14,7 +14,9 @@ module.exports = {
       inset: {
         "-1": "-1rem",
         "2": "2rem",
+        "7": "7rem",
         "9": "9rem",
+        "12": "12rem",
       },
       lineHeight: {
         "105": "1.05",
