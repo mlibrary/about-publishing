@@ -1,11 +1,7 @@
 ---
 type: homepage
 hero_section:
-  video: /assets/infographic.mp4
   heading: Advancing scholarship at U-M and beyond
-  image:
-    alt: map
-    file: /assets/rectangle-2.jpg
   text: >-
     Michigan Publishing publishes scholarly and educational materials in a range
     of formats for wide distribution and permanent preservation. We support the
@@ -17,6 +13,12 @@ hero_section:
     content; and
 
     * academic innovation by publishing work that leverages digital technology.
+  video: /assets/infographic.mp4
+  video_description: >-
+    2,000 original contributions published every year. 10 million readers
+    download U-M faculty scholary outputs, advancing public engagement. 60
+    award-winning University of Michigan Press books in last 5 years recognize
+    academic innovation.
 highlight:
   heading: Our Reach
   image:
