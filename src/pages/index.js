@@ -20,6 +20,7 @@ export const IndexQuery = graphql`
           heading
           text
           video
+          video_description
         }
         highlight {
           heading
@@ -109,9 +110,11 @@ class IndexPage extends Component {
             </div>
           </div>
 
-          <video muted autoplay="true" className="lg:w-7/12">
+          <video muted autoplay="true" className="lg:w-7/12" aria-describedby="video-description">
             <source src={frontmatter.hero_section.video} type="video/mp4"></source>
           </video>
+
+          <div id="video-description" className="clip">{frontmatter.hero_section.video_description}</div>
         </div>
 
         <div className="lg:flex -mx-4 mb-10 lg:mb-20">

@@ -54,6 +54,7 @@ collections:
                 label: Video
                 widget: file
                 default: ""
+              - { name: video_description, label: Video description, widget: text, hint: Describe the video for users who cannot view it.}
           - name: highlight
             label: Highlight
             widget: object
