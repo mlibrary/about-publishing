@@ -46,7 +46,7 @@ class Trending extends Component {
       }
 
       // Add article image.
-      if (book.attributes["output-type"] === `article`) {
+      if (book.attributes["output-type"] !== `book`) {
         bookData.image = `/assets/article.png`
       }
 
