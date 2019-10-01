@@ -20,7 +20,7 @@ author: Author TBD
 date: 2019-09-19T19:45:46.638Z
 highlight_box:
   text: >-
-    ## [Fulcrum](https://www.fulcrum.org/), a publishing platform helping
+    [Fulcrum](https://www.fulcrum.org/), a publishing platform helping
     publishers present the full richness of their authors' research outputs in a
     durable, discoverable, accessible, and flexible form.
 books:
@@ -52,5 +52,5 @@ University of Michigan Press now joins a handful of academic presses selling the
 
 Andrée Rathemacher, the Head of Acquisitions at the University of Rhode Island Library, said, “At a time when most of our materials budget goes to STEM content from large commercial publishers, it feels good to support a non-profit university press that publishes monographs on an open source platform. I appreciate the researcher-friendly license terms, affordable pricing, the availability of multiple ebook formats, and the support for multimedia content.”
 
-<blockquote class="quote full yellow"><p>(ACLS HEB) combines a carefully selected collection
+<blockquote class="quote full yellow"><p>[ACLS HEB] combines a carefully selected collection
 of academic monographs related to the humanities with a straightforward user-interface.</p><footer><cite>- Collection Building<br>Journal</cite></footer></blockquote>
