@@ -1,6 +1,6 @@
 ---
 categories:
-  - Academic Innovation
+  - 'Diversity, Equity & Inclusion'
 title: ELT Reflects Humanity and Broadens Access in Its Publishing
 path: /stories-of-impact/elt-reflects-humanity
 hero:
@@ -21,14 +21,13 @@ highlight_box:
 
     [MOOCs: What Every ESL Teacher Needs to
     Know](https://www.press.umich.edu/10140778/moocs) By Pamela S.H. Bogart
+books:
+  - ''
 profiles:
   - ''
 related_stories:
   - ''
-books:
-  - ''
 type: story
-published: true
 ---
 Much like all of the work at Michigan Publishing, the values of diversity and accessibility are woven into the English Language Teaching (ELT) list. Not only does the list serve multilingual teachers and students around the world, it supports accessibility through innovative content.
 
