@@ -1,27 +1,27 @@
 ---
+categories:
+  - Academic Innovation
+  - 'Diversity, Equity & Inclusion'
 title: Born-accessible Publishing is Good Book-making for Everyone
 path: /stories-of-impact/born-accessible-publishing
 hero:
   story_hero_image: ''
   text: ''
-date: 2019-09-20T14:20:01.016Z
-categories:
-  - Academic Innovation
 story_image:
   alt: Born-accessible Publishing is Good Book-making for Everyone
   caption: ''
   credit: ''
   file: /assets/accessible-books-work-on-any-device.jpg
-profiles:
-  - ''
+date: 2019-09-20T14:20:01.016Z
 highlight_box:
   text: ''
-related_stories:
-  - ''
 books:
   - ''
+profiles:
+  - ''
+related_stories:
+  - ''
 type: story
-published: true
 ---
 Michigan Publishing is committed to leading on accessibility and disability issues. When readers with visual impairments couldn’t effectively read Press ebooks, comprehensive work to address the ongoing needs of our readers began.
 
