@@ -1,4 +1,5 @@
 ---
+published: true
 categories:
   - Academic Innovation
   - 'Diversity, Equity & Inclusion'
