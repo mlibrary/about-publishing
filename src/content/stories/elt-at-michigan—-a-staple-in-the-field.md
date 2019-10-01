@@ -1,4 +1,5 @@
 ---
+published: true
 categories:
   - Academic Innovation
 title: ELT at Michigan— A Staple in the Field
