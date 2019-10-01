@@ -1,4 +1,5 @@
 ---
+published: true
 categories:
   - Faculty Public Engagement
 title: Opening Access to Books Increases Reach and Engagement
