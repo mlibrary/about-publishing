@@ -30,7 +30,6 @@ profiles:
 related_stories:
   - ''
 type: story
-published: true
 ---
 Michigan Publishing is pushing the boundaries of the book. The 2018 launch of Fulcrum—an open source publishing platform developed with support from the Andrew W. Mellon Foundation—was not only a symbol of this innovation, but has opened the door for partnerships that sustain the next generation of humanities scholarship.
 
@@ -52,5 +51,5 @@ University of Michigan Press now joins a handful of academic presses selling the
 
 Andrée Rathemacher, the Head of Acquisitions at the University of Rhode Island Library, said, “At a time when most of our materials budget goes to STEM content from large commercial publishers, it feels good to support a non-profit university press that publishes monographs on an open source platform. I appreciate the researcher-friendly license terms, affordable pricing, the availability of multiple ebook formats, and the support for multimedia content.”
 
-<blockquote class="quote full yellow"><p>\[ACLS HEB] combines a carefully selected collection
+<blockquote class="quote full yellow"><p>(ACLS HEB) combines a carefully selected collection
 of academic monographs related to the humanities with a straightforward user-interface.</p><footer><cite>- Collection Building<br>Journal</cite></footer></blockquote>
