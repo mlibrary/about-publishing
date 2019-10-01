@@ -1,29 +1,28 @@
 ---
+categories:
+  - Academic Innovation
 title: ELT at Michigan— A Staple in the Field
 path: /stories-of-impact/elt-at-michigan
 hero:
   story_hero_image: ''
   text: ''
-date: 2019-09-20T14:28:16.296Z
-categories:
-  - Academic Innovation
 story_image:
   alt: ELT at Michigan— A Staple in the Field
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
-profiles:
-  - ''
+  file: /assets/elt4.jpg
+date: 2019-09-20T14:28:16.296Z
 highlight_box:
   text: >-
     [English Language Institute (ELI) at the University of
     Michigan](https://lsa.umich.edu/eli)
-related_stories:
-  - ''
 books:
   - ''
+profiles:
+  - ''
+related_stories:
+  - ''
 type: story
-published: true
 ---
 If there is an ESL course taught at an R1 institution in the United States, the odds are good that it has used a textbook from the English Language Teaching (ELT) list at the University of Michigan. For more than 60 years, University of Michigan Press’s ELT list has served as the publishing arm of the University’s English Language Institute, the first place in the United States to offer English as a Second Language courses. 
 
