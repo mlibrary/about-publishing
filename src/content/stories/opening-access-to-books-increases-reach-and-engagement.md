@@ -11,7 +11,7 @@ story_image:
   alt: Open access monograph grants promote faculty engagement
   caption: ''
   credit: ''
-  file: /assets/gere_cover_art_istock-544982936.jpg
+  file: /assets/libpub_3033.jpg
 author: ''
 date: 2019-09-23T04:00:00.000Z
 highlight_box:
