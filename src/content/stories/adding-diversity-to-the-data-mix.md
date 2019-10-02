@@ -1,19 +1,18 @@
 ---
+published: true
+categories:
+  - 'Diversity, Equity & Inclusion'
 title: Adding Diversity to the Data Mix
 path: /stories-of-impact/adding-diversity
 hero:
   story_hero_image: ''
   text: ''
-date: 2019-09-20T14:25:02.928Z
-categories:
-  - 'Diversity, Equity & Inclusion'
 story_image:
   alt: Adding Diversity to the Data Mix
   caption: ''
   credit: ''
   file: /assets/divsummprtnshpminst15-78-.jpg
-profiles:
-  - ''
+date: 2019-09-20T14:25:02.928Z
 highlight_box:
   text: >-
     [U-M Library at the University of Michigan](https://www.lib.umich.edu/)
@@ -32,12 +31,13 @@ highlight_box:
     [LYRASIS](https://www.lyrasis.org/) was created by its members to help
     libraries, archives and museums tackle wide-reaching challenges with a
     collective strength.
-related_stories:
-  - ''
 books:
   - ''
+profiles:
+  - ''
+related_stories:
+  - ''
 type: story
-published: true
 ---
 The University of Michigan Library has always harnessed data to solve big problems. Now, with a recent LYRASIS grant, they will partner with the National Center for Institutional Diversity (NCID) and collaborate with Data Driven Detroit (D3) to develop a toolkit for diversity scholars. 
 
