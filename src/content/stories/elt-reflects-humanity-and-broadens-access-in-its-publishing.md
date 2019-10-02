@@ -11,7 +11,7 @@ story_image:
   alt: ELT Reflects Humanity and Broadens Access in Its Publishing
   caption: ''
   credit: ''
-  file: /assets/bideo.jpg
+  file: /assets/istock-1161167462-2.jpg
 date: 2019-09-20T14:33:57.441Z
 highlight_box:
   text: >-
