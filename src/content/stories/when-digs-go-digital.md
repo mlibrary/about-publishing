@@ -8,7 +8,7 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: Archeologists digging the Gabii site
+  alt: A photograph of four archaeologists digging at the Gabii site.
   caption: ''
   credit: ''
   file: /assets/gabii-1.jpg
