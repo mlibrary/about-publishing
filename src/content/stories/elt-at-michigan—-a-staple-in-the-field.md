@@ -9,7 +9,7 @@ hero:
   text: ''
 story_image:
   alt: ELT at Michigan— A Staple in the Field
-  caption: ''
+  caption: Photographed by @benji_bear_photography
   credit: ''
   file: /assets/elt4.jpg
 date: 2019-09-20T14:28:16.296Z
@@ -31,8 +31,12 @@ If there is an ESL course taught at an R1 institution in the United States, the 
 
 This partnership has produced essential textbooks from some of the most well-respected authors in the field. Academic Writing for Graduate Students has been used in 85% of RI institutions in the United States and Canada. Renowned author Keith Folse has published over 30 books under the ELT imprint. In addition, the close relationship between ELT and ELI is unique.
 
+“I cannot think of any other situation in any other university where a Press and a unit have been so closely integrated for so many years,” said former ELI director Larry Selinker during his remarks at the Institute’s 75th anniversary celebration in 2016. “The whole idea of the ELI and Michigan Press over so many years is such an incredible, pure academic success story.”
+
 Now in its 3rd edition, Academic Writing for Graduate Students (known globally as “Swales & Feak,” after authors John M. Swales & Christine B. Feak) has sold nearly 185,000 copies. The book embodies what a Michigan English for Academic Purposes (EAP) book is—one that teaches the skills international students need to get admitted to a university, complete a degree, and establish their voice and identity as a junior scholar in their field.
 
 <blockquote class="quote yellow full"><p>Without these texts, many students would not publish the research that launches their academic careers, let alone finish the dissertation that gets them hired or produce the first scholarly monograph and that ultimately gets them tenure.</p><footer><cite>- Kelly Sippell<br>ELT Manager</cite></footer></blockquote>
+
+“Without these texts, many students would not publish the research that launches their academic careers, let alone finish the dissertation that gets them hired or produce the first scholarly monograph and that ultimately gets them tenure,” said ELT Manager Kelly Sippell.
 
 The ELT list will continue to have an impact on L2 publishing, the field of second language writing, and graduate student development.
