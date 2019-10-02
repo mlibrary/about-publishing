@@ -27,7 +27,8 @@ highlight_box:
 books:
   - ''
 profiles:
-  - ''
+  - Beth Bouloukos
+  - Andrée Rathemacher
 related_stories:
   - ''
 type: story
