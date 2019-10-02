@@ -11,7 +11,9 @@ hero:
     prepare them for their professional lives. Michigan Publishing provides a
     meaningful, measurable output of that experience.
 story_image:
-  alt: Student studying in U-M Law Library.
+  alt: >-
+    A photograph of a young woman studying with books and a computer at a table
+    in the U-M Law Library.
   caption: ''
   credit: ''
   file: /assets/general-campus-images-3.jpg
