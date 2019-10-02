@@ -10,7 +10,7 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/digital-preservation-experts-meet-in-ann-arbor-sept-2018.jpg
-author: Author TBD
+author: ''
 date: 2019-09-19T19:58:25.768Z
 highlight_box:
   text: >-
