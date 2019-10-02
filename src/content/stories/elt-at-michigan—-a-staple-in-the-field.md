@@ -8,7 +8,11 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: ELT at Michigan— A Staple in the Field
+  alt: >-
+    A young female professor smiles and looks out toward her class while holding
+    a textbook and standing in front of a chalkboard with the words "Voice,
+    Tense, and Aspect" visible. The back of a male student's head can be seen in
+    the left foreground.
   caption: Photographed by @benji_bear_photography
   credit: ''
   file: /assets/elt4.jpg
