@@ -9,7 +9,9 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: Born-accessible Publishing is Good Book-making for Everyone
+  alt: >-
+    Close-up of a human hand holding a mobile device with the homepage for
+    Digital Culture Books on the screen.
   caption: ''
   credit: ''
   file: /assets/accessible-books-work-on-any-device.jpg
@@ -40,22 +42,22 @@ The Press's disability studies list has also been a catalyst. Since 2015, Michig
 
 **2019**
 
-Vitality Politics Health, Debility, and the Limits of Black Emancipation Stephen Knadler
+[Vitality Politics Health, Debility, and the Limits of Black Emancipation](https://doi.org/10.3998/mpub.10043782) By Stephen Knadler
 
 **2018**
 
-Monstrous Kinds Body, Space, and Narrative in Renaissance Representations of Disability\
-Elizabeth B. Bearden
+[Monstrous Kinds Body, Space, and Narrative in Renaissance Representations of Disability](https://doi.org/10.3998/mpub.10014355)\
+By Elizabeth B. Bearden
 
 **2017**
 
-Foucault and Feminist Philosophy of Disability \
-Shelley L. Tremain
+[Foucault and Feminist Philosophy of Disability ](https://doi.org/10.3998/mpub.8504605)\
+By Shelley L. Tremain
 
 **2016**
 
-War on Autism: On the Cultural Logic of Normative Violence \
-Anne McGuire</div>
+[War on Autism: On the Cultural Logic of Normative Violence](https://doi.org/10.3998/mpub.7784427) \
+By Anne McGuire</div>
 
 As of January 2019, University of Michigan Press’s Ebook collection on Fulcrum has basic textual descriptions for every image and transcripts and captioning for associated video.
 
