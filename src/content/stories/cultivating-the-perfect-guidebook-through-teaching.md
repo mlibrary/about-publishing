@@ -1,19 +1,18 @@
 ---
+published: true
+categories:
+  - Academic Innovation
 title: Cultivating the Perfect Guidebook through Teaching
 path: /stories-of-impact/cultivating-perfect-guidebook
 hero:
   story_hero_image: ''
   text: ''
-date: 2019-09-20T14:36:38.778Z
-categories:
-  - Academic Innovation
 story_image:
   alt: Cultivating the Perfect Guidebook through Teaching
   caption: ''
   credit: ''
   file: /assets/trees2.jpg
-profiles:
-  - ''
+date: 2019-09-20T14:36:38.778Z
 highlight_box:
   text: >-
     [Michigan Trees
@@ -24,12 +23,13 @@ highlight_box:
     [Michigan Shrubs and Vines
     (2016)](https://www.press.umich.edu/296735/michigan_shrubs_and_vines) By
     Burton V. Barnes and Warren H. Wagner, Jr.
-related_stories:
-  - ''
 books:
   - ''
+profiles:
+  - ''
+related_stories:
+  - ''
 type: story
-published: true
 ---
 University of Michigan Press publishes a rich collection of books that explore the history, culture, and environment of the Great Lakes region. These books are collaborative efforts with campus partners. A particularly fruitful example involves a book that has been in print since 1913 and a beloved undergraduate course taught in the School for Environment and Sustainability.
 
