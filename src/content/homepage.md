@@ -15,10 +15,7 @@ hero_section:
     * academic innovation by publishing work that leverages digital technology.
   video: /assets/infographic.mp4
   video_description: >-
-    2,000 original contributions published every year. 10 million readers
-    download U-M faculty scholary outputs, advancing public engagement. 60
-    award-winning University of Michigan Press books in last 5 years recognize
-    academic innovation.
+    Locations pins falling on a map.
 highlight:
   heading: Our Reach
   image:

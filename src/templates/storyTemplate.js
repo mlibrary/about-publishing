@@ -105,7 +105,7 @@ export default function StoryTemplate({ data }) {
             <img
               src={frontmatter.story_image.file}
               alt={frontmatter.story_image.alt}
-              className="mb-4 rounded-lg animated fade-in-up"
+              className="mb-4 rounded-lg animated fade-in-up max-h-24 w-full"
             />
             {(frontmatter.story_image.caption ||
               frontmatter.story_image.credit) && (

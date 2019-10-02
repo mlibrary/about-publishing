@@ -23,6 +23,7 @@ module.exports = {
         "118": "1.18",
       },
       maxHeight: {
+        "24": "24rem",
         "38125": "38.125rem",
       },
       maxWidth: {
