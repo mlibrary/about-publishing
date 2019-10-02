@@ -5,7 +5,7 @@ type: page
 ---
 Michigan Publishing advances scholarship for U-M and beyond.
 
-<iframe title="Readership map" width="100%" height="800" src="https://www.publishing.umich.edu/readership-map/"></iframe>
+<iframe title="Readership map" width="100%" height="800" src="https://services.publishing.umich.edu/readership-map/"></iframe>
 
 
 
