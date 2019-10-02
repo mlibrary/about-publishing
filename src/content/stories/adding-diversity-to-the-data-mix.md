@@ -8,13 +8,18 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: Adding Diversity to the Data Mix
+  alt: >-
+    Three people of color siting around a table in discussion at what appears to
+    be a professional conference.
   caption: ''
   credit: ''
   file: /assets/divsummprtnshpminst15-78-.jpg
 date: 2019-09-20T14:25:02.928Z
 highlight_box:
   text: >-
+    **Project Partners**
+
+
     [U-M Library at the University of Michigan](https://www.lib.umich.edu/)
 
 
