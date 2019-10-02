@@ -1,6 +1,8 @@
 ---
 title: Abigail De Kosnik
-job_title: 'Associate Professor, Theater, Dance, and Performance Studies'
+job_title: >-
+  Associate Professor, Theater, Dance, and Performance Studies - University of
+  California - Berkeley
 faculty_image: /assets/s200_abigail.de_kosnik.jpg
 quotes:
   - quote: >-
