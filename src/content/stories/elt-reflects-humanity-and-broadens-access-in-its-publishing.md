@@ -15,13 +15,21 @@ story_image:
 date: 2019-09-20T14:33:57.441Z
 highlight_box:
   text: >-
+    [What Every ESL Teacher Needs to Know
+
+    ](https://www.press.umich.edu/10000828/refugee_students)By Jeffra Flaitz
+
+
     [The Three Minute Thesis in the Classroom: What Every ESL Teacher Needs to
     Know](https://www.press.umich.edu/11362475/the_three_minute_thesis_in_the_classroom)
+
     By Heather Boldt
 
 
     [MOOCs: What Every ESL Teacher Needs to
-    Know](https://www.press.umich.edu/10140778/moocs) By Pamela S.H. Bogart
+    Know](https://www.press.umich.edu/10140778/moocs)
+
+    By Pamela S.H. Bogart
 books:
   - ''
 profiles:
