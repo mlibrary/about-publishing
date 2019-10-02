@@ -12,7 +12,7 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/gere_cover_art_istock-544982936.jpg
-author: TBD
+author: ''
 date: 2019-09-23T04:00:00.000Z
 highlight_box:
   text: >-
