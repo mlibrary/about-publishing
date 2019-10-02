@@ -6,7 +6,9 @@ title: Digital Infrastructure Makes Scholarship Durable for Generations
 path: /stories-of-impact/digital-infrastructure
 hero: {}
 story_image:
-  alt: test
+  alt: >-
+    A room with four groups of three to six people seated around tables, most
+    with laptops in front of them.
   caption: ''
   credit: ''
   file: /assets/digital-preservation-experts-meet-in-ann-arbor-sept-2018.jpg
