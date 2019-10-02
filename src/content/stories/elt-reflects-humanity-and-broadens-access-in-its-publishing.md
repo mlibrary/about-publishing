@@ -9,8 +9,8 @@ hero:
   text: ''
 story_image:
   alt: >-
-    Two students of color reading a book together in what appears to be a
-    library or study hall.
+    A photograph of two students of color studying from a book together in what
+    appears to be a library or study hall.
   caption: ''
   credit: ''
   file: /assets/istock-1161167462-2.jpg
