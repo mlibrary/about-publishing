@@ -8,16 +8,18 @@ import { Icon } from "@umich-lib/core"
 const Navigation = () => (
   <nav>
     <ul className="flex flex-col lg:flex-row justify-between uppercase list-none m-0 pt-8 lg:pt-0 px-8 lg:px-0">
-      <AniLink
-        fade
-        duration={0.25}
-        to="/"
-        activeClassName="active"
-        partiallyActive={false}
-        className="nav-item text-dark font-bold relative text-xl lg:text-sm xl:text-base block"
-      >
-        Home
-      </AniLink>
+      <li className="pb-8 lg:pb-0">
+        <AniLink
+          fade
+          duration={0.25}
+          to="/"
+          activeClassName="active"
+          partiallyActive={false}
+          className="nav-item text-dark font-bold relative text-xl lg:text-sm xl:text-base block"
+        >
+          Home
+        </AniLink>
+      </li>
       <NavItem to="/our-mission">Our Mission</NavItem>
       <NavItem to="/stories-of-impact">Stories of Impact</NavItem>
       <NavItem to="/our-reach">Our Reach</NavItem>
