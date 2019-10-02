@@ -8,7 +8,10 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: Open access monograph grants promote faculty engagement
+  alt: >-
+    In a room covered mostly with shadow, a student with short hair sits at a
+    table in front of a window with their laptop open. The tops of trees and a
+    nearby building can be seen through the window.
   caption: ''
   credit: ''
   file: /assets/libpub_3033.jpg
