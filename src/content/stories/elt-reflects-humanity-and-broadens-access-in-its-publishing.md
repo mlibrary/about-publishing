@@ -41,7 +41,7 @@ Much like all of the work at Michigan Publishing, the values of diversity and ac
 * High royalty rate as an incentive to produce quickly
 * $3 .99 Net price</div>
 
-A perfect example is the 2018 title: Refugee Students: What Every Teacher Needs to Know, which serves as an advocate for international students, immigrants, and refugees. It was published in the fall of 2018 to coincide with author Jeffra Flaitz being invited to several ESL Advocacy events based on her experience as an advocate in a detainee camp in 2016, her experience in the Florida public schools, and as a professor/teacher trainer (PhD in Linguistics). 
+A perfect example is the 2018 title: Refugee Students: What Every ESL Teacher Needs to Know, which serves as an advocate for international students, immigrants, and refugees. It was published in the fall of 2018 to coincide with author Jeffra Flaitz being invited to several ESL Advocacy events based on her experience as an advocate in a detainee camp in 2016, her experience in the Florida public schools, and as a professor/teacher trainer (PhD in Linguistics). 
 
 “Teachers were thrilled to have a small guide to give to people that reinforce the truth about refugees and immigrants in the U.S. ahead of the 2018 elections,” said ELT Director Kelly Sippell. An expanded version is planned for 2020 due to the success of the book.
 
