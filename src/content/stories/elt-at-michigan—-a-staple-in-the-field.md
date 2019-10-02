@@ -15,6 +15,9 @@ story_image:
 date: 2019-09-20T14:28:16.296Z
 highlight_box:
   text: >-
+    **Project Partners**
+
+
     [English Language Institute (ELI) at the University of
     Michigan](https://lsa.umich.edu/eli)
 books:
