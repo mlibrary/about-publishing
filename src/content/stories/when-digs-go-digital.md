@@ -12,7 +12,7 @@ story_image:
   caption: ''
   credit: ''
   file: /assets/gabii-1.jpg
-author: Author needed
+author: ''
 date: 2019-09-19T13:56:37.869Z
 highlight_box:
   text: |-
