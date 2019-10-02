@@ -13,7 +13,10 @@ hero:
     but has opened the door for partnerships that sustain the next generation of
     humanities scholarship.
 story_image:
-  alt: test
+  alt: >-
+    A photograph of a young woman showing a digital ebook from the University of
+    Michigan Press Ebook collection to a Charleston conference attendee at the
+    Michigan Publishing display booth. 
   caption: ''
   credit: ''
   file: /assets/fulcrum-at-acrl-conference-2.jpg
