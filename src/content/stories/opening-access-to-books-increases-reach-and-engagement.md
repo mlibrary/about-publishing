@@ -9,8 +9,10 @@ hero:
   text: ''
 story_image:
   alt: >-
-    A photograph of a student sitting at a library table in front of tall
-    windows overlooking trees. 
+    A photograph of a room covered mostly with shadow, where a student with
+    short hair sits at a table in front of a large window with their laptop
+    open. The tops of trees and a nearby building can be seen through the
+    window.
   caption: ''
   credit: ''
   file: /assets/libpub_3033.jpg
