@@ -183,7 +183,7 @@ export default function StoryTemplate({ data }) {
                       className="lg:w-1/3 mb-8 lg:mb-0 mx-auto lg:mx-0 mb-8 lg:mb-0"
                     />
                     <p className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
-                      {profile.frontmatter.bio}
+                      {profile.frontmatter.quotes[0].quote}
                     </p>
                   </div>
                 )
@@ -289,8 +289,10 @@ export const pageQuery = graphql`
       nodes {
         frontmatter {
           faculty_image
-          bio
           title
+          quotes {
+            quote
+          }
         }
       }
     }
