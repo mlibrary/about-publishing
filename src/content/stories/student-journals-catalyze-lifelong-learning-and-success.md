@@ -11,7 +11,7 @@ hero:
     prepare them for their professional lives. Michigan Publishing provides a
     meaningful, measurable output of that experience.
 story_image:
-  alt: test
+  alt: Student studying in U-M Law Library.
   caption: ''
   credit: ''
   file: /assets/general-campus-images-3.jpg
@@ -28,7 +28,8 @@ highlight_box:
 books:
   - ''
 profiles:
-  - ''
+  - Anna Kang
+  - Caitlin Heenan
 related_stories:
   - ''
 type: story
