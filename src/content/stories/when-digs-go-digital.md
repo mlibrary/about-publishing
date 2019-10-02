@@ -26,7 +26,7 @@ highlight_box:
 books:
   - A Mid-Republican House from Gabii
 profiles:
-  - ''
+  - Dr. Mike Galaty
 related_stories:
   - ''
 type: story
