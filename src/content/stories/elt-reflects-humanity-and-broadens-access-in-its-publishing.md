@@ -8,7 +8,9 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: ELT Reflects Humanity and Broadens Access in Its Publishing
+  alt: >-
+    Two students of color reading a book together in what appears to be a
+    library or study hall.g
   caption: ''
   credit: ''
   file: /assets/istock-1161167462-2.jpg
