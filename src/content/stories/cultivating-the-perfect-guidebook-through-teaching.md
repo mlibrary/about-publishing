@@ -8,7 +8,9 @@ hero:
   story_hero_image: ''
   text: ''
 story_image:
-  alt: Cultivating the Perfect Guidebook through Teaching
+  alt: >-
+    A male instructor holds a sheet of paper while standing in a forest
+    surrounded by college students.
   caption: ''
   credit: ''
   file: /assets/trees2.jpg
