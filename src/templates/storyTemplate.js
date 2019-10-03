@@ -182,9 +182,11 @@ export default function StoryTemplate({ data }) {
                       alt={profile.frontmatter.title}
                       className="lg:w-1/3 mb-8 lg:mb-0 mx-auto lg:mx-0 mb-8 lg:mb-0"
                     />
-                    <p className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
-                      {profile.frontmatter.quotes[0].quote}
-                    </p>
+                    <div className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
+                      <h2 className="text-2xl font-semibold">{profile.frontmatter.title}</h2>
+                      <p className="text-base">{profile.frontmatter.job_title}</p>
+                      <p>"{profile.frontmatter.quotes[0].quote}"</p>
+                    </div>
                   </div>
                 )
               })}
@@ -290,6 +292,7 @@ export const pageQuery = graphql`
         frontmatter {
           faculty_image
           title
+          job_title
           quotes {
             quote
           }

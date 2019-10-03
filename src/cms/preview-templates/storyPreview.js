@@ -203,11 +203,13 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                   let quotes = ""
                   let firstQuote = ""
                   let image = ""
+                  let jobTitle = ""
 
                   if (profileData) {
                     name = profileData.getIn(["title"])
                     quotes = profileData.getIn(["quotes"])
                     image = profileData.getIn(["faculty_image"])
+                    jobTitle = profileData.getIn(["job_title"])
 
                     // Show the first quote.
                     quotes.forEach((quote, index) => {
@@ -224,9 +226,11 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                         alt={name}
                         className="lg:w-1/3 mb-8 lg:mb-0 mx-auto lg:mx-0 mb-8 lg:mb-0"
                       />
-                      <p className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
-                        {firstQuote && firstQuote.getIn(["quote"])}
-                      </p>
+                      <div className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
+                        <h2 className="text-2xl font-semibold">{name}</h2>
+                        <p className="text-base">{jobTitle}</p>
+                        <p>"{firstQuote && firstQuote.getIn(["quote"])}"</p>
+                      </div>
                     </div>
                   )
                 })}
