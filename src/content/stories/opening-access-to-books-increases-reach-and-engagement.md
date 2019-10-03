@@ -20,7 +20,7 @@ author: ''
 date: 2019-09-23T04:00:00.000Z
 highlight_box:
   text: >-
-    **Partners**
+    **Project Partners**
 
 
     [Knowledge Unlatched](http://www.knowledgeunlatched.org/) makes scholarly
