@@ -14,12 +14,13 @@ hero_section:
 
     * academic innovation by publishing work that leverages digital technology.
   video: /assets/infographic.mp4
-  video_description: >-
-    Locations pins falling on a map.
+  video_description: Locations pins falling on a map.
 highlight:
   heading: Our Reach
   image:
-    alt: map
+    alt: >-
+      Map showing locations of Michigan Publishing projects on University of
+      Michigan's Ann Arbor campus.
     file: /assets/group-14.jpg
   link_text: Explore Our Reach
   link_url: /our-reach
