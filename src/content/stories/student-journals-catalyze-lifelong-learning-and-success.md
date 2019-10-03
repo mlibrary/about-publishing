@@ -29,9 +29,7 @@ highlight_box:
     * Absinthe: A Journal of World Literature in Translation
 books:
   - ''
-profiles:
-  - Anna Kang
-  - Caitlin Heenan
+profiles: []
 related_stories:
   - ''
 type: story
