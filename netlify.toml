@@ -7,3 +7,8 @@
   from = "/services"
   to = "https://services.publishing.umich.edu/"
   status = 301
+  
+ [[redirects]]
+  from = "/publications/ee/"
+  to = "https://services.publishing.umich.edu/publications/ee/"
+  status = 301
