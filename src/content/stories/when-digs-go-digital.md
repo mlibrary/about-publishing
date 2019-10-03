@@ -16,6 +16,8 @@ author: ''
 date: 2019-09-19T13:56:37.869Z
 highlight_box:
   text: |-
+    **Project Partners**
+
     Kelsey Museum of Archaeology at the University of Michigan
 
     <https://lsa.umich.edu/kelsey>
@@ -25,8 +27,7 @@ highlight_box:
     <https://lsa.umich.edu/ummaa>
 books:
   - A Mid-Republican House from Gabii
-profiles:
-  - Dr. Mike Galaty
+profiles: []
 related_stories:
   - ''
 type: story
