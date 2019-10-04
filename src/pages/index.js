@@ -21,6 +21,8 @@ export const IndexQuery = graphql`
           text
           video
           video_description
+          video_link_text
+          video_link
         }
         highlight {
           heading
@@ -61,7 +63,9 @@ export const IndexQuery = graphql`
     }
 
     stories: allMarkdownRemark(
-      filter: { frontmatter: { published: { eq: true }, type: { eq: "story" } } }
+      filter: {
+        frontmatter: { published: { eq: true }, type: { eq: "story" } }
+      }
     ) {
       nodes {
         frontmatter {
@@ -100,7 +104,7 @@ class IndexPage extends Component {
         <SEO title="Home" />
 
         <div className="lg:flex justify-between items-center mb-10 md:mb-20 animated fade-in-up">
-          <div className="lg:w-5/12 mr-6 mb-8 lg:mb-0">
+          <div className="lg:w-38 mr-6 mb-8 lg:mb-0">
             <h1 className="md:text-35 text-5xl font-extrabold leading-118 mb-10">
               {frontmatter.hero_section.heading}
             </h1>
@@ -110,11 +114,29 @@ class IndexPage extends Component {
             </div>
           </div>
 
-          <video muted autoplay="true" className="lg:w-7/12" aria-describedby="video-description">
-            <source src={frontmatter.hero_section.video} type="video/mp4"></source>
-          </video>
+          <div className="lg:w-7/12">
+            <video
+              muted
+              autoplay="true"
+              aria-describedby="video-description"
+            >
+              <source
+                src={frontmatter.hero_section.video}
+                type="video/mp4"
+              ></source>
+            </video>
 
-          <div id="video-description" className="clip">{frontmatter.hero_section.video_description}</div>
+            <div id="video-description" className="clip">
+              {frontmatter.hero_section.video_description}
+            </div>
+
+            <a
+              class="text-mid-blue md:pl-4 block lg:text-right"
+              href={frontmatter.hero_section.video_link}
+            >
+              <span class="link-hover">{frontmatter.hero_section.video_link_text} ></span>
+            </a>
+          </div>
         </div>
 
         <div className="lg:flex -mx-4 mb-10 lg:mb-20">

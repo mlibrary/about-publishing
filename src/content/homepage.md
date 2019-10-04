@@ -15,6 +15,8 @@ hero_section:
     * academic innovation by publishing work that leverages digital technology.
   video: /assets/infographic.mp4
   video_description: Locations pins falling on a map.
+  video_link_text: View our readership map in real time
+  video_link: /our-reach
 highlight:
   heading: Our Reach
   image:
