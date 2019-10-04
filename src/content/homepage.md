@@ -14,7 +14,7 @@ hero_section:
 
     * academic innovation by publishing work that leverages digital technology.
   video: /assets/infographic.mp4
-  video_description: Locations pins falling on a map.
+  video_description: Readership location pins falling on a map of the world.
   video_link: /our-reach
   video_link_text: View the last 24 hours of activity on our readership map
 highlight:
