@@ -38,6 +38,6 @@ We're here to support the publishing aspirations of faculty, researchers, studen
 
 [Schedule a Consultation](mailto:mpublishing@umich.edu)
 
-**Want to support our commitment to?**
+**Want to support our publishing mission?**
 
  [Support Our Work](https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press)
