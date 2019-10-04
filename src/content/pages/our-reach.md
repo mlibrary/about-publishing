@@ -11,4 +11,4 @@ This map replays every view or download of our published content over the past 2
 
 <iframe title="Readership map" width="100%" height="800" src="https://maps.publishing.umich.edu/campus_map/title-geofield-map"></iframe>
 
-This map displays Michigan Publishing works, partnerships, and consultations across the U-M campus.
+This map displays Michigan Publishing partnerships, consultations, and publishing activities with faculty, staff, students, and departments across the U-M campus.
