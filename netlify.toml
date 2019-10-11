@@ -12,3 +12,29 @@
   from = "/publications/ee/"
   to = "https://services.publishing.umich.edu/publications/ee/"
   status = 301
+  
+ [[redirects]]
+  from = "/news"
+  to = "https://services.publishing.umich.edu/news"
+  status = 301
+  
+ [[redirects]]
+  from = "/directory"
+  to = "/"
+  status = 301
+  
+ [[redirects]]
+  from = "/journals"
+  to = "https://services.publishing.umich.edu/journals"
+  status = 301
+
+ [[redirects]]
+  from = "/about"
+  to = "/our-mission"
+  status = 301
+
+ [[redirects]]
+  from = "/services/staff"
+  to = "/about"
+  status = 301
+
