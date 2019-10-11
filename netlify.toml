@@ -35,6 +35,6 @@
 
  [[redirects]]
   from = "/services/staff"
-  to = "/about"
+  to = "/our-mission"
   status = 301
 
