@@ -42,6 +42,8 @@ We're here to support the publishing aspirations of faculty, researchers, studen
 
  [Support Our Work](https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press)
 
-<blockquote class="quote full yellow"><p>Read Our Impact Report</p><footer><cite>- undefined<br>undefined</cite></footer></blockquote>
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">## Read Our Impact Report
+
+[Impact Report](assets/mp-impactreport-shared.pdf)</div>
 
 ##
