@@ -200,23 +200,15 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                   ])
 
                   let name = ""
-                  let quotes = ""
-                  let firstQuote = ""
                   let image = ""
                   let title = ""
+                  let bio = ""
 
                   if (profileData) {
                     name = profileData.getIn(["title"])
-                    quotes = profileData.getIn(["quotes"])
                     image = profileData.getIn(["faculty_image"])
                     title = profileData.getIn(["job_title"])
-
-                    // Show the first quote.
-                    quotes.forEach((quote, index) => {
-                      if (index === 0) {
-                        firstQuote = quote
-                      }
-                    })
+                    bio = profileData.getIn(["bio"])
                   }
 
                   return (
@@ -229,7 +221,7 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                       <div className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
                         <h2 className="text-2xl font-semibold">{name}</h2>
                         <p className="text-base">{title}</p>
-                        <p>"{firstQuote && firstQuote.getIn(["quote"])}"</p>
+                        <p>{bio}</p>
                       </div>
                     </div>
                   )
