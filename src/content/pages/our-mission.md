@@ -5,6 +5,10 @@ type: page
 ---
 **Michigan Publishing combines the strengths of a highly-regarded university press with the innovative, service-oriented approach of a university library renowned as a leader in digital initiatives and technologies.**
 
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">## Read Our Impact Report
+
+[Impact Report](assets/mp-impactreport-shared.pdf)</div>
+
 For many decades, publishing at the University of Michigan grew out of diverse and dispersed communities. As early as 1930, the Press was founded as a division of the University Library, and nearly 70 years later in 2000, the Library created the Scholarly Publishing Office (SPO) to serve the needs of authors and readers. Other activities related to publishing followed, including Deep Blue in 2006. In 2009, oversight of the University of Michigan Press moved back to the Library. Not long after, all publishing activities were unified under a single brand name, MPublishing. Michigan Publishing is now the hub of publishing activities undertaken by the University of Michigan Library. 
 
 Today, Michigan Publishing brings together three entities to serve the changing needs of scholars: University of Michigan Press, Michigan Publishing Services, and Deep Blue Repository and Research Data Services. Together, they engage with a spectrum of publishing needs across the life-cycle of scholarly communication and provide guidance and assistance to the University community. 
@@ -42,14 +46,6 @@ We're here to support the publishing aspirations of faculty, researchers, studen
 
  [Support Our Work](https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press)
 
-
-
-## Read Our Impact Report
-
-[Impact Report](assets/mp-impactreport-shared.pdf)
-
-
-
-
+## 
 
 ##
