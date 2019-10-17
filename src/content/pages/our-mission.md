@@ -41,3 +41,7 @@ We're here to support the publishing aspirations of faculty, researchers, studen
 **Want to support our publishing mission?**
 
  [Support Our Work](https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press)
+
+
+
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">Read our [Impact Report](/assets.MP-ImpactReport-shared.pdf)</div>
