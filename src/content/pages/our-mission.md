@@ -46,7 +46,7 @@ We're here to support the publishing aspirations of faculty, researchers, studen
 
 ## Read Our Impact Report
 
-[Impact Repor](assets/mp-impactreport-shared.pdf)t
+[Impact Report](assets/mp-impactreport-shared.pdf)
 
 
 
