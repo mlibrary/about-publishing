@@ -13,8 +13,12 @@ hero_section:
     content; and
 
     * academic innovation by publishing work that leverages digital technology.
-  video: /assets/infographic.mp4
-  video_description: Readership location pins falling on a map of the world.
+  video: /assets/infographic_no_link.mp4
+  video_description: >-
+    2,000 original contributions published every year. 10M readers download U-M
+    faculty scholarly outputs, advancing public engagement. 60 award-winning
+    University of Michigan Press books in last 5 years recognize academic
+    innovation.
   video_link: /our-reach
   video_link_text: View the last 24 hours of activity on our readership map
 highlight:
