@@ -38,3 +38,7 @@
   to = "/our-mission"
   status = 301
 
+ [[redirects]]
+  from = "/2019/*"
+  to = "https://services.publishing.umich.edu/:splat"
+  status = 301
