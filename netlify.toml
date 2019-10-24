@@ -40,5 +40,5 @@
 
  [[redirects]]
   from = "/2019/*"
-  to = "https://services.publishing.umich.edu/:splat"
+  to = "https://services.publishing.umich.edu/2019/:splat"
   status = 301
