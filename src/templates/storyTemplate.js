@@ -29,7 +29,10 @@ export default function StoryTemplate({ data }) {
 
   // Get profiles.
   const profiles = data.profiles.nodes.filter(profile =>
+    profile.frontmatter.bio &&
     frontmatter.profiles.includes(profile.frontmatter.title)
+      ? true
+      : false
   )
 
   const hero = frontmatter.hero.story_hero_image
@@ -183,9 +186,13 @@ export default function StoryTemplate({ data }) {
                       className="lg:w-1/3 mb-8 lg:mb-0 mx-auto lg:mx-0 mb-8 lg:mb-0"
                     />
                     <div className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
-                      <h2 className="text-2xl font-semibold">{profile.frontmatter.title}</h2>
-                      <p className="text-base">{profile.frontmatter.job_title}</p>
-                      <p>"{profile.frontmatter.quotes[0].quote}"</p>
+                      <h2 className="text-2xl font-semibold">
+                        {profile.frontmatter.title}
+                      </h2>
+                      <p className="text-base">
+                        {profile.frontmatter.job_title}
+                      </p>
+                      <p>{profile.frontmatter.bio}</p>
                     </div>
                   </div>
                 )
@@ -293,6 +300,7 @@ export const pageQuery = graphql`
           faculty_image
           title
           job_title
+          bio
           quotes {
             quote
           }
