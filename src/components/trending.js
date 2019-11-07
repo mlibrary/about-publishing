@@ -13,7 +13,11 @@ class Trending extends Component {
   }
 
   fetchTrending = async () => {
-    const altmetricURL = `https://www.altmetric.com/explorer/api/research_outputs?digest=a3ae1892185418ae27381af7debdfc27079cf849&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Bview%5D=list&key=a4456035b7204a529a25fb2431effed5&page[number]=1&page[size]=4`
+    // All research outputs from University of Michigan sorted by Altmetric Attention Score published by Michigan Publishing
+    //const altmetricURL = `https://www.altmetric.com/explorer/api/research_outputs?digest=a3ae1892185418ae27381af7debdfc27079cf849&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Bview%5D=list&key=a4456035b7204a529a25fb2431effed5&page[number]=1&page[size]=4`
+    
+    // All research outputs sorted by Altmetric Attention Score mentioned in the past week published by Michigan Publishing
+    const altmetricURL = `https://www.altmetric.com/explorer/api/research_outputs?digest=921ba768088a6ecfbf6ea8aab737cde7a38f7c41&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Btimeframe%5D=1w&key=5b38d3048a7d4e9cb98c2e24ffc48713&page[number]=1&page[size]=4`
 
     // Enable loading.
     this.setState({ loading: true })
