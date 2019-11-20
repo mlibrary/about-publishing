@@ -1,8 +1,8 @@
 backend:
   name: gitlab
-  repo: michigan-creative/publishing
+  repo: michigan-publishing/publishing
   auth_type: implicit
-  app_id: 7a1434b77176325d09d8968ecf6d424c1d2f1bc38d2300b4fdb2ae77adcdebca
+  app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3 
   api_root: https://gitlab.umich.edu/api/v4
   base_url: https://gitlab.umich.edu
   auth_endpoint: oauth/authorize
