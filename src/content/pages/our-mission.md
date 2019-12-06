@@ -7,7 +7,7 @@ type: page
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">Read Our Impact Report
 
-[Impact Report](assets/mp-impactreport-shared.pdf)</div>
+[Impact Report](assets/mp-impactreport.pdf)</div>
 
 For many decades, publishing at the University of Michigan grew out of diverse and dispersed communities. As early as 1930, the Press was founded as a division of the University Library, and nearly 70 years later in 2000, the Library created the Scholarly Publishing Office (SPO) to serve the needs of authors and readers. Other activities related to publishing followed, including Deep Blue in 2006. In 2009, oversight of the University of Michigan Press moved back to the Library. Not long after, all publishing activities were unified under a single brand name, MPublishing. Michigan Publishing is now the hub of publishing activities undertaken by the University of Michigan Library. 
 
