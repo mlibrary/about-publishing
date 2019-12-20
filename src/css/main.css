@@ -333,6 +333,10 @@ main {
   background-position-y: -1.5rem;
 }
 
+.logo-link {
+  height: 30px;
+ }
+
 /* Drop cap */
 .drop-cap > p:first-child:first-letter {
   color: #00274c;

@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 
 const Footer = () => {
   const data = useStaticQuery(graphql`
@@ -41,16 +41,10 @@ const Footer = () => {
               <div className="mb-8 md:mb-0 text-center md:text-left">
                 <a
                   className="text-mid-blue md:mr-16 link-hover block md:inline mb-8 md:mb-0"
-                  href="mailto:{frontmatter.email}"
+                  href={frontmatter.contact_link}
                 >
                   {frontmatter.email}
                 </a>
-                <Link
-                  className="text-mid-blue link-hover"
-                  to={frontmatter.contact_link}
-                >
-                  Contact Us
-                </Link>
               </div>
             </div>
 
@@ -72,9 +66,9 @@ const Footer = () => {
 
               <a href="http://www.lib.umich.edu/">
                 <img
-                  src="/assets/library.png"
+                  src="/assets/mlibrary-logo.svg"
                   alt="UM Library logo"
-                  className="mb-8 md:mb-4 md:mt-4 h-24"
+                  className="logo-link mb-8 md:mb-4 md:mt-4 h-24"
                 ></img>
               </a>
 
