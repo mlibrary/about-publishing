@@ -12,7 +12,12 @@
   from = "/publications/ee/"
   to = "https://services.publishing.umich.edu/publications/ee/"
   status = 301
-  
+ 
+ [[redirects]]
+  from = "/publications/dice/"
+  to = "https://services.publishing.umich.edu/publications/dice/"
+  status = 301
+ 
  [[redirects]]
   from = "/news"
   to = "https://services.publishing.umich.edu/news"
