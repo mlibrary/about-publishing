@@ -17,6 +17,11 @@
   from = "/publications/dice/"
   to = "https://services.publishing.umich.edu/publications/dice/"
   status = 301
+  
+ [[redirects]]
+  from = "/publications/maize-books/possibility-of-practical-reason/"
+  to = "https://services.publishing.umich.edu/publications/maize-books/possibility-of-practical-reason/"
+  status = 301
  
  [[redirects]]
   from = "/news"
