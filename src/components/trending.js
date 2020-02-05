@@ -13,11 +13,8 @@ class Trending extends Component {
   }
 
   fetchTrending = async () => {
-    // All research outputs from University of Michigan sorted by Altmetric Attention Score published by Michigan Publishing
-    const altmetricURL = `https://www.altmetric.com/explorer/api/research_outputs?digest=a3ae1892185418ae27381af7debdfc27079cf849&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Bview%5D=list&key=a4456035b7204a529a25fb2431effed5&page[number]=1&page[size]=4`
-    
     // All research outputs sorted by Altmetric Attention Score mentioned in the past week published by Michigan Publishing
-    //const altmetricURL = `https://www.altmetric.com/explorer/api/research_outputs?digest=921ba768088a6ecfbf6ea8aab737cde7a38f7c41&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Btimeframe%5D=1w&key=5b38d3048a7d4e9cb98c2e24ffc48713&page[number]=1&page[size]=4`
+    const altmetricURL = `https://www.altmetric.com/explorer/api/research_outputs?digest=921ba768088a6ecfbf6ea8aab737cde7a38f7c41&filter%5Bpublisher_id%5D%5B%5D=874d100a-8085-4491-a085-7445c912ee93&filter%5Btimeframe%5D=1w&key=5b38d3048a7d4e9cb98c2e24ffc48713&page[number]=1&page[size]=4`
 
     // Enable loading.
     this.setState({ loading: true })
@@ -29,7 +26,7 @@ class Trending extends Component {
     // Loop through results.
     for (const book of data) {
       // Grab author and DOI info.
-      const pubData = await this.getPubInfo(book.attributes.identifiers.dois[0])
+      const pubData = await this.getPubInfo(book.id)
 
       // Build book object.
       const bookData = {
@@ -64,9 +61,11 @@ class Trending extends Component {
     }, 1000)
   }
 
+
+
   // Grabs info from altmetric doi endpoint.
-  getPubInfo = async doi => {
-    const response = await axios.get(`https://api.altmetric.com/v1/doi/${doi}`)
+  getPubInfo = async id => {
+    const response = await axios.get(`https://api.altmetric.com/v1/id/${id}`)
     return response
   }
 
@@ -115,15 +114,15 @@ class Trending extends Component {
         )}
 
         {!this.state.loading && (
-          <div className="md:flex flex-wrap lg:flex-no-wrap justify-between -m-4 fade-in">
+          <div className="flex-wrap justify-between -m-4 md:flex lg:flex-no-wrap fade-in">
             {this.state.trending.map(book => {
               return (
                 <a
                   href={book.link}
-                  className="trending lg:w-1/4 md:w-1/2 lg:m-4 px-4 lg:px-0 pb-8 mb-8 lg:mb-0 flex flex-col border-b-4 border-dusk-blue overflow-hidden"
+                  className="flex flex-col px-4 pb-8 mb-8 overflow-hidden border-b-4 trending lg:w-1/4 md:w-1/2 lg:m-4 lg:px-0 lg:mb-0 border-dusk-blue"
                   key={book.id}
                 >
-                  <div className="lg:h-414 mb-8">
+                  <div className="mb-8 lg:h-414">
                     {book.image && (
                       <img
                         src={book.image}
@@ -137,7 +136,7 @@ class Trending extends Component {
                     )}
                   </div>
                   <div>
-                    <h3 className="text-xl font-semibold mb-1">{book.title}</h3>
+                    <h3 className="mb-1 text-xl font-semibold">{book.title}</h3>
 
                     <p className="text-battleship-grey">
                       {book.authors && book.authors.join(" | ")}
@@ -145,7 +144,7 @@ class Trending extends Component {
                     </p>
                   </div>
                   <div className="mt-auto">
-                    <h4 className="uppercase font-semibold mb-4">
+                    <h4 className="mb-4 font-semibold uppercase">
                       Mentioned By:
                     </h4>
                     {book.mentions.msm && (
