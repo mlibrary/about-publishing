@@ -23,7 +23,9 @@ class Header extends Component {
           }`}
           onClick={this.hamburgerClick}
         ></div>
-        <UniversalHeader />
+        <div className="universal-header-container">
+          <UniversalHeader />
+        </div>
         <div className="items-center flex justify-between mx-auto container pt-8 lg:px-10 px-4 pb-4 relative">
           <h1 className="lg:w-5/12 mr-6">
             <AniLink fade duration={0.25} to="/">
