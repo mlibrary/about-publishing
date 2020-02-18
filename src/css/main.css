@@ -335,7 +335,7 @@ main {
 
 .logo-link {
   height: 30px;
- }
+}
 
 /* Drop cap */
 .drop-cap > p:first-child:first-letter {
@@ -576,5 +576,11 @@ main {
 
 /* Profile */
 .profile-quote::after {
-  content: "\"";
+  content: '"';
+}
+
+/* Universal Header */
+.universal-header-container ul {
+  list-style: none;
+  margin: 0;
 }
