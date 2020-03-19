@@ -4,6 +4,16 @@
   publish = "public"
 
 [[redirects]]
+  from="/publications"
+  to="https://services.publishing.umich.edu/publications"
+  status=301
+  
+[[redirects]]
+  from="/publications/#journals"
+  to="https://services.publishing.umich.edu/publications/#journals"
+  status=301
+
+[[redirects]]
   from = "/services"
   to = "https://services.publishing.umich.edu/"
   status = 301
