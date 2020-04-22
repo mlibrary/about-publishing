@@ -30,7 +30,7 @@ highlight:
     file: /assets/group-14.jpg
   link_text: Explore Our Reach
   link_url: /our-reach
-profile: Dr. Mike Galaty
+profile: Emily Wilcox
 stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
   - Opening Access to Books Increases Reach and Engagement
