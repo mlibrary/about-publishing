@@ -230,7 +230,7 @@ main {
 /* Navigation */
 .nav-item::after {
   background-color: #00274c;
-  bottom: -25px;
+  bottom: -20px;
   content: "";
   height: 0;
   left: 0;
