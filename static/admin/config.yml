@@ -1,11 +1,12 @@
 backend:
-  name: gitlab
-  repo: michigan-publishing/publishing
-  auth_type: implicit
-  app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3 
-  api_root: https://gitlab.umich.edu/api/v4
-  base_url: https://gitlab.umich.edu
-  auth_endpoint: oauth/authorize
+  name: test-repo
+  # name: gitlab
+  # repo: michigan-publishing/publishing
+  # auth_type: implicit
+  # app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3
+  # api_root: https://gitlab.umich.edu/api/v4
+  # base_url: https://gitlab.umich.edu
+  # auth_endpoint: oauth/authorize
 
 media_folder: static/assets
 public_folder: assets
@@ -31,7 +32,7 @@ collections:
             label: Social links
             label_singular: Social link
             widget: list
-            fields: 
+            fields:
               - { name: social_name, label: Social name }
               - { name: social_link, label: Social link }
   - name: landing_pages
@@ -132,6 +133,156 @@ collections:
           - { name: alt, label: Alt text }
       - { name: description, label: Description, widget: text }
       - { name: type, label: Type, widget: hidden, default: book }
+
+  - name: features
+    label: Features
+    label_singular: Feature
+    create: true
+    folder: src/content/features
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: subtitle, label: Subtitle }
+      - { name: path, label: Path }
+      - name: hero
+        label: Hero section
+        widget: object
+        required: false
+        fields:
+          - { name: text, label: Text, widget: text, required: false, default: "" }
+          - { name: feature_hero_image, label: Image, widget: image, required: false, default: "" }
+      - name: feature_image
+        label: Image
+        widget: object
+        fields:
+          - { name: file, label: File, widget: image }
+          - { name: alt, label: Alt text }
+          - { name: caption, label: Caption, required: false, default: "" }
+          - { name: credit, label: Credit, required: false, default: "" }
+      - { name: body, label: Body, widget: markdown }
+
+      - name: sections
+        label: Sections
+        widget: list
+        fields:
+          - label: Heading
+            name: heading
+          - label: Subheading
+            name: subheading
+          - label: Content
+            name: content
+            widget: list
+            types:
+              - label: Quote slider
+                name: quote_slider
+                widget: object
+                fields:
+                  - {
+                    name: book,
+                    label: Book,
+                    widget: relation,
+                    collection: books,
+                    searchFields: [title],
+                    valueField: title,
+                    default: [""]
+                  }
+                  - label: Quote
+                    name: quote
+                    widget: object
+                    fields:
+                      - label: Quote
+                        name: quote
+                        widget: text
+                      - label: Name
+                        name: name
+                      - label: Title
+                        name: title
+                  - label: Slides
+                    name: slides
+                    widget: list
+                    fields:
+                      - label: Image
+                        name: image
+                        widget: image
+                        required: false
+                      - label: Image Alt
+                        name: image_alt
+                        required: false
+                      - label: Title
+                        name: title
+                        required: false
+                      - label: Text
+                        name: text
+                        widget: markdown
+
+              - label: Call to Action
+                name: cta
+                widget: object
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                    required: false
+                  - label: Image Alt
+                    name: image_alt
+                    required: false
+                  - label: Heading
+                    name: heading
+                  - label: Text
+                    name: text
+                    widget: markdown
+                  - label: Button text
+                    name: button_text
+                  - label: Button URL
+                    name: button_url
+
+              - label: Podcast
+                name: podcast
+                widget: object
+                fields:
+                  - label: URL
+                    name: url
+
+              - label: Profile
+                name: profile
+                widget: object
+                fields:
+                  - label: Profile
+                    name: profile
+                    widget: relation
+                    collection: profiles
+                    searchFields: [title]
+                    valueField: title
+
+              - label: YouTube
+                name: youtube
+                widget: object
+                fields:
+                  - label: Video ID
+                    name: id
+
+              - label: Highlight box
+                name: highlight
+                widget: object
+                fields:
+                  - label: Text
+                    name: text
+                    widget: markdown
+
+              - label: Image
+                name: image
+                widget: object
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Image Alt
+                    name: image_alt
+                  - label: Caption
+                    name: caption
+                    widget: text
+                    required: false
 
   - name: stories
     label: Stories
