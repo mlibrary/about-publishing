@@ -142,6 +142,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { name: Type, label: type, widget: hidden, default: feature }
       - { name: title, label: Title }
       - { name: subtitle, label: Subtitle }
       - { name: path, label: Path }
@@ -158,8 +159,6 @@ collections:
         fields:
           - { name: file, label: File, widget: image }
           - { name: alt, label: Alt text }
-          - { name: caption, label: Caption, required: false, default: "" }
-          - { name: credit, label: Credit, required: false, default: "" }
       - { name: body, label: Body, widget: markdown }
 
       - name: sections
