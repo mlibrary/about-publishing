@@ -277,7 +277,11 @@ blockquote.quote > p::after {
 }
 
 .slide-blur {
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) -36%, #ffffff 100%);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0) -36%,
+    #ffffff 100%
+  );
 }
 
 /* Shadows */
@@ -285,6 +289,23 @@ blockquote.quote > p::after {
   .shadow-1 {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
   }
+}
+
+/* Media */
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* Clip */

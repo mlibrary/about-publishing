@@ -166,6 +166,12 @@ export default function FeatureTemplate({ data }) {
                           </div>
                         )
                       })}
+
+                  {item.type === "youtube" && (
+                    <div className="embed-container">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/y7bNLLOKCI4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
@@ -220,6 +226,7 @@ export const featureQuery = graphql`
             url
             spacer
             profile
+            id
           }
         }
       }
