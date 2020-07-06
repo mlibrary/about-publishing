@@ -47,6 +47,48 @@ sections:
         profile: Emily Wilcox
       - type: youtube
         id: y7bNLLOKCI4
+      - type: highlight
+        text: >-
+          ### Lorem Ipsum Dolor Sit Amet
+
+          Taylor/Lewis/Haider-Markel: The Remarkable Rise of Transgender Rights
+
+
+          Gillum: Muslims in a Post 9/11 America
+
+
+          Lang: Black America in the Shadow of the Sixties
+
+
+          Knadler: Vitality Politics
+
+
+          Merry: Warped Narratives
+
+
+          De Kosnik/Feldman: #Identity
+
+
+          Harding: Performance, Transparency, and the Cultures of Surveillance
+
+
+          Hoffer: Zombie History
+
+
+          Dyson: Imagining Politics
+
+
+          Roach: Decency and Difference
+      - type: image
+        image: /assets/jellies.jpg
+        image_alt: jellies?
+        caption: Nullam quis risus eget urna mollis ornare vel eu leo.
+        credit: Julian Rothschild, AP Photo
+      - type: cta
+        heading: This is a headline about giving
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        button_text: Lend your support
+        button_link: /our-mission
 ---
 
 Debate and Democracy is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. In 2020, the very fate of the Union appears to be at stake. Rather than a formal political secession, as in the election of 1860, the 2020 presidential election has thrown a spotlight on a people violently divided by wealth, values, identity, and competing visions of the America they want to leave their children. For many, the election seems to be a referendum not only on the nation’s future, but a personal judgment on themselves as people deserving of citizenship. Historically, the United States has walked a tightrope between narratives of liberty and legal restriction. The founders restricted voting to free, mostly white men who owned property. Gradually, the Fifteenth and Nineteenth Amendments to the Constitution and the Civil Rights bills of the 1960s legally opened the franchise to all Americans regardless of race, class, or gender. Yet the reality is more complicated. In 2020, poor people, people of color, immigrants, and others who seem to live on the margins of American middle-class life struggle to participate in American democracy.

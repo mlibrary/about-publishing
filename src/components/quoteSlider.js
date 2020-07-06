@@ -42,11 +42,11 @@ const QuoteSlider = ({ content, books, slides }) => {
       </div>
       <div className="relative mb-4 overflow-hidden">
         <div
-          className="flex -mt-3 -mb-3 -ml-3 transition-transform"
+          className="-mt-3 -mb-3 -ml-3 transition-transform md:flex"
           style={{ transform: `translateX(${slidePosition}%)` }}
         >
           {slides.map(slide => (
-            <div className="flex-shrink-0 w-5/12 p-3">
+            <div className="flex-shrink-0 p-3 md:w-5/12">
               <Slide
                 image={slide.image}
                 alt={slide.image_alt}
@@ -58,10 +58,10 @@ const QuoteSlider = ({ content, books, slides }) => {
         </div>
 
         {/* Slide blur */}
-        <div className="absolute top-0 right-0 flex-shrink-0 w-2/12 h-90 slide-blur"></div>
+        <div className="absolute top-0 right-0 flex-shrink-0 hidden w-2/12 h-90 slide-blur md:block"></div>
       </div>
 
-      <div className="flex justify-end underline text-mid-blue">
+      <div className="justify-end hidden underline text-mid-blue md:flex">
         <button onClick={() => prev()} className="flex items-center mr-2">
           <svg
             className="w-4 h-4 rotate-90"

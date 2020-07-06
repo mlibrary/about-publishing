@@ -296,7 +296,9 @@ collections:
                     name: image_alt
                   - label: Caption
                     name: caption
-                    widget: text
+                    required: false
+                  - label: Credit
+                    name: credit
                     required: false
 
   - name: stories

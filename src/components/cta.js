@@ -2,7 +2,7 @@ import React from "react"
 
 export const Cta = ({ image, alt, heading, text, buttonText, buttonLink }) => {
   return (
-    <div className="sm:flex">
+    <div className={`${image ? "sm:flex" : "w-full border-b border-sea-blue"}`}>
       {image && (
         <img
           src={image}
@@ -11,13 +11,26 @@ export const Cta = ({ image, alt, heading, text, buttonText, buttonLink }) => {
         />
       )}
 
-      <div className="px-6 pb-6 sm:w-7/12 bg-pale-grey pt-275">
-        <h3 className="mb-4 font-serif text-2xl font-semibold">{heading}</h3>
-        <p>{text}</p>
+      <div
+        className={`${
+          image ? "px-6 pb-6 sm:w-7/12 pt-275" : "sm:flex items-center p-6 justify-between"
+        } bg-pale-grey`}
+      >
+        <div className={`${image ? "" : "sm:mr-4"}`}>
+          <h3
+            className={`mb-4 text-2xl font-semibold ${
+              image ? "font-serif" : ""
+            }`}
+          >
+            {heading}
+          </h3>
+          <p className={`text-09375`}>{text}</p>
+        </div>
+
         {buttonLink && (
           <a
             href={buttonLink}
-            className="inline-flex items-center px-4 py-2 font-bold rounded-sm transition-color focus:text-michigan-blue focus:bg-michigan-maize hover:text-michigan-blue hover:bg-michigan-maize bg-michigan-blue text-michigan-maize"
+            className="inline-flex items-center flex-shrink-0 px-4 py-2 font-bold rounded-sm transition-color focus:text-michigan-blue focus:bg-michigan-maize hover:text-michigan-blue hover:bg-michigan-maize bg-michigan-blue text-michigan-maize"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

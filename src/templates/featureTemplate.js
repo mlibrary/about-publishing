@@ -4,10 +4,10 @@ import showdown from "showdown"
 import { graphql } from "gatsby"
 import { globalHistory } from "@reach/router"
 
+import MarkdownContent from "../components/markdownContent"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import QuoteSlider from "../components/quoteSlider"
-import Profile from "../components/profile"
 import { Cta } from "../components/cta"
 
 export default function FeatureTemplate({ data }) {
@@ -169,8 +169,51 @@ export default function FeatureTemplate({ data }) {
 
                   {item.type === "youtube" && (
                     <div className="embed-container">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/y7bNLLOKCI4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe
+                        title="video"
+                        width="560"
+                        height="315"
+                        src="https://www.youtube.com/embed/y7bNLLOKCI4"
+                        frameBorder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                      ></iframe>
                     </div>
+                  )}
+
+                  {item.type === "highlight" && (
+                    <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2">
+                      <MarkdownContent
+                        content={item.text}
+                        className="markdown small-margin"
+                      />
+                    </div>
+                  )}
+
+                  {item.type === "image" && (
+                    <figure className="mb-20 text-xs text-slate-grey">
+                      <img
+                        src={item.image}
+                        alt={item.image_alt}
+                        className="w-full mb-4 rounded-lg animated fade-in-up max-h-24"
+                      />
+                      {(item.caption ||
+                        item.credit) && (
+                        <div>
+                          {item.caption && (
+                            <figcaption>
+                              {item.caption}
+                            </figcaption>
+                          )}
+                          {item.credit && (
+                            <p className="italic">
+                              {item.credit}
+                            </p>
+                          )}
+                          <div className="w-40 h-1 bg-michigan-blue"></div>
+                        </div>
+                      )}
+                    </figure>
                   )}
                 </div>
               ))}
@@ -227,6 +270,9 @@ export const featureQuery = graphql`
             spacer
             profile
             id
+            text
+            caption
+            credit
           }
         }
       }

@@ -50,6 +50,12 @@ hr {
   margin-bottom: 1rem;
 }
 
+.markdown h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
 /* Blockquotes */
 .markdown blockquote {
   background-color: #506fc5;
