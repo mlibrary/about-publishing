@@ -141,15 +141,12 @@ export default function FeatureTemplate({ data }) {
                   )}
 
                   {item.type === "podcast" && (
-                    <iframe
-                      title="podcast"
-                      src={item.url}
-                      frameBorder="0"
-                      width="100%"
-                      height="110"
-                      sandbox="allow-scripts"
-                      security="restricted"
-                    ></iframe>
+                    <div>
+                      <MarkdownContent
+                        content={item.embed_code}
+                        className="markdown"
+                      />
+                    </div>
                   )}
 
                   {item.type === "spacer" && <hr></hr>}
@@ -294,7 +291,7 @@ export const featureQuery = graphql`
             text
             button_text
             button_link
-            url
+            embed_code
             spacer
             profile
             id

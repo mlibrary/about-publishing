@@ -253,8 +253,9 @@ collections:
                 name: podcast
                 widget: object
                 fields:
-                  - label: URL
-                    name: url
+                  - label: Embed code
+                    name: embed_code
+                    widget: code
 
               - label: Profile
                 name: profile

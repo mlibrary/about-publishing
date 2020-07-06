@@ -29,7 +29,9 @@ sections:
           - title: Disbelief in Politics
             text: Millennials are politically active but do not believe in traditional politics—“the system is rigged.” For example, they have the highest belief in climate change but do not support policy-centered climate change initiatives
           - title: Polarization increased in the 1980s
-            text:
+            text: ""
+      - type: podcast
+        embed_code: <iframe src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
       - type: cta
         image: /assets/accessible-books-work-on-any-device.jpg
         image_alt: Person holding phone
@@ -56,7 +58,14 @@ sections:
           - title: Disbelief in Politics
             text: Millennials are politically active but do not believe in traditional politics—“the system is rigged.” For example, they have the highest belief in climate change but do not support policy-centered climate change initiatives
       - type: podcast
-        url: https://player.acast.com/michigan-minds/episodes/earth-day-at-50-andrew-gronewold-on-water-resource-managemen#?secret=hHZy80EaYm
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+      - type: highlight
+        text: >-
+          ### More resources
+        
+          [Listen to 'The role of young voters in 2020' on MPR News](https://www.mprnews.org/episode/2020/04/27/the-role-of-young-voters-in-2020)  
+          
+          [Listen to the discussion on 'The Politics of Millennials' on New Books](https://newbooksnetwork.com/stella-m-rouse-and-ashley-d-ross-the-politics-of-millennials-political-beliefs-and-policy-preferences-of-americas-most-diverse-generation-u-michigan-press-2018/)
       - type: profile
         profile: Emily Wilcox
       - type: quote_slider
@@ -72,6 +81,8 @@ sections:
             text: The Jewish vote changed from Republican to Democrat in the 1920s
           - title: Most Jews have incorporated being Democratic in to their social identity as Jews.
           - text: Values-based, minority consciousness, as well as strong historical memory as immigrants-to-Americans keeps the Jewish vote primarily Democratic
+      - type: podcast
+        embed_code: <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=new-books-in-gender-studies-WJbzPl&ge=s1!f9e8d977da23d0eb4260de3d76bc7dc328c08554"></iframe>
       - type: youtube
         id: y7bNLLOKCI4
       - type: spacer

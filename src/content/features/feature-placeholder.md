@@ -3,6 +3,8 @@ title: Placeholder Feature (do not delete)
 subtitle: Subtitle
 path: /feature-kitchen-sink
 type: feature
+related_stories:
+  - ""
 hero:
   text: test
   feature_hero_image: /assets/hero.jpg
@@ -38,7 +40,7 @@ sections:
         button_text: Call to action
         button_link: /our-mission
       - type: podcast
-        url: https://player.acast.com/michigan-minds/episodes/earth-day-at-50-andrew-gronewold-on-water-resource-managemen#?secret=hHZy80EaYm
+        embed_code: https://player.acast.com/michigan-minds/episodes/earth-day-at-50-andrew-gronewold-on-water-resource-managemen#?secret=hHZy80EaYm
       - type: spacer
         spacer: Spacer
       - type: profile
