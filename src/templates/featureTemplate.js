@@ -7,6 +7,7 @@ import { globalHistory } from "@reach/router"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import QuoteSlider from "../components/quoteSlider"
+import Profile from "../components/profile"
 import { Cta } from "../components/cta"
 
 export default function FeatureTemplate({ data }) {
@@ -143,6 +144,28 @@ export default function FeatureTemplate({ data }) {
                       security="restricted"
                     ></iframe>
                   )}
+
+                  {item.type === "spacer" && <hr></hr>}
+
+                  {item.type === "profile" &&
+                    data.profiles.nodes
+                      .filter(
+                        profile => item.profile === profile.frontmatter.title
+                      )
+                      .map(match => {
+                        return (
+                          <div className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2">
+                            <img
+                              src={match.frontmatter.faculty_image}
+                              alt={match.frontmatter.title}
+                              className="mx-auto mb-8 border rounded-full border-grey lg:w-1/3 lg:mb-0 lg:mx-0"
+                            />
+                            <div className="pl-8 ml-8 border-l-4 lg:w-2/3 border-michigan-blue">
+                              <p>{match.frontmatter.bio}</p>
+                            </div>
+                          </div>
+                        )
+                      })}
                 </div>
               ))}
             </div>
@@ -195,6 +218,8 @@ export const featureQuery = graphql`
             button_text
             button_link
             url
+            spacer
+            profile
           }
         }
       }

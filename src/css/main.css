@@ -21,6 +21,10 @@ main {
   min-height: 25vh;
 }
 
+hr {
+  @apply text-cloudy-blue;
+}
+
 /* Content */
 .markdown {
   font-size: 1.125rem;

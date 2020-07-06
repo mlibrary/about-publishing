@@ -243,6 +243,15 @@ collections:
                   - label: Button URL
                     name: button_url
 
+              - label: Spacer
+                name: spacer
+                widget: object
+                fields:
+                  - label: Spacer
+                    name: spacer
+                    default: Spacer
+                    hint: Adds border seperator to content. Text entered in this field is for admin purposes only and will not display on the site.
+
               - label: Podcast
                 name: podcast
                 widget: object
