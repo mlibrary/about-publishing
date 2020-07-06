@@ -21,25 +21,30 @@ const QuoteSlider = ({ content, books, slides }) => {
 
   return (
     <div>
-      <h3 className="font-sans text-3xl font-semibold">{content.heading}</h3>
-      <p className="font-bold text-metallic-blue">{content.subheading}</p>
-      <div className="flex mb-6">
-        {books
-          .filter(book => content.book.includes(book.frontmatter.title))
-          .map(book => (
-            <img
-              src={book.frontmatter.image.file}
-              alt={book.frontmatter.image.alt}
-              className="flex-shrink-0 w-4/12 pr-6"
-            />
-          ))}
+      {books
+        .filter(book => content.book.includes(book.frontmatter.title))
+        .map(book => (
+          <div>
+            <h3 className="font-sans text-3xl font-semibold">
+              {book.frontmatter.title}
+            </h3>
+            <p className="font-bold text-metallic-blue">{book.frontmatter.author}</p>
+            <div className="mb-6 sm:flex">
+              <img
+                src={book.frontmatter.image.file}
+                alt={book.frontmatter.image.alt}
+                className="flex-shrink-0 pr-6 mb-6 rounded sm:w-4/12 sm:mb-0"
+              />
 
-        <Quote
-          quote={content.quote.quote}
-          name={content.quote.name}
-          title={content.quote.title}
-        />
-      </div>
+              <Quote
+                quote={content.quote.quote}
+                name={content.quote.name}
+                title={content.quote.title}
+              />
+            </div>
+          </div>
+        ))}
+
       <div className="relative mb-4 overflow-hidden">
         <div
           className="-mt-3 -mb-3 -ml-3 transition-transform md:flex"

@@ -21,7 +21,7 @@ const Navigation = () => (
         </AniLink>
       </li>
       <NavItem to="/our-mission">Our Mission</NavItem>
-      <NavItem to="/feature-page">Label to be determined</NavItem>
+      <NavItem to="/debate-and-democracy">Label to be determined</NavItem>
       <NavItem to="/stories-of-impact">Stories of Impact</NavItem>
       <NavItem to="/our-reach">Our Reach</NavItem>
       <NavItem to="/search">

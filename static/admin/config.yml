@@ -177,10 +177,6 @@ collections:
                 name: quote_slider
                 widget: object
                 fields:
-                  - name: heading
-                    label: Heading
-                  - name: subheading
-                    label: Subheading
                   - {
                     name: book,
                     label: Book,
@@ -220,7 +216,8 @@ collections:
                         default: ""
                       - label: Text
                         name: text
-                        widget: markdown
+                        widget: text
+                        required: false
 
               - label: Call to Action
                 name: cta
@@ -237,11 +234,11 @@ collections:
                     name: heading
                   - label: Text
                     name: text
-                    widget: markdown
+                    widget: text
                   - label: Button text
                     name: button_text
                   - label: Button URL
-                    name: button_url
+                    name: button_link
 
               - label: Spacer
                 name: spacer
@@ -300,6 +297,18 @@ collections:
                   - label: Credit
                     name: credit
                     required: false
+
+      - {
+        name: related_stories,
+        label: Related Stores,
+        widget: relation,
+        collection: stories,
+        searchFields: [title],
+        valueField: title,
+        multiple: true,
+        required: false,
+        default: [""],
+      }
 
   - name: stories
     label: Stories

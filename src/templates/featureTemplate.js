@@ -9,6 +9,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import QuoteSlider from "../components/quoteSlider"
 import { Cta } from "../components/cta"
+import Card from "../components/card"
+import Section from "../components/section"
 
 export default function FeatureTemplate({ data }) {
   const converter = new showdown.Converter()
@@ -18,6 +20,11 @@ export default function FeatureTemplate({ data }) {
 
   const hero = frontmatter.hero.feature_hero_image
   const href = globalHistory.location.href
+
+  // Get related stories.
+  const featuredStories = data.stories.nodes.filter(story =>
+    frontmatter.related_stories.includes(story.frontmatter.title)
+  )
 
   return (
     <Layout>
@@ -176,7 +183,7 @@ export default function FeatureTemplate({ data }) {
                         src="https://www.youtube.com/embed/y7bNLLOKCI4"
                         frameBorder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen
+                        allowFullScreen
                       ></iframe>
                     </div>
                   )}
@@ -221,6 +228,28 @@ export default function FeatureTemplate({ data }) {
           ))}
         </div>
       </div>
+
+      {featuredStories.length > 0 && (
+        <Section heading="Explore more stories:" className="mb-20">
+          <div className="flex flex-wrap -mx-3">
+            {featuredStories.map(story => {
+              return (
+                <Card
+                  key={story.frontmatter.title}
+                  title={story.frontmatter.title}
+                  href={story.frontmatter.path}
+                  image={story.frontmatter.story_image.file}
+                  alt={story.frontmatter.story_image.alt}
+                  subtitle={story.frontmatter.categories.join(" | ")}
+                  className="flex flex-col px-3 mb-8 md:w-1/2 lg:w-1/3 lg:mb-0"
+                >
+                  {story.excerpt}
+                </Card>
+              )
+            })}
+          </div>
+        </Section>
+      )}
     </Layout>
   )
 }
@@ -241,12 +270,11 @@ export const featureQuery = graphql`
           file
           alt
         }
+        related_stories
         sections {
           heading
           subheading
           content {
-            heading
-            subheading
             book
             quote {
               name
