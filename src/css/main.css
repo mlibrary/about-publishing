@@ -133,7 +133,7 @@ main {
   position: relative;
 }
 
-.markdown blockquote.quote > p::before {
+blockquote.quote > p::before {
   content: "“";
   font-family: "Muli";
   font-size: 75px;
@@ -146,7 +146,7 @@ main {
   color: #ffcb05;
 }
 
-.markdown blockquote.quote > p::after {
+blockquote.quote > p::after {
   content: '"';
 }
 
@@ -270,6 +270,10 @@ main {
     position: relative;
     z-index: 1;
   }
+}
+
+.slide-blur {
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) -36%, #ffffff 100%);
 }
 
 /* Shadows */
@@ -400,7 +404,19 @@ main {
   margin: 100px auto;
 }
 
+.-rotate-90 {
+  transform: rotate(-90deg);
+}
+
+.rotate-90 {
+  transform: rotate(90deg);
+}
+
 /* Animation */
+.transition-color {
+  transition: background-color 0.15s ease-in, color 0.15s ease-in;
+}
+
 .transition-transform {
   transition: transform 0.15s ease-in;
 }

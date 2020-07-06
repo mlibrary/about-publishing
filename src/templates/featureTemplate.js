@@ -6,6 +6,8 @@ import { globalHistory } from "@reach/router"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import QuoteSlider from "../components/quoteSlider"
+import { Cta } from "../components/cta"
 
 export default function FeatureTemplate({ data }) {
   const converter = new showdown.Converter()
@@ -95,8 +97,56 @@ export default function FeatureTemplate({ data }) {
 
           <div
             dangerouslySetInnerHTML={{ __html: converter.makeHtml(html) }}
-            className="mb-8 text-lg markdown drop-cap"
+            className="mb-8 text-lg border-b markdown drop-cap"
           />
+
+          {frontmatter.sections.map(section => (
+            <div>
+              <div className="mb-8">
+                <h2 className="font-serif leading-tight text-35">
+                  {section.heading}
+                </h2>
+                <p className="text-lg font-semibold text-metallic-blue">
+                  {section.subheading}
+                </p>
+              </div>
+
+              {section.content.map(item => (
+                <div className="mb-12">
+                  {item.type === "quote_slider" && (
+                    <QuoteSlider
+                      content={item}
+                      books={data.books.nodes}
+                      slides={item.slides}
+                    />
+                  )}
+
+                  {item.type === "cta" && (
+                    <Cta
+                      image={item.image}
+                      alt={item.image_alt}
+                      heading={item.heading}
+                      text={item.text}
+                      buttonText={item.button_text}
+                      buttonLink={item.button_link}
+                    />
+                  )}
+
+                  {item.type === "podcast" && (
+                    <iframe
+                      title="podcast"
+                      src={item.url}
+                      frameBorder="0"
+                      width="100%"
+                      height="110"
+                      sandbox="allow-scripts"
+                      security="restricted"
+                    ></iframe>
+                  )}
+                </div>
+              ))}
+            </div>
+          ))}
         </div>
       </div>
     </Layout>
@@ -110,6 +160,7 @@ export const featureQuery = graphql`
       frontmatter {
         path
         title
+        subtitle
         hero {
           text
           feature_hero_image
@@ -117,6 +168,84 @@ export const featureQuery = graphql`
         feature_image {
           file
           alt
+        }
+        sections {
+          heading
+          subheading
+          content {
+            heading
+            subheading
+            book
+            quote {
+              name
+              quote
+              title
+            }
+            type
+            slides {
+              image
+              image_alt
+              text
+              title
+            }
+            image
+            image_alt
+            heading
+            text
+            button_text
+            button_link
+            url
+          }
+        }
+      }
+    }
+
+    stories: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "story" } } }
+    ) {
+      nodes {
+        frontmatter {
+          title
+          path
+          story_image {
+            alt
+            file
+          }
+          categories
+        }
+        excerpt(pruneLength: 140, truncate: true)
+      }
+    }
+
+    books: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "book" } } }
+    ) {
+      nodes {
+        frontmatter {
+          title
+          author
+          link
+          description
+          image {
+            file
+            alt
+          }
+        }
+      }
+    }
+
+    profiles: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "profile" } } }
+    ) {
+      nodes {
+        frontmatter {
+          faculty_image
+          title
+          job_title
+          bio
+          quotes {
+            quote
+          }
         }
       }
     }

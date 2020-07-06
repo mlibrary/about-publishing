@@ -177,6 +177,10 @@ collections:
                 name: quote_slider
                 widget: object
                 fields:
+                  - name: heading
+                    label: Heading
+                  - name: subheading
+                    label: Subheading
                   - {
                     name: book,
                     label: Book,
@@ -205,12 +209,15 @@ collections:
                         name: image
                         widget: image
                         required: false
+                        default: ""
                       - label: Image Alt
                         name: image_alt
                         required: false
+                        default: ""
                       - label: Title
                         name: title
                         required: false
+                        default: ""
                       - label: Text
                         name: text
                         widget: markdown

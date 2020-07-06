@@ -2,6 +2,8 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
+        "09375": "0.9375rem",
+        175: "1.75rem",
         "35": "3.5rem",
         "375": "3.75rem",
         "525": "5.25rem",
@@ -10,6 +12,7 @@ module.exports = {
       height: {
         "38125": "38.125rem",
         "414": "414px",
+        90: "90%",
       },
       inset: {
         "-1": "-1rem",
@@ -33,6 +36,7 @@ module.exports = {
         "70": "70%",
       },
       spacing: {
+        275: "2.75rem",
         "1675": "16.75rem",
       },
       width: {
@@ -58,9 +62,12 @@ module.exports = {
       dark: "#212b36",
       "dusk-blue": "#274391",
       eggshell: "#CBE5BE",
+      golden: "#EABA02",
+      "metallic-blue": "#4C6781",
       "michigan-blue": "#00274c",
       "michigan-maize": "#ffcb05",
       "mid-blue": "#1e80a2",
+      "pale-grey": "#E9F2F5",
       scarlet: "#EA4335",
       "sea-blue": "#1A6681",
       "slate-grey": "#5F686D",
