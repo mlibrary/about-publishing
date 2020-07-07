@@ -108,121 +108,114 @@ export default function FeatureTemplate({ data }) {
             className="mb-8 text-lg border-b markdown drop-cap"
           />
 
-          {frontmatter.sections.map(section => (
-            <div>
-              <div className="mb-8">
-                <h2 className="font-serif leading-tight text-35">
-                  {section.heading}
-                </h2>
-                <p className="text-lg font-semibold text-metallic-blue">
-                  {section.subheading}
-                </p>
-              </div>
-
-              {section.content.map(item => (
-                <div className="mb-12">
-                  {item.type === "quote_slider" && (
-                    <QuoteSlider
-                      content={item}
-                      books={data.books.nodes}
-                      slides={item.slides}
-                    />
-                  )}
-
-                  {item.type === "cta" && (
-                    <Cta
-                      image={item.image}
-                      alt={item.image_alt}
-                      heading={item.heading}
-                      text={item.text}
-                      buttonText={item.button_text}
-                      buttonLink={item.button_link}
-                    />
-                  )}
-
-                  {item.type === "podcast" && (
-                    <div>
-                      <MarkdownContent
-                        content={item.embed_code}
-                        className="markdown"
-                      />
-                    </div>
-                  )}
-
-                  {item.type === "spacer" && <hr></hr>}
-
-                  {item.type === "profile" &&
-                    data.profiles.nodes
-                      .filter(
-                        profile => item.profile === profile.frontmatter.title
-                      )
-                      .map(match => {
-                        return (
-                          <div className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2">
-                            <img
-                              src={match.frontmatter.faculty_image}
-                              alt={match.frontmatter.title}
-                              className="mx-auto mb-8 border rounded-full border-grey lg:w-1/3 lg:mb-0 lg:mx-0"
-                            />
-                            <div className="pl-8 ml-8 border-l-4 lg:w-2/3 border-michigan-blue">
-                              <p>{match.frontmatter.bio}</p>
-                            </div>
-                          </div>
-                        )
-                      })}
-
-                  {item.type === "youtube" && (
-                    <div className="embed-container">
-                      <iframe
-                        title="video"
-                        width="560"
-                        height="315"
-                        src="https://www.youtube.com/embed/y7bNLLOKCI4"
-                        frameBorder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                      ></iframe>
-                    </div>
-                  )}
-
-                  {item.type === "highlight" && (
-                    <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2">
-                      <MarkdownContent
-                        content={item.text}
-                        className="markdown small-margin"
-                      />
-                    </div>
-                  )}
-
-                  {item.type === "image" && (
-                    <figure className="mb-20 text-xs text-slate-grey">
-                      <img
-                        src={item.image}
-                        alt={item.image_alt}
-                        className="w-full mb-4 rounded-lg animated fade-in-up max-h-24"
-                      />
-                      {(item.caption ||
-                        item.credit) && (
-                        <div>
-                          {item.caption && (
-                            <figcaption>
-                              {item.caption}
-                            </figcaption>
-                          )}
-                          {item.credit && (
-                            <p className="italic">
-                              {item.credit}
-                            </p>
-                          )}
-                          <div className="w-40 h-1 bg-michigan-blue"></div>
-                        </div>
-                      )}
-                    </figure>
-                  )}
+          {frontmatter.sections &&
+            frontmatter.sections.map(section => (
+              <div>
+                <div className="mb-8">
+                  <h2 className="font-serif leading-tight text-35">
+                    {section.heading}
+                  </h2>
+                  <p className="text-lg font-semibold text-metallic-blue">
+                    {section.subheading}
+                  </p>
                 </div>
-              ))}
-            </div>
-          ))}
+
+                {section.content.map(item => (
+                  <div className="mb-12">
+                    {item.type === "quote_slider" && (
+                      <QuoteSlider
+                        content={item}
+                        books={data.books.nodes}
+                        slides={item.slides}
+                      />
+                    )}
+
+                    {item.type === "cta" && (
+                      <Cta
+                        image={item.image}
+                        alt={item.image_alt}
+                        heading={item.heading}
+                        text={item.text}
+                        buttonText={item.button_text}
+                        buttonLink={item.button_link}
+                      />
+                    )}
+
+                    {item.type === "podcast" && (
+                      <div
+                        dangerouslySetInnerHTML={{ __html: item.embed_code }}
+                      ></div>
+                    )}
+
+                    {item.type === "spacer" && <hr></hr>}
+
+                    {item.type === "profile" &&
+                      data.profiles.nodes
+                        .filter(
+                          profile => item.profile === profile.frontmatter.title
+                        )
+                        .map(match => {
+                          return (
+                            <div className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2">
+                              <img
+                                src={match.frontmatter.faculty_image}
+                                alt={match.frontmatter.title}
+                                className="mx-auto mb-8 border rounded-full border-grey lg:w-1/3 lg:mb-0 lg:mx-0"
+                              />
+                              <div className="pl-8 ml-8 border-l-4 lg:w-2/3 border-michigan-blue">
+                                <p>{match.frontmatter.bio}</p>
+                              </div>
+                            </div>
+                          )
+                        })}
+
+                    {item.type === "youtube" && (
+                      <div className="embed-container">
+                        <iframe
+                          title="video"
+                          width="560"
+                          height="315"
+                          src="https://www.youtube.com/embed/y7bNLLOKCI4"
+                          frameBorder="0"
+                          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                        ></iframe>
+                      </div>
+                    )}
+
+                    {item.type === "highlight" && (
+                      <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2">
+                        <MarkdownContent
+                          content={item.text}
+                          className="markdown small-margin"
+                        />
+                      </div>
+                    )}
+
+                    {item.type === "image" && (
+                      <figure className="mb-20 text-xs text-slate-grey">
+                        <img
+                          src={item.image}
+                          alt={item.image_alt}
+                          className="w-full mb-4 rounded-lg animated fade-in-up max-h-24"
+                        />
+                        {(item.caption || item.credit) && (
+                          <div>
+                            {item.caption && (
+                              <figcaption>{item.caption}</figcaption>
+                            )}
+                            {item.credit && (
+                              <p className="italic">{item.credit}</p>
+                            )}
+                            <div className="w-40 h-1 bg-michigan-blue"></div>
+                          </div>
+                        )}
+                      </figure>
+                    )}
+                  </div>
+                ))}
+              </div>
+            ))}
         </div>
       </div>
 
