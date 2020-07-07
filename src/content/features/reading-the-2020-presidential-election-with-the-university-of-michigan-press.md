@@ -1,6 +1,6 @@
 ---
 type: feature
-title: Feature Kitchen Sink (do not delete)
+title: "Feature Kitchen Sink (do not delete) "
 subtitle: Debate and Democracy | Decision2020
 path: /feature-kitchen-sink
 hero:
