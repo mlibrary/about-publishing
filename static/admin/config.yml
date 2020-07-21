@@ -17,7 +17,7 @@ backend:
   # app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3
   
   # Local development settings
-  # name: git-gateway
+#   name: git-gateway
 # local_backend: true
 
 media_folder: static/assets
@@ -179,6 +179,10 @@ collections:
         fields:
           - label: Heading
             name: heading
+          - label: ID
+            name: id
+            required: false
+            hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
           - label: Subheading
             name: subheading
           - label: Content
@@ -198,6 +202,10 @@ collections:
                     valueField: title,
                     default: [""]
                   }
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
                   - label: Quote
                     name: quote
                     widget: object
@@ -235,6 +243,10 @@ collections:
                 name: cta
                 widget: object
                 fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
                   - label: Image
                     name: image
                     widget: image
@@ -265,6 +277,10 @@ collections:
                 name: podcast
                 widget: object
                 fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
                   - label: Embed code
                     name: embed_code
                     widget: text
@@ -273,6 +289,10 @@ collections:
                 name: profile
                 widget: object
                 fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
                   - label: Profile
                     name: profile
                     widget: relation
@@ -291,6 +311,10 @@ collections:
                 name: highlight
                 widget: object
                 fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
                   - label: Text
                     name: text
                     widget: markdown
@@ -299,6 +323,10 @@ collections:
                 name: image
                 widget: object
                 fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
                   - label: Image
                     name: image
                     widget: image

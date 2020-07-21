@@ -36,14 +36,16 @@ sections:
           - image: ""
             image_alt: ""
             title: Polarization increased in the 1980s
+        id: american-voter
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
           height="90" width="100%" scrolling="no"  allowfullscreen
           webkitallowfullscreen mozallowfullscreen oallowfullscreen
           msallowfullscreen></iframe>
+        id: podcast-id
       - type: cta
-        image: assets/accessible-books-work-on-any-device.jpg
+        image: /assets/accessible-books-work-on-any-device.jpg
         image_alt: person holding phone
         heading: This is a headline
         text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent
@@ -151,6 +153,7 @@ sections:
           Roach: [Decency and Difference](https://www.press.umich.edu/9394395/decency_and_difference)
       - type: spacer
         spacer: Spacer
+    id: debate-section
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:

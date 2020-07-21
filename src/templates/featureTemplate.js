@@ -110,7 +110,7 @@ export default function FeatureTemplate({ data }) {
 
           {frontmatter.sections &&
             frontmatter.sections.map(section => (
-              <div>
+              <div id={section.id}>
                 <div className="mb-8">
                   <h2 className="font-serif leading-tight text-35">
                     {section.heading}
@@ -121,7 +121,7 @@ export default function FeatureTemplate({ data }) {
                 </div>
 
                 {section.content.map(item => (
-                  <div className="mb-12">
+                  <div className="mb-12" id={item.id}>
                     {item.type === "quote_slider" && (
                       <QuoteSlider
                         content={item}
@@ -131,18 +131,21 @@ export default function FeatureTemplate({ data }) {
                     )}
 
                     {item.type === "cta" && (
-                      <Cta
-                        image={item.image}
-                        alt={item.image_alt}
-                        heading={item.heading}
-                        text={item.text}
-                        buttonText={item.button_text}
-                        buttonLink={item.button_link}
-                      />
+                      <div id={item.id}>
+                        <Cta
+                          image={item.image}
+                          alt={item.image_alt}
+                          heading={item.heading}
+                          text={item.text}
+                          buttonText={item.button_text}
+                          buttonLink={item.button_link}
+                        />
+                      </div>
                     )}
 
                     {item.type === "podcast" && (
                       <div
+                        id={item.id}
                         dangerouslySetInnerHTML={{ __html: item.embed_code }}
                       ></div>
                     )}
@@ -156,7 +159,7 @@ export default function FeatureTemplate({ data }) {
                         )
                         .map(match => {
                           return (
-                            <div className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2">
+                            <div className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2" id={item.id}>
                               <img
                                 src={match.frontmatter.faculty_image}
                                 alt={match.frontmatter.title}
@@ -184,7 +187,7 @@ export default function FeatureTemplate({ data }) {
                     )}
 
                     {item.type === "highlight" && (
-                      <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2">
+                      <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2" id={item.id}>
                         <MarkdownContent
                           content={item.text}
                           className="markdown small-margin"
@@ -193,7 +196,7 @@ export default function FeatureTemplate({ data }) {
                     )}
 
                     {item.type === "image" && (
-                      <figure className="mb-20 text-xs text-slate-grey">
+                      <figure className="mb-20 text-xs text-slate-grey" id={item.id}>
                         <img
                           src={item.image}
                           alt={item.image_alt}
@@ -263,6 +266,7 @@ export const featureQuery = graphql`
         related_stories
         sections {
           heading
+          id
           subheading
           content {
             book
