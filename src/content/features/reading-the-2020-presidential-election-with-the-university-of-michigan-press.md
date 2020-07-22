@@ -23,7 +23,7 @@ sections:
           name: First Last
           title: Title
         slides:
-          - image: assets/rectangle-copy.jpg
+          - image: /assets/rectangle-copy.jpg
             image_alt: inside of building
             title: ""
             text: The Republican vote grew by a 10% vote gain between 1996 and 2004
@@ -65,12 +65,12 @@ sections:
           name: First Last
           title: Title
         slides:
-          - image: assets/millennials-1.jpg
+          - image: /assets/millennials-1.jpg
             image_alt: young people protesting
             title: ""
             text: Millennials were born between 1981 and 1996, meaning that in 2020, the
               oldest Millennials are 39 and the youngest are 24.
-          - image: assets/millennials-2.jpg
+          - image: /assets/millennials-2.jpg
             image_alt: front of polling station building
             title: ""
             text: Millennials are the largest voting cohort in 2020, but like all young
@@ -105,7 +105,7 @@ sections:
           name: First Last
           title: Title
         slides:
-          - image: assets/ballot-box.jpg
+          - image: /assets/ballot-box.jpg
             image_alt: silhouette image of a vote being cast into a ballot box
             title: ""
             text: The Jewish vote changed from Republican to Democrat in the 1920s
