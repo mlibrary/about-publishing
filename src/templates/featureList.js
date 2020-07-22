@@ -22,7 +22,7 @@ export default function FeatureList({ data, pageContext }) {
 
   return (
     <Layout>
-      <SEO title="Stories of Impact" />
+      <SEO title="Features" />
 
       <PageHeading heading="Features" />
 
