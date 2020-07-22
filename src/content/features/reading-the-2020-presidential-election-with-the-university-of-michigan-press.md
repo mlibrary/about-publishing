@@ -1,8 +1,9 @@
 ---
+published: true
 type: feature
 title: "Feature Kitchen Sink (do not delete) "
 subtitle: Debate and Democracy | Decision2020
-path: /feature-kitchen-sink
+path: /features/feature-kitchen-sink
 hero:
   text: ""
   feature_hero_image: /assets/story-hero.jpg

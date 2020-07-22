@@ -87,6 +87,24 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       },
     })
   })
+  
+  // Create feature list pages.
+  const features = featureQuery.data.allMarkdownRemark.edges
+  const featuresPerPage = 9
+  const featurePages = Math.ceil(features.length / featuresPerPage)
+
+  Array.from({ length: featurePages }).forEach((_, i) => {
+    createPage({
+      path: i === 0 ? `/features` : `/features/${i + 1}`,
+      component: path.resolve("./src/templates/featureList.js"),
+      context: {
+        limit: featuresPerPage,
+        skip: i * featuresPerPage,
+        featurePages,
+        currentPage: i + 1,
+      },
+    })
+  })
 
   // Story pages.
   storiesQuery.data.allMarkdownRemark.edges.forEach(({ node }) => {
