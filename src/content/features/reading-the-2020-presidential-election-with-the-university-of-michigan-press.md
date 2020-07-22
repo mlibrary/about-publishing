@@ -159,7 +159,7 @@ sections:
     subheading: Institutions, Organizations, Leadership, Policies
     content:
       - type: image
-        image: assets/feature.jpg
+        image: /assets/feature.jpg
         image_alt: grid of books
       - type: highlight
         text: >-
@@ -190,7 +190,7 @@ sections:
 
           Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
       - type: image
-        image: assets/jellies.jpg
+        image: /assets/jellies.jpg
         image_alt: jellies?
         caption: Nullam quis risus eget urna mollis ornare vel eu leo.
         credit: Julian Rothschild, AP Photo
