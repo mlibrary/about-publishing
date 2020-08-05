@@ -11,6 +11,50 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
+  - heading: Democracy
+    subheading: Institutions, Organizations, Leadership, Policies
+    content:
+      - type: image
+        image: /assets/feature.jpg
+        image_alt: grid of books
+      - type: highlight
+        text: >-
+          ### Lorem Ipsum Dolor Sit Amet
+
+
+          Jewitt: [Primary Rules](https://www.press.umich.edu/10020994/primary_rules)\
+
+          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
+
+          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
+
+          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
+
+          Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
+
+          Lester: [Liberalism and Leadership](https://www.press.umich.edu/9385856/liberalism_and_leadership)\
+
+          Smith: [Democracy and Imperialism](https://www.press.umich.edu/11301249/democracy_and_imperialism)\
+
+          Lazarus/Stiegerwalt: [Gendered Vulnerability](https://www.press.umich.edu/9718595/gendered_vulnerability)\
+
+          Barnes: [State of Empowerment](https://www.press.umich.edu/10131793/state_of_empowerment)\
+
+          Hemenway: [Private Guns, Public Health](https://www.press.umich.edu/9725179/private_guns_public_health_new_ed)\
+
+          Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
+
+          Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
+      - type: image
+        image: /assets/jellies.jpg
+        image_alt: jellies?
+        caption: Nullam quis risus eget urna mollis ornare vel eu leo.
+        credit: Julian Rothschild, AP Photo
+      - type: cta
+        heading: This is a headline
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        button_text: Lend your support
+        button_link: /
   - heading: Debate
     subheading: People, Culture, Identity, History
     content:
@@ -155,50 +199,6 @@ sections:
       - type: spacer
         spacer: Spacer
     id: debate-section
-  - heading: Democracy
-    subheading: Institutions, Organizations, Leadership, Policies
-    content:
-      - type: image
-        image: /assets/feature.jpg
-        image_alt: grid of books
-      - type: highlight
-        text: >-
-          ### Lorem Ipsum Dolor Sit Amet
-
-
-          Jewitt: [Primary Rules](https://www.press.umich.edu/10020994/primary_rules)\
-
-          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
-
-          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
-
-          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
-
-          Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
-
-          Lester: [Liberalism and Leadership](https://www.press.umich.edu/9385856/liberalism_and_leadership)\
-
-          Smith: [Democracy and Imperialism](https://www.press.umich.edu/11301249/democracy_and_imperialism)\
-
-          Lazarus/Stiegerwalt: [Gendered Vulnerability](https://www.press.umich.edu/9718595/gendered_vulnerability)\
-
-          Barnes: [State of Empowerment](https://www.press.umich.edu/10131793/state_of_empowerment)\
-
-          Hemenway: [Private Guns, Public Health](https://www.press.umich.edu/9725179/private_guns_public_health_new_ed)\
-
-          Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
-
-          Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
-      - type: image
-        image: /assets/jellies.jpg
-        image_alt: jellies?
-        caption: Nullam quis risus eget urna mollis ornare vel eu leo.
-        credit: Julian Rothschild, AP Photo
-      - type: cta
-        heading: This is a headline
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        button_text: Lend your support
-        button_link: /
 related_stories:
   - Adding Diversity to the Data Mix
   - Born-accessible Publishing is Good Book-making for Everyone
