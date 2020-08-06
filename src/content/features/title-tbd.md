@@ -45,7 +45,7 @@ sections:
           Studies (Media, Performance, and Visual Studies) award."
         button_text: Watch Acceptance Speech
         button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
-        heading: Award-Winning Content
+        heading: Award-Winning Scholarship
         image: /assets/default.jpg
     heading: Visual and Performing Arts
     subheading: New content
