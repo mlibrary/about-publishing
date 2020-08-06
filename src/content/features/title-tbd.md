@@ -61,7 +61,7 @@ sections:
         heading: Award-Winning Content
         image: /assets/default.jpg
       - type: youtube
-        id: m6HrZgcw9dk&feature=emb_err_watch_on_yt
+        id: m6HrZgcw9dk
     heading: Visual and Performing Arts
     subheading: New content
 related_stories:
