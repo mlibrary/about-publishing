@@ -1,15 +1,15 @@
 ---
 published: true
 type: feature
-title: Asian Studies Feature (Title TBD)
-subtitle: Advancing Asian Studies at Michigan Publishing
+title: Advancing Asian Studies at Michigan Publishing
+subtitle: TBD
 path: /features/asian-studies
 hero:
   text: ""
   feature_hero_image: /assets/kirill-sharkovski-mber7b5qzwm-unsplash.jpg
 feature_image:
   file: /assets/confucius_and_his_students2.jpg
-  alt: will add text later
+  alt: will add later
 sections:
   - content:
       - type: youtube
@@ -23,9 +23,7 @@ sections:
         button_text: Read Book
         button_link: https://doi.org/10.3998/mpub.8773540
         heading: Award-Winning Content
-      - type: image
-        image: /assets/dsc-51089.jpg
-        image_alt: picture of smiling female
+        image: /assets/default.jpg
     heading: Visual and Performing Arts
     subheading: New content
   - heading: Project Partners
@@ -54,6 +52,6 @@ related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
 ---
-Founded in 1930, University of Michigan Press publishes award-winning books that advance humanities and social science, as well as English language teaching and regional resources. The Press publishes around 100 monographs a year in political science, performing arts, classics, American studies, and area studies (in which Asian studies is the fastest growing area with a dedicated editor appointed in 2016). As a part of Michigan Publishing, UMP supports the broadest possible access to scholarship by promoting faculty public engagement and expert connections; diversity, equity, and inclusion through the selection and distribution of its content; and academic innovation by publishing work that leverages digital technology.
+Asian studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016. 
 
 In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines. The collection includes editions that use digital enhancements to enrich the reading and teaching experience.
