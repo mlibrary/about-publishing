@@ -24,6 +24,27 @@ sections:
           class="mb-4"
           src="/assets/screen-shot-2020-08-06-at-11.47.49-am.png"><p>Read More
           About the Collection</p></a></div>
+      - type: highlight
+        text: >-
+          **Project Partners**
+
+
+          The Michigan Asian Studies Open Access Books Collection grew from a partnership between faculty from four Asian Studies Centers at the University of Michigan, librarians from U-M Asia Library and International Studies, and University of Michigan Press staff.
+
+
+          [Asia Library at the University of Michigan ](https://www.lib.umich.edu/locations-and-hours/asia-library/collections-and-history)
+
+
+          [University of Michigan Center for Japanese Studies](https://ii.umich.edu/cjs)
+
+
+          [Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies at the University of Michigan](https://ii.umich.edu/lrccs) 
+
+
+          [University of Michigan Center for South Asian Studies](https://ii.umich.edu/csas) 
+
+
+          [University of Michigan Center for Southeast Asian Studies](https://ii.umich.edu/cseas)
     subheading: "In August 2020, UMP launched the Michigan Asian Studies Open Access
       Books Collection, a collection of 100 significant books about Asia made
       freely and publicly available online. Jointly sponsored by the National
@@ -49,28 +70,6 @@ sections:
         id: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_watch_on_yt
     heading: Visual and Performing Arts
     subheading: New content
-  - heading: Project Partners
-    content:
-      - type: highlight
-        text: >-
-          [Asia Library at the University of Michigan
-          ](<https://www.lib.umich.edu/locations-and-hours/asia-library/collections-and-history>)
-
-
-          [University of Michigan Center for Japanese Studies](<https://ii.umich.edu/cjs>)
-
-
-          [Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies at the University of Michigan](<https://ii.umich.edu/lrccs>) 
-
-
-          [University of Michigan Center for South Asian Studies](<https://ii.umich.edu/csas>) 
-
-
-          [University of Michigan Center for Southeast Asian Studies](<https://ii.umich.edu/cseas>)
-    subheading: The Michigan Asian Studies Open Access Books Collection grew from a
-      partnership between faculty from four Asian Studies Centers at the
-      University of Michigan, librarians from U-M Asia Library and International
-      Studies, and University of Michigan Press staff.
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
