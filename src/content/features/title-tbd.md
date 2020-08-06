@@ -11,6 +11,23 @@ feature_image:
   file: /assets/confucius_and_his_students2.jpg
   alt: will add text later
 sections:
+  - content:
+      - type: youtube
+        id: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_watch_on_yt
+      - type: cta
+        text: >
+          Acceptance speech from Elizabeth W.  Son, AAAS Humanities and Cultural
+          Studies (Media, Performance, and Visual Studies) Winner 2020 for
+          Embodied Reckonings: “Comfort Women,” Performance, and Transpacific
+          Redress 
+        button_text: Read Book
+        button_link: https://doi.org/10.3998/mpub.8773540
+        heading: Award-Winning Content
+      - type: image
+        image: /assets/dsc-51089.jpg
+        image_alt: picture of smiling female
+    heading: Visual and Performing Arts
+    subheading: New content
   - heading: Project Partners
     content:
       - type: highlight
@@ -36,7 +53,6 @@ sections:
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
-  - Digital Infrastructure Makes Scholarship Durable for Generations
 ---
 Founded in 1930, University of Michigan Press publishes award-winning books that advance humanities and social science, as well as English language teaching and regional resources. The Press publishes around 100 monographs a year in political science, performing arts, classics, American studies, and area studies (in which Asian studies is the fastest growing area with a dedicated editor appointed in 2016). As a part of Michigan Publishing, UMP supports the broadest possible access to scholarship by promoting faculty public engagement and expert connections; diversity, equity, and inclusion through the selection and distribution of its content; and academic innovation by publishing work that leverages digital technology.
 
