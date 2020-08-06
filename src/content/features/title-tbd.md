@@ -15,6 +15,28 @@ sections:
     heading: Open Access
     subheading: Michigan Asian Studies Open Access Book Collection
   - content:
+      - type: quote_slider
+        book: "Corporeal Politics: Dancing East Asia"
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: Performing bodies move people and articulate challenging ideas and
+              emotions in precarious circumstances
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: The Fulcrum platform allows authors to integrate rich media resources such
+              as video to better represent their scholarship
+          - image: ""
+            image_alt: ""
+            title: ""
+        quote:
+          name: Emily Wilcox
+          title: "Associate professor of modern Chinese studies "
+          quote: "QUOTE "
+      - type: youtube
+        id: F1LiFINq27k
       - type: cta
         text: "Elizabeth W. Son, associate professor of theatre at Northwestern
           University and author of Embodied Reckonings: “Comfort Women,”
