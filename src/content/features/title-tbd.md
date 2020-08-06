@@ -1,7 +1,7 @@
 ---
 published: true
 type: feature
-title: TITLE TBD
+title: Asian Studies Feature (Title TBD)
 subtitle: Advancing Asian Studies at Michigan Publishing
 path: /features/asian-studies
 hero:
