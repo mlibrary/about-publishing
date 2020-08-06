@@ -13,12 +13,20 @@ feature_image:
 sections:
   - heading: Michigan Asian Studies Open Access Books Collection
     content:
-      - type: highlight
-        text: <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue
-          px-6 pt-6 ml-6 mb-4"><a href="/assets/nehopenbookbrochure.pdf"><img
-          class="mb-4"
-          src="/assets/screen-shot-2020-08-06-at-11.47.49-am.png"><p>Read More
-          About the Collection</p></a></div>
+      - type: quote_slider
+        book: "The Train That Had Wings: Selected Stories of M. Mukundan"
+        quote:
+          quote: Open access to these Michigan Asian Studies publications will
+            dramatically increase the visibility of these important works,
+            advancing both academic research and the moral imperative to move
+            beyond superficial cultural engagements with Asia.
+          name: Donald R. Davis, Jr.
+          title: Professor & Chair, Department of Asian Studies at University of Texas at
+            Austin
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
       - type: highlight
         text: >-
           **Project Partners**
