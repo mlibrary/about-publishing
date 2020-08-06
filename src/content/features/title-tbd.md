@@ -61,8 +61,6 @@ sections:
         button_link: https://doi.org/10.3998/mpub.8773540
         heading: Award-Winning Content
         image: /assets/default.jpg
-      - type: youtube
-        id: m6HrZgcw9dk&feature=emb_err_watch_on_yt
     heading: Visual and Performing Arts
     subheading: New content
 related_stories:
