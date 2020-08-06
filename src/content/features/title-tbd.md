@@ -12,8 +12,8 @@ feature_image:
   alt: will add later
 sections:
   - content: []
-    heading: Open Access
-    subheading: Michigan Asian Studies Open Access Book Collection
+    heading: Michigan Asian Studies Open Access Book Collection
+    subheading: TBD
   - content:
       - type: quote_slider
         book: "Corporeal Politics: Dancing East Asia"
@@ -43,12 +43,10 @@ sections:
           Performance, and Transpacific Redress, was honored as the 2020 Winner
           of the Association for Asian American Studies Humanities and Cultural
           Studies (Media, Performance, and Visual Studies) award."
-        button_text: Read Book
-        button_link: https://doi.org/10.3998/mpub.8773540
+        button_text: Watch Acceptance Speech
+        button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
         heading: Award-Winning Content
         image: /assets/default.jpg
-      - type: youtube
-        id: m6HrZgcw9dk
     heading: Visual and Performing Arts
     subheading: New content
 related_stories:
