@@ -51,11 +51,11 @@ sections:
     subheading: TBD
   - content:
       - type: cta
-        text: "Elizabeth W.  Son, associate professor of theatre at Northwestern
-          University and author Embodied Reckonings: “Comfort Women,”
+        text: "Elizabeth W. Son, associate professor of theatre at Northwestern
+          University and author of Embodied Reckonings: “Comfort Women,”
           Performance, and Transpacific Redress, was honored as the 2020 Winner
-          of the AAAS Humanities and Cultural Studies (Media, Performance, and
-          Visual Studies)."
+          of the Association for Asian American Studies Humanities and Cultural
+          Studies (Media, Performance, and Visual Studies) award."
         button_text: Read Book
         button_link: https://doi.org/10.3998/mpub.8773540
         heading: Award-Winning Content
