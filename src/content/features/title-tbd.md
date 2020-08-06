@@ -12,18 +12,17 @@ feature_image:
   alt: will add later
 sections:
   - content:
-      - type: youtube
-        id: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_watch_on_yt
       - type: cta
-        text: >
-          Acceptance speech from Elizabeth W.  Son, AAAS Humanities and Cultural
-          Studies (Media, Performance, and Visual Studies) Winner 2020 for
-          Embodied Reckonings: “Comfort Women,” Performance, and Transpacific
-          Redress 
+        text: "Elizabeth W.  Son, author Embodied Reckonings: “Comfort Women,”
+          Performance, and Transpacific Redress, was honored as the 2020 Winner
+          of the AAAS Humanities and Cultural Studies (Media, Performance, and
+          Visual Studies)."
         button_text: Read Book
         button_link: https://doi.org/10.3998/mpub.8773540
         heading: Award-Winning Content
         image: /assets/default.jpg
+      - type: youtube
+        id: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_watch_on_yt
     heading: Visual and Performing Arts
     subheading: New content
   - heading: Project Partners
