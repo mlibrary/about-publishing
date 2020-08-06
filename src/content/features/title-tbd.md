@@ -42,13 +42,13 @@ sections:
           University and author of Embodied Reckonings: “Comfort Women,”
           Performance, and Transpacific Redress, was honored as the 2020 Winner
           of the Association for Asian American Studies Humanities and Cultural
-          Studies (Media, Performance, and Visual Studies) award."
+          Studies (Media, Performance, and Visual Studies) book award."
         button_text: Watch Acceptance Speech
         button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
         heading: Award-Winning Scholarship
         image: /assets/default.jpg
-    heading: Visual and Performing Arts
-    subheading: New content
+    heading: TBD
+    subheading: TBD
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
