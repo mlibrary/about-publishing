@@ -48,16 +48,7 @@ sections:
 
 
           [University of Michigan Center for Southeast Asian Studies](https://ii.umich.edu/cseas)
-    subheading: "In August 2020, UMP launched the Michigan Asian Studies Open Access
-      Books Collection, a collection of 100 significant books about Asia made
-      freely and publicly available online. Jointly sponsored by the National
-      Endowment for the Humanities and the Andrew W. Mellon Foundation, the
-      Humanities Open Book Program makes outstanding out-of-print humanities
-      books available to a wide audience. The titles included in the collection
-      aim to advance public understanding of the diversity of society, culture,
-      and history in East, South, and Southeast Asia at a time when the region
-      is rarely out of the headlines. The collection includes editions that use
-      digital enhancements to enrich the reading and teaching experience. "
+    subheading: TBD
   - content:
       - type: cta
         text: "Elizabeth W.  Son, associate professor of theatre at Northwestern
@@ -78,3 +69,5 @@ related_stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
 ---
 Asian studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016.
+
+In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines. The collection includes editions that use digital enhancements to enrich the reading and teaching experience.
