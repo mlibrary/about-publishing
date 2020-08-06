@@ -11,44 +11,9 @@ feature_image:
   file: /assets/confucius_and_his_students2.jpg
   alt: will add later
 sections:
-  - heading: Michigan Asian Studies Open Access Books Collection
-    content:
-      - type: quote_slider
-        book: "The Train That Had Wings: Selected Stories of M. Mukundan"
-        quote:
-          quote: Open access to these Michigan Asian Studies publications will
-            dramatically increase the visibility of these important works,
-            advancing both academic research and the moral imperative to move
-            beyond superficial cultural engagements with Asia.
-          name: Donald R. Davis, Jr.
-          title: Professor & Chair, Department of Asian Studies at University of Texas at
-            Austin
-        slides:
-          - image: ""
-            image_alt: ""
-            title: ""
-      - type: highlight
-        text: >-
-          **Project Partners**
-
-
-          The Michigan Asian Studies Open Access Books Collection grew from a partnership between faculty from four Asian Studies Centers at the University of Michigan, librarians from U-M Asia Library and International Studies, and University of Michigan Press staff.
-
-
-          [Asia Library at the University of Michigan ](https://www.lib.umich.edu/locations-and-hours/asia-library/collections-and-history)
-
-
-          [University of Michigan Center for Japanese Studies](https://ii.umich.edu/cjs)
-
-
-          [Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies at the University of Michigan](https://ii.umich.edu/lrccs) 
-
-
-          [University of Michigan Center for South Asian Studies](https://ii.umich.edu/csas) 
-
-
-          [University of Michigan Center for Southeast Asian Studies](https://ii.umich.edu/cseas)
-    subheading: TBD
+  - content: []
+    heading: Open Access
+    subheading: Michigan Asian Studies Open Access Book Collection
   - content:
       - type: cta
         text: "Elizabeth W. Son, associate professor of theatre at Northwestern
