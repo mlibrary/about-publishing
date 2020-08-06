@@ -15,11 +15,6 @@ sections:
     content:
       - type: highlight
         text: <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue
-          px-6 pt-6 ml-6 mb-4"><a href="/assets/mp-nehhobbrochure.pdf"><img
-          class="mb-4"
-          src="/assets/screen-shot-2020-08-06-at-11.47.49-am.png"><p>Read More
-          About the Collection</p></a></div>
-      - text: <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue
           px-6 pt-6 ml-6 mb-4"><a href="/assets/nehopenbookbrochure.pdf"><img
           class="mb-4"
           src="/assets/screen-shot-2020-08-06-at-11.47.49-am.png"><p>Read More
