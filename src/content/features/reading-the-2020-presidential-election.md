@@ -206,8 +206,6 @@ related_stories:
 ---
 Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-test
-
 <a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a>
 
 <div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a></div>
