@@ -23,8 +23,9 @@ sections:
           the University of Michigan campus. Each live talk will feature a panel
           of authors bringing different perspectives to the table on issues such
           as identity politics, education, leadership, national security, and
-          public health. Click the button below to ensure that you'll be the
-          first to know about the details of these discussion-generating events.
+          public health. Click the button to the right to ensure that you'll be
+          the first to know about the details of these discussion-generating
+          events.
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
