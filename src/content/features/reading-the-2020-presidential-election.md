@@ -11,7 +11,7 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
-  - heading: University of Michigan Press Democracy & Debate Conversational Event Series
+  - heading: Democracy & Debate Conversational Event Series
     subheading: September–October 2020
     content:
       - type: cta
