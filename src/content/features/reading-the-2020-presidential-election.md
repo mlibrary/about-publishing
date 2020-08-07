@@ -208,4 +208,4 @@ Democracy and Debate is an interdisciplinary collection of 25 books that explore
 
 <a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a>
 
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a></div>
+<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ballotbox.jpg"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a></div>
