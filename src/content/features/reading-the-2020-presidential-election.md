@@ -11,6 +11,20 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
+  - heading: University of Michigan Press Democracy & Debate Conversational Event Series
+    subheading: September–October 2020
+    content:
+      - type: cta
+        heading: Listen to our political science authors debate key topics central to
+          American democracy
+        button_link: https://mailchi.mp/umich/democracy-and-debate
+        button_text: Tell Me More
+        text: Our virtual event series will bring several illuminating conversations to
+          the University of Michigan campus. Each live talk will feature a panel
+          of authors bringing different perspectives to the table on issues such
+          as identity politics, education, leadership, national security, and
+          public health. Click the button below to ensure that you'll be the
+          first to know about the details of these discussion-generating events.
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
@@ -176,6 +190,10 @@ related_stories:
   - Born-accessible Publishing is Good Book-making for Everyone
   - Cultivating the Perfect Guidebook through Teaching
 ---
-Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
+Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. I
+
+n 2020, the very fate of the Union appears to be at stake. Rather than a formal political secession, as in the election of 1860, the 2020 presidential election has thrown a spotlight on a people violently divided by wealth, values, identity, and competing visions of the America they want to leave their children. For many, the election seems to be a referendum not only on the nation’s future, but a personal judgment on themselves as people deserving of citizenship.   Historically, the United States has walked a tightrope between narratives of liberty and legal restriction. The founders restricted voting to free, mostly white men who owned property. Gradually, the Fifteenth and Nineteenth Amendments to the Constitution and the Civil Rights bills of the 1960s legally opened the franchise to all Americans regardless of race, class, or gender. Yet the reality is more complicated. Today, poor people, people of color, immigrants, and others who seem to live on the margins of American middle-class life struggle to participate in American democracy.
+
+Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, or to anyone who wishes to better understand the context for the United States' democratic institutions and conflicts, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
 <a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a>
