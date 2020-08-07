@@ -14,41 +14,11 @@ sections:
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
-      - type: spacer
-        spacer: Spacer
-      - type: highlight
-        text: >-
-          ### Lorem Ipsum Dolor Sit Amet
-
-
-          Jewitt: [Primary Rules](https://www.press.umich.edu/10020994/primary_rules)\
-
-          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
-
-          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
-
-          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
-
-          Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
-
-          Lester: [Liberalism and Leadership](https://www.press.umich.edu/9385856/liberalism_and_leadership)\
-
-          Smith: [Democracy and Imperialism](https://www.press.umich.edu/11301249/democracy_and_imperialism)\
-
-          Lazarus/Stiegerwalt: [Gendered Vulnerability](https://www.press.umich.edu/9718595/gendered_vulnerability)\
-
-          Barnes: [State of Empowerment](https://www.press.umich.edu/10131793/state_of_empowerment)\
-
-          Hemenway: [Private Guns, Public Health](https://www.press.umich.edu/9725179/private_guns_public_health_new_ed)\
-
-          Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
-
-          Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
       - type: image
-        image: /assets/jellies.jpg
-        image_alt: jellies?
-        caption: Nullam quis risus eget urna mollis ornare vel eu leo.
-        credit: Julian Rothschild, AP Photo
+        image: /assets/ballot-box.jpg
+        image_alt: silhouette image of a vote being cast into a ballot box
+        caption: ""
+        credit: ""
         text: >-
           [The Primary Rules: Parties, Voters, and Presidential
           Nominations](https://www.press.umich.edu/10020994/primary_rules) |
@@ -75,14 +45,43 @@ sections:
           Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
 
           Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
-      - type: cta
-        heading: This is a headline
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        button_text: Lend your support
-        button_link: /
+      - type: highlight
+        text: >-
+          Jewitt: [Primary
+          Rules](https://www.press.umich.edu/10020994/primary_rules)\
+
+          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
+
+          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
+
+          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
+
+          Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
+
+          Lester: [Liberalism and Leadership](https://www.press.umich.edu/9385856/liberalism_and_leadership)\
+
+          Smith: [Democracy and Imperialism](https://www.press.umich.edu/11301249/democracy_and_imperialism)\
+
+          Lazarus/Stiegerwalt: [Gendered Vulnerability](https://www.press.umich.edu/9718595/gendered_vulnerability)\
+
+          Barnes: [State of Empowerment](https://www.press.umich.edu/10131793/state_of_empowerment)\
+
+          Hemenway: [Private Guns, Public Health](https://www.press.umich.edu/9725179/private_guns_public_health_new_ed)\
+
+          Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
+
+          Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
+      - type: podcast
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
+          embedded audio player"></iframe>
   - heading: Debate
     subheading: People, Culture, Identity, History
     content:
+      - type: podcast
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
+          embedded audio player"></iframe>
       - type: quote_slider
         book: The American Voter Revisited
         quote:
@@ -151,10 +150,6 @@ sections:
               politics—“the system is rigged.” For example, they have the
               highest belief in climate change but do not support
               policy-centered climate change initiatives
-      - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
-          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
-          embedded audio player"></iframe>
       - type: highlight
         text: >-
           ### More resources
@@ -232,5 +227,3 @@ related_stories:
 Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
 <a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a>
-
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><img class="mb-4" src="/assets/ballot-box.jpg"></div>
