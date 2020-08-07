@@ -54,9 +54,46 @@ sections:
           Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
 
           Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
+      - type: podcast
+        embed_code: <iframe
+          src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
+          height="90" width="100%" scrolling="no"  allowfullscreen
+          webkitallowfullscreen mozallowfullscreen oallowfullscreen
+          msallowfullscreen></iframe>
+      - type: spacer
+        spacer: Spacer
+      - type: podcast
+        embed_code: <iframe sandbox="allow-same-origin allow-scripts
+          allow-top-navigation allow-popups allow-forms" scrolling=no
+          width="100%" height="185" frameborder="0"
+          src="https://embed.radiopublic.com/e?if=new-books-in-gender-studies-WJbzPl&ge=s1!f9e8d977da23d0eb4260de3d76bc7dc328c08554"></iframe>
   - heading: Debate
     subheading: People, Culture, Identity, History
     content:
+      - type: highlight
+        text: >-
+          ### Lorem Ipsum Dolor Sit Amet
+
+
+          Taylor/Lewis/Haider-Markel: [The Remarkable Rise of Transgender Rights](https://www.press.umich.edu/9448956/remarkable_rise_of_transgender_rights)\
+
+          Gillum: [Muslims in a Post 9/11 America](https://www.press.umich.edu/9765804/muslims_in_a_post_9_11_america)\
+
+          Lang: [Black America in the Shadow of the Sixties](https://www.press.umich.edu/6011515/black_america_in_the_shadow_of_the_sixties)\
+
+          Knadler: [Vitality Politics](https://www.press.umich.edu/10043897/vitality_politics)\
+
+          Merry: [Warped Narratives](https://www.press.umich.edu/10063035/warped_narratives)\
+
+          De Kosnik/Feldman: [\#Identity](https://www.press.umich.edu/9697041)\
+
+          Harding: [Performance, Transparency, and the Cultures of Surveillance](https://www.press.umich.edu/9780711/performance_transparency_and_the_cultures_of_surveillance)\
+
+          Hoffer: [Zombie History](https://www.press.umich.edu/11328466/zombie_history)\
+
+          Dyson: [Imagining Politics](https://www.press.umich.edu/10191912/imagining_politics)\
+
+          Roach: [Decency and Difference](https://www.press.umich.edu/9394395/decency_and_difference)
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
@@ -87,13 +124,6 @@ sections:
             image_alt: ""
             title: Polarization increased in the 1980s
         id: american-voter
-      - type: podcast
-        embed_code: <iframe
-          src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
-          height="90" width="100%" scrolling="no"  allowfullscreen
-          webkitallowfullscreen mozallowfullscreen oallowfullscreen
-          msallowfullscreen></iframe>
-        id: podcast-id
       - type: spacer
         spacer: Spacer
       - type: quote_slider
@@ -153,37 +183,8 @@ sections:
             text: Values-based, minority consciousness, as well as strong historical memory
               as immigrants-to-Americans keeps the Jewish vote primarily
               Democratic
-      - type: podcast
-        embed_code: <iframe sandbox="allow-same-origin allow-scripts
-          allow-top-navigation allow-popups allow-forms" scrolling=no
-          width="100%" height="185" frameborder="0"
-          src="https://embed.radiopublic.com/e?if=new-books-in-gender-studies-WJbzPl&ge=s1!f9e8d977da23d0eb4260de3d76bc7dc328c08554"></iframe>
       - type: spacer
         spacer: Spacer
-      - type: highlight
-        text: >-
-          ### Lorem Ipsum Dolor Sit Amet
-
-
-          Taylor/Lewis/Haider-Markel: [The Remarkable Rise of Transgender Rights](https://www.press.umich.edu/9448956/remarkable_rise_of_transgender_rights)\
-
-          Gillum: [Muslims in a Post 9/11 America](https://www.press.umich.edu/9765804/muslims_in_a_post_9_11_america)\
-
-          Lang: [Black America in the Shadow of the Sixties](https://www.press.umich.edu/6011515/black_america_in_the_shadow_of_the_sixties)\
-
-          Knadler: [Vitality Politics](https://www.press.umich.edu/10043897/vitality_politics)\
-
-          Merry: [Warped Narratives](https://www.press.umich.edu/10063035/warped_narratives)\
-
-          De Kosnik/Feldman: [\#Identity](https://www.press.umich.edu/9697041)\
-
-          Harding: [Performance, Transparency, and the Cultures of Surveillance](https://www.press.umich.edu/9780711/performance_transparency_and_the_cultures_of_surveillance)\
-
-          Hoffer: [Zombie History](https://www.press.umich.edu/11328466/zombie_history)\
-
-          Dyson: [Imagining Politics](https://www.press.umich.edu/10191912/imagining_politics)\
-
-          Roach: [Decency and Difference](https://www.press.umich.edu/9394395/decency_and_difference)
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
