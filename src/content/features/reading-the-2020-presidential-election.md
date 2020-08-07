@@ -160,6 +160,8 @@ sections:
           [Listen to 'The role of young voters in 2020' on MPR News](https://www.mprnews.org/episode/2020/04/27/the-role-of-young-voters-in-2020)\
 
           [Listen to the discussion on 'The Politics of Millennials' on New Books](https://newbooksnetwork.com/stella-m-rouse-and-ashley-d-ross-the-politics-of-millennials-political-beliefs-and-policy-preferences-of-americas-most-diverse-generation-u-michigan-press-2018/)
+      - type: spacer
+        spacer: Spacer
       - type: quote_slider
         book: The Politics of American Jews
         quote:
@@ -183,8 +185,6 @@ sections:
             text: Values-based, minority consciousness, as well as strong historical memory
               as immigrants-to-Americans keeps the Jewish vote primarily
               Democratic
-      - type: spacer
-        spacer: Spacer
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
