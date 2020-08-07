@@ -55,9 +55,9 @@ sections:
 
           [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)[: A Realistic Appraisal of Direct Democracy's Secondary Effects](https://www.press.umich.edu/9993024/initiatives_without_engagement) | Joshua J. Dyck and Edward L. Lascher, Jr.\
 
-          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
+          [The Presidential Expectations Gap: Public Attitudes Concerning the Presidency](https://www.press.umich.edu/5470718/presidential_expectations_gap) | Richard Waterman, Carol L. Silva, and Hank Jenkins-Smith\
 
-          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
+          [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization) | \
 
           Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
 
@@ -232,4 +232,4 @@ Democracy and Debate is an interdisciplinary collection of 25 books that explore
 
 <a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a>
 
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ballot-box.jpg"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a></div>
+<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><img class="mb-4" src="/assets/ballot-box.jpg"></div>
