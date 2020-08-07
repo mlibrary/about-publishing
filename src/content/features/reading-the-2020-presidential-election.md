@@ -48,16 +48,15 @@ sections:
         caption: Nullam quis risus eget urna mollis ornare vel eu leo.
         credit: Julian Rothschild, AP Photo
         text: >-
-          ### Lorem Ipsum Dolor Sit Amet
+          [The Primary Rules: Parties, Voters, and Presidential
+          Nominations](https://www.press.umich.edu/10020994/primary_rules) |
+          Caitlin E. Jewitt\
 
+          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
 
-          [The Primary Rules: Parties, Voters, and Presidential Nominations](https://www.press.umich.edu/10020994/primary_rules) | Caitlin E. Jewitt\
+          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
 
-          [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)[: A Realistic Appraisal of Direct Democracy's Secondary Effects](https://www.press.umich.edu/9993024/initiatives_without_engagement) | Joshua J. Dyck and Edward L. Lascher, Jr.\
-
-          [The Presidential Expectations Gap: Public Attitudes Concerning the Presidency](https://www.press.umich.edu/5470718/presidential_expectations_gap) | Richard Waterman, Carol L. Silva, and Hank Jenkins-Smith\
-
-          [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization) | \
+          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
 
           Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
 
