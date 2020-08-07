@@ -14,6 +14,8 @@ sections:
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
+      - type: spacer
+        spacer: Spacer
       - type: highlight
         text: >-
           ### Lorem Ipsum Dolor Sit Amet
