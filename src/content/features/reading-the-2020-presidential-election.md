@@ -14,37 +14,6 @@ sections:
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
-      - type: image
-        image: /assets/ballot-box.jpg
-        image_alt: silhouette image of a vote being cast into a ballot box
-        caption: ""
-        credit: ""
-        text: >-
-          [The Primary Rules: Parties, Voters, and Presidential
-          Nominations](https://www.press.umich.edu/10020994/primary_rules) |
-          Caitlin E. Jewitt\
-
-          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
-
-          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
-
-          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
-
-          Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
-
-          Lester: [Liberalism and Leadership](https://www.press.umich.edu/9385856/liberalism_and_leadership)\
-
-          Smith: [Democracy and Imperialism](https://www.press.umich.edu/11301249/democracy_and_imperialism)\
-
-          Lazarus/Stiegerwalt: [Gendered Vulnerability](https://www.press.umich.edu/9718595/gendered_vulnerability)\
-
-          Barnes: [State of Empowerment](https://www.press.umich.edu/10131793/state_of_empowerment)\
-
-          Hemenway: [Private Guns, Public Health](https://www.press.umich.edu/9725179/private_guns_public_health_new_ed)\
-
-          Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
-
-          Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
       - type: highlight
         text: >-
           Jewitt: [Primary
@@ -71,10 +40,6 @@ sections:
           Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
 
           Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
-      - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
-          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
-          embedded audio player"></iframe>
   - heading: Debate
     subheading: People, Culture, Identity, History
     content:
@@ -82,6 +47,8 @@ sections:
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
           embedded audio player"></iframe>
+      - type: spacer
+        spacer: Spacer
       - type: quote_slider
         book: The American Voter Revisited
         quote:
@@ -113,15 +80,6 @@ sections:
           webkitallowfullscreen mozallowfullscreen oallowfullscreen
           msallowfullscreen></iframe>
         id: podcast-id
-      - type: cta
-        image: /assets/accessible-books-work-on-any-device.jpg
-        image_alt: person holding phone
-        heading: This is a headline
-        text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent
-          commodo cursus magna, vel scelerisque nisl consectetur et. Integer
-          posuere erat a ante venenatis dapibus posuere.
-        button_text: Call to action
-        button_link: /
       - type: spacer
         spacer: Spacer
       - type: quote_slider
@@ -158,8 +116,6 @@ sections:
           [Listen to 'The role of young voters in 2020' on MPR News](https://www.mprnews.org/episode/2020/04/27/the-role-of-young-voters-in-2020)\
 
           [Listen to the discussion on 'The Politics of Millennials' on New Books](https://newbooksnetwork.com/stella-m-rouse-and-ashley-d-ross-the-politics-of-millennials-political-beliefs-and-policy-preferences-of-americas-most-diverse-generation-u-michigan-press-2018/)
-      - type: profile
-        profile: Emily Wilcox
       - type: quote_slider
         book: The Politics of American Jews
         quote:
@@ -188,8 +144,6 @@ sections:
           allow-top-navigation allow-popups allow-forms" scrolling=no
           width="100%" height="185" frameborder="0"
           src="https://embed.radiopublic.com/e?if=new-books-in-gender-studies-WJbzPl&ge=s1!f9e8d977da23d0eb4260de3d76bc7dc328c08554"></iframe>
-      - type: youtube
-        id: y7bNLLOKCI4
       - type: spacer
         spacer: Spacer
       - type: highlight
@@ -216,8 +170,6 @@ sections:
           Dyson: [Imagining Politics](https://www.press.umich.edu/10191912/imagining_politics)\
 
           Roach: [Decency and Difference](https://www.press.umich.edu/9394395/decency_and_difference)
-      - type: spacer
-        spacer: Spacer
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
