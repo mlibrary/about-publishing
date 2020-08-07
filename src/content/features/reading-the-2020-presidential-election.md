@@ -72,11 +72,9 @@ sections:
     subheading: People, Culture, Identity, History
     content:
       - type: highlight
-        text: >-
-          ### Lorem Ipsum Dolor Sit Amet
-
-
-          Taylor/Lewis/Haider-Markel: [The Remarkable Rise of Transgender Rights](https://www.press.umich.edu/9448956/remarkable_rise_of_transgender_rights)\
+        text: >
+          Taylor/Lewis/Haider-Markel: [The Remarkable Rise of Transgender
+          Rights](https://www.press.umich.edu/9448956/remarkable_rise_of_transgender_rights)\
 
           Gillum: [Muslims in a Post 9/11 America](https://www.press.umich.edu/9765804/muslims_in_a_post_9_11_america)\
 
@@ -95,6 +93,10 @@ sections:
           Dyson: [Imagining Politics](https://www.press.umich.edu/10191912/imagining_politics)\
 
           Roach: [Decency and Difference](https://www.press.umich.edu/9394395/decency_and_difference)
+
+          Lewis-Beck/Jacoby/Norpoth/Weisberg: [The American Voter Revisited](https://www.press.umich.edu/338457/american_voter_revisited)\
+
+          Rouse/Ross: [The Politics of Millennials](https://www.press.umich.edu/9526877/politics_of_millennials/)
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
