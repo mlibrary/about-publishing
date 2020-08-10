@@ -66,6 +66,16 @@ sections:
 
 
           [Thucydides’s Trap?: Historical Interpretation, Logic of Inquiry, and the Future of Sino-American Relations](https://doi.org/10.3998/mpub.11387628) by Steve Chan
+      - type: quote_slider
+        book: Gendered Vulnerability
+        quote:
+          quote: "\"It is generally the woman who is facing these primary election
+            challengers in a way that her male counterparts simply are not. It
+            does create [for female politicians] this need to be constantly
+            prepared, to ensure that you are not looking as though you don't
+            know what's going on.\""
+          name: Amy Steigerwalt
+          title: Associate Professor of Political Science at Georgia State University
       - type: podcast
         embed_code: <iframe sandbox="allow-same-origin allow-scripts
           allow-top-navigation allow-popups allow-forms" scrolling=no
@@ -81,16 +91,6 @@ sections:
           msallowfullscreen></iframe>
       - type: spacer
         spacer: Spacer
-      - type: quote_slider
-        book: Gendered Vulnerability
-        quote:
-          quote: "\"It is generally the woman who is facing these primary election
-            challengers in a way that her male counterparts simply are not. It
-            does create [for female politicians] this need to be constantly
-            prepared, to ensure that you are not looking as though you don't
-            know what's going on.\""
-          name: Amy Steigerwalt
-          title: Associate Professor of Political Science at Georgia State University
   - heading: Debate
     subheading: People, Culture, Identity, History
     content:
