@@ -30,31 +30,42 @@ sections:
     subheading: Institutions, Organizations, Leadership, Policies
     content:
       - type: highlight
-        text: >-
-          Jewitt: [Primary
-          Rules](https://www.press.umich.edu/10020994/primary_rules)\
+        text: >
+          [Alignment, Alliance, and American Grand
+          Strategy](https://doi.org/10.3998/mpub.8772580) by Zachary Selden
 
-          Dyck/Lascher: [Initiatives without Engagement](https://www.press.umich.edu/9993024/initiatives_without_engagement)\
 
-          Waterman/Silva/Jenkins-Smith: [Presidential Expectations Gap](https://www.press.umich.edu/5470718/presidential_expectations_gap)\
+          [Campaign Finance and Political Polarization: When Purists Prevail](https://doi.org/10.3998/ump.13855466.0001.001) by Raymond J. La Raja and Brian F. Schaffner
 
-          LaRaja/Schaffner: [Campaign Finance and Political Polarization](https://www.press.umich.edu/4882255/campaign_finance_and_political_polarization)\
 
-          Vaughn/Villalobos: [Czars in the White House](https://www.press.umich.edu/7774485/czars_in_the_white_house)\
+          [Czars in the White House: The Rise of Policy Czars as Presidential Management Tools](https://doi.org/10.3998/mpub.7774485) by Justin S. Vaughn and José D. Villalobos
 
-          Lester: [Liberalism and Leadership](https://www.press.umich.edu/9385856/liberalism_and_leadership)\
 
-          Smith: [Democracy and Imperialism](https://www.press.umich.edu/11301249/democracy_and_imperialism)\
+          [Democracy and Imperialism: Irving Babbitt and Warlike Democracies](https://doi.org/10.3998/mpub.11301249) by William S. Smith
 
-          Lazarus/Stiegerwalt: [Gendered Vulnerability](https://www.press.umich.edu/9718595/gendered_vulnerability)\
 
-          Barnes: [State of Empowerment](https://www.press.umich.edu/10131793/state_of_empowerment)\
+          [Gendered Vulnerability: How Women Work Harder to Stay in Office](https://doi.org/10.3998/mpub.9718595) by Jeffrey Lazarus and Amy Steigerwalt
 
-          Hemenway: [Private Guns, Public Health](https://www.press.umich.edu/9725179/private_guns_public_health_new_ed)\
 
-          Selden: [Alignment, Alliance, and Grand Strategy](https://www.press.umich.edu/8772580/alignment_alliance_and_american_grand_strategy)\
+          [Initiatives without Engagement: A Realistic Appraisal of Direct Democracy's Secondary Efforts](https://doi.org/10.3998/mpub.9993024) by Joshua J. Dyck and Edward L. Lascher, Jr.
 
-          Chan: [Thucydides’s Trap](https://www.press.umich.edu/11387702/thucydidess_trap)
+
+          [Liberalism and Leadership: The Irony of Arthur Schlesinger, Jr.](https://doi.org/10.3998/mpub.9385856) by Emile Lester
+
+
+          [The Presidential Expectations Gap: Public Attitudes Concerning the Presidency](https://doi.org/10.3998/mpub.5470718) by Richard Waterman, Carol L. Silva, and Hank Jenkins-Smith
+
+
+          [The Primary Rules: Parties, Voters, and Presidential Nominations](https://doi.org/10.3998/mpub.10020994) by Caitlin E. Jewitt
+
+
+          [Private Guns, Public Health, New Ed.](https://doi.org/10.3998/mpub.9725179) by David Hemenway
+
+
+          [State of Empowerment: Low-Income Families and the New Welfare State](https://doi.org/10.3998/mpub.10131793) by Carolyn Barnes
+
+
+          [Thucydides’s Trap?: Historical Interpretation, Logic of Inquiry, and the Future of Sino-American Relations](https://doi.org/10.3998/mpub.11387628) by Steve Chan
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
@@ -72,31 +83,46 @@ sections:
     subheading: People, Culture, Identity, History
     content:
       - type: highlight
-        text: >
-          Taylor/Lewis/Haider-Markel: [The Remarkable Rise of Transgender
-          Rights](https://www.press.umich.edu/9448956/remarkable_rise_of_transgender_rights)\
+        text: >-
+          [The American Voter Revisited](https://doi.org/10.3998/mpub.92266) by
+          Michael S. Lewis-Beck, William G. Jacoby, Helmut Norpoth, and Herbert
+          F. Weisberg
 
-          Gillum: [Muslims in a Post 9/11 America](https://www.press.umich.edu/9765804/muslims_in_a_post_9_11_america)\
 
-          Lang: [Black America in the Shadow of the Sixties](https://www.press.umich.edu/6011515/black_america_in_the_shadow_of_the_sixties)\
+          [Black America in the Shadow of the Sixties: Notes on the Civil Rights Movement, Neoliberalism, and Politics](https://doi.org/10.3998/mpub.6011515) by Clarence Lang
 
-          Knadler: [Vitality Politics](https://www.press.umich.edu/10043897/vitality_politics)\
 
-          Merry: [Warped Narratives](https://www.press.umich.edu/10063035/warped_narratives)\
+          [Decency and Difference: Humanity and the Global Challenge of Identity Politics](https://doi.org/10.3998/mpub.9394344) by Steven C. Roach
 
-          De Kosnik/Feldman: [\#Identity](https://www.press.umich.edu/9697041)\
 
-          Harding: [Performance, Transparency, and the Cultures of Surveillance](https://www.press.umich.edu/9780711/performance_transparency_and_the_cultures_of_surveillance)\
+          [\#identity: Hashtagging Race, Gender, Sexuality, and Nation](https://doi.org/10.3998/mpub.9697041) by Abigail De Kosnik and Keith P. Feldman, Editors
 
-          Hoffer: [Zombie History](https://www.press.umich.edu/11328466/zombie_history)\
 
-          Dyson: [Imagining Politics](https://www.press.umich.edu/10191912/imagining_politics)\
+          [Imagining Politics: Interpretations in Political Science and Political Television](https://doi.org/10.3998/mpub.10191802) by Stephen Benedict Dyson
 
-          Roach: [Decency and Difference](https://www.press.umich.edu/9394395/decency_and_difference)
 
-          Lewis-Beck/Jacoby/Norpoth/Weisberg: [The American Voter Revisited](https://www.press.umich.edu/338457/american_voter_revisited)\
+          [Muslims in a Post 9/11 America: A Survey of Attitudes and Beliefs and Their Implications for U.S. National Security Policy](https://doi.org/10.3998/mpub.9765804) by Rachel M. Gillum
 
-          Rouse/Ross: [The Politics of Millennials](https://www.press.umich.edu/9526877/politics_of_millennials/)
+
+          [Performance, Transparency, and the Cultures of Surveillance](https://doi.org/10.3998/mpub.9780711) by James M. Harding
+
+
+          [The Politics of American Jews] (https://doi.org/10.3998/mpub.10058621) by Herbert F. Weisberg
+
+
+          [The Politics of Millennials: Political Beliefs and Policy Preferences of America's Most Diverse Generation](https://doi.org/10.3998/mpub.9526877) by Stella M. Rouse and Ashley D. Ross
+
+
+          [The Remarkable Rise of Transgender Rights](https://doi.org/10.3998/mpub.9448956) by Jami K. Taylor, Daniel C. Lewis, and Donald P. Haider-Markel
+
+
+          [Vitality Politics: Health, Debility, and the Limits of Black Emancipation](https://doi.org/10.3998/mpub.10043782) by Stephen Knadler
+
+
+          [Warped Narratives: Distortion in the Framing of Gun Policy](https://doi.org/10.3998/mpub.10063035) by Melissa K. Merry
+
+
+          [Zombie History: Lies About Our Past that Refuse to Die](https://doi.org/10.3998/mpub.11328466) by Peter Charles Hoffer
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
