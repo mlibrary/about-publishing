@@ -78,18 +78,25 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: Two Theoretical Pillars of Gendered Vulnerability
-            text: Both women’s perceptions of their own vulnerability and the fact that they
-              face more difficult electoral conditions apply not only to female
-              challengers but also female incumbents.
+            title: Three Main Electoral Hurdles
+            text: All women candidates, challengers and incumbents alike, face pervasive
+              gender stereotypes among both voters and party elites; a greater
+              likelihood of facing more and better-quality challengers than
+              their male counterparts; and media coverage that is both low
+              quality and more focused on women’s appearance and traits than
+              their issue positions or quality.
           - image: ""
             image_alt: ""
-            title: Little Electoral Safety
-            text: "Even when female incumbents hail from a district that is safe in the
-              traditional sense, and even when they have won election numerous
-              times previously, they still face the possibility of threats
-              within their own party, questions about their abilities, and more
-              challenges on their road to reelection than would be expected. "
+            title: Gendered Behavior
+            text: Female officeholders, as compared to males, will concentrate more of their
+              efforts on constituent-related activities and those that provide
+              the highest reelection payoffs.
+          - image: ""
+            image_alt: ""
+            title: Producing Desired Effects
+            text: Through their work in office, women more faithfully represent all of their
+              constituents' interests and needs than men, positively influencing
+              their electability
       - type: podcast
         embed_code: <iframe sandbox="allow-same-origin allow-scripts
           allow-top-navigation allow-popups allow-forms" scrolling=no
