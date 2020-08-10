@@ -141,32 +141,6 @@ sections:
       - type: spacer
         spacer: Spacer
       - type: quote_slider
-        book: The American Voter Revisited
-        quote:
-          quote: Voting is important, free elections are vital to democracy, and U.S.
-            presidential elections are among the most significant elections in
-            the world.
-          name: First Last
-          title: Title
-        slides:
-          - image: /assets/rectangle-copy.jpg
-            image_alt: inside of building
-            title: ""
-            text: The Republican vote grew by a 10% vote gain between 1996 and 2004
-          - image: ""
-            image_alt: ""
-            title: Disbelief in Politics
-            text: Millennials are politically active but do not believe in traditional
-              politics—“the system is rigged.” For example, they have the
-              highest belief in climate change but do not support
-              policy-centered climate change initiatives
-          - image: ""
-            image_alt: ""
-            title: Polarization increased in the 1980s
-        id: american-voter
-      - type: spacer
-        spacer: Spacer
-      - type: quote_slider
         book: The Politics of Millennials
         quote:
           quote: While this generation sees current politics, politicians, and
@@ -200,31 +174,6 @@ sections:
           [Listen to 'The role of young voters in 2020' on MPR News](https://www.mprnews.org/episode/2020/04/27/the-role-of-young-voters-in-2020)\
 
           [Listen to the discussion on 'The Politics of Millennials' on New Books](https://newbooksnetwork.com/stella-m-rouse-and-ashley-d-ross-the-politics-of-millennials-political-beliefs-and-policy-preferences-of-americas-most-diverse-generation-u-michigan-press-2018/)
-      - type: spacer
-        spacer: Spacer
-      - type: quote_slider
-        book: The Politics of American Jews
-        quote:
-          quote: Their politics of tradition is based on their recognition that they have
-            prospered under the politics and economics of a liberal pluralistic
-            society.
-          name: First Last
-          title: Title
-        slides:
-          - image: /assets/ballot-box.jpg
-            image_alt: silhouette image of a vote being cast into a ballot box
-            title: ""
-            text: The Jewish vote changed from Republican to Democrat in the 1920s
-          - image: ""
-            image_alt: ""
-            title: Most Jews have incorporated being Democratic in to their social identity
-              as Jews.
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: Values-based, minority consciousness, as well as strong historical memory
-              as immigrants-to-Americans keeps the Jewish vote primarily
-              Democratic
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
