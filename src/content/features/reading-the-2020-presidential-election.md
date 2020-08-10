@@ -69,12 +69,20 @@ sections:
       - type: quote_slider
         book: Gendered Vulnerability
         quote:
-          quote: '"No matter the area of legislative activity, the underlying story is
+          quote: "No matter the area of legislative activity, the underlying story is
             always the same: for any activity a member of Congress engages in
             that is designed to get the attention or win the affection of
-            voters, female members simply do it more."'
+            voters, female members simply do it more."
           name: Jeffrey Lazarus and Amy Steigerwalt
           title: Authors
+        slides:
+          - image: ""
+            image_alt: ""
+            title: "There are two theoretical pillars underlying gendered vulnerability:
+              women’s perceptions of their own vulnerability and the fact that
+              they face more difficult electoral conditions"
+            text: These conditions apply not only to female challengers but also female
+              incumbents.
       - type: podcast
         embed_code: <iframe sandbox="allow-same-origin allow-scripts
           allow-top-navigation allow-popups allow-forms" scrolling=no
@@ -137,7 +145,7 @@ sections:
       - type: quote_slider
         book: "#identity"
         quote:
-          quote: '"Lorem ipsum"'
+          quote: Lorem ipsum
           name: John
           title: Smith
       - type: podcast
