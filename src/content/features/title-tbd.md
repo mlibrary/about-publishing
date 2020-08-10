@@ -15,8 +15,8 @@ sections:
       - type: quote_slider
         book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
-          quote: The changes to the automotive industry in this volume underlie many of
-            the dynamics that drive the global auto industry today as new
+          quote: The changes to the automotive industry outlined this volume underlie many
+            of the dynamics that drive the global auto industry today as new
             entrants enter the market and new technologies challenge all auto
             firms. By providing open access to these materials, we further
             insure their broad availability to today’s researchers,
