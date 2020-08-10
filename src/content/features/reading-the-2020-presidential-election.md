@@ -69,13 +69,12 @@ sections:
       - type: quote_slider
         book: Gendered Vulnerability
         quote:
-          quote: "\"It is generally the woman who is facing these primary election
-            challengers in a way that her male counterparts simply are not. It
-            does create [for female politicians] this need to be constantly
-            prepared, to ensure that you are not looking as though you don't
-            know what's going on.\""
-          name: Amy Steigerwalt
-          title: Associate Professor of Political Science at Georgia State University
+          quote: '"No matter the area of legislative activity, the underlying story is
+            always the same: for any activity a member of Congress engages in
+            that is designed to get the attention or win the affection of
+            voters, female members simply do it more."'
+          name: Jeffrey Lazarus and Amy Steigerwalt
+          title: Authors
       - type: podcast
         embed_code: <iframe sandbox="allow-same-origin allow-scripts
           allow-top-navigation allow-popups allow-forms" scrolling=no
