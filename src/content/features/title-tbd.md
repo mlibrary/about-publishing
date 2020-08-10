@@ -11,7 +11,35 @@ feature_image:
   file: /assets/confucius_and_his_students2.jpg
   alt: will add later
 sections:
-  - content: []
+  - content:
+      - type: quote_slider
+        book: "Automobiles and the Future: Competition, Cooperation, and Change"
+        quote:
+          quote: The early 1980s were a tumultuous period when the fortunes of the U. S.
+            auto industry were dramatically transformed vis a vis Japanese
+            producers. This volume captures many of the critical
+            factors  responsible for these changes. These changes, in turn,
+            underlie  many of the dynamics that drive the global auto industry
+            today as new entrants, especially Chinese firms, enter the market
+            and new technologies challenge all auto firms. By providing open
+            access to these materials, we further insure their broad
+            availability to today’s researchers, practitioners, and the public.”
+          name: Robert E. Cole
+          title: Editor of Automobiles and the Future and professor of sociology at the
+            University of Michigan
+        slides:
+          - image: /assets/screen-shot-2020-08-10-at-1.24.31-pm.png
+            image_alt: ""
+            title: ""
+            text: This title is enhanced with audio recordings from the U.S.-Japan auto
+              conferences in March 1983.
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: The early 1980s were a tumultuous period when the fortunes of the U. S.
+              auto industry were dramatically transformed vis a vis Japanese
+              producers. This volume captures many of the critical
+              factors  responsible for these changes.
     heading: Michigan Asian Studies Open Access Book Collection
     subheading: TBD
   - content:
