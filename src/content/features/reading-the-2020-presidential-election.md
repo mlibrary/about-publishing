@@ -109,7 +109,7 @@ sections:
           [Performance, Transparency, and the Cultures of Surveillance](https://doi.org/10.3998/mpub.9780711) by James M. Harding
 
 
-          [The Politics of American Jews] (https://doi.org/10.3998/mpub.10058621) by Herbert F. Weisberg
+          [The Politics of American Jews](https://doi.org/10.3998/mpub.10058621) by Herbert F. Weisberg
 
 
           [The Politics of Millennials: Political Beliefs and Policy Preferences of America's Most Diverse Generation](https://doi.org/10.3998/mpub.9526877) by Stella M. Rouse and Ashley D. Ross
