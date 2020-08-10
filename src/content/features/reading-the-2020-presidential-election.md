@@ -173,8 +173,8 @@ sections:
           quote: While this generation sees current politics, politicians, and
             institutions as out of touch with their values and norms, they do
             believe government can be a vehicle for good in the world.
-          name: First Last
-          title: Title
+          name: Stella M. Rouse and Ashley D. Ross
+          title: Authors
         slides:
           - image: /assets/millennials-1.jpg
             image_alt: young people protesting
