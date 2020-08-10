@@ -78,11 +78,18 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: "There are two theoretical pillars underlying gendered vulnerability:
-              women’s perceptions of their own vulnerability and the fact that
-              they face more difficult electoral conditions"
-            text: These conditions apply not only to female challengers but also female
-              incumbents.
+            title: Two Theoretical Pillars of Gendered Vulnerability
+            text: Both women’s perceptions of their own vulnerability and the fact that they
+              face more difficult electoral conditions apply not only to female
+              challengers but also female incumbents.
+          - image: ""
+            image_alt: ""
+            title: Little Electoral Safety
+            text: "Even when female incumbents hail from a district that is safe in the
+              traditional sense, and even when they have won election numerous
+              times previously, they still face the possibility of threats
+              within their own party, questions about their abilities, and more
+              challenges on their road to reelection than would be expected. "
       - type: podcast
         embed_code: <iframe sandbox="allow-same-origin allow-scripts
           allow-top-navigation allow-popups allow-forms" scrolling=no
