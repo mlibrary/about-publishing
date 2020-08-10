@@ -67,7 +67,7 @@ sections:
 
           [Thucydides’s Trap?: Historical Interpretation, Logic of Inquiry, and the Future of Sino-American Relations](https://doi.org/10.3998/mpub.11387628) by Steve Chan
       - type: profile
-        profile: Abigail De Kosnik
+        profile: Caitlin E. Jewitt
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
