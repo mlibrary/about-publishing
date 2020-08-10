@@ -134,6 +134,12 @@ sections:
 
 
           [Zombie History: Lies About Our Past that Refuse to Die](https://doi.org/10.3998/mpub.11328466) by Peter Charles Hoffer
+      - type: quote_slider
+        book: "#identity"
+        quote:
+          quote: '"Lorem ipsum"'
+          name: John
+          title: Smith
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
@@ -182,4 +188,4 @@ related_stories:
 ---
 Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, or to anyone who wishes to better understand the context for the United States' democratic institutions and conflicts, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-<a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.jpg"><p>Read the Election Reading List</p></a>
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/UMP11823DemocracyDebateBooklet_072320single(1).pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
