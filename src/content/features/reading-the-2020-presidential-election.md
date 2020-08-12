@@ -160,6 +160,16 @@ sections:
           quote: Lorem ipsum
           name: John
           title: Smith
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A
+          - image: ""
+            image_alt: ""
+            title: B
+          - image: ""
+            image_alt: ""
+            title: C
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
