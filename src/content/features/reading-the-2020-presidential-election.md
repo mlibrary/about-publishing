@@ -80,11 +80,9 @@ sections:
             image_alt: ""
             title: Three Main Electoral Hurdles
             text: All women candidates, challengers and incumbents alike, face pervasive
-              gender stereotypes among both voters and party elites; a greater
-              likelihood of facing more and better-quality challengers than
-              their male counterparts; and media coverage that is both low
-              quality and more focused on women’s appearance and traits than
-              their issue positions or quality.
+              gender stereotypes; a greater likelihood of facing more and
+              better-quality challengers; and media coverage that is low quality
+              and more focused on women’s appearance and traits.
           - image: ""
             image_alt: ""
             title: Gendered Behavior
