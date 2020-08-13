@@ -80,10 +80,6 @@ related_stories:
 ---
 Asian studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016.
 
-
-
-<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/nehopenbookbrochure.pdf"><img class="mb-4" src="/assets/neh-brochure.png"><p>Read More About the Collection</p></a></div>
-
-
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/nehopenbookbrochure.pdf"><img class="mb-4" src="/assets/neh-brochure.png"><p>Read More about the Collection</p></a></div>
 
 In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines. The collection includes editions that use digital enhancements to enrich the reading and teaching experience.
