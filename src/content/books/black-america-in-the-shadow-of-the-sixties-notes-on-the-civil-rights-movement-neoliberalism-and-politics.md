@@ -1,6 +1,5 @@
 ---
-title: "Black America in the Shadow of the Sixties: Notes on the Civil Rights
-  Movement, Neoliberalism, and Politics"
+title: Black America in the Shadow of the Sixties
 link: https://doi.org/10.3998/mpub.6011515
 author: Clarence Lang
 image:
