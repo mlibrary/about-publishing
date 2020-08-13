@@ -199,10 +199,11 @@ sections:
               through performance.
       - type: highlight
         text: >-
-          Listen to Kareem Khubchandani's curated playlist, discussed in the
-          Acknowledgments of *Ishstyle.* 
+          Listen to Kareem Khubchandani's curated Spotify music playlist,
+          discussed in the Acknowledgments of *Ishstyle.* 
 
-           Follow his conversation Manisha Dadlani-Kriplaney on the podcast "Impact Duty," released August 8, 2020.
+
+          Follow Kareem Khubchandani's conversation with Manisha Dadlani-Kriplaney, host of the podcast "Impact Duty," released August 8, 2020.
       - type: podcast
         embed_code: <iframe
           src="https://open.spotify.com/embed/playlist/5KuWlqTs3SOT3GCzaRQRJe"
