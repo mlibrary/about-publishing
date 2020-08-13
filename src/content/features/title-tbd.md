@@ -138,25 +138,24 @@ sections:
           - image: /assets/dancer-1807516_1920.jpg
             image_alt: ""
             title: ""
+            text: Performing bodies move people and articulate challenging ideas and
+              emotions in precarious circumstances.
           - image: ""
             image_alt: ""
             title: ""
-            text: Performing bodies move people and articulate challenging ideas and
-              emotions in precarious circumstances. Each study in this book
-              challenges existing dance and theater histories to re-investigate
-              the performer's role in devising the politics and aesthetics of
-              their performance.
+            text: Each study in this book challenges existing dance and theater histories to
+              re-investigate the performer's role in devising the politics and
+              aesthetics of their performance.
           - image: /assets/dance.jpg
             image_alt: ""
             title: ""
         quote:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
-          quote: Fulcrum is really exciting for me because I work on the performing arts
-            and we always want to readers to have access to visual material,
-            like videos. A lot of videos are only searchable if you type in
-            Chinese characters, so being able to link directly to those videos
-            on Fulcrum is really essential.
+          quote: In the performing arts, we always want to readers to have access to
+            visual material like videos. A lot of videos are only searchable if
+            you type in Chinese characters, so being able to link directly to
+            those videos on Fulcrum is really essential.
       - type: cta
         text: "Elizabeth W. Son, associate professor of theatre at Northwestern
           University and author of Embodied Reckonings: “Comfort Women,”
