@@ -101,13 +101,16 @@ sections:
             title: ""
             text: Performing bodies move people and articulate challenging ideas and
               emotions in precarious circumstances
+          - image: /assets/dancer-1807516_1920.jpg
+            image_alt: ""
+            title: ""
           - image: ""
             image_alt: ""
             title: ""
             text: The Fulcrum platform allows authors to integrate rich media resources such
               as video to better represent their scholarship
-          - image: /assets/dancer-1807516_1920.jpg
-            image_alt: ""
+          - image: /assets/asian-dance.jpg
+            image_alt: "black and white photo an asian female ballerina in white tutu "
             title: ""
         quote:
           name: Emily Wilcox
