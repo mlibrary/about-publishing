@@ -221,8 +221,7 @@ sections:
               and what is discussed on Twitter can manifest in the real
               world—for good or bad.
       - type: quote_slider
-        book: "Black America in the Shadow of the Sixties: Notes on the Civil Rights
-          Movement, Neoliberalism, and Politics"
+        book: Black America in the Shadow of the Sixties
         quote:
           quote: The long shadow of the Sixties can unwittingly shroud present-day
             political imagination, deadening our ability to properly
@@ -256,6 +255,25 @@ sections:
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
           embedded audio player"></iframe>
+      - type: quote_slider
+        book: Muslims in a Post-9/11 America
+        quote:
+          quote: The tremendous amount of resources put toward tracking these Muslim
+            American communities may have actually been counterproductive in
+            making the country safer and eroded confidence in American
+            institutions.
+          name: Rachel M. Gillum
+          title: Author
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A
+          - image: ""
+            image_alt: ""
+            title: B
+          - image: ""
+            image_alt: ""
+            title: C
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
