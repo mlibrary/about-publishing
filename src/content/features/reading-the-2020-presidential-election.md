@@ -112,7 +112,24 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: A
+            title: Investment in After-School Programs
+            text: In 2015, U.S. governments spent $25 million to support programs aiming to
+              enrich youth development and boost academic performance through
+              recreational activities, homework help, and extra instructions
+          - image: ""
+            image_alt: ""
+            title: Policy Matters
+            text: Public policy, diffused through its features and administrative
+              organizations, conveys messages about government and social
+              attitudes that can influence citizens' interest and capacity for
+              participation
+          - image: ""
+            image_alt: ""
+            title: Benefitting the Parents
+            text: After-school programs have substantial guidelines on how to engage parents
+              that have the capacity to positively shape parents' experience
+              with these programs, as well as their communities and civic
+              action.
       - type: profile
         profile: Caitlin E. Jewitt
       - type: podcast
