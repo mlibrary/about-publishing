@@ -20,7 +20,7 @@ sections:
             new entrants enter the market and new technologies challenge all
             auto firms.
           name: Robert E. Cole
-          title: Editor of Automobiles and the Future and professor of sociology at the
+          title: Editor of Automobiles and the Future and Professor of Sociology at the
             University of Michigan
         slides:
           - image: ""
