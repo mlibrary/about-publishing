@@ -161,6 +161,10 @@ sections:
               these theories, and that war between the two nations can be
               avoided by observing lessons learned from past accommodation of
               rising states.
+      - type: highlight
+        text: Joshua J. Dyck, one of the authors of *Initiatives without Engagement*,
+          discusses reasons to be optimistic about young voter engagement in
+          this podcast episode from UC Berkeley.
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
@@ -342,8 +346,6 @@ sections:
             text: Understanding the diversity, loyalty, and concerns of the Muslim American
               population can better serve those seeking to strengthen the U.S.
               national security
-      - type: spacer
-        spacer: Spacer
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
