@@ -231,7 +231,7 @@ sections:
           name: Stella M. Rouse and Ashley D. Ross
           title: Authors
         slides:
-          - image: /assets/millennials-1.jpg
+          - image: ""
             image_alt: young people protesting
             title: Who Are Millennials?
             text: Millennials were born between 1981 and 1996, meaning that in 2020, the
