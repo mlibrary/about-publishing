@@ -323,6 +323,21 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
+      - type: highlight
+        text: >-
+          “When a reality television personality becomes the President of the
+          United States, it’s time to pay attention to what television can tell
+          us about politics. Stephen Benedict Dyson has the unusual ability to
+          bridge political science and popular culture and find the “useful
+          fictions” in both.”\
+
+          —John Sides, George Washington University
+      - type: podcast
+        embed_code: >-
+          <iframe frameBorder="0" height="482" scrolling="no"
+          src="https://playlist.megaphone.fm/?e=LIT4928450219"
+
+          width="100%"></iframe>
       - type: quote_slider
         book: Muslims in a Post-9/11 America
         quote:
