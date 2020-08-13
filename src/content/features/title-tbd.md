@@ -45,9 +45,10 @@ sections:
           - image: /assets/screen-shot-2020-08-10-at-1.24.31-pm.png
             image_alt: ""
             title: ""
-            text: "Automobiles and the Future: Competition, Cooperation, and Change is
-              enhanced with audio recordings from the U.S.-Japan Automotive
-              Conference in March 1983. "
+            text: "Automobiles and the Future: Competition, Cooperation, and Change includes
+              audio recordings from the U.S.-Japan Automotive Conference in
+              March 1983 on Fulcrum. Read the enhanced version:
+              https://doi.org/10.3998/mpub.22866. "
           - image: /assets/washington-post-photo-.png
             image_alt: Four men seated at a table
             title: ""
