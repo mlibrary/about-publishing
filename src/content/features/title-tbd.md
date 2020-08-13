@@ -179,13 +179,41 @@ sections:
           quote: ADD QUOTE
           name: to come
           title: to come
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: Ishtyle follows queer South Asian men across borders into gay
+              neighborhoods, nightclubs, bars, and house parties in Bangalore
+              and Chicago.
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: Ishtyle demonstrates that the unlikely site of nightlife can be a
+              productive venue for the study of global politics and its
+              institutional hierarchies.
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: Bringing the cultural practices they are most familiar with into these
+              spaces, these men accent the aesthetics of nightlife cultures
+              through performance.
       - type: highlight
-        text: Listen to Kareem Khubchandani and Manisha Dadlani-Kriplaney "Impact Duty,"
-          released August 8, 2020.
+        text: >-
+          Listen to Kareem Khubchandani's curated playlist, discussed in the
+          Acknowledgments of *Ishstyle.* 
+
+           Follow his conversation Manisha Dadlani-Kriplaney on the podcast "Impact Duty," released August 8, 2020.
       - type: podcast
         embed_code: <iframe
-          src="https://anchor.fm/impact-duty/embed/episodes/Impact-Duty--Episode-7---Kareem-Khubchandani-on-Ishtyle-ehrv7g/a-a2t688f"
-          height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+          src="https://open.spotify.com/embed/playlist/5KuWlqTs3SOT3GCzaRQRJe"
+          width="300" height="380" frameborder="0" allowtransparency="true"
+          allow="encrypted-media"></iframe>
+      - type: podcast
+        embed_code: <iframe
+          src="https://open.spotify.com/embed-podcast/episode/083nFMQK6ttHiMXlxHwBnr"
+          width="100%" height="232" frameborder="0" allowtransparency="true"
+          allow="encrypted-media"></iframe>
     heading: Visual and Performing Arts
     subheading: TBD
 related_stories:
