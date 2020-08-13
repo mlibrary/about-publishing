@@ -191,9 +191,13 @@ sections:
       - type: quote_slider
         book: "#identity"
         quote:
-          quote: Lorem ipsum
-          name: John
-          title: Smith
+          quote: For the moment, Twitter lives on as a significant site of US public
+            debate, especially around questions of how diverse bodies,
+            languages, cultures, worldviews, orientations, and experiences are
+            being recognized or denied, included or ignored, honored or
+            despised, welcomed or denied by this nation.
+          name: Abigail De Kosnik and Keith P. Feldman
+          title: Editors
         slides:
           - image: ""
             image_alt: ""
