@@ -8,8 +8,8 @@ hero:
   text: ""
   feature_hero_image: /assets/kirill-sharkovski-mber7b5qzwm-unsplash.jpg
 feature_image:
-  file: /assets/confucius_and_his_students2.jpg
-  alt: will add later
+  file: /assets/screen-shot-2020-08-13-at-11.10.08-am.png
+  alt: collage of book covers
 sections:
   - content:
       - type: quote_slider
