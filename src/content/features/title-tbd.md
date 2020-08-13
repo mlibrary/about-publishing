@@ -15,10 +15,10 @@ sections:
       - type: quote_slider
         book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
-          quote: The changes to the automotive industry outlined this volume underlie many
-            of the dynamics that drive the global auto industry today as new
-            entrants enter the market and new technologies challenge all auto
-            firms.
+          quote: The changes to the automotive industry outlined in this volume underlie
+            many of the dynamics that drive the global auto industry today as
+            new entrants enter the market and new technologies challenge all
+            auto firms.
           name: Robert E. Cole
           title: Editor of Automobiles and the Future and professor of sociology at the
             University of Michigan
@@ -32,6 +32,15 @@ sections:
               Japanese business, political, and labor leaders against a backdrop
               of increasingly heated competition between the two countries’ auto
               industries.
+          - image: /assets/washington-post-photo-.png
+            image_alt: Four men seated at a table
+            title: ""
+            text: >-
+              Paul W. McCracken from University of Michigan (far right),
+              discussing a report at the 1983 U.S.-Japan Automotive Conference.
+
+
+              Photo Credit: Frank Johnson for The Washington Post.
           - image: ""
             image_alt: ""
             title: ""
@@ -46,15 +55,6 @@ sections:
             text: "Automobiles and the Future: Competition, Cooperation, and Change is an
               enhanced title with audio recordings from the U.S.-Japan
               Automotive Conference in March 1983 on Fulcrum."
-          - image: /assets/washington-post-photo-.png
-            image_alt: Four men seated at a table
-            title: ""
-            text: >-
-              Paul W. McCracken from University of Michigan (far right),
-              discussing a report at the 1983 U.S.-Japan Automotive Conference.
-
-
-              Photo Credit: Frank Johnson for The Washington Post.
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
