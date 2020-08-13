@@ -37,6 +37,27 @@ sections:
               auto industry were dramatically transformed via Japanese
               producers. This volume captures many of the critical factors
               responsible for these changes.
+      - type: highlight
+        text: >-
+          **Project Partners**
+
+
+          The Michigan Asian Studies Open Access Books Collection grew from a partnership between faculty from four Asian Studies Centers at the University of Michigan, librarians from U-M Asia Library and International Studies, and University of Michigan Press staff.
+
+
+          [Asia Library at the University of Michigan ](<https://www.lib.umich.edu/locations-and-hours/asia-library/collections-and-history>)
+
+
+          [University of Michigan Center for Japanese Studies](<https://ii.umich.edu/cjs>)
+
+
+          [Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies at the University of Michigan](<https://ii.umich.edu/lrccs>)
+
+
+          [University of Michigan Center for South Asian Studies](<https://ii.umich.edu/csas>)
+
+
+          [University of Michigan Center for Southeast Asian Studies](**<https://ii.umich.edu/cseas>**)
     heading: Michigan Asian Studies Open Access Book Collection
     subheading: TBD
   - content:
