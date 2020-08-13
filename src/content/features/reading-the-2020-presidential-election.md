@@ -132,6 +132,22 @@ sections:
               action.
       - type: profile
         profile: Caitlin E. Jewitt
+      - type: quote_slider
+        book: Thucydides's Trap?
+        quote:
+          quote: Lorem Ipsum
+          name: Steve Chan
+          title: Author
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A
+          - image: ""
+            image_alt: ""
+            title: B
+          - image: ""
+            image_alt: ""
+            title: C
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
