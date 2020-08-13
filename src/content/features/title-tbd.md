@@ -18,9 +18,7 @@ sections:
           quote: The changes to the automotive industry outlined this volume underlie many
             of the dynamics that drive the global auto industry today as new
             entrants enter the market and new technologies challenge all auto
-            firms. By providing open access to these materials, we further
-            insure their broad availability to today’s researchers,
-            practitioners, and the public.
+            firms.
           name: Robert E. Cole
           title: Editor of Automobiles and the Future and professor of sociology at the
             University of Michigan
@@ -93,7 +91,8 @@ sections:
       - type: spacer
         spacer: Spacer
     heading: Michigan Asian Studies Open Access Book Collection
-    subheading: TBD
+    subheading: A collection of 100 significant books about Asia freely available on
+      Fulcrum
   - content:
       - type: quote_slider
         book: "Corporeal Politics: Dancing East Asia"
