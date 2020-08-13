@@ -135,19 +135,32 @@ sections:
       - type: quote_slider
         book: Thucydides's Trap?
         quote:
-          quote: Lorem Ipsum
+          quote: It is important to recognize that great-power wars can happen in the
+            absence of any power transition and when one or more belligerents
+            were not motivated by a revisionist agenda.
           name: Steve Chan
           title: Author
         slides:
           - image: ""
             image_alt: ""
-            title: A
+            title: What is "Thucydides's Trap"?
+            text: Based on the writings of an ancient Greek historian, this theory states
+              that a dominant nation will inevitably be provoked to war when
+              another country strengthens its power; it's a scenario of
+              "either/or", not "both/and."
           - image: ""
             image_alt: ""
-            title: B
+            title: What's the Motive?
+            text: Power-transition theory claims that the danger of war is only present when
+              a rising power is motivated to revise the status quo, suggesting
+              that it's not the dominant power that throws the gauntlet.
           - image: ""
             image_alt: ""
-            title: C
+            title: The United States vs. China
+            text: Chan argues that current Sino-American relations cannot be reduced to
+              these theories, and that war between the two nations can be
+              avoided by observing lessons learned from past accommodation of
+              rising states.
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
