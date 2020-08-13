@@ -37,19 +37,25 @@ sections:
           - image: /assets/screen-shot-2020-08-10-at-1.24.31-pm.png
             image_alt: ""
             title: ""
-            text: This title is enhanced with audio recordings from the U.S.-Japan auto
-              conferences in March 1983.
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: The early 1980s were a tumultuous period when the fortunes of the U. S.
-              auto industry were dramatically transformed via Japanese
-              producers. Automobiles and the Future captures many of the
-              critical factors responsible for these changes.
+            text: This title is enhanced with audio recordings from the U.S.-Japan
+              Automotive Conference in March 1983.
           - image: /assets/washington-post-photo-.png
             image_alt: Four men seated at a table
             title: ""
-            text: "Credit: Washington Post"
+            text: >-
+              Paul W. McCracken from University of Michigan (far right),
+              discussing a report at the 1983 U.S.-Japan Automotive Conference.
+
+
+              Photo Credit: Frank Johnson for The Washington Post.
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "The early 1980s were a tumultuous period when the fortunes of the U. S.
+              auto industry were dramatically transformed via Japanese
+              producers. Automobiles and the Future: Competition, Cooperation,
+              and Change captures many of the critical factors responsible for
+              these changes."
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
