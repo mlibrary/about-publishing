@@ -20,12 +20,11 @@ sections:
             new entrants enter the market and new technologies challenge all
             auto firms.
           name: Robert E. Cole
-          title: Editor of Automobiles and the Future and Professor of Sociology at the
-            University of Michigan
+          title: Professor of Sociology at the University of Michigan
         slides:
           - image: ""
             image_alt: ""
-            title: ""
+            title: USJAC
             text: In 1981, the University of Michigan Center for Japanese Studies launched
               the U.S.-Japan Automotive Conference (USJAC). Held annually until
               1989, the USJAC facilitated reasoned dialogue between U.S. and
@@ -54,7 +53,12 @@ sections:
             title: ""
             text: "Automobiles and the Future: Competition, Cooperation, and Change is an
               enhanced title with audio recordings from the U.S.-Japan
-              Automotive Conference in March 1983 on Fulcrum."
+              Automotive Conference in March 1983 available on Fulcrum."
+          - image: ""
+            image_alt: ""
+            title: ""
+      - type: highlight
+        text: Read the Collection on Fulcrum
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
@@ -129,21 +133,30 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: ""
-            text: Performing bodies move people and articulate challenging ideas and
-              emotions in precarious circumstances
+            title: '"Corporeal Politics"'
+            text: The close attention to bodily acts in specific cultural contexts
           - image: /assets/dancer-1807516_1920.jpg
             image_alt: ""
             title: ""
           - image: ""
             image_alt: ""
             title: ""
-            text: The Fulcrum platform allows authors to integrate rich media resources such
-              as video to better represent their scholarship
+            text: Performing bodies move people and articulate challenging ideas and
+              emotions in precarious circumstances. Each study in this book
+              challenges existing dance and theater histories to re-investigate
+              the performer's role in devising the politics and aesthetics of
+              their performance.
+          - image: /assets/dance.jpg
+            image_alt: ""
+            title: ""
         quote:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
-          quote: "QUOTE "
+          quote: Fulcrum is really exciting for me because I work on the performing arts
+            and we always want to readers to have access to visual material,
+            like videos. A lot of videos are only searchable if you type in
+            Chinese characters, so being able to link directly to those videos
+            on Fulcrum is really essential.
       - type: cta
         text: "Elizabeth W. Son, associate professor of theatre at Northwestern
           University and author of Embodied Reckonings: “Comfort Women,”
