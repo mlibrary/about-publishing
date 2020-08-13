@@ -201,13 +201,25 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: A
+            title: Fighting Invisibility
+            text: Platforms like Twitter allow users to mask their identity, so performance
+              becomes a deliberate choice asserting the existence of and
+              vocality of that minority
           - image: ""
             image_alt: ""
-            title: B
+            title: Making Spaces through Hashtags
+            text: "Phenomenons such as Black Twitter and the global impact of hashtags such
+              as #MeToo have fostered communities and amplified voices for
+              groups of various races, ethnicities, genders, sexualities, and
+              social movements."
           - image: ""
             image_alt: ""
-            title: C
+            title: Not Always Positive
+            text: Twitter and other networks are not only used by progressive activists, but
+              also by extremist groups. There are dangers to the creation of
+              these "mutually-reinforcing hyper-partisan sites" for all groups,
+              and what is discussed on Twitter can manifest in the real
+              world—for good or bad.
       - type: spacer
         spacer: Spacer
       - type: podcast
