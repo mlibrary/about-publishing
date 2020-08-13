@@ -282,6 +282,11 @@ sections:
               these "mutually-reinforcing hyper-partisan sites" for all groups,
               and what is discussed on Twitter can manifest in the real
               world—for good or bad.
+      - type: highlight
+        text: Watch the University of Michigan Press author talk with Melissa K. Merry,
+          author of *Warped Narratives*, that illuminates how both gun control
+          activists and Second Amendment advocates focus on atypical scenarios
+          in their attempts to shape law and culture.
       - type: youtube
         id: NCTpaAzOa2A
       - type: quote_slider
