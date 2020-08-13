@@ -295,50 +295,6 @@ sections:
       - type: youtube
         id: NCTpaAzOa2A
       - type: quote_slider
-        book: Muslims in a Post-9/11 America
-        quote:
-          quote: The tremendous amount of resources put toward tracking these Muslim
-            American communities may have actually been counterproductive in
-            making the country safer and eroded confidence in American
-            institutions.
-          name: Rachel M. Gillum
-          title: Author
-        slides:
-          - image: ""
-            image_alt: ""
-            title: Freedom or Security
-            text: The changes in national policy following 9/11 changed the way of life for
-              all Americans, restricting some civil liberties in exchange for
-              security
-          - image: ""
-            image_alt: ""
-            title: Compliant, Yet Alienated
-            text: Studies show that Muslim Americans largely support law enforcement
-              initiatives to protect the U.S. However, some counter violent
-              extremism efforts threaten that relationship by violating the
-              rights of nonviolent, noncriminal Muslim citizens.
-          - image: ""
-            image_alt: ""
-            title: Learning the Facts
-            text: Understanding the diversity, loyalty, and concerns of the Muslim American
-              population can better serve those seeking to strengthen the U.S.
-              national security
-      - type: highlight
-        text: >-
-          “When a reality television personality becomes the President of the
-          United States, it’s time to pay attention to what television can tell
-          us about politics. Stephen Benedict Dyson has the unusual ability to
-          bridge political science and popular culture and find the “useful
-          fictions” in both.”\
-
-          —John Sides, George Washington University
-      - type: podcast
-        embed_code: >-
-          <iframe frameBorder="0" height="482" scrolling="no"
-          src="https://playlist.megaphone.fm/?e=LIT4928450219"
-
-          width="100%"></iframe>
-      - type: quote_slider
         book: Black America in the Shadow of the Sixties
         quote:
           quote: The long shadow of the Sixties can unwittingly shroud present-day
@@ -367,6 +323,50 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
+      - type: highlight
+        text: >-
+          “When a reality television personality becomes the President of the
+          United States, it’s time to pay attention to what television can tell
+          us about politics. Stephen Benedict Dyson has the unusual ability to
+          bridge political science and popular culture and find the “useful
+          fictions” in both.”\
+
+          —John Sides, George Washington University
+      - type: podcast
+        embed_code: >-
+          <iframe frameBorder="0" height="482" scrolling="no"
+          src="https://playlist.megaphone.fm/?e=LIT4928450219"
+
+          width="100%"></iframe>
+      - type: quote_slider
+        book: Muslims in a Post-9/11 America
+        quote:
+          quote: The tremendous amount of resources put toward tracking these Muslim
+            American communities may have actually been counterproductive in
+            making the country safer and eroded confidence in American
+            institutions.
+          name: Rachel M. Gillum
+          title: Author
+        slides:
+          - image: ""
+            image_alt: ""
+            title: Freedom or Security
+            text: The changes in national policy following 9/11 changed the way of life for
+              all Americans, restricting some civil liberties in exchange for
+              security
+          - image: ""
+            image_alt: ""
+            title: Compliant, Yet Alienated
+            text: Studies show that Muslim Americans largely support law enforcement
+              initiatives to protect the U.S. However, some counter violent
+              extremism efforts threaten that relationship by violating the
+              rights of nonviolent, noncriminal Muslim citizens.
+          - image: ""
+            image_alt: ""
+            title: Learning the Facts
+            text: Understanding the diversity, loyalty, and concerns of the Muslim American
+              population can better serve those seeking to strengthen the U.S.
+              national security
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
