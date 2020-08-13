@@ -260,13 +260,23 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: A
+            title: Freedom or Security
+            text: The changes in national policy following 9/11 changed the way of life for
+              all Americans, restricting some civil liberties in exchange for
+              security
           - image: ""
             image_alt: ""
-            title: B
+            title: Compliant, Yet Alienated
+            text: Studies show that Muslim Americans largely support law enforcement
+              initiatives to protect the U.S. However, some counter violent
+              extremism efforts threaten that relationship by violating the
+              rights of nonviolent, noncriminal Muslim citizens.
           - image: ""
             image_alt: ""
-            title: C
+            title: Learning the Facts
+            text: Understanding the diversity, loyalty, and concerns of the Muslim American
+              population can better serve those seeking to strengthen the U.S.
+              national security
       - type: spacer
         spacer: Spacer
       - type: podcast
