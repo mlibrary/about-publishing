@@ -58,7 +58,10 @@ sections:
             image_alt: ""
             title: ""
       - type: highlight
-        text: Read the Collection on Fulcrum
+        text: |-
+          **Read the Collection on Fulcrum**
+
+          The titles included in the collection
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
@@ -134,7 +137,8 @@ sections:
           - image: ""
             image_alt: ""
             title: '"Corporeal Politics"'
-            text: The close attention to bodily acts in specific cultural contexts
+            text: Defined as the close attention to bodily acts in specific cultural
+              contexts.
           - image: /assets/dancer-1807516_1920.jpg
             image_alt: ""
             title: ""
@@ -149,6 +153,8 @@ sections:
           - image: /assets/dance.jpg
             image_alt: ""
             title: ""
+            text: Corporeal Politics is an enhanced title with images and video footage of
+              performances, available on Fulcrum.
         quote:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
