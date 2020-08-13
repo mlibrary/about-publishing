@@ -220,6 +220,23 @@ sections:
               these "mutually-reinforcing hyper-partisan sites" for all groups,
               and what is discussed on Twitter can manifest in the real
               world—for good or bad.
+      - type: quote_slider
+        book: "Black America in the Shadow of the Sixties: Notes on the Civil Rights
+          Movement, Neoliberalism, and Politics"
+        quote:
+          quote: Lorem Ipsum
+          name: Clarence Lang
+          title: Author
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A
+          - image: ""
+            image_alt: ""
+            title: B
+          - image: ""
+            image_alt: ""
+            title: C
       - type: spacer
         spacer: Spacer
       - type: podcast
