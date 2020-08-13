@@ -295,50 +295,6 @@ sections:
       - type: youtube
         id: NCTpaAzOa2A
       - type: quote_slider
-        book: Black America in the Shadow of the Sixties
-        quote:
-          quote: The long shadow of the Sixties can unwittingly shroud present-day
-            political imagination, deadening our ability to properly
-            conceptualize, and therefore contest, the dominant forms of racial
-            oppression and economic injustice that define the early 21st
-            century.
-          name: Clarence Lang
-          title: Author
-        slides:
-          - image: ""
-            image_alt: ""
-            title: A Decade Unlike Any Other
-            text: The mythology of "the Sixties" encompasses many global events and changing
-              dynamics, and how we remember it influences the approaches to
-              potential social change today.
-          - image: ""
-            image_alt: ""
-            title: Impact on Black Politics
-            text: The working class that advanced much of the change of the '60s has been
-              overshadowed by the "post-civil rights" black middle class.
-          - image: ""
-            image_alt: ""
-            title: The Neoliberal Backlash
-            text: In the 1970s and beyond, neoliberalism and its hallmarks of economic
-              laissez-faire fueled the nation's swing to the political right and
-              the updated racism, economic stringency, and vindictiveness of the
-              U.S. social policy.
-      - type: highlight
-        text: >-
-          “When a reality television personality becomes the President of the
-          United States, it’s time to pay attention to what television can tell
-          us about politics. Stephen Benedict Dyson has the unusual ability to
-          bridge political science and popular culture and find the “useful
-          fictions” in both.”\
-
-          —John Sides, George Washington University
-      - type: podcast
-        embed_code: >-
-          <iframe frameBorder="0" height="482" scrolling="no"
-          src="https://playlist.megaphone.fm/?e=LIT4928450219"
-
-          width="100%"></iframe>
-      - type: quote_slider
         book: Muslims in a Post-9/11 America
         quote:
           quote: The tremendous amount of resources put toward tracking these Muslim
@@ -367,6 +323,50 @@ sections:
             text: Understanding the diversity, loyalty, and concerns of the Muslim American
               population can better serve those seeking to strengthen the U.S.
               national security
+      - type: highlight
+        text: >-
+          “When a reality television personality becomes the President of the
+          United States, it’s time to pay attention to what television can tell
+          us about politics. Stephen Benedict Dyson has the unusual ability to
+          bridge political science and popular culture and find the “useful
+          fictions” in both.”\
+
+          —John Sides, George Washington University
+      - type: podcast
+        embed_code: >-
+          <iframe frameBorder="0" height="482" scrolling="no"
+          src="https://playlist.megaphone.fm/?e=LIT4928450219"
+
+          width="100%"></iframe>
+      - type: quote_slider
+        book: Black America in the Shadow of the Sixties
+        quote:
+          quote: The long shadow of the Sixties can unwittingly shroud present-day
+            political imagination, deadening our ability to properly
+            conceptualize, and therefore contest, the dominant forms of racial
+            oppression and economic injustice that define the early 21st
+            century.
+          name: Clarence Lang
+          title: Author
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A Decade Unlike Any Other
+            text: The mythology of "the Sixties" encompasses many global events and changing
+              dynamics, and how we remember it influences the approaches to
+              potential social change today.
+          - image: ""
+            image_alt: ""
+            title: Impact on Black Politics
+            text: The working class that advanced much of the change of the '60s has been
+              overshadowed by the "post-civil rights" black middle class.
+          - image: ""
+            image_alt: ""
+            title: The Neoliberal Backlash
+            text: In the 1970s and beyond, neoliberalism and its hallmarks of economic
+              laissez-faire fueled the nation's swing to the political right and
+              the updated racism, economic stringency, and vindictiveness of the
+              U.S. social policy.
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
