@@ -13,7 +13,7 @@ feature_image:
 sections:
   - content:
       - type: quote_slider
-        book: Gendered Vulnerability
+        book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
           quote: The changes to the automotive industry outlined this volume underlie many
             of the dynamics that drive the global auto industry today as new
@@ -132,6 +132,6 @@ related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
 ---
-Asian studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016. INSERT MORE
+The Asian Studies program at the University of Michigan Press showcases rich, global scholarship, providing deep cultural, historical, and political knowledge of these regions in their international context. Focused on providing a place of intersections, with books examining the historical and the contemporary, the Asian Studies lists expands—and often challenges—our understanding in regional history and politics, cultural and literary studies, media and performance. The Asian Studies list focuses on East, South, and Southeast Asia, along with its partnerships with the prestigious Centers on our campus. Asian Studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016, and publishing roughly \[???] titles a year. 
 
 In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines. The collection includes editions that use digital enhancements to enrich the reading and teaching experience.
