@@ -25,6 +25,15 @@ sections:
           title: Editor of Automobiles and the Future and professor of sociology at the
             University of Michigan
         slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: In 1981, the University of Michigan Center for Japanese Studies launched
+              the U.S.-Japan Automotive Conference (USJAC). Held annually until
+              1989, the USJAC facilitated reasoned dialogue between U.S. and
+              Japanese business, political, and labor leaders against a backdrop
+              of increasingly heated competition between the two countries’ auto
+              industries.
           - image: /assets/screen-shot-2020-08-10-at-1.24.31-pm.png
             image_alt: ""
             title: ""
@@ -35,8 +44,12 @@ sections:
             title: ""
             text: The early 1980s were a tumultuous period when the fortunes of the U. S.
               auto industry were dramatically transformed via Japanese
-              producers. This volume captures many of the critical factors
-              responsible for these changes.
+              producers. Automobiles and the Future captures many of the
+              critical factors responsible for these changes.
+          - image: /assets/washington-post-photo-.png
+            image_alt: Four men seated at a table
+            title: ""
+            text: "Credit: Washington Post"
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
@@ -69,6 +82,8 @@ sections:
 
 
           [University of Michigan Center for Southeast Asian Studies](**<https://ii.umich.edu/cseas>**)
+      - type: spacer
+        spacer: Spacer
     heading: Michigan Asian Studies Open Access Book Collection
     subheading: TBD
   - content:
@@ -92,8 +107,6 @@ sections:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
           quote: "QUOTE "
-      - type: podcast
-        embed_code: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vTElUMzk3Njk2MDI1OQ/episode/MjAxMzMyYTYtODZjMy0xMWU5LTgxNTAtYzc4OWJiMzVjM2Ey?hl=en&ved=2ahUKEwiD6Jny15jrAhUShHIEHfWKAGcQjrkEegQICxAK&ep=6
       - type: youtube
         id: F1LiFINq27k
       - type: cta
@@ -106,14 +119,12 @@ sections:
         button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
         heading: Award-Winning Scholarship
         image: /assets/default.jpg
-      - type: highlight
-        text: Additional Resources
     heading: TBD
     subheading: TBD
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
 ---
-Asian studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016.
+Asian studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016. INSERT MORE
 
 In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines. The collection includes editions that use digital enhancements to enrich the reading and teaching experience.
