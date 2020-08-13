@@ -43,7 +43,7 @@ sections:
       - type: quote_slider
         book: "Corporeal Politics: Dancing East Asia"
         slides:
-          - image: ""
+          - image: /assets/dancer-1807516_1920.jpg
             image_alt: ""
             title: ""
             text: Performing bodies move people and articulate challenging ideas and
