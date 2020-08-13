@@ -58,10 +58,11 @@ sections:
             image_alt: ""
             title: ""
       - type: highlight
-        text: |-
+        text: >-
           **Read the Collection on Fulcrum**
 
-          The titles included in the collection
+
+          The titles included in the collection explore the themes of translation,
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
@@ -178,6 +179,9 @@ sections:
           quote: ADD QUOTE
           name: to come
           title: to come
+      - type: highlight
+        text: Listen to Kareem Khubchandani and Manisha Dadlani-Kriplaney "Impact Duty,"
+          released August 8, 2020.
       - type: podcast
         embed_code: <iframe
           src="https://anchor.fm/impact-duty/embed/episodes/Impact-Duty--Episode-7---Kareem-Khubchandani-on-Ishtyle-ehrv7g/a-a2t688f"
