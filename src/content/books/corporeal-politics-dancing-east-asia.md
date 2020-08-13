@@ -1,5 +1,5 @@
 ---
-title: "Corporeal Politics: Dancing East Asia"
+title: Corporeal Politics
 link: https://doi.org/10.3998/mpub.11521701
 author: Katherine Mezur and Emily Wilcox, Editors
 image:
