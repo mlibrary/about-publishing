@@ -15,14 +15,19 @@ sections:
       - type: quote_slider
         book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
-          quote: quote
+          quote: The changes to the automotive industry outlined this volume underlie many
+            of the dynamics that drive the global auto industry today as new
+            entrants enter the market and new technologies challenge all auto
+            firms. By providing open access to these materials, we further
+            insure their broad availability to today’s researchers,
+            practitioners, and the public.
           name: Robert E. Cole
           title: Editor of Automobiles and the Future and professor of sociology at the
             University of Michigan
         slides:
           - image: ""
             image_alt: ""
-            title: USJAC
+            title: ""
             text: In 1981, the University of Michigan Center for Japanese Studies launched
               the U.S.-Japan Automotive Conference (USJAC). Held annually until
               1989, the USJAC facilitated reasoned dialogue between U.S. and
@@ -39,7 +44,7 @@ sections:
               these changes."
           - image: /assets/screen-shot-2020-08-10-at-1.24.31-pm.png
             image_alt: ""
-            title: Audio Recordings on Fulcrum
+            title: ""
             text: "Automobiles and the Future: Competition, Cooperation, and Change is
               enhanced with audio recordings from the U.S.-Japan Automotive
               Conference in March 1983. "
