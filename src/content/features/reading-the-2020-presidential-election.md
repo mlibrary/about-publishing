@@ -155,28 +155,6 @@ sections:
 
           [Zombie History: Lies About Our Past that Refuse to Die](https://doi.org/10.3998/mpub.11328466) by Peter Charles Hoffer
       - type: quote_slider
-        book: "#identity"
-        quote:
-          quote: Lorem ipsum
-          name: John
-          title: Smith
-        slides:
-          - image: ""
-            image_alt: ""
-            title: A
-          - image: ""
-            image_alt: ""
-            title: B
-          - image: ""
-            image_alt: ""
-            title: C
-      - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
-          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
-          embedded audio player"></iframe>
-      - type: spacer
-        spacer: Spacer
-      - type: quote_slider
         book: The Politics of Millennials
         quote:
           quote: While this generation sees current politics, politicians, and
@@ -210,6 +188,28 @@ sections:
           [Listen to 'The role of young voters in 2020' on MPR News](https://www.mprnews.org/episode/2020/04/27/the-role-of-young-voters-in-2020)\
 
           [Listen to the discussion on 'The Politics of Millennials' on New Books](https://newbooksnetwork.com/stella-m-rouse-and-ashley-d-ross-the-politics-of-millennials-political-beliefs-and-policy-preferences-of-americas-most-diverse-generation-u-michigan-press-2018/)
+      - type: quote_slider
+        book: "#identity"
+        quote:
+          quote: Lorem ipsum
+          name: John
+          title: Smith
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A
+          - image: ""
+            image_alt: ""
+            title: B
+          - image: ""
+            image_alt: ""
+            title: C
+      - type: spacer
+        spacer: Spacer
+      - type: podcast
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
+          embedded audio player"></iframe>
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
