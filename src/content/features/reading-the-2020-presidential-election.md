@@ -194,8 +194,7 @@ sections:
           quote: Twitter lives on as a significant site of US public debate, especially
             around questions of how diverse bodies, languages, cultures,
             worldviews, orientations, and experiences are being recognized or
-            denied, included or ignored, honored or despised, welcomed or denied
-            by this nation.
+            denied by this nation.
           name: Abigail De Kosnik and Keith P. Feldman
           title: Editors
         slides:
@@ -226,8 +225,8 @@ sections:
           quote: The long shadow of the Sixties can unwittingly shroud present-day
             political imagination, deadening our ability to properly
             conceptualize, and therefore contest, the dominant forms of racial
-            oppression and economic injustice that define the early twenty-first
-            century we inhabit.
+            oppression and economic injustice that define the early 21st
+            century.
           name: Clarence Lang
           title: Author
         slides:
@@ -249,12 +248,6 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
-      - type: spacer
-        spacer: Spacer
-      - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
-          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
-          embedded audio player"></iframe>
       - type: quote_slider
         book: Muslims in a Post-9/11 America
         quote:
@@ -274,6 +267,12 @@ sections:
           - image: ""
             image_alt: ""
             title: C
+      - type: spacer
+        spacer: Spacer
+      - type: podcast
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
+          embedded audio player"></iframe>
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
