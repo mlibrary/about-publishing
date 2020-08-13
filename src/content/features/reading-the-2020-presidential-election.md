@@ -278,6 +278,8 @@ sections:
               these "mutually-reinforcing hyper-partisan sites" for all groups,
               and what is discussed on Twitter can manifest in the real
               world—for good or bad.
+      - type: youtube
+        id: NCTpaAzOa2A
       - type: quote_slider
         book: Black America in the Shadow of the Sixties
         quote:
@@ -307,6 +309,10 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
+      - type: podcast
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
+          embedded audio player"></iframe>
       - type: quote_slider
         book: Muslims in a Post-9/11 America
         quote:
@@ -338,10 +344,6 @@ sections:
               national security
       - type: spacer
         spacer: Spacer
-      - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
-          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
-          embedded audio player"></iframe>
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
