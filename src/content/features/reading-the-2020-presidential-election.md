@@ -100,6 +100,19 @@ sections:
           allow-top-navigation allow-popups allow-forms" scrolling=no
           width="100%" height="185" frameborder="0"
           src="https://embed.radiopublic.com/e?if=new-books-in-gender-studies-WJbzPl&ge=s1!f9e8d977da23d0eb4260de3d76bc7dc328c08554"></iframe>
+      - type: quote_slider
+        book: State of Empowerment
+        quote:
+          quote: In a remarkable turn of events—especially given the long history of
+            punitive social policies that leave recipients feeling policed,
+            distrusted, and alienated—government-funded after-school programs
+            quietly become powerful forces for political and civic engagement.
+          name: Carolyn Barnes
+          title: Author
+        slides:
+          - image: ""
+            image_alt: ""
+            title: A
       - type: profile
         profile: Caitlin E. Jewitt
       - type: podcast
