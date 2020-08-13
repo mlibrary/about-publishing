@@ -224,12 +224,12 @@ sections:
         slides:
           - image: /assets/millennials-1.jpg
             image_alt: young people protesting
-            title: ""
+            title: Who Are Millennials?
             text: Millennials were born between 1981 and 1996, meaning that in 2020, the
               oldest Millennials are 39 and the youngest are 24.
-          - image: /assets/millennials-2.jpg
-            image_alt: front of polling station building
-            title: ""
+          - image: ""
+            image_alt: ""
+            title: Turning Out to Vote
             text: Millennials are the largest voting cohort in 2020, but like all young
               people they do not vote in large numbers
           - image: ""
