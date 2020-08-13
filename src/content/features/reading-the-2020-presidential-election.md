@@ -234,13 +234,22 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: A
+            title: A Decade Unlike Any Other
+            text: The mythology of "the Sixties" encompasses many global events and changing
+              dynamics, and how we remember it influences the approaches to
+              potential social change today.
           - image: ""
             image_alt: ""
-            title: B
+            title: Impact on Black Politics
+            text: The working class that advanced much of the change of the '60s has been
+              overshadowed by the "post-civil rights" black middle class.
           - image: ""
             image_alt: ""
-            title: C
+            title: The Neoliberal Backlash
+            text: In the 1970s and beyond, neoliberalism and its hallmarks of economic
+              laissez-faire fueled the nation's swing to the political right and
+              the updated racism, economic stringency, and vindictiveness of the
+              U.S. social policy.
       - type: spacer
         spacer: Spacer
       - type: podcast
