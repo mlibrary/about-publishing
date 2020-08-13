@@ -92,6 +92,37 @@ sections:
     heading: Michigan Asian Studies Open Access Book Collection
     subheading: A collection of 100 significant books about Asia freely available on
       Fulcrum
+  - heading: "Publishing Global Perspectives with Digital Scholarship "
+    subheading: Engaging Readers Across the World
+    content:
+      - type: quote_slider
+        book: People's Wars in China, Malaya, and Vietnam
+        quote:
+          quote: "The experience of publishing open access on the Fulcrum platform has
+            opened up a number of new opportunities for me. My book is finding
+            audiences that it could not have otherwise. "
+          name: Marc Opper
+          title: " Adjunct Assistant Professor of Political Science at Randolph-Macon
+            College"
+        slides:
+          - image: /assets/screen-shot-2020-08-13-at-4.56.25-pm.png
+            image_alt: ""
+            title: ""
+      - type: youtube
+        id: F1LiFINq27k
+      - type: cta
+        image: /assets/9780472131402.jpg
+        image_alt: red photograph of person taking a picture with their mobile phone
+        heading: Global Digital Cultures
+        button_text: Read the Book
+        button_link: https://doi.org/10.3998/mpub.9561751
+        text: Digitalization is reshaping culture and communication in the twenty-first
+          century. Digital platforms like Facebook, WhatsApp, and others are
+          deeply embedded in the daily lives of millions of people around the
+          world, shaping how people engage with others as kin, as citizens, and
+          as consumers. The essays in this book explore the intersections of
+          local, national, regional, and global forces that shape contemporary
+          digital culture(s) in regions like South Asia.
   - content:
       - type: quote_slider
         book: "Corporeal Politics: Dancing East Asia"
@@ -113,8 +144,6 @@ sections:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
           quote: "QUOTE "
-      - type: youtube
-        id: F1LiFINq27k
       - type: cta
         text: "Elizabeth W. Son, associate professor of theatre at Northwestern
           University and author of Embodied Reckonings: “Comfort Women,”
@@ -125,7 +154,7 @@ sections:
         button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
         heading: Award-Winning Scholarship
         image: /assets/default.jpg
-    heading: TBD
+    heading: Visual and Performing Arts
     subheading: TBD
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
