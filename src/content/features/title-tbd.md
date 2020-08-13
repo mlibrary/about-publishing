@@ -13,7 +13,7 @@ feature_image:
 sections:
   - content:
       - type: quote_slider
-        book: A Mid-Republican House from Gabii
+        book: Gendered Vulnerability
         quote:
           quote: The changes to the automotive industry outlined this volume underlie many
             of the dynamics that drive the global auto industry today as new
