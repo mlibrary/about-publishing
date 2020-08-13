@@ -95,11 +95,16 @@ sections:
             text: Through their work in office, women more faithfully represent all of their
               constituents' interests and needs than men, positively influencing
               their electability
+      - type: highlight
+        text: "This illuminating podcast episode from NPR's *Hidden Brain* uses research
+          from Brian F. Schaffner, author of *Campaign Finance and Political
+          Polarization*, explores the paradox of our passion for politics: we're
+          more informed than ever, but many of us are also less politically
+          active."
       - type: podcast
-        embed_code: <iframe sandbox="allow-same-origin allow-scripts
-          allow-top-navigation allow-popups allow-forms" scrolling=no
-          width="100%" height="185" frameborder="0"
-          src="https://embed.radiopublic.com/e?if=new-books-in-gender-studies-WJbzPl&ge=s1!f9e8d977da23d0eb4260de3d76bc7dc328c08554"></iframe>
+        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
+          embedded audio player"></iframe>
       - type: quote_slider
         book: State of Empowerment
         quote:
@@ -318,16 +323,6 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
-      - type: highlight
-        text: "This illuminating podcast episode from NPR's *Hidden Brain* uses research
-          from Brian F. Schaffner, author of *Campaign Finance and Political
-          Polarization*, explores the paradox of our passion for politics: we're
-          more informed than ever, but many of us are also less politically
-          active."
-      - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
-          width="100%" height="290" frameborder="0" scrolling="no" title="NPR
-          embedded audio player"></iframe>
       - type: quote_slider
         book: Muslims in a Post-9/11 America
         quote:
