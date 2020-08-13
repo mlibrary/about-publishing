@@ -109,9 +109,6 @@ sections:
             title: ""
             text: The Fulcrum platform allows authors to integrate rich media resources such
               as video to better represent their scholarship
-          - image: /assets/asian-dance.jpg
-            image_alt: "black and white photo an asian female ballerina in white tutu "
-            title: ""
         quote:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
