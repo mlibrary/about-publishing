@@ -224,7 +224,11 @@ sections:
         book: "Black America in the Shadow of the Sixties: Notes on the Civil Rights
           Movement, Neoliberalism, and Politics"
         quote:
-          quote: Lorem Ipsum
+          quote: I worry that the long shadow of the Sixties can unwittingly shroud
+            present-day political imagination, deadening our ability to properly
+            conceptualize, and therefore contest, the dominant forms of racial
+            oppression and economic injustice that define the early twenty-first
+            century we inhabit.
           name: Clarence Lang
           title: Author
         slides:
