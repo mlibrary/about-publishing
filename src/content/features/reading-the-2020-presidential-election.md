@@ -191,11 +191,11 @@ sections:
       - type: quote_slider
         book: "#identity"
         quote:
-          quote: For the moment, Twitter lives on as a significant site of US public
-            debate, especially around questions of how diverse bodies,
-            languages, cultures, worldviews, orientations, and experiences are
-            being recognized or denied, included or ignored, honored or
-            despised, welcomed or denied by this nation.
+          quote: Twitter lives on as a significant site of US public debate, especially
+            around questions of how diverse bodies, languages, cultures,
+            worldviews, orientations, and experiences are being recognized or
+            denied, included or ignored, honored or despised, welcomed or denied
+            by this nation.
           name: Abigail De Kosnik and Keith P. Feldman
           title: Editors
         slides:
@@ -224,8 +224,8 @@ sections:
         book: "Black America in the Shadow of the Sixties: Notes on the Civil Rights
           Movement, Neoliberalism, and Politics"
         quote:
-          quote: I worry that the long shadow of the Sixties can unwittingly shroud
-            present-day political imagination, deadening our ability to properly
+          quote: The long shadow of the Sixties can unwittingly shroud present-day
+            political imagination, deadening our ability to properly
             conceptualize, and therefore contest, the dominant forms of racial
             oppression and economic injustice that define the early twenty-first
             century we inhabit.
