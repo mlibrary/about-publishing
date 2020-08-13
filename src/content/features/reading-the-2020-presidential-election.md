@@ -318,6 +318,12 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
+      - type: highlight
+        text: "This illuminating podcast episode from NPR's *Hidden Brain* uses research
+          from Brian F. Schaffner, author of *Campaign Finance and Political
+          Polarization*, explores the paradox of our passion for politics: we're
+          more informed than ever, but many of us are also less politically
+          active."
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
