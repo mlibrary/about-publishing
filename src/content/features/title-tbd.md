@@ -62,17 +62,16 @@ sections:
           **Read the Collection on Fulcrum**
 
 
-          The titles included in the collection explore the themes of translation,
+          The titles included in the Michigan Open Access Books Collection work to advance campus collaboration and catalyze a reinvigorated Asian Studies frontlist publishing program. The collection, which includes humanities, social science, and politic science titles, thematically explores visual and performing arts, the history of Asian politics and economics, translations, ethnographies, and endangered languages. Read these free and publicly available titles on [Fulcrum](https://www.fulcrum.org/michigan?f%5Bfunder_sim%5D%5B%5D=National+Endowment+for+the+Humanities&locale=en).
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
-        button_text: View the Brochure
+        button_text: Learn More
         text: "The Michigan Asian Studies Open Access Book Collection brought together
           four centers on U-M's campus: the Center for Japanese Studies, the
           Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies,
           the Center for South Asian Studies, and the Center for Southeast Asian
-          Studies. This project worked to advance campus collaboration and
-          catalyze a reinvigorated Asian studies frontlist publishing program. "
+          Studies. Read more about the Centers below. "
         button_link: https://umich.box.com/s/v39rkhxbo5qr6l700yn0eusk5qbhzfwh
       - type: highlight
         text: >-
