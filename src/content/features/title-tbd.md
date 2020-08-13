@@ -92,6 +92,8 @@ sections:
           name: Emily Wilcox
           title: "Associate professor of modern Chinese studies "
           quote: "QUOTE "
+      - type: podcast
+        embed_code: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vTElUMzk3Njk2MDI1OQ/episode/MjAxMzMyYTYtODZjMy0xMWU5LTgxNTAtYzc4OWJiMzVjM2Ey?hl=en&ved=2ahUKEwiD6Jny15jrAhUShHIEHfWKAGcQjrkEegQICxAK&ep=6
       - type: youtube
         id: F1LiFINq27k
       - type: cta
