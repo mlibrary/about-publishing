@@ -172,6 +172,16 @@ sections:
         button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
         heading: Award-Winning Scholarship
         image: /assets/default.jpg
+      - type: quote_slider
+        book: "Ishtyle: Accenting Gay Indian Nightlife"
+        quote:
+          quote: ADD QUOTE
+          name: to come
+          title: to come
+      - type: podcast
+        embed_code: <iframe
+          src="https://anchor.fm/impact-duty/embed/episodes/Impact-Duty--Episode-7---Kareem-Khubchandani-on-Ishtyle-ehrv7g/a-a2t688f"
+          height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
     heading: Visual and Performing Arts
     subheading: TBD
 related_stories:
