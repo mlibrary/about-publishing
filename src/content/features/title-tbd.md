@@ -50,6 +50,13 @@ sections:
               Japanese business, political, and labor leaders against a backdrop
               of increasingly heated competition between the two countries’ auto
               industries.
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "Automobiles and the Future: Competition, Cooperation, and Change is an
+              enhanced title with audio recordings from the U.S.-Japan
+              Automotive Conference in March 1983 available on Fulcrum. Listen
+              to the Opening Statement from Paul W. McCracken below."
           - image: /assets/washington-post-photo-.png
             image_alt: Four men seated at a table
             title: ""
@@ -67,12 +74,6 @@ sections:
               producers. Automobiles and the Future: Competition, Cooperation,
               and Change captures many of the critical factors responsible for
               these changes."
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: "Automobiles and the Future: Competition, Cooperation, and Change is an
-              enhanced title with audio recordings from the U.S.-Japan
-              Automotive Conference in March 1983 available on Fulcrum."
       - type: podcast
         embed_code: <iframe
           src='https://www.fulcrum.org/embed?hdl=2027%2Ffulcrum.0k225d000'
