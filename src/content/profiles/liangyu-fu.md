@@ -1,7 +1,7 @@
 ---
 title: Liangyu Fu
 job_title: Chinese Studies Librarian, Asia Library at University of Michigan
-faculty_image: /assets/screen-shot-2020-08-14-at-11.38.12-am.png
+faculty_image: /assets/screen-shot-2020-08-14-at-11.47.25-am.png
 quotes:
   - quote: “The release of this collection on Fulcrum will greatly boost the access
       to out-of-print but nonetheless significant English-language monographs
