@@ -2,7 +2,7 @@
 published: true
 type: feature
 title: Advancing Asian Studies
-subtitle: Engaging a Global Audience through Open Access
+subtitle: Engaging a Global Audience with Open Access Scholarship
 path: /features/asian-studies
 hero:
   text: ""
