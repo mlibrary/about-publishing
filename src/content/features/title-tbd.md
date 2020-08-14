@@ -67,15 +67,19 @@ sections:
               producers. Automobiles and the Future: Competition, Cooperation,
               and Change captures many of the critical factors responsible for
               these changes."
-          - image: /assets/screen-shot-2020-08-10-at-1.24.31-pm.png
+          - image: ""
             image_alt: ""
             title: ""
             text: "Automobiles and the Future: Competition, Cooperation, and Change is an
               enhanced title with audio recordings from the U.S.-Japan
               Automotive Conference in March 1983 available on Fulcrum."
-          - image: ""
-            image_alt: ""
-            title: ""
+      - type: podcast
+        embed_code: <iframe
+          src='https://www.fulcrum.org/embed?hdl=2027%2Ffulcrum.0k225d000'
+          title='Opening Statement - Paul W. McCracken'
+          style='page-break-inside:avoid; -webkit-column-break-inside:avoid;
+          break-inside:avoid; display:block; overflow:hidden; border-width:0;
+          width:98%; max-width:98%; height:125px; margin:auto'></iframe>
       - type: highlight
         text: >-
           **Project Partners**
