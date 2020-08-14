@@ -85,15 +85,15 @@ sections:
           break-inside:avoid; display:block; overflow:hidden; border-width:0;
           width:98%; max-width:98%; height:125px; margin:auto'></iframe>
       - type: profile
-        profile: Caitlin E. Jewitt
+        profile: Liangyu Fu
       - type: highlight
         text: >-
-          **Critical Titles included in the Collection**
+          **Critical Titles Included in the Collection**
 
 
 
 
-          **From the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies:**
+          From the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies:
 
 
           [ *Double Jeopardy*](https://doi.org/10.3998/mpub.19158)by Ching-Hsi Perng
@@ -107,7 +107,7 @@ sections:
 
 
 
-          **From the Center for Japanese Studies:**
+          From the Center for Japanese Studies:
 
 
           *[Tales of Times Now Past](https://doi.org/10.3998/mpub.18748)* by Marian Ury
@@ -121,7 +121,7 @@ sections:
 
 
 
-          **From the Centers for South and Southeast Asian Studies:**
+          From the Centers for South and Southeast Asian Studies:
 
 
           *[Karawitan](*https://www.fulcrum.org/michigan?utf8=%E2%9C%93&press=michigan&q=*Karawitan*)* edited by Judith Becker with assistance from Alan H. Feinstein 
@@ -141,10 +141,7 @@ sections:
           empire and war responsibility.
 
 
-          Editors Laura Hein and Rebecca Jennison created a companion website offering many more images and demonstrating Tomiyama’s vibrant use of color  The book's introduction is intended as a starting point for that project, but the individual web pages are also keyed to specific chapters of the book. 
-
-
-          The website can be read in English or Japanese. 
+          Editors Laura Hein and Rebecca Jennison created a companion website offering many more images and demonstrating Tomiyama’s vibrant use of color. The website can be read in English or Japanese. 
         button_link: https://imaginationwithoutborders.northwestern.edu/
         heading: Bringing Art to Life
       - type: highlight
