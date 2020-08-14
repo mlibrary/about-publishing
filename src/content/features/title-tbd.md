@@ -173,6 +173,18 @@ sections:
   - heading: "Digital Scholarship "
     subheading: "Engaging a Global Audience "
     content:
+      - type: highlight
+        text: >-
+          The Fulcrum platform hosts 
+
+
+          Open access content facilitates use across disciplines and allows users from across the globe to engage with University of Michigan Press scholarship.
+
+
+          Accessibility features with both content and platform facilitate engagement by foreign readers and readers with disabilities, as well as responsive design for mobile devices.
+
+
+          From within the e-reader on the platform, users can easily disseminate open access work via social media and scholarly communities.
       - type: youtube
         id: F1LiFINq27k
       - type: quote_slider
@@ -217,6 +229,18 @@ sections:
           as consumers. The essays in this book explore the intersections of
           local, national, regional, and global forces that shape contemporary
           digital culture(s) in regions like South Asia.
+      - type: highlight
+        text: >-
+          **Explore More OA Asian Studies Titles**
+
+
+          *[Early Film Culture in Hong Kong, Taiwan, and Republican China: Kaleidoscopic Histories](https://doi.org/10.3998/mpub.9731616)* edited by Emilie Yueh-yu Yeh
+
+
+          *[Transforming Gender and Emotion: The Butterfly Lovers Story in China and Korea](https://doi.org/10.3998/mpub.9717284)* by Sookja Cho
+
+
+          *[China and the West: Music, Representation, and Reception](https://doi.org/10.3998/mpub.5555199)* edited by Hon-Lun Yang and Michael Saffle
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
