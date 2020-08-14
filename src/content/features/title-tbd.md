@@ -2,11 +2,11 @@
 published: true
 type: feature
 title: Advancing Asian Studies
-subtitle: TBD
+subtitle: Engaging a Global Audience through Open Access
 path: /features/asian-studies
 hero:
   text: ""
-  feature_hero_image: /assets/kirill-sharkovski-mber7b5qzwm-unsplash.jpg
+  feature_hero_image: /assets/kirill-sharkovski-mber7b5qzwm-unsplash.jpeg
 feature_image:
   file: /assets/confucius_and_his_students2.jpg
   alt: collage of book covers
@@ -14,9 +14,8 @@ sections:
   - content:
       - type: highlight
         text: >-
-          
-
-          ![collage of book covers](/assets/screen-shot-2020-08-13-at-11.35.00-am.png)
+          ![collage of book
+          covers](/assets/screen-shot-2020-08-14-at-1.56.46-pm.png)
 
 
           **Read the Collection on Fulcrum**
