@@ -12,6 +12,6 @@ bio: >-
   revival of these titles through OA ensures equal access around the world.”
 
 
-  -Liangyu Fu, Chinese Studies Librarian, Asia Library at University of Michigan
+  —Liangyu Fu, Chinese Studies Librarian, Asia Library at University of Michigan
 type: profile
 ---
