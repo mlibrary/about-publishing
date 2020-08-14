@@ -191,7 +191,7 @@ sections:
             text: >
               This is an interdisciplinary work that bridges the disciplines of
               political science, history, and area studies. 
-          - image: /assets/655px-open_access_logo_plos_white.svg.png
+          - image: ""
             image_alt: ""
             title: ""
             text: Because the book is open access, it can be easily accessed by scholars and
