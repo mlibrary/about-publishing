@@ -83,6 +83,22 @@ sections:
           width:98%; max-width:98%; height:125px; margin:auto'></iframe>
       - type: profile
         profile: Liangyu Fu
+      - type: quote_slider
+        book: "Imagination without Borders: Feminist Artist Tomiyama Taeko and Social
+          Responsibility"
+        quote:
+          quote: This project excitingly helps achieve a long-standing desire of Asia
+            specialists—making our scholarship just as available in Asia as it
+            is in Michigan. Readers across the globe can access both Imagination
+            Without Borders and the companion website together with an ease that
+            would not have been possible without this project.
+          name: Laura Hein
+          title: Professor of History at Northwestern University
+        slides: []
+      - type: highlight
+        text: Access the [companion
+          website](https://imaginationwithoutborders.northwestern.edu/) for
+          *Imagination Without Borders*
       - type: highlight
         text: >-
           **Project Partners**
