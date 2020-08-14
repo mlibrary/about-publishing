@@ -211,9 +211,6 @@ sections:
           performance.
 
 
-          ![Brightly colored, animated face of Indian woman with eyes wide open](/assets/default-2.jpg)
-
-
           Listen to Kareem Khubchandani's conversation with Manisha Dadlani-Kriplaney, host of the podcast "Impact Duty," below.
       - type: podcast
         embed_code: <iframe
