@@ -87,14 +87,20 @@ sections:
         profile: Liangyu Fu
       - type: cta
         image: /assets/imagination-without-borders.jpg
-        button_text: Visit Website
-        text: >
-          Readers across the globe can now access both Imagination without
-          Borders: Feminist Artist Tomiyama Taeko and Social Responsibility,
-          edited by Laura Hein and Rebecca Jennison, and the companion website
-          together. 
+        button_text: Visit Companion Website
+        text: >-
+          Imagination without Borders: Feminist Artist Tomiyama Taeko and Social
+          Responsibility introduces the work of Japanese visual artist Tomiyama
+          Taeko, whose work deals with complicated moral and emotional issues of
+          empire and war responsibility.
+
+
+          Editors Laura Hein and Rebecca Jennison created a companion website offering many more images and demonstrating Tomiyama’s vibrant use of color  The book's introduction is intended as a starting point for that project, but the individual web pages are also keyed to specific chapters of the book. 
+
+
+          The website can be read in English or Japanese. 
         button_link: https://imaginationwithoutborders.northwestern.edu/
-        heading: TBD
+        heading: Bringing Art to Life
       - type: highlight
         text: >-
           **Project Partners**
