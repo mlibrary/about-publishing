@@ -130,7 +130,7 @@ sections:
     subheading: A collection of 100 significant books about Asia freely available on
       Fulcrum
   - heading: "Digital Scholarship "
-    subheading: Engaging a Global Audience
+    subheading: "Engaging a Global Audience "
     content:
       - type: highlight
         text: Bit about Fulcrum/Asian Studies
