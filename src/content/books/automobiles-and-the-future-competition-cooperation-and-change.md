@@ -1,7 +1,7 @@
 ---
 title: "Automobiles and the Future: Competition, Cooperation, and Change"
 link: https://doi.org/10.3998/mpub.22866
-author: Robert E. Cole, Editor
+author: Robert E. Cole
 image:
   file: /assets/default.jpg
   alt: dark blue and dark gold pattern with title written in gold block
