@@ -8,7 +8,7 @@ hero:
   text: ""
   feature_hero_image: /assets/kirill-sharkovski-mber7b5qzwm-unsplash.jpg
 feature_image:
-  file: /assets/screen-shot-2020-08-13-at-11.35.00-am.png
+  file: /assets/confucius_and_his_students2.jpg
   alt: collage of book covers
 sections:
   - content:
@@ -63,6 +63,9 @@ sections:
 
 
           The titles included in the Michigan Open Access Books Collection work to advance campus collaboration and catalyze a reinvigorated Asian Studies frontlist publishing program. The collection, which includes humanities, social science, and politic science titles, thematically explores visual and performing arts, the history of Asian politics and economics, translations, ethnographies, and endangered languages. Read these free and publicly available titles on [Fulcrum](https://www.fulcrum.org/michigan?f%5Bfunder_sim%5D%5B%5D=National+Endowment+for+the+Humanities&locale=en).
+
+
+          ![collage of book covers](/assets/screen-shot-2020-08-13-at-11.35.00-am.png)
       - type: cta
         image: /assets/neh-brochure.png
         heading: Collaborating Across Centers
