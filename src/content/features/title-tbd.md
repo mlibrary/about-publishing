@@ -236,6 +236,8 @@ sections:
 
 
           *[China and the West: Music, Representation, and Reception](https://doi.org/10.3998/mpub.5555199)* edited by Hon-Lun Yang and Michael Saffle
+      - type: spacer
+        spacer: Spacer
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
