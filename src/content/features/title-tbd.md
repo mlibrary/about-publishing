@@ -203,12 +203,15 @@ sections:
         image: /assets/default-1.jpg
       - type: highlight
         text: >-
-          
+          Kareem Khubchandani's *Ishtyle: Accenting Gay Indian Nightlife*
+          follows queer South Asian men across borders into gay neighborhoods,
+          nightclubs, bars, and house parties in Bangalore and Chicago. Bringing
+          the cultural practices they are most familiar with into these spaces,
+          these men accent the aesthetics of nightlife cultures through
+          performance.
+
 
           ![Brightly colored, animated face of Indian woman with eyes wide open](/assets/default-2.jpg)
-
-
-          Kareem Khubchandani's *Ishtyle: Accenting Gay Indian Nightlife* follows queer South Asian men across borders into gay neighborhoods, nightclubs, bars, and house parties in Bangalore and Chicago. Bringing the cultural practices they are most familiar with into these spaces, these men accent the aesthetics of nightlife cultures through performance.
 
 
           Listen to Kareem Khubchandani's conversation with Manisha Dadlani-Kriplaney, host of the podcast "Impact Duty," below.
