@@ -85,7 +85,7 @@ sections:
           break-inside:avoid; display:block; overflow:hidden; border-width:0;
           width:98%; max-width:98%; height:125px; margin:auto'></iframe>
       - type: profile
-        profile: Liangyu Fu
+        profile: Caitlin E. Jewitt
       - type: highlight
         text: >-
           **Critical Titles included in the Collection**
