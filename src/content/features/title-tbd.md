@@ -196,21 +196,19 @@ sections:
             image_alt: ""
             title: ""
             text: >
-              This is an interdisciplinary work that bridges the disciplines of
-              political science, history, and area studies. 
+              This is an interdisciplinary work of contemporary importance that
+              not only examines countries in East and Southeast Asia but also
+              bridges the disciplines of political science, history, and area
+              studies. 
+          - image: /assets/655px-open_access_logo_plos_white.svg.png
+            image_alt: ""
+            title: ""
           - image: ""
             image_alt: ""
             title: ""
-            text: Because the book is open access, it can be easily accessed by scholars and
-              students in any discipline any by anyone with an internet
+            text: Because the book is open access, it can be easily accessed by those in
+              higher education, government, and by anyone with an internet
               connection.
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: This is a work that examines countries in East and Southeast Asia and
-              examines a topic of contemporary importance; that the book is open
-              access allows access for those in both higher education and
-              government to make use of the book.
       - type: cta
         image: /assets/9780472131402.jpg
         image_alt: red photograph of person taking a picture with their mobile phone
