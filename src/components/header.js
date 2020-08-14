@@ -26,8 +26,8 @@ class Header extends Component {
         <div className="universal-header-container">
           <UniversalHeader />
         </div>
-        <div className="items-center flex justify-between mx-auto container pt-8 lg:px-10 px-4 pb-4 relative">
-          <h1 className="lg:w-5/12 mr-6">
+        <div className="container relative flex items-center justify-between px-4 pt-8 pb-4 mx-auto lg:block lg:px-10">
+          <h1 className="mr-6 lg:mb-8 lg:w-5/12">
             <AniLink fade duration={0.25} to="/">
               <img
                 src="/assets/signature.svg"
@@ -36,7 +36,7 @@ class Header extends Component {
             </AniLink>
           </h1>
           <div
-            className={`navigation lg:static lg:w-7/12 fixed left-0 top-0 bottom-0 bg-white z-8 w-320 lg:w-auto lg:translate-x-0 ${
+            className={`navigation lg:static fixed left-0 top-0 bottom-0 bg-white z-8 w-320 lg:w-auto lg:translate-x-0 ${
               this.state.active
                 ? "transition-transform translate-x-0"
                 : "transition-transform -translate-x-320"

@@ -51,7 +51,7 @@ export default function StoryTemplate({ data }) {
         >
           <div className="lg:w-1/5"></div>
 
-          <div className="lg:w-4/5 max-w-2xl mb-40 md:mb-56">
+          <div className="max-w-2xl mb-40 lg:w-4/5 md:mb-56">
             <p
               className={`text-sm uppercase mb-0 tracking-widest mb-4 ${
                 hero ? "text-michigan-maize" : "text-dusk-blue"
@@ -67,20 +67,20 @@ export default function StoryTemplate({ data }) {
               {frontmatter.title}
             </h1>
             {frontmatter.hero.story_hero_image && frontmatter.hero.text && (
-              <p className="font-semibold mt-2 text-white text-lg">
+              <p className="mt-2 text-lg font-semibold text-white">
                 {frontmatter.hero.text}
               </p>
             )}
           </div>
         </div>
       </div>
-      <div className="flex flex-col-reverse lg:flex-row items-start relative z-5 -mt-32">
+      <div className="relative flex flex-col-reverse items-start -mt-32 lg:flex-row z-5">
         <div
           className={`lg:w-1/5 lg:sticky top-9 mb-10 lg:mb-0 mx-auto lg:mx-0 ${
             hero ? "lg:pt-48" : ""
           }`}
         >
-          <p className="font-serif uppercase text-2xl">Share this</p>
+          <p className="font-serif text-2xl uppercase">Share this</p>
           <div className="flex justify-between max-w-8125">
             <a
               className="social-link"
@@ -103,12 +103,12 @@ export default function StoryTemplate({ data }) {
           </div>
         </div>
 
-        <div className="lg:w-4/5 max-w-2xl">
+        <div className="max-w-2xl lg:w-4/5">
           <figure className="mb-20 text-xs text-slate-grey">
             <img
               src={frontmatter.story_image.file}
               alt={frontmatter.story_image.alt}
-              className="mb-4 rounded-lg animated fade-in-up max-h-24 w-full"
+              className="w-full mb-4 rounded-lg animated fade-in-up max-h-24"
             />
             {(frontmatter.story_image.caption ||
               frontmatter.story_image.credit) && (
@@ -126,16 +126,16 @@ export default function StoryTemplate({ data }) {
 
           <div
             dangerouslySetInnerHTML={{ __html: converter.makeHtml(html) }}
-            className="markdown text-lg mb-8 drop-cap"
+            className="mb-8 text-lg markdown drop-cap"
           />
 
-          <div className="text-almost-black border-t border-b lg:flex justify-between py-2 text-sm mb-12">
+          <div className="justify-between py-2 mb-12 text-sm border-t border-b text-almost-black lg:flex">
             {frontmatter.author && <div>By {frontmatter.author}</div>}
             <time dateTime={frontmatter.plainDate}>{frontmatter.date}</time>
           </div>
 
           {frontmatter.highlight_box.text && (
-            <div className="border-l-8 border-michigan-maize pt-4 pl-6 pb-1 mb-20">
+            <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize">
               <MarkdownContent
                 content={frontmatter.highlight_box.text}
                 className="markdown small-margin"
@@ -144,23 +144,23 @@ export default function StoryTemplate({ data }) {
           )}
 
           {books.length > 0 && (
-            <div className="lg:flex justify-between mb-20">
-              <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">
+            <div className="justify-between mb-20 lg:flex">
+              <h2 className="mb-4 mr-12 font-serif text-4xl font-semibold">
                 Books:
               </h2>
-              <div className="sm:flex flex-grow flex-wrap justify-between">
+              <div className="flex-wrap justify-between flex-grow sm:flex">
                 {books.map(book => {
                   return (
                     <a
                       href={book.frontmatter.link}
-                      className="group sm:w-2/5 text-sm mb-8 sm:mb-4 block"
+                      className="block mb-8 text-sm group sm:w-2/5 sm:mb-4"
                     >
                       <img
                         className="mb-4 lg:w-full group-hover:shadow-1"
                         src={book.frontmatter.image.file}
                         alt={book.frontmatter.image.alt}
                       />
-                      <h3 className="font-bold mb-0 group-hover:underline">
+                      <h3 className="mb-0 font-bold group-hover:underline">
                         {book.frontmatter.title}
                       </h3>
                       <p>{book.frontmatter.description}</p>
@@ -174,18 +174,18 @@ export default function StoryTemplate({ data }) {
 
           {profiles.length > 0 && (
             <div className="my-20">
-              <h2 className="text-4xl font-serif font-semibold mb-10">
+              <h2 className="mb-10 font-serif text-4xl font-semibold">
                 Profiles
               </h2>
               {profiles.map(profile => {
                 return (
-                  <div className="lg:flex items-center mb-16 text-lg">
+                  <div className="items-center mb-16 text-lg lg:flex">
                     <img
                       src={profile.frontmatter.faculty_image}
                       alt={profile.frontmatter.title}
-                      className="lg:w-1/3 mb-8 lg:mb-0 mx-auto lg:mx-0 mb-8 lg:mb-0"
+                      className="mx-auto mb-8 lg:w-1/3 lg:mb-0 lg:mx-0"
                     />
-                    <div className="lg:w-2/3 ml-8 pl-8 border-l-4 border-michigan-blue">
+                    <div className="pl-8 ml-8 border-l-4 lg:w-2/3 border-michigan-blue">
                       <h2 className="text-2xl font-semibold">
                         {profile.frontmatter.title}
                       </h2>
@@ -214,7 +214,7 @@ export default function StoryTemplate({ data }) {
                   image={story.frontmatter.story_image.file}
                   alt={story.frontmatter.story_image.alt}
                   subtitle={story.frontmatter.categories.join(" | ")}
-                  className="md:w-1/2 lg:w-1/3 px-3 flex flex-col mb-8 lg:mb-0"
+                  className="flex flex-col px-3 mb-8 md:w-1/2 lg:w-1/3 lg:mb-0"
                 >
                   {story.excerpt}
                 </Card>

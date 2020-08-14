@@ -1,14 +1,27 @@
 backend:
+  
   name: gitlab
-  repo: michigan-publishing/publishing
   auth_type: implicit
-  app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3 
   api_root: https://gitlab.umich.edu/api/v4
   base_url: https://gitlab.umich.edu
   auth_endpoint: oauth/authorize
+  
+  # Test settings. @todo comment out when deploying to prod
+  # branch: feature-page
+  # repo: kellerch/publishing-backup
+  # app_id: 40d8aa03d25b1c29bb69d7920ea01741830a426046fed6ff304344210737df6b
+  
+  # Production settings. @todo switch back to this when deploying to prod
+  branch: master
+  repo: michigan-publishing/publishing
+  app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3
+  
+  # Local development settings
+#   name: git-gateway
+# local_backend: true
 
 media_folder: static/assets
-public_folder: assets
+public_folder: /assets
 collections:
   - name: settings
     label: Settings
@@ -31,7 +44,7 @@ collections:
             label: Social links
             label_singular: Social link
             widget: list
-            fields: 
+            fields:
               - { name: social_name, label: Social name }
               - { name: social_link, label: Social link }
   - name: landing_pages
@@ -132,6 +145,212 @@ collections:
           - { name: alt, label: Alt text }
       - { name: description, label: Description, widget: text }
       - { name: type, label: Type, widget: hidden, default: book }
+
+  - name: features
+    label: Features
+    label_singular: Feature
+    create: true
+    folder: src/content/features
+    editor:
+      preview: false
+    fields:
+      - { name: published, label: Published, widget: boolean }
+      - { name: type, label: Type, widget: hidden, default: feature }
+      - { name: title, label: Title }
+      - { name: subtitle, label: Subtitle }
+      - { name: path, label: Path }
+      - name: hero
+        label: Hero section
+        widget: object
+        required: false
+        fields:
+          - { name: text, label: Text, widget: text, required: false, default: "" }
+          - { name: feature_hero_image, label: Image, widget: image, required: false, default: "" }
+      - name: feature_image
+        label: Image
+        widget: object
+        fields:
+          - { name: file, label: File, widget: image }
+          - { name: alt, label: Alt text }
+      - { name: body, label: Body, widget: markdown }
+
+      - name: sections
+        label: Sections
+        widget: list
+        fields:
+          - label: Heading
+            name: heading
+          - label: ID
+            name: id
+            required: false
+            hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
+          - label: Subheading
+            name: subheading
+          - label: Content
+            name: content
+            widget: list
+            types:
+              - label: Quote slider
+                name: quote_slider
+                widget: object
+                fields:
+                  - {
+                    name: book,
+                    label: Book,
+                    widget: relation,
+                    collection: books,
+                    searchFields: [title],
+                    valueField: title,
+                    default: [""]
+                  }
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
+                  - label: Quote
+                    name: quote
+                    widget: object
+                    fields:
+                      - label: Quote
+                        name: quote
+                        widget: text
+                      - label: Name
+                        name: name
+                      - label: Title
+                        name: title
+                  - label: Slides
+                    name: slides
+                    widget: list
+                    fields:
+                      - label: Image
+                        name: image
+                        widget: image
+                        required: false
+                        default: ""
+                      - label: Image Alt
+                        name: image_alt
+                        required: false
+                        default: ""
+                      - label: Title
+                        name: title
+                        required: false
+                        default: ""
+                      - label: Text
+                        name: text
+                        widget: text
+                        required: false
+
+              - label: Call to Action
+                name: cta
+                widget: object
+                fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
+                  - label: Image
+                    name: image
+                    widget: image
+                    required: false
+                  - label: Image Alt
+                    name: image_alt
+                    required: false
+                  - label: Heading
+                    name: heading
+                  - label: Text
+                    name: text
+                    widget: text
+                  - label: Button text
+                    name: button_text
+                  - label: Button URL
+                    name: button_link
+
+              - label: Spacer
+                name: spacer
+                widget: object
+                fields:
+                  - label: Spacer
+                    name: spacer
+                    default: Spacer
+                    hint: Adds border seperator to content. Text entered in this field is for admin purposes only and will not display on the site.
+
+              - label: Podcast
+                name: podcast
+                widget: object
+                fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
+                  - label: Embed code
+                    name: embed_code
+                    widget: text
+
+              - label: Profile
+                name: profile
+                widget: object
+                fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
+                  - label: Profile
+                    name: profile
+                    widget: relation
+                    collection: profiles
+                    searchFields: [title]
+                    valueField: title
+
+              - label: YouTube
+                name: youtube
+                widget: object
+                fields:
+                  - label: Video ID
+                    name: id
+
+              - label: Highlight box
+                name: highlight
+                widget: object
+                fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
+                  - label: Text
+                    name: text
+                    widget: markdown
+
+              - label: Image
+                name: image
+                widget: object
+                fields:
+                  - label: ID
+                    name: id
+                    required: false
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Image Alt
+                    name: image_alt
+                  - label: Caption
+                    name: caption
+                    required: false
+                  - label: Credit
+                    name: credit
+                    required: false
+
+      - {
+        name: related_stories,
+        label: Related Stores,
+        widget: relation,
+        collection: stories,
+        searchFields: [title],
+        valueField: title,
+        multiple: true,
+        required: false,
+        default: [""],
+      }
 
   - name: stories
     label: Stories

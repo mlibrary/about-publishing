@@ -7,7 +7,7 @@ import { Icon } from "@umich-lib/core"
 
 const Navigation = () => (
   <nav>
-    <ul className="flex flex-col lg:flex-row justify-between uppercase list-none m-0 pt-8 lg:pt-0 px-8 lg:px-0">
+    <ul className="flex flex-col justify-between px-8 pt-8 m-0 uppercase list-none lg:flex-row lg:pt-0 lg:px-0">
       <li className="pb-8 lg:pb-0">
         <AniLink
           fade
@@ -15,12 +15,13 @@ const Navigation = () => (
           to="/"
           activeClassName="active"
           partiallyActive={false}
-          className="nav-item text-dark font-bold relative text-xl lg:text-sm xl:text-base block"
+          className="relative block text-xl font-bold nav-item text-dark lg:text-sm xl:text-base"
         >
           Home
         </AniLink>
       </li>
       <NavItem to="/our-mission">Our Mission</NavItem>
+      <NavItem to="/features">Features</NavItem>
       <NavItem to="/stories-of-impact">Stories of Impact</NavItem>
       <NavItem to="/our-reach">Our Reach</NavItem>
       <NavItem to="/search">

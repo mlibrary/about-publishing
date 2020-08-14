@@ -21,6 +21,10 @@ main {
   min-height: 25vh;
 }
 
+hr {
+  @apply text-cloudy-blue;
+}
+
 /* Content */
 .markdown {
   font-size: 1.125rem;
@@ -42,6 +46,12 @@ main {
 
 .markdown h2 {
   font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.markdown h3 {
+  font-size: 1.25rem;
   font-weight: 700;
   margin-bottom: 1rem;
 }
@@ -133,7 +143,7 @@ main {
   position: relative;
 }
 
-.markdown blockquote.quote > p::before {
+blockquote.quote > p::before {
   content: "“";
   font-family: "Muli";
   font-size: 75px;
@@ -146,7 +156,7 @@ main {
   color: #ffcb05;
 }
 
-.markdown blockquote.quote > p::after {
+blockquote.quote > p::after {
   content: '"';
 }
 
@@ -230,7 +240,7 @@ main {
 /* Navigation */
 .nav-item::after {
   background-color: #00274c;
-  bottom: -25px;
+  bottom: -20px;
   content: "";
   height: 0;
   left: 0;
@@ -272,11 +282,36 @@ main {
   }
 }
 
+.slide-blur {
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0) -36%,
+    #ffffff 100%
+  );
+}
+
 /* Shadows */
 @variants group-hover, hover, focus {
   .shadow-1 {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
   }
+}
+
+/* Media */
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* Clip */
@@ -400,7 +435,19 @@ main {
   margin: 100px auto;
 }
 
+.-rotate-90 {
+  transform: rotate(-90deg);
+}
+
+.rotate-90 {
+  transform: rotate(90deg);
+}
+
 /* Animation */
+.transition-color {
+  transition: background-color 0.15s ease-in, color 0.15s ease-in;
+}
+
 .transition-transform {
   transition: transform 0.15s ease-in;
 }

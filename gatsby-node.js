@@ -41,12 +41,31 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
   `)
 
+  const featureQuery = await graphql(`
+    {
+      allMarkdownRemark(filter: { frontmatter: { type: { eq: "feature" } } }) {
+        edges {
+          node {
+            frontmatter {
+              path
+            }
+          }
+        }
+      }
+    }
+  `)
+
   if (storiesQuery.errors) {
     reporter.panicOnBuild(`Error while running stories GraphQL query.`)
     return
   }
 
   if (pageQuery.errors) {
+    reporter.panicOnBuild(`Error while running pages GraphQL query.`)
+    return
+  }
+
+  if (featureQuery.errors) {
     reporter.panicOnBuild(`Error while running pages GraphQL query.`)
     return
   }
@@ -68,6 +87,24 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       },
     })
   })
+  
+  // Create feature list pages.
+  const features = featureQuery.data.allMarkdownRemark.edges
+  const featuresPerPage = 9
+  const featurePages = Math.ceil(features.length / featuresPerPage)
+
+  Array.from({ length: featurePages }).forEach((_, i) => {
+    createPage({
+      path: i === 0 ? `/features` : `/features/${i + 1}`,
+      component: path.resolve("./src/templates/featureList.js"),
+      context: {
+        limit: featuresPerPage,
+        skip: i * featuresPerPage,
+        featurePages,
+        currentPage: i + 1,
+      },
+    })
+  })
 
   // Story pages.
   storiesQuery.data.allMarkdownRemark.edges.forEach(({ node }) => {
@@ -83,6 +120,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.frontmatter.path,
       component: path.resolve(`src/templates/pageTemplate.js`),
+      context: {},
+    })
+  })
+
+  // Feature pages.
+  featureQuery.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.path,
+      component: path.resolve(`src/templates/featureTemplate.js`),
       context: {},
     })
   })

@@ -3,11 +3,9 @@ title: Our Mission
 path: /our-mission
 type: page
 ---
-**Michigan Publishing combines the strengths of a highly-regarded university press with the innovative, service-oriented approach of a university library renowned as a leader in digital initiatives and technologies.**
+**Michigan Publishing combines the strengths of a highly-regarded university press with the innovative, service-oriented approach of a university library renowned as a leader in digital initiatives and technologies**
 
-<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">Read Our Impact Report
-
-[Impact Report](assets/mp-impactreport.pdf)</div>
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/mp-impactreport.pdf"><img class="mb-4" src="/assets/mp-impactreport.jpg"><p>Read Our Impact Report</p></a></div>
 
 For many decades, publishing at the University of Michigan grew out of diverse and dispersed communities. As early as 1930, the Press was founded as a division of the University Library, and nearly 70 years later in 2000, the Library created the Scholarly Publishing Office (SPO) to serve the needs of authors and readers. Other activities related to publishing followed, including Deep Blue in 2006. In 2009, oversight of the University of Michigan Press moved back to the Library. Not long after, all publishing activities were unified under a single brand name, MPublishing. Michigan Publishing is now the hub of publishing activities undertaken by the University of Michigan Library. 
 
@@ -45,7 +43,3 @@ We're here to support the publishing aspirations of faculty, researchers, studen
 **Want to support our publishing mission?**
 
  [Support Our Work](https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press)
-
-## 
-
-##

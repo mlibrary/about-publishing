@@ -1,13 +1,13 @@
 import React from "react"
 import PropTypes from "prop-types"
-import showdown from "showdown"
+import MarkdownIt from "markdown-it";
 
-const converter = new showdown.Converter()
+const md = new MarkdownIt();
 
 const MarkdownContent = ({ content, className }) => (
   <span
     className={className}
-    dangerouslySetInnerHTML={{ __html: converter.makeHtml(content) }}
+    dangerouslySetInnerHTML={{ __html: md.render(content) }}
   />
 )
 
