@@ -84,10 +84,14 @@ sections:
           style='page-break-inside:avoid; -webkit-column-break-inside:avoid;
           break-inside:avoid; display:block; overflow:hidden; border-width:0;
           width:98%; max-width:98%; height:125px; margin:auto'></iframe>
+      - type: profile
+        profile: Liangyu Fu
       - type: highlight
         text: >-
-          **Critical Titles from the Kenneth G. Lieberthal and Richard H. Rogel
-          Center for Chinese Studies**
+          **Critical Titles included in the Collection**
+
+
+          **From the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies:**
 
 
           [ *Double Jeopardy*](https://doi.org/10.3998/mpub.19158)by Ching-Hsi Perng
@@ -99,10 +103,10 @@ sections:
           *[Nineteenth-Century China](https://doi.org/10.3998/mpub.19047)* edited by Dilip Basu and Rhoads Murphey
 
 
-          **Critical Titles from the Center for Japanese Studies**
+          **From the Center for Japanese Studies:**
 
 
-          [*Tales of Times Now Past* ](https://doi.org/10.3998/mpub.18748)by Marian Ury
+          *[Tales of Times Now Past](https://doi.org/10.3998/mpub.18748)* by Marian Ury
 
 
           *[Wild Goose](https://doi.org/10.3998/mpub.18520)* by Mori Ogai and translated by Burton Watson 
@@ -111,7 +115,7 @@ sections:
           [*Kager*ō *Diary*](https://doi.org/10.3998/mpub.18535)translated by Sonja Arntzen
 
 
-          **Critical Titles from the Centers for South and Southeast Asian Studies**
+          **From the Centers for South and Southeast Asian Studies:**
 
 
           *[Karawitan](https://www.fulcrum.org/michigan?utf8=%E2%9C%93&press=michigan&q=*Karawitan*)* edited by Judith Becker with assistance from Alan H. Feinstein 
@@ -121,8 +125,6 @@ sections:
 
 
           *[The Journey: Stories by K. C. Das](https://doi.org/10.3998/mpub.19321)* translated by Phyllis Granoff
-      - type: profile
-        profile: Liangyu Fu
       - type: cta
         image: /assets/imagination-without-borders.jpg
         button_text: Visit Companion Website
