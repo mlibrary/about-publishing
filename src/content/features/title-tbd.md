@@ -38,10 +38,10 @@ sections:
       - type: quote_slider
         book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
-          quote: The changes to the automotive industry outlined in this volume underlie
+          quote: "The changes to the automotive industry outlined in this volume underlie
             many of the dynamics that drive the global auto industry today as
             new entrants enter the market and new technologies challenge all
-            auto firms.
+            auto firms. "
           name: Robert E. Cole
           title: Professor of Sociology at the University of Michigan
         slides:
