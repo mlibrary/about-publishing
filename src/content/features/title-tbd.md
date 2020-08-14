@@ -31,6 +31,8 @@ sections:
           the Center for South Asian Studies, and the Center for Southeast Asian
           Studies. Read more about the Centers below. "
         button_link: https://umich.box.com/s/v39rkhxbo5qr6l700yn0eusk5qbhzfwh
+      - type: profile
+        profile: Lisa Trivedi
       - type: quote_slider
         book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
@@ -83,22 +85,16 @@ sections:
           width:98%; max-width:98%; height:125px; margin:auto'></iframe>
       - type: profile
         profile: Liangyu Fu
-      - type: quote_slider
-        book: "Imagination without Borders: Feminist Artist Tomiyama Taeko and Social
-          Responsibility"
-        quote:
-          quote: This project excitingly helps achieve a long-standing desire of Asia
-            specialists—making our scholarship just as available in Asia as it
-            is in Michigan. Readers across the globe can access both Imagination
-            Without Borders and the companion website together with an ease that
-            would not have been possible without this project.
-          name: Laura Hein
-          title: Professor of History at Northwestern University
-        slides: []
-      - type: highlight
-        text: Access the [companion
-          website](https://imaginationwithoutborders.northwestern.edu/) for
-          *Imagination Without Borders*
+      - type: cta
+        image: /assets/imagination-without-borders.jpg
+        button_text: Visit Website
+        text: >
+          Readers across the globe can now access both Imagination without
+          Borders: Feminist Artist Tomiyama Taeko and Social Responsibility,
+          edited by Laura Hein and Rebecca Jennison, and the companion website
+          together. 
+        button_link: https://imaginationwithoutborders.northwestern.edu/
+        heading: TBD
       - type: highlight
         text: >-
           **Project Partners**
@@ -249,3 +245,7 @@ related_stories:
 The Asian Studies program at the University of Michigan Press showcases rich, global scholarship, providing deep cultural, historical, and political knowledge of these regions in their international context. Focused on providing a place of intersections, with books examining the historical and the contemporary, the Asian Studies lists expands—and often challenges—our understanding in regional history and politics, cultural and literary studies, media and performance. 
 
 In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines.
+
+
+
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets-nehopenbookbrochure.pdf"><img class="mb-4" src="/assets/neh-brochure.png"><p>The Michigan Asian Studies Open Access Book Collection brought together four centers on U-M's campus: the Center for Japanese Studies, the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies, the Center for South Asian Studies, and the Center for Southeast Asian Studies. Read more about the Centers below. </p></a></div>
