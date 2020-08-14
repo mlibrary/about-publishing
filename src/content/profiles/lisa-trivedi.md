@@ -11,6 +11,7 @@ bio: >-
   promoting equity in access to knowledge and supporting scholarly cooperation
   globally."
 
-  -Lisa Trivedi, Professor of South Asian History at Hamilton College 
+
+  —Lisa Trivedi, Professor of South Asian History at Hamilton College 
 type: profile
 ---
