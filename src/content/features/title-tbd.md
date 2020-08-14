@@ -121,8 +121,8 @@ sections:
     heading: Michigan Asian Studies Open Access Book Collection
     subheading: A collection of 100 significant books about Asia freely available on
       Fulcrum
-  - heading: "Publishing Global Perspectives with Digital Scholarship "
-    subheading: Engaging Readers Across the World
+  - heading: "Digital Scholarship "
+    subheading: Engaging a Global Audience
     content:
       - type: quote_slider
         book: People's Wars in China, Malaya, and Vietnam
@@ -152,9 +152,15 @@ sections:
           as consumers. The essays in this book explore the intersections of
           local, national, regional, and global forces that shape contemporary
           digital culture(s) in regions like South Asia.
-  - content:
       - type: quote_slider
         book: "Corporeal Politics: Dancing East Asia"
+        quote:
+          quote: In the performing arts, we always want to readers to have access to
+            visual material like videos. A lot of videos are only searchable if
+            you type in Chinese characters, so being able to link directly to
+            those videos on Fulcrum is really essential.
+          name: Emily Wilcox
+          title: "Associate professor of modern Chinese studies "
         slides:
           - image: ""
             image_alt: ""
@@ -177,14 +183,8 @@ sections:
             title: ""
             text: Corporeal Politics is an enhanced title with images and video footage of
               performances, available on Fulcrum.
-        quote:
-          name: Emily Wilcox
-          title: "Associate professor of modern Chinese studies "
-          quote: In the performing arts, we always want to readers to have access to
-            visual material like videos. A lot of videos are only searchable if
-            you type in Chinese characters, so being able to link directly to
-            those videos on Fulcrum is really essential.
       - type: cta
+        heading: Award-Winning Scholarship
         text: "Elizabeth W. Son, associate professor of theatre at Northwestern
           University and author of Embodied Reckonings: “Comfort Women,”
           Performance, and Transpacific Redress, was honored as the 2020 Winner
@@ -192,52 +192,26 @@ sections:
           Studies (Media, Performance, and Visual Studies) book award."
         button_text: Watch Acceptance Speech
         button_link: https://www.youtube.com/watch?v=m6HrZgcw9dk&feature=emb_err_woyt
-        heading: Award-Winning Scholarship
-        image: /assets/default.jpg
-      - type: quote_slider
-        book: "Ishtyle: Accenting Gay Indian Nightlife"
-        quote:
-          quote: ADD QUOTE
-          name: to come
-          title: to come
-        slides:
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: Ishtyle follows queer South Asian men across borders into gay
-              neighborhoods, nightclubs, bars, and house parties in Bangalore
-              and Chicago.
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: Ishtyle demonstrates that the unlikely site of nightlife can be a
-              productive venue for the study of global politics and its
-              institutional hierarchies.
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: Bringing the cultural practices they are most familiar with into these
-              spaces, these men accent the aesthetics of nightlife cultures
-              through performance.
+        image: /assets/default-1.jpg
       - type: highlight
         text: >-
-          Listen to Kareem Khubchandani's curated Spotify music playlist,
-          discussed in the Acknowledgments of *Ishstyle.* 
+          Kareem Khubchandani's *Ishtyle: Accenting Gay Indian Nightlife*
+          follows queer South Asian men across borders into gay neighborhoods,
+          nightclubs, bars, and house parties in Bangalore and Chicago. Bringing
+          the cultural practices they are most familiar with into these spaces,
+          these men accent the aesthetics of nightlife cultures through
+          performance.
 
 
-          Follow Kareem Khubchandani's conversation with Manisha Dadlani-Kriplaney, host of the podcast "Impact Duty," released August 8, 2020.
-      - type: podcast
-        embed_code: <iframe
-          src="https://open.spotify.com/embed/playlist/5KuWlqTs3SOT3GCzaRQRJe"
-          width="300" height="380" frameborder="0" allowtransparency="true"
-          allow="encrypted-media"></iframe>
+          ![Brightly colored, animated face of Indian woman with eyes wide open](/assets/9780472074211.jpg)
+
+
+          Listen to Kareem Khubchandani's conversation with Manisha Dadlani-Kriplaney, host of the podcast "Impact Duty," below.
       - type: podcast
         embed_code: <iframe
           src="https://open.spotify.com/embed-podcast/episode/083nFMQK6ttHiMXlxHwBnr"
           width="100%" height="232" frameborder="0" allowtransparency="true"
           allow="encrypted-media"></iframe>
-    heading: Visual and Performing Arts
-    subheading: TBD
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
