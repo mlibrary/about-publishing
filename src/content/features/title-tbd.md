@@ -12,6 +12,25 @@ feature_image:
   alt: collage of book covers
 sections:
   - content:
+      - type: highlight
+        text: >-
+          **Read the Collection on Fulcrum**
+
+
+          The titles included in the Michigan Open Access Books Collection work to advance campus collaboration and catalyze a reinvigorated Asian Studies frontlist publishing program. The collection, which includes humanities, social science, and politic science titles, thematically explores visual and performing arts, the history of Asian politics and economics, translations, ethnographies, and endangered languages. Read these free and publicly available titles on [Fulcrum](https://www.fulcrum.org/michigan?f%5Bfunder_sim%5D%5B%5D=National+Endowment+for+the+Humanities&locale=en).
+
+
+          ![collage of book covers](/assets/screen-shot-2020-08-13-at-11.35.00-am.png)
+      - type: cta
+        image: /assets/neh-brochure.png
+        heading: Collaborating Across Centers
+        button_text: Learn More
+        text: "The Michigan Asian Studies Open Access Book Collection brought together
+          four centers on U-M's campus: the Center for Japanese Studies, the
+          Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies,
+          the Center for South Asian Studies, and the Center for Southeast Asian
+          Studies. Read more about the Centers below. "
+        button_link: https://umich.box.com/s/v39rkhxbo5qr6l700yn0eusk5qbhzfwh
       - type: quote_slider
         book: "Automobiles and the Future: Competition, Cooperation, and Change"
         quote:
@@ -57,25 +76,6 @@ sections:
           - image: ""
             image_alt: ""
             title: ""
-      - type: highlight
-        text: >-
-          **Read the Collection on Fulcrum**
-
-
-          The titles included in the Michigan Open Access Books Collection work to advance campus collaboration and catalyze a reinvigorated Asian Studies frontlist publishing program. The collection, which includes humanities, social science, and politic science titles, thematically explores visual and performing arts, the history of Asian politics and economics, translations, ethnographies, and endangered languages. Read these free and publicly available titles on [Fulcrum](https://www.fulcrum.org/michigan?f%5Bfunder_sim%5D%5B%5D=National+Endowment+for+the+Humanities&locale=en).
-
-
-          ![collage of book covers](/assets/screen-shot-2020-08-13-at-11.35.00-am.png)
-      - type: cta
-        image: /assets/neh-brochure.png
-        heading: Collaborating Across Centers
-        button_text: Learn More
-        text: "The Michigan Asian Studies Open Access Book Collection brought together
-          four centers on U-M's campus: the Center for Japanese Studies, the
-          Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies,
-          the Center for South Asian Studies, and the Center for Southeast Asian
-          Studies. Read more about the Centers below. "
-        button_link: https://umich.box.com/s/v39rkhxbo5qr6l700yn0eusk5qbhzfwh
       - type: highlight
         text: >-
           **Project Partners**
@@ -223,6 +223,6 @@ related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
 ---
-The Asian Studies program at the University of Michigan Press showcases rich, global scholarship, providing deep cultural, historical, and political knowledge of these regions in their international context. Focused on providing a place of intersections, with books examining the historical and the contemporary, the Asian Studies lists expands—and often challenges—our understanding in regional history and politics, cultural and literary studies, media and performance. The Asian Studies list focuses on East, South, and Southeast Asia, along with its partnerships with the prestigious Centers on our campus. Asian Studies is the fastest growing area at the University of Michigan Press, with a dedicated editor appointed in 2016. 
+The Asian Studies program at the University of Michigan Press showcases rich, global scholarship, providing deep cultural, historical, and political knowledge of these regions in their international context. Focused on providing a place of intersections, with books examining the historical and the contemporary, the Asian Studies lists expands—and often challenges—our understanding in regional history and politics, cultural and literary studies, media and performance. 
 
-In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines. The collection includes editions that use digital enhancements to enrich the reading and teaching experience.
+In August 2020, UMP launched the Michigan Asian Studies Open Access Books Collection, a collection of 100 significant books about Asia made freely and publicly available online. Jointly sponsored by the National Endowment for the Humanities and the Andrew W. Mellon Foundation, the Humanities Open Book Program makes outstanding out-of-print humanities books available to a wide audience. The titles included in the collection aim to advance public understanding of the diversity of society, culture, and history in East, South, and Southeast Asia at a time when the region is rarely out of the headlines.
