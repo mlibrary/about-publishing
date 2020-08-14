@@ -143,7 +143,7 @@ sections:
           **Project Partners**
 
 
-          The Michigan Asian Studies Open Access Books Collection grew from a partnership between faculty from four Asian Studies Centers at the University of Michigan, librarians from U-M Asia Library and International Studies, and University of Michigan Press staff.
+          The Michigan Asian Studies Open Access Books Collection grew from a partnership between scholars of Asian studies from Michigan and other schools, four Asian Studies Centers at the University of Michigan, the U-M Asia Library, and University of Michigan Press.
 
 
           [Asia Library at the University of Michigan ](https://www.lib.umich.edu/locations-and-hours/asia-library/collections-and-history)
