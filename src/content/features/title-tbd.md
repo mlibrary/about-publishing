@@ -80,6 +80,8 @@ sections:
           style='page-break-inside:avoid; -webkit-column-break-inside:avoid;
           break-inside:avoid; display:block; overflow:hidden; border-width:0;
           width:98%; max-width:98%; height:125px; margin:auto'></iframe>
+      - type: profile
+        profile: Liangyu Fu
       - type: highlight
         text: >-
           **Project Partners**
