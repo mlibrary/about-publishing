@@ -169,16 +169,17 @@ sections:
     content:
       - type: highlight
         text: >-
-          The Fulcrum platform hosts 
+          The Fulcrum platform hosts Asian Studies content from the University
+          of Michigan Press. 
 
 
-          Open access content facilitates use across disciplines and allows users from across the globe to engage with University of Michigan Press scholarship.
-
-
-          Accessibility features with both content and platform facilitate engagement by foreign readers and readers with disabilities, as well as responsive design for mobile devices.
+          Accessibility features with both the content and the platform facilitate engagement with foreign readers and readers with disabilities, and also enable responsiveness for mobile devices.
 
 
           From within the e-reader on the platform, users can easily disseminate open access work via social media and scholarly communities.
+
+
+          Open access content facilitates use across disciplines and allows users from across the globe to engage with University of Michigan Press scholarship.
       - type: youtube
         id: F1LiFINq27k
       - type: quote_slider
