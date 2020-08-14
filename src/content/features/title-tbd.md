@@ -124,6 +124,10 @@ sections:
   - heading: "Digital Scholarship "
     subheading: Engaging a Global Audience
     content:
+      - type: highlight
+        text: Bit about Fulcrum/Asian Studies
+      - type: youtube
+        id: F1LiFINq27k
       - type: quote_slider
         book: People's Wars in China, Malaya, and Vietnam
         quote:
@@ -137,8 +141,6 @@ sections:
           - image: /assets/screen-shot-2020-08-13-at-4.56.25-pm.png
             image_alt: ""
             title: ""
-      - type: youtube
-        id: F1LiFINq27k
       - type: cta
         image: /assets/9780472131402.jpg
         image_alt: red photograph of person taking a picture with their mobile phone
