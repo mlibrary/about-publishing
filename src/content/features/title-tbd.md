@@ -112,13 +112,13 @@ sections:
           *[Wild Goose](https://doi.org/10.3998/mpub.18520)* by Mori Ogai and translated by Burton Watson 
 
 
-          [*Kager*ō *Diary*](https://doi.org/10.3998/mpub.18535) *t*ranslated by Sonja Arntzen
+          [*Kager*ō *Diary*](https://doi.org/10.3998/mpub.18535) translated by Sonja Arntzen
 
 
           **From the Centers for South and Southeast Asian Studies:**
 
 
-          *[Karawitan](https://www.fulcrum.org/michigan?utf8=%E2%9C%93&press=michigan&q=*Karawitan*)* edited by Judith Becker with assistance from Alan H. Feinstein 
+          *\[Karawitan](https://www.fulcrum.org/michigan?utf8=%E2%9C%93&press=michigan&q=*Karawitan*)* edited by Judith Becker with assistance from Alan H. Feinstein 
 
 
           *[The Train That Had Wings: Selected Stories of M. Mukundan](https://doi.org/10.3998/mpub.165021)* translated by Donald R. Davis Jr. 
