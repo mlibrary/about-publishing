@@ -105,6 +105,8 @@ sections:
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
           embedded audio player"></iframe>
+      - type: profile
+        profile: Carolyn Barnes
       - type: quote_slider
         book: State of Empowerment
         quote:
@@ -166,6 +168,8 @@ sections:
               these theories, and that war between the two nations can be
               avoided by observing lessons learned from past accommodation of
               rising states.
+      - type: profile
+        profile: Steve Chan
       - type: highlight
         text: Joshua J. Dyck, one of the authors of *Initiatives without Engagement*,
           discusses reasons to be optimistic about young voter engagement in
@@ -375,4 +379,4 @@ related_stories:
 ---
 Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, or to anyone who wishes to better understand the context for the United States' democratic institutions and conflicts, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/UMP_Reading_Guide.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
+<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump11823democracydebatebooklet_websingle.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
