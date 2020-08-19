@@ -42,7 +42,8 @@ class Trending extends Component {
       // Add book cover
       if (book.attributes["output-type"] === `book`) {
         bookData.image = await this.getBookCover(
-          book.attributes.identifiers.isbns[0]
+          book.attributes.identifiers.isbns[0],
+          book.attributes.title,
         )
       }
 
@@ -70,21 +71,30 @@ class Trending extends Component {
   }
 
   // Calls google book API to get cover images.
-  getBookCover = async isbn => {
+  getBookCover = async (isbn, title) => {
     const response = await axios.get(
       `https://www.googleapis.com/books/v1/volumes?q=${isbn}`
     )
+    
+    // Grab title from response.
+    const responseTitle = response.data.items[0].volumeInfo.title
+    
+    // Set default thumbnail value.
+    let thumbnail = `/assets/article.png`
+    
+    // Check to see if response title matches expected title.
+    if (responseTitle === title) {
+      thumbnail = response.data.items[0].volumeInfo.imageLinks.thumbnail
+      
+      // Replace the zoom so we can get a larger image.
+      thumbnail = thumbnail.replace(`zoom=1`, `zoom=2`)
 
-    let thumbnail = response.data.items[0].volumeInfo.imageLinks.thumbnail
+      // Ensure we are using the https URL.
+      thumbnail = thumbnail.replace(`http`, `https`)
 
-    // Replace the zoom so we can get a larger image.
-    thumbnail = thumbnail.replace(`zoom=1`, `zoom=2`)
-
-    // Ensure we are using the https URL.
-    thumbnail = thumbnail.replace(`http`, `https`)
-
-    // Remove book curl.
-    thumbnail = thumbnail.replace(`&edge=curl`, ``)
+      // Remove book curl.
+      thumbnail = thumbnail.replace(`&edge=curl`, ``)
+    }
 
     return thumbnail
   }
