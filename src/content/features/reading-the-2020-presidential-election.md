@@ -26,6 +26,7 @@ sections:
           public health. Click the button to the right to ensure that you'll be
           the first to know about the details of these discussion-generating
           events.
+    id: events
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
@@ -95,18 +96,21 @@ sections:
             text: Through their work in office, women more faithfully represent all of their
               constituents' interests and needs than men, positively influencing
               their electability
+        id: lazarus-steigerwalt
       - type: highlight
         text: "This illuminating podcast episode from NPR's *Hidden Brain* uses research
           from Brian F. Schaffner, author of *Campaign Finance and Political
           Polarization*, explores the paradox of our passion for politics: we're
           more informed than ever, but many of us are also less politically
           active."
+        id: schaffner
       - type: podcast
         embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
           embedded audio player"></iframe>
       - type: profile
         profile: Carolyn Barnes
+        id: barnes
       - type: quote_slider
         book: State of Empowerment
         quote:
@@ -139,6 +143,7 @@ sections:
               action.
       - type: profile
         profile: Caitlin E. Jewitt
+        id: jewitt
       - type: quote_slider
         book: Thucydides's Trap?
         quote:
@@ -168,12 +173,14 @@ sections:
               these theories, and that war between the two nations can be
               avoided by observing lessons learned from past accommodation of
               rising states.
+        id: chan
       - type: profile
         profile: Steve Chan
       - type: highlight
         text: Joshua J. Dyck, one of the authors of *Initiatives without Engagement*,
           discusses reasons to be optimistic about young voter engagement in
           this podcast episode from UC Berkeley.
+        id: dyck
       - type: podcast
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
@@ -182,6 +189,7 @@ sections:
           msallowfullscreen></iframe>
       - type: spacer
         spacer: Spacer
+    id: democracy
   - heading: Debate
     subheading: People, Culture, Identity, History
     content:
@@ -252,6 +260,7 @@ sections:
               politics—“the system is rigged.” For example, they have the
               highest belief in climate change but do not support
               policy-centered climate change initiatives
+        id: rouse-ross
       - type: highlight
         text: >-
           ### More resources
@@ -291,11 +300,13 @@ sections:
               these "mutually-reinforcing hyper-partisan sites" for all groups,
               and what is discussed on Twitter can manifest in the real
               world—for good or bad.
+        id: de-kosnik-feldman
       - type: highlight
         text: Watch the University of Michigan Press author talk with Melissa K. Merry,
           author of *Warped Narratives*, that illuminates how both gun control
           activists and Second Amendment advocates focus on atypical scenarios
           in their attempts to shape law and culture.
+        id: merry
       - type: youtube
         id: NCTpaAzOa2A
       - type: quote_slider
@@ -327,6 +338,7 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
+        id: lang
       - type: highlight
         text: >-
           “When a reality television personality becomes the President of the
@@ -336,6 +348,7 @@ sections:
           fictions” in both.”\
 
           —John Sides, George Washington University
+        id: dyson
       - type: podcast
         embed_code: >-
           <iframe frameBorder="0" height="200" scrolling="no"
@@ -371,6 +384,7 @@ sections:
             text: Understanding the diversity, loyalty, and concerns of the Muslim American
               population can better serve those seeking to strengthen the U.S.
               national security
+        id: gillum
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
