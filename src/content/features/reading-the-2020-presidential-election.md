@@ -2,7 +2,7 @@
 published: true
 type: feature
 title: Dialogues in Democracy
-subtitle: Democracy and Debate | Decision2020
+subtitle: Democracy and Debate | Decision 2020
 path: /features/reading-the-2020-presidential-election
 hero:
   text: ""
@@ -11,22 +11,22 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
-  - heading: Democracy & Debate Conversational Event Series
-    subheading: September–October 2020
+  - heading: Democracy & Debate "In Conversations" Limited Podcast Series
+    subheading: October 2020
     content:
       - type: cta
         heading: Listen to our political science authors debate key topics central to
           American democracy
         button_link: https://mailchi.mp/umich/democracy-and-debate
-        button_text: Tell Me More
-        text: Our virtual event series will bring several illuminating conversations to
-          the University of Michigan campus. Each live talk will feature a panel
+        button_text: Notify Me
+        text: Our limited podcast series will bring several illuminating conversations
+          to the University of Michigan campus. Each episode will feature a pair
           of authors bringing different perspectives to the table on issues such
           as identity politics, education, leadership, national security, and
-          public health. Click the button to the right to ensure that you'll be
-          the first to know about the details of these discussion-generating
-          events.
-    id: events
+          public health. To get notifications about these episodes when they
+          become available, click the button on the right to sign up for an
+          email notification.
+    id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
     content:
