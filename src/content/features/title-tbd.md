@@ -233,6 +233,15 @@ sections:
           *[China and the West: Music, Representation, and Reception](https://doi.org/10.3998/mpub.5555199)* edited by Hon-Lun Yang and Michael Saffle
       - type: spacer
         spacer: Spacer
+      - type: cta
+        image: /assets/university-of-michigan-press-logo-512x480.png
+        heading: University of Michigan Press Ebook Collection
+        button_text: Learn More
+        button_link: https://www.press.umich.edu/librarians
+        text: "Interested in reading more Asian Studies titles? There are many more
+          titles included in the University of Michigan Press Ebook Collection
+          (UMP EBC), a comprehensive collection of the University of Michigan
+          Press’s scholarly ebooks for sale to libraries. "
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
