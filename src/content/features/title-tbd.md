@@ -118,7 +118,7 @@ sections:
           **From the Centers for South and Southeast Asian Studies:**
 
 
-          *[Karawitan](https://www.fulcrum.org/michigan?utf8=%E2%9C%93&press=michigan&q=*Karawitan*)* edited by Judith Becker with assistance from Alan H. Feinstein 
+          *\[Karawitan](https://www.fulcrum.org/michigan?utf8=%E2%9C%93&press=michigan&q=*Karawitan*)* edited by Judith Becker with assistance from Alan H. Feinstein 
 
 
           *[The Train That Had Wings: Selected Stories of M. Mukundan](https://doi.org/10.3998/mpub.165021)* translated by Donald R. Davis Jr. 
@@ -234,7 +234,7 @@ sections:
       - type: spacer
         spacer: Spacer
       - type: cta
-        image: /assets/university-of-michigan-press-logo-512x480.png
+        image: /assets/michigan.png
         heading: University of Michigan Press Ebook Collection
         button_text: Learn More
         button_link: https://www.press.umich.edu/librarians
