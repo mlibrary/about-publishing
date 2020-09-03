@@ -385,6 +385,17 @@ sections:
               population can better serve those seeking to strengthen the U.S.
               national security
         id: gillum
+      - type: spacer
+        spacer: Spacer
+      - type: cta
+        image: /assets/michigan.png
+        heading: University of Michigan Press Ebook Collection
+        text: Interested in reading more Political Science titles? There are many more
+          titles included in the University of Michigan Press Ebook Collection
+          (UMP EBC), a comprehensive collection of the University of Michigan
+          Press’s scholarly ebooks for sale to libraries.
+        button_text: Learn More
+        button_link: https://www.press.umich.edu/librarians
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
