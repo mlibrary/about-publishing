@@ -94,7 +94,7 @@ sections:
           **From the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies:**
 
 
-          [ *Double Jeopardy*](https://doi.org/10.3998/mpub.19158)by Ching-Hsi Perng
+          *[Double Jeopardy](https://doi.org/10.3998/mpub.19158)* by Ching-Hsi Perng
 
 
           *[Pearl from the Dragon's Mouth](https://doi.org/10.3998/mpub.19024)* by Cecile C. C. Sun 
@@ -234,7 +234,7 @@ sections:
       - type: spacer
         spacer: Spacer
       - type: cta
-        image: /assets/michigan.png
+        image: /assets/university-of-michigan-press-logo-512x480.png
         heading: University of Michigan Press Ebook Collection
         button_text: Learn More
         button_link: https://www.press.umich.edu/librarians
