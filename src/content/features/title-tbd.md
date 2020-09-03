@@ -221,7 +221,7 @@ sections:
           digital culture(s) in regions like South Asia.
       - type: highlight
         text: >-
-          **Explore More OA Asian Studies Titles**
+          **Explore More Open Access Asian Studies Titles**
 
 
           *[Early Film Culture in Hong Kong, Taiwan, and Republican China: Kaleidoscopic Histories](https://doi.org/10.3998/mpub.9731616)* edited by Emilie Yueh-yu Yeh
