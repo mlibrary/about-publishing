@@ -388,7 +388,7 @@ sections:
       - type: spacer
         spacer: Spacer
       - type: cta
-        image: /assets/michigan.png
+        image: /assets/university-of-michigan-press-logo-512x480.png
         heading: University of Michigan Press Ebook Collection
         text: Interested in reading more Political Science titles? There are many more
           titles included in the University of Michigan Press Ebook Collection
