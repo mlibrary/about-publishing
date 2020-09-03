@@ -161,7 +161,7 @@ sections:
           [University of Michigan Center for Southeast Asian Studies](**<https://ii.umich.edu/cseas>**)
       - type: spacer
         spacer: Spacer
-    heading: Michigan Asian Studies Open Access Book Collection
+    heading: Michigan Asian Studies Open Access Books Collection
     subheading: A collection of 100 significant books about Asia freely available on
       Fulcrum
   - heading: "Digital Scholarship "
