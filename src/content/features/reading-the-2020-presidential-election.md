@@ -11,7 +11,7 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
-  - heading: Democracy & Debate "In Conversations" Limited Podcast Series
+  - heading: Dialogues in Democracy "In Conversations" Limited Podcast Series
     subheading: October 2020
     content:
       - type: cta
@@ -402,7 +402,7 @@ related_stories:
   - Born-accessible Publishing is Good Book-making for Everyone
   - Cultivating the Perfect Guidebook through Teaching
 ---
-Democracy and Debate is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, or to anyone who wishes to better understand the context for the United States' democratic institutions and conflicts, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
+Dialogues in Democracy is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, or to anyone who wishes to better understand the context for the United States' democratic institutions and conflicts, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
 This collection is free to read through December 31, 2020 as part of the University of Michigan Press Ebook Collection on the Fulcrum platform. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed below under the "Democracy" and "Debate" headings.
 
