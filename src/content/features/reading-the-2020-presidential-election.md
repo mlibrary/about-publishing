@@ -68,6 +68,15 @@ sections:
 
 
           [Thucydides’s Trap?: Historical Interpretation, Logic of Inquiry, and the Future of Sino-American Relations](https://doi.org/10.3998/mpub.11387628) by Steve Chan
+      - type: profile
+        profile: Caitlin E. Jewitt
+        id: jewitt
+      - type: podcast
+        embed_code: '<iframe title="Democracy and Debate: Do People or Parties Choose
+          U.S. Presidential Nominees?"
+          src="https://www.podbean.com/media/player/bcs2y-eba97d?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1"
+          height="122" width="100%" style="border: none;" scrolling="no"
+          data-name="pb-iframe-player"></iframe>'
       - type: quote_slider
         book: Gendered Vulnerability
         quote:
@@ -142,9 +151,6 @@ sections:
               that have the capacity to positively shape parents' experience
               with these programs, as well as their communities and civic
               action.
-      - type: profile
-        profile: Caitlin E. Jewitt
-        id: jewitt
       - type: quote_slider
         book: Thucydides's Trap?
         quote:
