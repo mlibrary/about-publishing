@@ -17,15 +17,16 @@ sections:
       - type: cta
         heading: Listen to our political science authors debate key topics central to
           American democracy
-        button_link: https://mailchi.mp/umich/democracy-and-debate
-        button_text: Notify Me
-        text: Our limited podcast series will bring several illuminating conversations
-          to the University of Michigan campus. Each episode will feature a pair
-          of authors bringing different perspectives to the table on issues such
-          as identity politics, education, leadership, national security, and
-          public health. To get notifications about these episodes when they
-          become available, click the button on the right to sign up for an
-          email notification.
+        button_link: https://blog.press.umich.edu/2020/09/announcing-podcast-mini-series-from-michigan-publishing/
+        button_text: Tell Me More
+        text: "Our limited podcast series, releasing on Thursdays throughout October
+          2020, will bring several illuminating conversations to the University
+          of Michigan campus. Each episode will feature a pair of authors
+          bringing different perspectives to the table on issues of national,
+          and international, concern: social policy, national security, racial
+          justice, and leadership. For more information including the full
+          lineup, click the button on the right. Episodes will be added below as
+          they are published."
     id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
