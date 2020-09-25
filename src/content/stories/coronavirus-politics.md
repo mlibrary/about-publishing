@@ -6,9 +6,9 @@ title: "Coronavirus Politics "
 path: /stories-of-impact/coronavirus-politics
 hero:
   text: Without the expertise of social scientists, innovations in science and
-    medicine cannot gain traction. Comparing global responses to COVID-19
-    demonstrates that expert understanding of social context matters when
-    humanity faces grand challenges.
+    medicine cannot gain traction. As a new book shows, comparing global
+    responses to COVID-19 demonstrates that expert understanding of social
+    context matters when humanity faces grand challenges.
   story_hero_image: /assets/1920px-covid-19_san_salvatore_09.jpg
 story_image:
   caption: An exhausted COVID-19 nurse at the San Salvatore Hospital in Pesaro, Italy
