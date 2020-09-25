@@ -9,7 +9,7 @@ hero:
     medicine cannot gain traction. As a new book shows, comparing global
     responses to COVID-19 demonstrates that expert understanding of social
     context matters when humanity faces grand challenges.
-  story_hero_image: /assets/1920px-covid-19_san_salvatore_09.jpg
+  story_hero_image: ""
 story_image:
   caption: An exhausted COVID-19 nurse at the San Salvatore Hospital in Pesaro, Italy
   credit: Alberto Guiliani, CC-BY SA 4.0
@@ -28,13 +28,10 @@ highlight_box:
     comparative discussion that will shed light on COVID-19 and shape debates about what it
 
     means for scholarship in health and comparative politics."
-books:
-  - "Federalism and Social Policy: Patterns of Redistribution in 11 Democracies"
+books: []
 profiles:
   - Scott Greer
-related_stories:
-  - Opening Access to Books Increases Reach and Engagement
-  - Adding Diversity to the Data Mix
+related_stories: []
 type: story
 ---
 The year 2020 has been a sleepless one for Scott Greer and Elizabeth King, both experts in political science at the University of Michigan. Engaging with the health policy aspects of the COVID-19 pandemic has required much late night and early morning discussion with their collaborators around the world, including Elize Massard da Fonseca at the Sao Paulo School of Business Administration and Andre Peralta-Santos of the University of Washington. 
