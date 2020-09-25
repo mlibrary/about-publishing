@@ -33,7 +33,8 @@ books:
 profiles:
   - ""
 related_stories:
-  - ""
+  - Opening Access to Books Increases Reach and Engagement
+  - Adding Diversity to the Data Mix
 type: story
 ---
 The year 2020 has been a sleepless one for Scott Greer and Elizabeth King, both experts in political science at the University of Michigan. Engaging with the health policy aspects of the COVID-19 pandemic has required much late night and early morning discussion with their collaborators around the world, including Elize Massard da Fonseca at the Sao Paulo School of Business Administration and Andre Peralta-Santos of the University of Washington. 
