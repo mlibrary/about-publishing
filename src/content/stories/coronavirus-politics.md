@@ -2,8 +2,7 @@
 published: true
 categories:
   - Faculty Public Engagement
-title: '"Coronavirus Politics" book shapes future health policy with lessons
-  learned so far '
+title: '"Coronavirus Politics" book will shape future health policy '
 path: /stories-of-impact/coronavirus-politics
 hero:
   text: Without the expertise of social scientists, innovations in science and
