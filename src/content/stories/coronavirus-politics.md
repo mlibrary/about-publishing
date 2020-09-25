@@ -29,7 +29,7 @@ highlight_box:
 
     means for scholarship in health and comparative politics."
 books:
-  - ""
+  - "Federalism and Social Policy: Patterns of Redistribution in 11 Democracies"
 profiles:
   - Scott Greer
 related_stories:
