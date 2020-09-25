@@ -30,8 +30,8 @@ highlight:
 profile: Jeremy Glover
 stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
-  - Student Journals Catalyze Lifelong Learning and Success
   - "Coronavirus Politics "
+  - Adding Diversity to the Data Mix
 infographics:
   heading: By the Numbers
   infographics:
