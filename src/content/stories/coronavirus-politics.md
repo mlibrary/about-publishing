@@ -13,7 +13,7 @@ hero:
 story_image:
   caption: An exhausted COVID-19 nurse at the San Salvatore Hospital in Pesaro, Italy
   credit: Alberto Guiliani, CC-BY SA 4.0
-  file: /assets/1920px-covid-19_san_salvatore_09.jpg
+  file: /assets/1920px-covid-19_san_salvatore_09-cc-by-sa-alberto-guiliani_resized.jpg
   alt: An exhausted nurse at the San Salvatore Hospital in Pesaro, Italy
 author: "Scott L. Greer, Elizabeth J. King, Andre Peralta, and Elize Massard
   (eds.): Coronavirus Politics: The Comparative Politics and Policy of COVID-19
