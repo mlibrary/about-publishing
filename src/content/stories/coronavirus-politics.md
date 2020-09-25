@@ -31,7 +31,7 @@ highlight_box:
 books:
   - ""
 profiles:
-  - ""
+  - Scott Greer
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Adding Diversity to the Data Mix
