@@ -30,8 +30,8 @@ highlight:
 profile: Jeremy Glover
 stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
-  - "Coronavirus Politics "
   - Adding Diversity to the Data Mix
+  - '"Coronavirus Politics" book will shape future health policy '
 infographics:
   heading: By the Numbers
   infographics:
