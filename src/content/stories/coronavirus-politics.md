@@ -15,7 +15,11 @@ story_image:
   credit: Alberto Guiliani, CC-BY SA 4.0
   file: /assets/1920px-covid-19_san_salvatore_09.jpg
   alt: An exhausted nurse at the San Salvatore Hospital in Pesaro, Italy
-date: 2020-09-25T12:08:47.428Z
+author: "Scott L. Greer, Elizabeth J. King, Andre Peralta, and Elize Massard:
+  Coronavirus Politics: The Comparative Politics and Policy of COVID-19
+  (University of Michigan Press), ISBN 978-0-472-03862-6 (Pb); ISBN
+  978-0-472-0-246-0 (OA Ebook). Forthcoming."
+date: 2021-04-01T04:00:00.000Z
 highlight_box:
   text: >-
     "Our goal is to start to identify what matters most and to explain it in
