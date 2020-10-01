@@ -27,6 +27,18 @@ sections:
           justice, and leadership. For more information including the full
           lineup, click the button on the right. Episodes will be added below as
           they are published."
+      - type: highlight
+        id: Three New Free-to-Read Titles!
+        text: >-
+          With the podcast mini series comes three new books available as part
+          of our free-to-read collection through the end of the 2020:
+
+
+          * [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (Releasing October 19, 2020) (featured in Episode 1 of the mini series)
+
+          * [More or Less Afraid of Nearly Everything: Homeland Security, Borders, and Disasters in the Twenty-First Century](https://doi.org/10.3998/mpub.11565857) by Ben Rohrbaugh (featured in Episode 2 of the mini series)
+
+          * [Concordance: Black Lawmaking in the U.S. Congress from Carter to Obama](https://doi.org/10.3998/mpub.11727237) by Katherine Tate (New Edition) (featured in Episode 3 of the mini series)
     id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
@@ -420,6 +432,6 @@ related_stories:
 ---
 Produced in collaboration with the [University of Michigan Democracy and Debate theme semester](https://speakactvote.umich.edu/), Dialogues in Democracy is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. Intended as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts this fall, or to anyone who wishes to better understand the context for the United States' democratic institutions and conflicts, the Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-This collection is free to read through December 31, 2020 as part of the University of Michigan Press Ebook Collection on the Fulcrum platform. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed below under the "Democracy" and "Debate" headings.
+This collection is free to read through December 31, 2020 as part of the University of Michigan Press Ebook Collection on the Fulcrum platform. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
 
 <div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump11823democracydebatebooklet_websingle.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
