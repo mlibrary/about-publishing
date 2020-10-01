@@ -32,7 +32,7 @@ sections:
     subheading: Institutions, Organizations, Leadership, Policies
     content:
       - type: highlight
-        text: >
+        text: >-
           [Alignment, Alliance, and American Grand
           Strategy](https://doi.org/10.3998/mpub.8772580) by Zachary Selden
 
@@ -53,6 +53,9 @@ sections:
 
 
           [Liberalism and Leadership: The Irony of Arthur Schlesinger, Jr.](https://doi.org/10.3998/mpub.9385856) by Emile Lester
+
+
+          [More or Less Afraid of Nearly Everything: Homeland Security, Borders, and Disasters in the Twenty-First Century](https://doi.org/10.3998/mpub.11565857) by Ben Rohrbaugh
 
 
           [The Presidential Expectations Gap: Public Attitudes Concerning the Presidency](https://doi.org/10.3998/mpub.5470718) by Richard Waterman, Carol L. Silva, and Hank Jenkins-Smith
@@ -210,6 +213,9 @@ sections:
           [Black America in the Shadow of the Sixties: Notes on the Civil Rights Movement, Neoliberalism, and Politics](https://doi.org/10.3998/mpub.6011515) by Clarence Lang
 
 
+          [Concordance: Black Lawmaking in the U.S. Congress from Carter to Obama](https://doi.org/10.3998/mpub.11727237) by Katherine Tate (New Edition)
+
+
           [Decency and Difference: Humanity and the Global Challenge of Identity Politics](https://doi.org/10.3998/mpub.9394344) by Steven C. Roach
 
 
@@ -232,6 +238,9 @@ sections:
 
 
           [The Remarkable Rise of Transgender Rights](https://doi.org/10.3998/mpub.9448956) by Jami K. Taylor, Daniel C. Lewis, and Donald P. Haider-Markel
+
+
+          [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (Releasing October 19, 2020)
 
 
           [Vitality Politics: Health, Debility, and the Limits of Black Emancipation](https://doi.org/10.3998/mpub.10043782) by Stephen Knadler
