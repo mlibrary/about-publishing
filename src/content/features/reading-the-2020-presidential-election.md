@@ -39,6 +39,13 @@ sections:
           * [More or Less Afraid of Nearly Everything: Homeland Security, Borders, and Disasters in the Twenty-First Century](https://doi.org/10.3998/mpub.11565857) by Ben Rohrbaugh (featured in Episode 2 of the mini series)
 
           * [Concordance: Black Lawmaking in the U.S. Congress from Carter to Obama](https://doi.org/10.3998/mpub.11727237) by Katherine Tate (New Edition) (featured in Episode 3 of the mini series)
+      - type: podcast
+        id: ep1
+        embed_code: '<iframe title="Dialogues in Democracy Mini Series Episode 1: Social
+          Policy"
+          src="https://www.podbean.com/media/player/m6s86-eeb432?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1"
+          height="122" width="100%" style="border: none;" scrolling="no"
+          data-name="pb-iframe-player"></iframe>'
     id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
