@@ -34,7 +34,7 @@ sections:
           of our free-to-read collection through the end of the 2020:
 
 
-          * [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (Releasing October 19, 2020) (featured in Episode 1 of the mini series)
+          * [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (featured in Episode 1 of the mini series)(releasing soon!)
 
           * [More or Less Afraid of Nearly Everything: Homeland Security, Borders, and Disasters in the Twenty-First Century](https://doi.org/10.3998/mpub.11565857) by Ben Rohrbaugh (featured in Episode 2 of the mini series)
 
