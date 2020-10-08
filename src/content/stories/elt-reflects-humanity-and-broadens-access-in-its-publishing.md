@@ -1,30 +1,29 @@
 ---
 published: true
 categories:
-  - 'Diversity, Equity & Inclusion'
+  - Diversity, Equity & Inclusion
 title: ELT Reflects Humanity and Broadens Access in Its Publishing
 path: /stories-of-impact/elt-reflects-humanity
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
-  alt: >-
-    A photograph of two students of color studying from a book together in what
+  alt: A photograph of two students of color studying from a book together in what
     appears to be a library or study hall.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/istock-1161167462-2.jpg
 date: 2019-09-20T14:33:57.441Z
 highlight_box:
-  text: ''
+  text: ""
 books:
-  - The Three Minute Thesis in the Classroom
   - MOOCs
   - Refugee Students
+  - Conflict Resolution Training for the Classroom
 profiles:
-  - ''
+  - ""
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 Much like all of the work at Michigan Publishing, the values of diversity and accessibility are woven into the English Language Teaching (ELT) list. Not only does the list serve multilingual teachers and students around the world, it supports accessibility through innovative content.
