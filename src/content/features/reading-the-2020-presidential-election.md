@@ -42,10 +42,9 @@ sections:
       - type: podcast
         id: ep1
         embed_code: '<iframe title="Dialogues in Democracy Mini Series Episode 1: Social
-          Policy"
-          src="https://www.podbean.com/media/player/m6s86-eeb432?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1"
-          height="122" width="100%" style="border: none;" scrolling="no"
-          data-name="pb-iframe-player"></iframe>'
+          Policy" height="122" width="100%" style="border: none;" scrolling="no"
+          data-name="pb-iframe-player"
+          src="https://www.podbean.com/media/player/m6s86-eeb432?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=112"></iframe>'
       - type: podcast
         id: ep2
         embed_code: '<iframe title="Dialogues in Democracy Mini Series Episode 2:
