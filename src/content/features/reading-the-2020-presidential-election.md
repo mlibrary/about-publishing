@@ -34,7 +34,7 @@ sections:
           of our free-to-read collection through the end of the 2020:
 
 
-          * [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (featured in Episode 1 of the mini series)(releasing soon!)
+          * [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (featured in Episode 1 of the mini series)
 
           * [More or Less Afraid of Nearly Everything: Homeland Security, Borders, and Disasters in the Twenty-First Century](https://doi.org/10.3998/mpub.11565857) by Ben Rohrbaugh (featured in Episode 2 of the mini series)
 
@@ -46,6 +46,12 @@ sections:
           src="https://www.podbean.com/media/player/m6s86-eeb432?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1"
           height="122" width="100%" style="border: none;" scrolling="no"
           data-name="pb-iframe-player"></iframe>'
+      - type: podcast
+        id: ep2
+        embed_code: '<iframe title="Dialogues in Democracy Mini Series Episode 2:
+          National Security" height="122" width="100%" style="border: none;"
+          scrolling="no" data-name="pb-iframe-player"
+          src="https://www.podbean.com/media/player/c6d9b-ef69b3?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=112"></iframe>'
     id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
