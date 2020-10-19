@@ -38,8 +38,8 @@ Scholarship at its best is collaborative, innovative, and engages and solves rea
 
 We're here to support the publishing aspirations of faculty, researchers, students, and staff across the U-M campus and beyond. We invite you to work with us or reach out with your questions or information about your project.
 
-[Schedule a Consultation](mailto:mpublishing@umich.edu)
+<p><a href="mailto:mpublishing@umich.edu" onclick="ga('send', 'event', 'mission','click','schedule-consultation');">Schedule a Consultation</a></p>
 
 **Want to support our publishing mission?**
 
- [Support Our Work](https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press)
+<p><a href="https://leadersandbest.umich.edu/find/#!/lib/mlibrary/press" onclick"ga('send', 'event', 'mission','click','support-our-work');">Support Our Work</a></p>
