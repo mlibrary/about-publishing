@@ -21,10 +21,10 @@ highlight_box:
     <https://www.youtube.com/watch?v=AfK2yPptJG0>
 
 
-    Read more about the publishing process for the first-ever hip-hop album in[ this article from Inside Higher Ed.](<https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher>)
+    Read more about the publishing process for the first-ever hip-hop album in[ this article from Inside Higher Ed.](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)
 
 
-    Sara’s peer review questions devised specifically for this work
+    Take a look at the [University of Michigan Press's standard peer review questions](https://drive.google.com/file/d/1IErOfkNW0igSI26EJgx9tinaDfnCKPy8/view?usp=sharing) versus the [peer review questions developed for *i used to love to dream*](https://drive.google.com/file/d/1231gvo8pFAZtliI5xEZJt77efjiNBNNZ/view?usp=sharing)*.*
 books:
   - i used to love to dream
 profiles:
