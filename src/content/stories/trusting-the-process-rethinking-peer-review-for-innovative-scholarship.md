@@ -6,7 +6,7 @@ title: "Trusting the Process: Rethinking Peer Review for Innovative Scholarship"
 path: /stories-of-impact/rethinking-peer-review
 hero:
   text: ""
-  story_hero_image: ""
+  story_hero_image: /assets/amy-jackson-17.jpg
 story_image:
   caption: ""
   credit: ""
