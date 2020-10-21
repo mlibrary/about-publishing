@@ -43,14 +43,12 @@ Sara Jo Cohen, Senior Acquiring Editor for the University of Michigan Press, wor
 
 > "I think that as editors we often think of our peer review questions as set, but this exercise of working with Loren and A.D. to rethink our questions was really instructive to me, and I think our collaboration on these questions was very much in the spirit of music-making."
 >
-> \-Sara Jo Cohen, Senior Acquiring Editor for the University of Michigan Press
+> —Sara Jo Cohen, Senior Acquiring Editor for the University of Michigan Press
 
 The revised questions considered the digital affordances of the Fulcrum platform and the larger reach of the work. Studies of the performing arts and music that were previously bound to written expression of their concepts can now be shared in their original mediums thanks to the advancement of digital multimedia captured on platforms like Fulcrum.
 
 > "The reviewers noted that this is a project with the potential to make space within academic publishing for new forms of art and new forms of scholarship."
 >
-> \-Loren Kajikawa, Series Editor for *Tracking Pop* at the University of Michigan Press
-
-
+> —Loren Kajikawa, Series Editor for *Tracking Pop* at the University of Michigan Press
 
 Publishing innovative projects like *i used to love to dream* is critical in amplifying underrepresented voices in academia and challenging traditional ideas of what scholarship is and who it is for. Black scholars make up a [very small percentage](https://nces.ed.gov/fastfacts/display.asp?id=61) of those in the academy, so publishing works like A.D. Carson’s is critical in allowing authors to present their work in a way that is intelligible to tenure and promotion committees and that reaches global audiences. *i used to love to dream* has seen high global public engagement, captured through [Altmetric analytics](https://umichpress.altmetric.com/details/87730540).
