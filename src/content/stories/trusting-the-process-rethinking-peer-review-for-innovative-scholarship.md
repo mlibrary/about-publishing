@@ -16,12 +16,12 @@ story_image:
 date: 2020-10-21T18:32:23.379Z
 highlight_box:
   text: >-
-    Watch A.D. Carson, Sara Jo Cohen, and Loren Kajikawa speak more about the
-    peer review process in a video created for Peer Review Week 2020:
+    Watch A.D. Carson, Sara Jo Cohen, and Loren Kajikawa speak about the peer
+    review process in a video created for Peer Review Week 2020:
     <https://www.youtube.com/watch?v=AfK2yPptJG0>
 
 
-    Read more about the publishing process for the first-ever hip-hop album in[ this article from Inside Higher Ed.](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)
+    Read more about the publishing process for the first-ever hip-hop album in[ this article from *Inside Higher Ed*.](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)
 
 
     Take a look at the [University of Michigan Press's standard peer review questions](https://drive.google.com/file/d/1IErOfkNW0igSI26EJgx9tinaDfnCKPy8/view?usp=sharing) versus the [peer review questions developed for *i used to love to dream*](https://drive.google.com/file/d/1231gvo8pFAZtliI5xEZJt77efjiNBNNZ/view?usp=sharing)*.*
@@ -30,7 +30,7 @@ books:
 profiles:
   - ""
 related_stories:
-  - ""
+  - Opening Access to Books Increases Reach and Engagement
 type: story
 ---
 In August 2020, the University of Michigan Press published *i used to love to dream* by A.D. Carson, the first ever peer-reviewed hip-hop mixtap/e/ssay published by a university press. The open access mixtap/e/ssay performs hip-hop scholarship using sampled and live instrumentation, repurposed music, film, and news clips, and original rap lyrics.
