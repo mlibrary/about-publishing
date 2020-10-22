@@ -13,7 +13,18 @@ feature_image:
 sections:
   - heading: Equity
     subheading: tbd
-    content: []
+    content:
+      - type: quote_slider
+        book: "Bad Boys: Public Schools in the Making of Black Masculinity"
+        quote:
+          quote: ' Bad Boys is an incisive critique of the ways in which public schools
+            help to create and shape perceptions black masculinity. Rather than
+            emulate others who have linked the demise of urban schools to the
+            troubles of inner-city minority youth, Ferguson turns this issue on
+            its head by highlighting how urban school practices can have a
+            devastating impact on African-American children."'
+          name: tbd
+          title: tbd
   - content:
       - type: profile
         profile: Clarence Lang
@@ -51,8 +62,8 @@ related_stories:
 ---
 The University of Michigan Press strongly supports the struggle for racial justice. We publish books in the humanities and social sciences that seek to make sense of society and culture.
 
-This guide is by no means exhaustive and is limited to items published by UMP.
+As part of this work, UMP is fostering a more inclusive academic publishing program, one that embraces and supports equity, justice, and inclusion. We have put together a guide of UMP titles and resources that 
 
-The work of equity, justice, and inclusion is never done. UMP will continue to acquire titles that represent Black, indigenous, and people of color (BIPOC) and develop strategies that improve equitable access to our publications.
+This guide is by no means exhaustive and is limited to items published by UMP. 
 
 Read [UMP's full statement on equity, justice, and inclusion](https://www.press.umich.edu/about#equity).
