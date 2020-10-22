@@ -43,6 +43,18 @@ sections:
               U.S. social policy.
     heading: Equity
     subheading: tbd
+  - heading: Inclusion
+    id: ""
+    content:
+      - type: quote_slider
+        book: Everybody In, Nobody Out
+        quote:
+          quote: '"Everybody in, nobody out has become a mantra in trying to ensure that
+            whatever I do is inclusive, accessible, and not reserved for the
+            happy few." '
+          name: Maria Hansen
+          title: International Arts Leader
+    subheading: tbs
 related_stories:
   - ""
 ---
