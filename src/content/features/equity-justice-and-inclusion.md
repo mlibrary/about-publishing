@@ -41,7 +41,11 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
-    heading: Equity
+      - type: podcast
+        embed_code: <iframe height="200px" width="100%" frameborder="no" scrolling="no"
+          seamless
+          src="https://player.simplecast.com/15f203d7-4cde-466e-b420-e1aef1463cf4?dark=false"></iframe>
+    heading: Justice
     subheading: tbd
   - heading: Inclusion
     id: ""
