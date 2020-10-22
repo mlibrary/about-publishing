@@ -41,7 +41,7 @@ sections:
               laissez-faire fueled the nation's swing to the political right and
               the updated racism, economic stringency, and vindictiveness of the
               U.S. social policy.
-    heading: tbd
+    heading: Equity
     subheading: tbd
 related_stories:
   - ""
