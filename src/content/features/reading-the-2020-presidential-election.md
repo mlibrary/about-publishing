@@ -51,6 +51,12 @@ sections:
           National Security" height="122" width="100%" style="border: none;"
           scrolling="no" data-name="pb-iframe-player"
           src="https://www.podbean.com/media/player/c6d9b-ef69b3?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=112"></iframe>'
+      - type: podcast
+        id: ep3
+        embed_code: '<iframe title="Dialogues in Democracy Mini Series Episode 3: Racial
+          Justice" height="122" width="100%" style="border: none;"
+          scrolling="no" data-name="pb-iframe-player"
+          src="https://www.podbean.com/media/player/4tg4x-f014f6?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=112"></iframe>'
     id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
