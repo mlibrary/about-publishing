@@ -12,6 +12,8 @@ feature_image:
   file: /assets/screen-shot-2020-10-22-at-11.47.45-am.png
 sections:
   - content:
+      - type: profile
+        profile: Clarence Lang
       - type: quote_slider
         book: Black America in the Shadow of the Sixties
         quote:
