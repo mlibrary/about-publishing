@@ -64,8 +64,10 @@ sections:
 related_stories:
   - ""
 ---
-The University of Michigan Press 
+The University of Michigan Press strongly supports the struggle for racial justice. We publish books in the humanities and social sciences that seek to make sense of society and culture.
 
-The work of equity, justice, and inclusion is never done. UMP will continue to acquire titles that represent and develop strategies that improve equitable access to our publications.
+This guide is by no means exhaustive and is limited to items published by UMP.
 
-Read [UMP's statement on equity, justice, and inclusio](https://www.press.umich.edu/about#equity)n.
+The work of equity, justice, and inclusion is never done. UMP will continue to acquire titles that represent Black, indigenous, and people of color (BIPOC) and develop strategies that improve equitable access to our publications.
+
+Read [UMP's full statement on equity, justice, and inclusion](https://www.press.umich.edu/about#equity).
