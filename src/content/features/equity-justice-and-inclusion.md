@@ -49,9 +49,9 @@ sections:
       - type: quote_slider
         book: Everybody In, Nobody Out
         quote:
-          quote: '"Everybody in, nobody out has become a mantra in trying to ensure that
+          quote: Everybody in, nobody out has become a mantra in trying to ensure that
             whatever I do is inclusive, accessible, and not reserved for the
-            happy few." '
+            happy few.
           name: Maria Hansen
           title: International Arts Leader
       - type: youtube
