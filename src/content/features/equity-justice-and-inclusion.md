@@ -17,32 +17,12 @@ sections:
       - type: quote_slider
         book: Black America in the Shadow of the Sixties
         quote:
-          quote: "The long shadow of the Sixties can unwittingly shroud present-day
-            political imagination, deadening our ability to properly
-            conceptualize, and therefore contest, the dominant forms of racial
-            oppression and economic injustice that define the early 21st
-            century. "
-          name: —Clarence Lang, Author
+          quote: "A reassessment of the Sixties and its legacies is necessary to make
+            better sense of black community, leadership, politics, and the
+            prospects for social change today. "
+          name: Clarence Lang, Author
           title: Black America in the Shadow of the Sixties
-        slides:
-          - image: ""
-            image_alt: ""
-            title: A Decade Unlike Any Other
-            text: The mythology of "the Sixties" encompasses many global events and changing
-              dynamics, and how we remember it influences the approaches to
-              potential social change today.
-          - image: ""
-            image_alt: ""
-            title: Impact on Black Politics
-            text: The working class that advanced much of the change of the '60s has been
-              overshadowed by the "post-civil rights" black middle class.
-          - image: ""
-            image_alt: ""
-            title: The Neoliberal Backlash
-            text: In the 1970s and beyond, neoliberalism and its hallmarks of economic
-              laissez-faire fueled the nation's swing to the political right and
-              the updated racism, economic stringency, and vindictiveness of the
-              U.S. social policy.
+        slides: []
       - type: podcast
         embed_code: <iframe height="200px" width="100%" frameborder="no" scrolling="no"
           seamless
