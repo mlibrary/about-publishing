@@ -11,6 +11,9 @@ feature_image:
   alt: tbd
   file: /assets/screen-shot-2020-10-22-at-11.47.45-am.png
 sections:
+  - heading: Equity
+    subheading: tbd
+    content: []
   - content:
       - type: profile
         profile: Clarence Lang
