@@ -3,7 +3,7 @@ published: true
 type: feature
 title: Books for Social Justice
 subtitle: Resources to challenge, motivate, and educate
-path: /features/books-for-social-justice
+path: /features/equity-justice-and-inclusion
 hero:
   text: ""
   feature_hero_image: ""
