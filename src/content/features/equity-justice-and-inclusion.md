@@ -44,7 +44,8 @@ sections:
           src="https://player.simplecast.com/15f203d7-4cde-466e-b420-e1aef1463cf4?dark=false"></iframe>
     heading: Justice
     subheading: Justice is the concept of fairness and social justice is fairness as
-      it manifests in society.
+      it manifests in society. These books explore movements for civil rights,
+      what they have accomplished, and what is left still to do.
   - heading: Inclusion
     id: ""
     content:
@@ -56,7 +57,8 @@ sections:
             happy few.
           name: Maria Hansen
           title: International Arts Leader
-    subheading: Inclusion is a sense of belonging
+    subheading: Inclusion is a sense of belonging. These books describe strategies
+      for achieving this; in the classroom and in society.
 related_stories:
   - ""
 ---
