@@ -1,8 +1,8 @@
 ---
 published: true
 type: feature
-title: Diversity, Equity, Inclusion - Resources for Social Justice
-subtitle: UMP resources to challenge, motivate, and educate
+title: Diversity, Equity, Inclusion - Publishing for Social Justice
+subtitle: Resources to challenge, motivate, and educate
 path: /features/equity-justice-inclusion
 hero:
   text: ""
