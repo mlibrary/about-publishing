@@ -1,7 +1,7 @@
 ---
 published: true
 type: feature
-title: Diversity, Equity, Inclusion - Publishing for Social Justice
+title: Books for Social Justice
 subtitle: Resources to challenge, motivate, and educate
 path: /features/equity-justice-inclusion
 hero:
