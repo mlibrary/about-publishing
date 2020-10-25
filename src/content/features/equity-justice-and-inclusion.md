@@ -18,12 +18,11 @@ sections:
       - type: quote_slider
         book: "Bad Boys: Public Schools in the Making of Black Masculinity"
         quote:
-          quote: ' Bad Boys is an incisive critique of the ways in which public schools
-            help to create and shape perceptions black masculinity. Rather than
-            emulate others who have linked the demise of urban schools to the
-            troubles of inner-city minority youth, Ferguson turns this issue on
-            its head by highlighting how urban school practices can have a
-            devastating impact on African-American children."'
+          quote: Public schools help to create and shape perceptions black masculinity.
+            Rather than link the demise of urban schools to the troubles of
+            inner-city minority youth, Bad Boys turns this issue on its head by
+            highlighting how urban school practices can have a devastating
+            impact on African-American children.
           name: tbd
           title: tbd
   - content:
