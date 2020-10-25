@@ -23,8 +23,8 @@ sections:
             inner-city minority youth, Bad Boys turns this issue on its head by
             highlighting how urban school practices can have a devastating
             impact on African-American children.
-          name: tbd
-          title: tbd
+          name: Ann Arnett Ferguson, Author
+          title: "Bad Boys: Public Schools in the Making of Black Masculinity"
   - content:
       - type: profile
         profile: Clarence Lang
