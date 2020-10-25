@@ -60,10 +60,4 @@ sections:
 related_stories:
   - ""
 ---
-The University of Michigan Press strongly supports the struggle for racial justice. We publish books in the humanities and social sciences that seek to make sense of society and culture.
-
-As part of this work, UMP is fostering a more inclusive academic publishing program, one that embraces and supports equity, justice, and inclusion. We have put together a guide of UMP titles and resources that 
-
-This guide is by no means exhaustive and is limited to items published by UMP. 
-
-Read [UMP's full statement on equity, justice, and inclusion](https://www.press.umich.edu/about#equity).
+The University of Michigan Press publishes books in the humanities and social sciences that seek to make sense of society and culture. As part of this work, UMP is fostering a more inclusive academic publishing program, one that embraces and supports equity, justice, and inclusion. The titles and resources featured below exemplify our work so far, but we recognize that combatting exclusion is a continual work in progress. As part of the University of Michigan Library, the Press is an integral part of [the Diversity Strategic Plan](https://lib.umich.edu/about-us/about-library/diversity-equity-inclusion-and-accessibility/diversity-strategic-plan), which sets out the practical steps we are taking to advance [this equity, justice, and inclusion](https://www.press.umich.edu/about#equity) mission.
