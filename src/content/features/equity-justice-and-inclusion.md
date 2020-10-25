@@ -13,7 +13,9 @@ feature_image:
 sections:
   - heading: Equity
     subheading: In order to create true equality of opportunity, equity is needed to
-      ensure that everyone has the same chance of getting there.
+      ensure that everyone has the same chance of getting there. These books
+      explore structural inequalities in areas such as education and healthcare
+      that makes some people less able to succeed than others.
     content:
       - type: quote_slider
         book: "Bad Boys: Public Schools in the Making of Black Masculinity"
