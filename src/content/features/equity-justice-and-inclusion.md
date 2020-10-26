@@ -6,7 +6,7 @@ subtitle: Resources to challenge, motivate, and educate
 path: /features/books-for-social-justice
 hero:
   text: ""
-  feature_hero_image: /assets/screen-shot-2020-10-22-at-11.47.45-am.png
+  feature_hero_image: /assets/diversity-and-inclusion-graphic-hands-skin-palette.jpg
 feature_image:
   alt: African American male seated outside reading a book
   file: /assets/tamarcus-brown-t3ukisfmaby-unsplash.jpg
