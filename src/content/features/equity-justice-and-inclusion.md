@@ -107,6 +107,24 @@ sections:
           title: International Arts Leader
       - type: youtube
         id: kX9TE3wHFOM
+      - type: highlight
+        text: >-
+          Additional Inclusion Titles
+
+
+          *[America Beyond Black and White: How Immigrants and Fusions are Helping Us Overcome the Racial Divide](https://www.press.umich.edu/268662/america_beyond_black_and_white)* by Ronald Fernandez 
+
+
+          *[No Safe Spaces: Re-casting Race, Ethnicity, and Nationality in American Theater](https://www.press.umich.edu/1729062/no_safe_spaces)* by Angela C. Pao
+
+
+          *[Mark One or More: Civil Rights in Multiracial America](https://www.press.umich.edu/325778/mark_one_or_more)* by Kim M. Williams 
+
+
+          *[Jackie Ormes: The First African American Woman Cartoonist](https://www.press.umich.edu/11368041/jackie_ormes)* by Nancy Goldstein
+
+
+          *[A Question of Voice: Philosophy and the Search for Legitimacy](https://www.press.umich.edu/10090712/question_of_voice)* by Ron Scapp
     subheading: Inclusion requires a sense of belonging. These books describe
       strategies for achieving that sense; in the classroom, in the community,
       and in wider society.
