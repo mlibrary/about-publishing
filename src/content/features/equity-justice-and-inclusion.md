@@ -83,7 +83,7 @@ sections:
           name: Sara Fitzgerald
           title: Author, Conquering Heroines
       - type: youtube
-        id: v3uIZavp9Yg&
+        id: v3uIZavp9Yg
       - type: highlight
         text: >-
           Additional Justice Titles
