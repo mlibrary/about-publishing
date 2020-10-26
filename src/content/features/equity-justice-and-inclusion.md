@@ -105,6 +105,8 @@ sections:
             happy few.
           name: Maria Hansen
           title: International Arts Leader
+      - type: youtube
+        id: kX9TE3wHFOM
     subheading: Inclusion requires a sense of belonging. These books describe
       strategies for achieving that sense; in the classroom, in the community,
       and in wider society.
