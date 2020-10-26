@@ -8,8 +8,8 @@ hero:
   text: ""
   feature_hero_image: /assets/diversity-and-inclusion-graphic-hands-skin-palette.jpg
 feature_image:
-  alt: African American male seated outside reading a book
-  file: /assets/tamarcus-brown-t3ukisfmaby-unsplash.jpg
+  alt: Demonstration outside US Capitol, October 2020 (Ted Eytan, CC-BY-SA)
+  file: /assets/books-for-social-justice.gif
 sections:
   - heading: Equity
     subheading: In order to create true equality of opportunity, equity is needed to
