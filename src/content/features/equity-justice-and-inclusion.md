@@ -6,7 +6,7 @@ subtitle: Resources to challenge, motivate, and educate
 path: /features/books-for-social-justice
 hero:
   text: ""
-  feature_hero_image: /assets/ca-times.brightspotcdn.jpg
+  feature_hero_image: /assets/diversity-and-inclusion-graphic-hands-skin-palette.jpeg
 feature_image:
   alt: Demonstration outside US Capitol, October 2020 (Ted Eytan, CC-BY-SA)
   file: /assets/books-for-social-justice.gif
