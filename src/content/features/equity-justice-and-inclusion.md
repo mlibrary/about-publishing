@@ -107,6 +107,15 @@ sections:
           title: International Arts Leader
       - type: youtube
         id: kX9TE3wHFOM
+      - type: quote_slider
+        book: "Intellectual Empathy: Critical Thinking for Social Justice"
+        quote:
+          quote: " Linker’s book stands on its own as a practical and scholarly guide to
+            reasoning that addresses the difficult—and sometimes seemingly
+            impossible—problem of reasoning together when people have very
+            different viewpoints and social status. "
+          name: Catherine Hundleby
+          title: Associate Professor in Philosophy at the University of Windsor
       - type: highlight
         text: >-
           Additional Inclusion Titles
