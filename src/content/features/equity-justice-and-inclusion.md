@@ -26,6 +26,13 @@ sections:
             impact on African-American children.
           name: Ann Arnett Ferguson, Author
           title: "Bad Boys: Public Schools in the Making of Black Masculinity"
+      - type: quote_slider
+        book: "Academic Ableism: Disability and Higher Education"
+        quote:
+          quote: Disability is central to higher education, and that building more
+            inclusive schools allows better education for all.
+          name: Jay Dolmage
+          title: Author of Academic Ableism
   - content:
       - type: profile
         profile: Clarence Lang
