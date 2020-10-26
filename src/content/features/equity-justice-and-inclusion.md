@@ -79,13 +79,16 @@ sections:
           Additional Justice Titles
 
 
-          *Harvest of American Racism edited by Robert ShellowSelma and the Liuzzo Murder Trials: The first Modern Civil Rights Convictions* by James P. Turner
+          *[Harvest of American Racism](https://doi.org/10.3998/mpub.9684789)* edited by Robert Shellow
+
+
+          *[Selma and the Liuzzo Murder Trials: The first Modern Civil Rights Convictions](https://doi.org/10.3998/mpub.9753373)* by James P. Turner
 
 
           *[Philadelphia Freedom: Memoirs of a Civil Rights Lawyer](https://www.press.umich.edu/297518/philadelphia_freedom)* by David Kairys
 
 
-          *A Change is Gonna Come: Music, Race & the Soul of America* (Revised Edition) by Craig Werner
+          *[A Change is Gonna Come: Music, Race & the Soul of America](https://www.press.umich.edu/179458/change_is_gonna_come)* (Revised Edition) by Craig Werner
     heading: Justice
     subheading: Justice is the concept of fairness and social justice is fairness as
       it manifests in society. These books explore movements for social justice,
