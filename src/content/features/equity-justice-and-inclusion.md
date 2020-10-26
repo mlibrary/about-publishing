@@ -144,6 +144,17 @@ sections:
 
 
           *[A Question of Voice: Philosophy and the Search for Legitimacy](https://www.press.umich.edu/10090712/question_of_voice)* by Ron Scapp
+      - type: spacer
+        spacer: Spacer
+      - type: cta
+        text: Interested in reading more social justice titles? There are many more
+          titles included in the University of Michigan Press Ebook Collection
+          (UMP EBC), a comprehensive collection of the University of Michigan
+          Press’s scholarly ebooks for sale to libraries.
+        heading: University of Michigan Press Ebook Collection
+        image: /assets/university-of-michigan-press-logo-512x480.png
+        button_text: Learn More
+        button_link: https://www.press.umich.edu/librarians
     subheading: Inclusion requires a sense of belonging. These books describe
       strategies for achieving that sense; in the classroom, in the community,
       and in wider society.
