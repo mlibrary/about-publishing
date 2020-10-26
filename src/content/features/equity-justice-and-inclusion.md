@@ -29,15 +29,10 @@ sections:
       - type: quote_slider
         book: "Academic Ableism: Disability and Higher Education"
         quote:
-          quote: Disability is central to higher education, and that building more
-            inclusive schools allows better education for all.
+          quote: Disability is central to higher education, and building more inclusive
+            schools allows better education for all.
           name: Jay Dolmage
           title: Author of Academic Ableism
-      - type: cta
-        text: TBD
-        button_link: https://podcasts.apple.com/gh/podcast/short-takes-carolyn-barnes/id1061406250?i=1000470809674
-        button_text: Listen Here
-        heading: TBD
       - type: highlight
         text: >-
           Additional Equity Titles
@@ -66,6 +61,31 @@ sections:
         embed_code: <iframe height="200px" width="100%" frameborder="no" scrolling="no"
           seamless
           src="https://player.simplecast.com/15f203d7-4cde-466e-b420-e1aef1463cf4?dark=false"></iframe>
+      - type: quote_slider
+        book: "Conquering Heroines: How Women Fought Sex Bias at Michigan and Paved the
+          Way for Title IX"
+        quote:
+          quote: University of Michigan emerged as a leader in promoting campus diversity,
+            supporting affirmative action in admissions all the way to the
+            Supreme Court. But it wasn’t always so. And for the sake of the
+            women who had inspired me, I wrote this book to make sure that the
+            world would remember them, too.
+          name: Sara Fitzgerald
+          title: Author, Conquering Heroines
+      - type: youtube
+        id: v3uIZavp9Yg&feature=youtu.be
+      - type: highlight
+        text: >-
+          Additional Justice Titles
+
+
+          *Harvest of American Racism edited by Robert ShellowSelma and the Liuzzo Murder Trials: The first Modern Civil Rights Convictions* by James P. Turner
+
+
+          *[Philadelphia Freedom: Memoirs of a Civil Rights Lawyer](https://www.press.umich.edu/297518/philadelphia_freedom)* by David Kairys
+
+
+          *A Change is Gonna Come: Music, Race & the Soul of America* (Revised Edition) by Craig Werner
     heading: Justice
     subheading: Justice is the concept of fairness and social justice is fairness as
       it manifests in society. These books explore movements for social justice,
