@@ -1,7 +1,7 @@
 ---
 title: Everybody In, Nobody Out
 link: https://www.press.umich.edu/9902056/everybody_in_nobody_out
-author: Ken Fischer with Robin Lea Pyle
+author: Ken Fischer
 image:
   file: /assets/9780472132027.jpg
   alt: Picture of orchestra on stage.
