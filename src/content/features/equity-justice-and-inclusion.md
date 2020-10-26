@@ -45,7 +45,7 @@ sections:
           title: Author of Academic Ableism
       - type: highlight
         text: >-
-          Additional Equity Titles
+          **Additional Equity Titles**
 
 
           *[Vitality Politics: Health, Debility, and the Limits of Black Emancipation](https://doi.org/10.3998/mpub.10043782)* by Stephen Knadler
@@ -86,7 +86,7 @@ sections:
         id: v3uIZavp9Yg
       - type: highlight
         text: >-
-          Additional Justice Titles
+          **Additional Justice Titles**
 
 
           *[Harvest of American Racism](https://doi.org/10.3998/mpub.9684789)* edited by Robert Shellow
@@ -128,7 +128,7 @@ sections:
           title: Associate Professor in Philosophy at the University of Windsor
       - type: highlight
         text: >-
-          Additional Inclusion Titles
+          **Additional Inclusion Titles**
 
 
           *[America Beyond Black and White: How Immigrants and Fusions are Helping Us Overcome the Racial Divide](https://www.press.umich.edu/268662/america_beyond_black_and_white)* by Ronald Fernandez 
