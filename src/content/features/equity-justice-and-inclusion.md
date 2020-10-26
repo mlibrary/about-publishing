@@ -33,6 +33,23 @@ sections:
             inclusive schools allows better education for all.
           name: Jay Dolmage
           title: Author of Academic Ableism
+      - type: cta
+        text: TBD
+        button_link: https://podcasts.apple.com/gh/podcast/short-takes-carolyn-barnes/id1061406250?i=1000470809674
+        button_text: Listen Here
+        heading: TBD
+      - type: highlight
+        text: >-
+          Additional Equity Titles
+
+
+          *[Vitality Politics: Health, Debility, and the Limits of Black Emancipation](https://doi.org/10.3998/mpub.10043782)* by Stephen Knadler
+
+
+          *[The Enduring Legacy: Structured Inequality in America’s Public Schools](https://doi.org/10.3998/mpub.11645040)* by Mark Ryan
+
+
+          *[State of Empowerment: Low Income Families and the New Welfare State](https://www.press.umich.edu/10131793/state_of_empowerment)* by Carolyn Barnes
   - content:
       - type: profile
         profile: Clarence Lang
