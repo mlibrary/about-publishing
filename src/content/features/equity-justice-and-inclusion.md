@@ -13,9 +13,9 @@ feature_image:
 sections:
   - heading: Equity
     subheading: In order to create true equality of opportunity, equity is needed to
-      ensure that everyone has the same chance of getting there. These books
-      explore structural inequalities in areas such as education and healthcare
-      that makes some people less able to succeed than others.
+      make sure that everyone has the same chance of getting there. These books
+      explore structural inequalities in core areas such as education and
+      healthcare that make some people less able to succeed than others.
     content:
       - type: quote_slider
         book: "Bad Boys: Public Schools in the Making of Black Masculinity"
@@ -44,8 +44,9 @@ sections:
           src="https://player.simplecast.com/15f203d7-4cde-466e-b420-e1aef1463cf4?dark=false"></iframe>
     heading: Justice
     subheading: Justice is the concept of fairness and social justice is fairness as
-      it manifests in society. These books explore movements for civil rights,
-      what they have accomplished, and what is left still to do.
+      it manifests in society. These books explore movements for social justice,
+      including the battle for civil rights. They explore what they have
+      accomplished and what is left still to do.
   - heading: Inclusion
     id: ""
     content:
@@ -58,7 +59,8 @@ sections:
           name: Maria Hansen
           title: International Arts Leader
     subheading: Inclusion is a sense of belonging. These books describe strategies
-      for achieving this; in the classroom and in society.
+      for achieving that sense; in the classroom, in the community, and in wider
+      society.
 related_stories:
   - ""
 ---
