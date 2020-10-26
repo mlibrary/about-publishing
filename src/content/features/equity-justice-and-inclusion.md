@@ -35,6 +35,7 @@ sections:
         button_text: Listen to the Podcast
         button_link: https://podcasts.apple.com/gh/podcast/short-takes-carolyn-barnes/id1061406250?i=1000470809674
         heading: Becoming Politically Engaged
+        image: /assets/carolyn-barnes250.jpg
       - type: quote_slider
         book: "Academic Ableism: Disability and Higher Education"
         quote:
