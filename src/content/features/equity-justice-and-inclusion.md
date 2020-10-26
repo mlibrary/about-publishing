@@ -65,7 +65,7 @@ sections:
         book: "Conquering Heroines: How Women Fought Sex Bias at Michigan and Paved the
           Way for Title IX"
         quote:
-          quote: University of Michigan emerged as a leader in promoting campus diversity,
+          quote: University of Michigan is a leader in promoting campus diversity and
             supporting affirmative action in admissions all the way to the
             Supreme Court. But it wasn’t always so. And for the sake of the
             women who had inspired me, I wrote this book to make sure that the
