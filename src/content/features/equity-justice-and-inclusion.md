@@ -31,7 +31,7 @@ sections:
           Science at Duke University and author of State of Empowerment: Low
           Income Families and the New Welfare State, recently spoke on the Ways
           & Means podcast about how government-funded programs can help parents
-          become politically engaged"
+          become politically engaged."
         button_text: Listen to the Podcast
         button_link: https://podcasts.apple.com/gh/podcast/short-takes-carolyn-barnes/id1061406250?i=1000470809674
         heading: Becoming Politically Engaged
