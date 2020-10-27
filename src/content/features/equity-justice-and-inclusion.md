@@ -116,7 +116,7 @@ sections:
           name: Maria Hansen
           title: International Arts Leader
       - type: youtube
-        id: kX9TE3wHFOM
+        id: m3yyrGfpC3g
       - type: quote_slider
         book: "Intellectual Empathy: Critical Thinking for Social Justice"
         quote:
