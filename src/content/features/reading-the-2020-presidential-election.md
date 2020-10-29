@@ -57,6 +57,13 @@ sections:
           Justice" height="122" width="100%" style="border: none;"
           scrolling="no" data-name="pb-iframe-player"
           src="https://www.podbean.com/media/player/4tg4x-f014f6?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=112"></iframe>'
+      - type: podcast
+        id: ep4
+        embed_code: '<iframe title="Dialogues in Democracy Mini Series Episode 4:
+          Leadership"
+          src="https://www.podbean.com/media/player/u7srs-f0a3b1&?from=usersite&skin=1&fonts=Helvetica&auto=0&download=1&share=1&version=1&btn-skin=112"
+          height="122" width="100%" style="border: none;" scrolling="no"
+          data-name="pb-iframe-player"></iframe>'
     id: podcast
   - heading: Democracy
     subheading: Institutions, Organizations, Leadership, Policies
