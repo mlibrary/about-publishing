@@ -11,7 +11,7 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
-  - heading: '"Dialogues in Democracy: In Conversations" Limited Podcast Series'
+  - heading: '"Dialogues in Democracy: In Conversation" Limited Podcast Series'
     subheading: October 2020
     content:
       - type: cta
