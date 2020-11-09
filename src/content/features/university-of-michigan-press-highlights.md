@@ -8,7 +8,7 @@ hero:
   text: ""
   feature_hero_image: /assets/hero.jpg
 feature_image:
-  file: /assets/annelies-geneyn-bhbonc07wsi-unsplash.jpg
+  file: /assets/uompebook.jpg
   alt: Open book on grass with yellowed leaves surrounding the book.
 sections:
   - heading: Seasonal Catalogs
