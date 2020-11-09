@@ -58,6 +58,8 @@ sections:
           - image: ""
             image_alt: ""
             title: ""
+            text: La Fountain-Stokes is a drag performer himself, who performs as drag queen
+              Lola von Miramar.
         quote:
           name: Emma DiPasquale
           title: Engagement Manager at the University of Michigan Press
