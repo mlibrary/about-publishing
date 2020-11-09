@@ -31,6 +31,8 @@ sections:
         image: /assets/f20_cover.jpg
         button_link: https://www.press.umich.edu/catalog/f20catalog.pdf
         text: The Fall 2020 catalog
+      - type: spacer
+        spacer: Spacer
     subheading: Browse University of Michigan Press's Fall 2020 and Spring 2021 catalogs
   - heading: Highlights for Libraries
     subheading: Emma DiPasquale, Engagement Manager for UMP, shares her picks for libraries
@@ -85,7 +87,7 @@ sections:
           In Concert by Auslander /
       - type: spacer
         spacer: Spacer
-  - heading: Highlights for Media
+  - heading: Highlights for the Media
     subheading: Theresa Schmid, Publicity and Promotions Coordinator, shares her
       picks for the media
     content:
@@ -97,6 +99,17 @@ sections:
         text: "**Additional Picks for the Media**"
       - type: spacer
         spacer: Spacer
+      - type: cta
+        image: /assets/iqlqu4dw_400x400.png
+        heading: Explore More University of Michigan Press Titles
+        button_link: press.umich.edu
+        text: "There are many more exciting University of Michigan Press titles
+          available to explore online. Browse all of UMP's fall 2020 and spring
+          2021 titles, learn more about holiday discount offers, and get details
+          about the University of Michigan Press Ebook Collection (UMP EBC), a
+          comprehensive collection of UMP scholarly ebooks for sale to
+          libraries, visit the Press website below. "
+        button_text: Visit the press website
 related_stories:
   - ""
 ---
