@@ -63,10 +63,34 @@ sections:
           *[Bankruptcy and Debt Collection in Liberal Capitalism](https://www.press.umich.edu/11600140/bankruptcy_and_debt_collection_in_liberal_capitalism)* by Mischa Suter
   - heading: Highlights for Learners
     subheading: Shaun Manning, Sales Manager for UMP, shares his picks for general
-      readers and academic faculty
+      readers and college and university faculty and lecturers
     content:
+      - type: profile
+        profile: Shaun Manning
       - type: youtube
         id: dDdFl3P7YAE
+      - type: highlight
+        text: >-
+          **Additional Picks for Learners**
+
+
+          *[Informing a Nation](https://www.press.umich.edu/11533401/informing_a_nation)* by Mel Laracey 
+
+
+          *[Catalogue of Greek Manuscripts at U-M](https://www.press.umich.edu/7275146/catalogue_of_greek_manuscripts_at_the_university_of_michigan_ann_arbor)* by Nadezhda Kavrus-Hoffmann with the collaboration of Pablo Alvarez 
+
+
+          In Concert by Auslander /
+  - heading: Highlights for Media
+    subheading: Theresa Schmid, Publicity and Promotions Coordinator, shares her
+      picks for the media
+    content:
+      - type: profile
+        profile: Theresa Schmid
+      - type: youtube
+        id: MMOp1a1etis
+      - type: highlight
+        text: "**Additional Picks for the Media**"
 related_stories:
   - ""
 ---
