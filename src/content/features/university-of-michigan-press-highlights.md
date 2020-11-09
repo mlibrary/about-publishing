@@ -6,7 +6,7 @@ subtitle: 2020 and 2021 Titles
 path: /features/ump-highlights
 hero:
   text: ""
-  feature_hero_image: ""
+  feature_hero_image: /assets/hero.jpg
 feature_image:
   file: /assets/annelies-geneyn-bhbonc07wsi-unsplash.jpg
   alt: Open book on grass with yellowed leaves surrounding the book.
@@ -35,7 +35,7 @@ sections:
         spacer: Spacer
     subheading: Browse University of Michigan Press's Fall 2020 and Spring 2021 catalogs
   - heading: Highlights for Libraries
-    subheading: Emma DiPasquale, Engagement Manager for UMP, shares her picks for libraries
+    subheading: Emma DiPasquale, Engagement Manager, shares her picks for libraries
     content:
       - type: profile
         profile: Emma DiPasquale
@@ -70,18 +70,21 @@ sections:
           **Additional Picks for Libraries**
 
 
-          *[Foodways in Roman Republican Italy](https://www.press.umich.edu/11476377/foodways_in_roman_republican_italy)* byLaura Banducci
-
-
-          *[Queer Nightlife](https://www.press.umich.edu/11700274/queer_nightlife)* edited byKemi Adeyemi, Kareem Khubchandani, and Ramón H. Rivera-Servera
+          *[Queer Nightlife](https://www.press.umich.edu/11700274/queer_nightlife)* edited by Kemi Adeyemi, Kareem Khubchandani, and Ramón H. Rivera-Servera
 
 
           *[Bankruptcy and Debt Collection in Liberal Capitalism](https://www.press.umich.edu/11600140/bankruptcy_and_debt_collection_in_liberal_capitalism)* by Mischa Suter
+
+
+          *[Writing Pirates](https://www.press.umich.edu/11564671/writing_pirates)* by Yuanfei Wang
+
+
+          *[Opposing Democracy in the Digital Age](https://www.press.umich.edu/11666233/opposing_democracy_in_the_digital_age)* by Aim Sinpeng
       - type: spacer
         spacer: Spacer
   - heading: Highlights for Learners
-    subheading: Shaun Manning, Sales Manager for UMP, shares his picks for general
-      readers and college and university faculty and lecturers
+    subheading: Shaun Manning, Sales Manager, shares his picks for general readers
+      and college and university faculty and lecturers
     content:
       - type: profile
         profile: Shaun Manning
@@ -98,7 +101,10 @@ sections:
           *[Catalogue of Greek Manuscripts at U-M](https://www.press.umich.edu/7275146/catalogue_of_greek_manuscripts_at_the_university_of_michigan_ann_arbor)* by Nadezhda Kavrus-Hoffmann with the collaboration of Pablo Alvarez 
 
 
-          In Concert by Auslander /
+          *[In Concert](https://www.press.umich.edu/10182371/in_concert)* by Philip Auslander
+
+
+          *[Foodways in Roman Republican Italy](https://www.press.umich.edu/11476377/foodways_in_roman_republican_italy)* by Laura Banducci
       - type: spacer
         spacer: Spacer
   - heading: Highlights for the Media
