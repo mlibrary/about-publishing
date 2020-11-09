@@ -53,7 +53,7 @@ sections:
             title: ""
             text: Translocas explores the lives and work of contemporary performers and
               activists, literary works, film, and television, including the
-              popular show "RuPaul's Drag Race"
+              popular show "RuPaul's Drag Race."
           - image: ""
             image_alt: ""
             title: ""
