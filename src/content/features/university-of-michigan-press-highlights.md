@@ -102,13 +102,13 @@ sections:
       - type: cta
         image: /assets/iqlqu4dw_400x400.png
         heading: Explore More University of Michigan Press Titles
-        button_link: press.umich.edu
-        text: "There are many more exciting University of Michigan Press titles
-          available to explore online. Browse all of UMP's fall 2020 and spring
-          2021 titles, learn more about holiday discount offers, and get details
-          about the University of Michigan Press Ebook Collection (UMP EBC), a
-          comprehensive collection of UMP scholarly ebooks for sale to
-          libraries, visit the Press website below. "
+        button_link: https://www.press.umich.edu/
+        text: There are many more exciting University of Michigan Press titles available
+          to explore online. Visit our website to browse all fall 2020 and
+          spring 2021 titles, learn more about holiday discount offers, and get
+          details about the University of Michigan Press Ebook Collection (UMP
+          EBC), a comprehensive collection of UMP scholarly ebooks for sale to
+          libraries.
         button_text: Visit the press website
 related_stories:
   - ""
