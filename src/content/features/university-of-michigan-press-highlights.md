@@ -2,7 +2,7 @@
 published: true
 type: feature
 title: "University of Michigan Press Highlights "
-subtitle: 2020 and 2021 Titles
+subtitle: Fall 2020 and Spring 2021 Titles
 path: /features/ump-highlights
 hero:
   text: ""
@@ -133,4 +133,6 @@ sections:
 related_stories:
   - ""
 ---
-The University of Michigan Press
+The University of Michigan Press, a library-based publisher, publishes the highest quality peer-reviewed, faculty-selected scholarship in the arts, humanities, and social sciences, with particular strength in political science, performing arts, American Studies, classics and media studies. The Press also has vibrant lists in East Asian, African, and German studies.
+
+The Fall 2020 and Spring 2021 lists showcase these strengths while also
