@@ -116,7 +116,11 @@ sections:
       - type: youtube
         id: MMOp1a1etis
       - type: highlight
-        text: "**Additional Picks for the Media**"
+        text: >-
+          **Additional Picks for the Media**
+
+
+          *[a tumblr book](https://doi.org/10.3998/mpub.11537055)* edited by Allison McCracken, Alexander Cho, Louisa Stein, and Indira Neill Hoch
       - type: spacer
         spacer: Spacer
       - type: cta
