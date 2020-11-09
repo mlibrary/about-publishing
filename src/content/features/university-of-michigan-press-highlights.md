@@ -53,7 +53,8 @@ sections:
           - image: ""
             image_alt: ""
             title: Defining "Locas"
-            text: Effeminate men, drag queens, transgender performers, and unruly women
+            text: The author defines Latin American and Latinx “locas” as effeminate men,
+              drag queens, transgender performers, and unruly women.
           - image: ""
             image_alt: ""
             title: ""
