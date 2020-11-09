@@ -62,9 +62,9 @@ sections:
               Lola von Miramar.
         quote:
           name: Emma DiPasquale
-          title: Engagement Manager at the University of Michigan Press
-          quote: "Translocas invites readers to challenge, question, and expand their
-            knowledge about queer life, drag, and trans performance, "
+          title: Engagement Manager
+          quote: Translocas invites readers to challenge, question, and expand their
+            knowledge about queer life, drag, and trans performance.
       - type: highlight
         text: >-
           **Additional Picks for Libraries**
