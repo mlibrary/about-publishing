@@ -61,6 +61,8 @@ sections:
 
 
           *[Bankruptcy and Debt Collection in Liberal Capitalism](https://www.press.umich.edu/11600140/bankruptcy_and_debt_collection_in_liberal_capitalism)* by Mischa Suter
+      - type: spacer
+        spacer: Spacer
   - heading: Highlights for Learners
     subheading: Shaun Manning, Sales Manager for UMP, shares his picks for general
       readers and college and university faculty and lecturers
@@ -81,6 +83,8 @@ sections:
 
 
           In Concert by Auslander /
+      - type: spacer
+        spacer: Spacer
   - heading: Highlights for Media
     subheading: Theresa Schmid, Publicity and Promotions Coordinator, shares her
       picks for the media
@@ -91,6 +95,8 @@ sections:
         id: MMOp1a1etis
       - type: highlight
         text: "**Additional Picks for the Media**"
+      - type: spacer
+        spacer: Spacer
 related_stories:
   - ""
 ---
