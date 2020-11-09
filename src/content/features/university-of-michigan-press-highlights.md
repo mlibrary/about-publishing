@@ -61,6 +61,12 @@ sections:
 
 
           *[Bankruptcy and Debt Collection in Liberal Capitalism](https://www.press.umich.edu/11600140/bankruptcy_and_debt_collection_in_liberal_capitalism)* by Mischa Suter
+  - heading: Highlights for Learners
+    subheading: Shaun Manning, Sales Manager for UMP, shares his picks for general
+      readers and academic faculty
+    content:
+      - type: youtube
+        id: dDdFl3P7YAE
 related_stories:
   - ""
 ---
