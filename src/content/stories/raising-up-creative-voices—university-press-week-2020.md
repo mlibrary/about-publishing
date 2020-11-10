@@ -20,6 +20,7 @@ highlight_box:
   text: ""
 books:
   - i used to love to dream
+  - Everybody In, Nobody Out
 profiles:
   - ""
 related_stories:
@@ -63,4 +64,4 @@ Following his groundbreaking dissertation album, scholar and artist A.D. Carson 
 
 This interdisciplinary, auto-ethnographic, queer-of-color performance studies book focuses on drag and transgender performance and activism in Puerto Rico and its diaspora. La Fountain-Stokes, a drag performer himself, demonstrates how these performances provide a means to explore and critique issues of gender, sexuality, race, class, poverty, national identity, and migratory displacement.
 
-<blockquote class="quote full yellow"><p>“Impeccably researched and offering a wealth of information about Puerto Rican drag and trans performance, this book succeeds in summarizing and explaining a diverse, complex and polemical visual, literary and scholarly corpus—and proposing theoretically innovative and compelling, decolonial readings of Puerto Rican performative cultures.”</p><footer><cite>- Arnaldo Cruz-Malavé<br>Fordham University</cite></footer></blockquote>
+<blockquote class="quote floated yellow"><p>“Impeccably researched and offering a wealth of information about Puerto Rican drag and trans performance, this book succeeds in summarizing and explaining a diverse, complex and polemical visual, literary and scholarly corpus—and proposing theoretically innovative and compelling, decolonial readings of Puerto Rican performative cultures.”</p><footer><cite>- Arnaldo Cruz-Malavé<br>Fordham University</cite></footer></blockquote>
