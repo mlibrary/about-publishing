@@ -21,7 +21,7 @@ sections:
         image_alt: Photograph of pink peonies in green grass with "University of
           Michigan Press" written in white font in a red banner that runs across
           the photograph.
-        text: The spring 2021 catalog
+        text: Spring 2021 Catalog
       - type: cta
         image_alt: Picture gold, blue, and white paint mixed together with "University
           of Michigan Press" written in white font in a dark banner that runs
@@ -30,7 +30,7 @@ sections:
         heading: Fall 2020 Catalog
         image: /assets/f20_cover.jpg
         button_link: https://www.press.umich.edu/catalog/f20catalog.pdf
-        text: The Fall 2020 catalog
+        text: Fall 2020 Catalog
       - type: spacer
         spacer: Spacer
     subheading: Browse University of Michigan Press's Fall 2020 and Spring 2021 catalogs
@@ -137,6 +137,6 @@ sections:
 related_stories:
   - ""
 ---
-The University of Michigan Press, a library-based publisher, publishes the highest quality peer-reviewed, faculty-selected scholarship in the arts, humanities, and social sciences, with particular strength in political science, performing arts, American Studies, classics and media studies. The Press also has vibrant lists in East Asian, African, and German studies.
+The University of Michigan Press publishes the highest quality peer-reviewed, faculty-selected scholarship in the arts, humanities, and social sciences, with particular strength in political science, performing arts, American Studies, classics and media studies. The Press also has vibrant lists in East Asian, African, and German studies.
 
-The Fall 2020 and Spring 2021 lists showcase these strengths while also
+The Fall 2020 and Spring 2021 lists showcase these strengths.
