@@ -45,11 +45,11 @@ This author’s debut book encourages readers to reimagine a global class perpet
 
 **Interview with Kareem Khubchandani on New Books Network**<iframe frameBorder="0" height="210" scrolling="no" src="https://playlist.megaphone.fm/?e=LIT1249293915" width="100%"></iframe>
 
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*The Detroit News* | “Ken Fischer memoir details 30 years of performances at Ann Arbor's UMS”](https://www.detroitnews.com/story/entertainment/2020/08/19/ken-fischer-memoir-details-30-years-performances-ann-arbors-ums-university-musical-society/3394376001/)**</div>
+
 ### **Ken Fischer with Robin Lea Pyle, [Everybody In, Nobody Out: Inspiring Community at Michigan's University Musical Society](https://www.press.umich.edu/9902056/everybody_in_nobody_out) (July 2020)**
 
 Written by the former President of the renowned University Musical Society at the University of Michigan, this book describes a decades-long ambitious campaign to expand and diversify the organization’s programming and audiences—initiatives inspired by Fischer’s overarching philosophy toward promoting the arts, “Everybody In, Nobody Out.” Fischer reflects on the power of the performing arts to engage and enrich communities—not by handing down cultural enrichment from on high, but by meeting communities where they live and helping them preserve cultural heritage, incubate talent, and find ways to make community voices heard.
-
-<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*The Detroit News* | “Ken Fischer memoir details 30 years of performances at Ann Arbor's UMS”](https://www.detroitnews.com/story/entertainment/2020/08/19/ken-fischer-memoir-details-30-years-performances-ann-arbors-ums-university-musical-society/3394376001/)**</div>
 
 ### **A.D. Carson, [i used to love to dream](https://www.press.umich.edu/11738372/i_used_to_love_to_dream) (August 2020)**
 
