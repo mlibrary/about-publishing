@@ -31,13 +31,13 @@ Supporting innovative scholarship is a key value at the University of Michigan P
 
 Providing a space for these exceptional creative experts helps broaden discussions of how best to share and recognize new ideas in these highly visual and auditory spaces. Whether the authors are examining underdeveloped areas of their field, speaking to their own extraordinary experiences, or taking advantage of new technologies for heightened creative and pedagogical outcomes, the University of Michigan Press has set several examples of how to raise these voices through academic publishing.
 
-### **Danielle Fosler-Lussier, [Music on the Move](https://www.press.umich.edu/9853855/music_on_the_move) (June 2020)**
-
-This media-rich, open access text explores the cultural, linguistic, and political migrations of music in a variety of genres and styles. The author's globally-minded examination of key concepts such as migration, diaspora, mediation, propaganda, copyright, and hybridity uses dozens of audio clips, video-taped performances, images, interactive maps and charts to fully immerse the reader in Fosler-Lussier’s research.
-
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">WATCH
 
 [UMP Author Live Talk: The Mobile Art of Music with Danielle Fosler-Lussier](https://www.youtube.com/watch?v=Hb8jXLQ0XaY)</div>
+
+### **Danielle Fosler-Lussier, [Music on the Move](https://www.press.umich.edu/9853855/music_on_the_move) (June 2020)**
+
+This media-rich, open access text explores the cultural, linguistic, and political migrations of music in a variety of genres and styles. The author's globally-minded examination of key concepts such as migration, diaspora, mediation, propaganda, copyright, and hybridity uses dozens of audio clips, video-taped performances, images, interactive maps and charts to fully immerse the reader in Fosler-Lussier’s research.
 
 ### **Kareem Khubchandani, [Ishtyle: Accenting Gay Indian Nightlife](https://www.press.umich.edu/9958984/ishtyle) (July 2020)**
 
