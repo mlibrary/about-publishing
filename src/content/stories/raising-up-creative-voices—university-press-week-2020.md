@@ -34,11 +34,11 @@ Providing a space for these exceptional creative experts helps broaden discussio
 
 [UMP Author Live Talk: The Mobile Art of Music with Danielle Fosler-Lussier](https://www.youtube.com/watch?v=Hb8jXLQ0XaY)</div>
 
-### **Danielle Fosler-Lussier, [Music on the Move](https://www.press.umich.edu/9853855/music_on_the_move) (June 2020)**
+### **Danielle Fosler-Lussier, *[Music on the Move](https://www.press.umich.edu/9853855/music_on_the_move)* (June 2020)**
 
 This media-rich, open access text explores the cultural, linguistic, and political migrations of music in a variety of genres and styles. The author's globally-minded examination of key concepts such as migration, diaspora, mediation, propaganda, copyright, and hybridity uses dozens of audio clips, video-taped performances, images, interactive maps and charts to fully immerse the reader in Fosler-Lussier’s research.
 
-### **Kareem Khubchandani, [Ishtyle: Accenting Gay Indian Nightlife](https://www.press.umich.edu/9958984/ishtyle) (July 2020)**
+### **Kareem Khubchandani, *[Ishtyle: Accenting Gay Indian Nightlife](https://www.press.umich.edu/9958984/ishtyle)* (July 2020)**
 
 This author’s debut book encourages readers to reimagine a global class perpetually represented as docile and desexualized workers caught in the web of global capitalism through the study of the gay nightlife and performance of queer South Asian men in Bangalore and Chicago. Ultimately, *Ishtyle* demonstrates that the unlikely site of nightlife can be a productive venue for the study of global politics and its institutional hierarchies.
 
@@ -46,13 +46,13 @@ This author’s debut book encourages readers to reimagine a global class perpet
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*The Detroit News* | “Ken Fischer memoir details 30 years of performances at Ann Arbor's UMS”](https://www.detroitnews.com/story/entertainment/2020/08/19/ken-fischer-memoir-details-30-years-performances-ann-arbors-ums-university-musical-society/3394376001/)**</div>
 
-### **Ken Fischer with Robin Lea Pyle, [Everybody In, Nobody Out: Inspiring Community at Michigan's University Musical Society](https://www.press.umich.edu/9902056/everybody_in_nobody_out) (July 2020)**
+### **Ken Fischer with Robin Lea Pyle, *[Everybody In, Nobody Out: Inspiring Community at Michigan's University Musical Society](https://www.press.umich.edu/9902056/everybody_in_nobody_out)* (July 2020)**
 
 Written by the former President of the renowned University Musical Society at the University of Michigan, this book describes a decades-long ambitious campaign to expand and diversify the organization’s programming and audiences—initiatives inspired by Fischer’s overarching philosophy toward promoting the arts, “Everybody In, Nobody Out.” Fischer reflects on the power of the performing arts to engage and enrich communities—not by handing down cultural enrichment from on high, but by meeting communities where they live and helping them preserve cultural heritage, incubate talent, and find ways to make community voices heard.
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*Inside Higher Ed* | "Scholarly Rap"](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)**</div>
 
-### **A.D. Carson, [i used to love to dream](https://www.press.umich.edu/11738372/i_used_to_love_to_dream) (August 2020)**
+### **A.D. Carson, *[i used to love to dream](https://www.press.umich.edu/11738372/i_used_to_love_to_dream)* (August 2020)**
 
 Following his groundbreaking dissertation album, scholar and artist A.D. Carson released with the University of Michigan Press the first peer-reviewed rap album from an academic publisher this year. Carson created a new format—the mixtap/e/ssay, combining the mixtape and personal and scholarly essay—and composed and performed fourteen tracks that account for moral, philosophical, and ethical dimensions undergirding unease about authenticity, highlighting outlooks on Black life generally, and Black manhood in particular, in the United States.
 
