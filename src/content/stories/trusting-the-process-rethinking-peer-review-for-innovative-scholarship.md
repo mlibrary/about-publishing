@@ -16,12 +16,9 @@ story_image:
 date: 2020-10-21T18:32:23.379Z
 highlight_box:
   text: >-
-    Watch A.D. Carson, Sara Jo Cohen, and Loren Kajikawa speak about the peer
-    review process in a video created for Peer Review Week 2020:
-    <https://www.youtube.com/watch?v=AfK2yPptJG0>
-
-
-    Read more about the publishing process for the first-ever hip-hop album in[ this article from *Inside Higher Ed*.](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)
+    Read more about the publishing process for the first-ever hip-hop album in[
+    this article from *Inside Higher
+    Ed*.](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)
 
 
     Take a look at the [University of Michigan Press's standard peer review questions](https://drive.google.com/file/d/1IErOfkNW0igSI26EJgx9tinaDfnCKPy8/view?usp=sharing) versus the [peer review questions developed for *i used to love to dream*](https://drive.google.com/file/d/1231gvo8pFAZtliI5xEZJt77efjiNBNNZ/view?usp=sharing)*.*
@@ -52,3 +49,7 @@ The revised questions considered the digital affordances of the Fulcrum platform
 > —Loren Kajikawa, Series Editor for *Tracking Pop* at the University of Michigan Press
 
 Publishing innovative projects like *i used to love to dream* is critical in amplifying underrepresented voices in academia and challenging traditional ideas of what scholarship is and who it is for. Black scholars make up a [very small percentage](https://nces.ed.gov/fastfacts/display.asp?id=61) of those in the academy, so publishing works like A.D. Carson’s is critical in allowing authors to present their work in a way that is intelligible to tenure and promotion committees and that reaches global audiences. *i used to love to dream* has seen high global public engagement, captured through [Altmetric analytics](https://umichpress.altmetric.com/details/87730540).
+
+**Watch A.D. Carson, Sara Jo Cohen, and Loren Kajikawa speak about the peer review process in a video created for Peer Review Week 2020:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AfK2yPptJG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
