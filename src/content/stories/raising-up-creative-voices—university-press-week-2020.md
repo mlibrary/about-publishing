@@ -50,6 +50,10 @@ This author’s debut book encourages readers to reimagine a global class perpet
 
 Written by the former President of the renowned University Musical Society at the University of Michigan, this book describes a decades-long ambitious campaign to expand and diversify the organization’s programming and audiences—initiatives inspired by Fischer’s overarching philosophy toward promoting the arts, “Everybody In, Nobody Out.” Fischer reflects on the power of the performing arts to engage and enrich communities—not by handing down cultural enrichment from on high, but by meeting communities where they live and helping them preserve cultural heritage, incubate talent, and find ways to make community voices heard.
 
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m3yyrGfpC3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*Inside Higher Ed* | "Scholarly Rap"](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)**</div>
 
 ### **A.D. Carson, *[i used to love to dream](https://www.press.umich.edu/11738372/i_used_to_love_to_dream)* (August 2020)**
