@@ -52,6 +52,8 @@ Written by the former President of the renowned University Musical Society at th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m3yyrGfpC3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*Inside Higher Ed* | "Scholarly Rap"](https://www.insidehighered.com/news/2020/10/05/university-michigan-press-releases-first-rap-album-academic-publisher)**</div>
 
 ### **A.D. Carson, *[i used to love to dream](https://www.press.umich.edu/11738372/i_used_to_love_to_dream)* (August 2020)**
