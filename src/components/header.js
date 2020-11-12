@@ -3,8 +3,6 @@ import React, { Component } from "react"
 
 import Navigation from "./navigation"
 
-import { UniversalHeader } from "@umich-lib/core"
-
 class Header extends Component {
   state = {
     active: false,
@@ -22,10 +20,8 @@ class Header extends Component {
             this.state.active ? "block" : "hidden"
           }`}
           onClick={this.hamburgerClick}
-        ></div>
-        <div className="universal-header-container">
-          <UniversalHeader />
-        </div>
+        ></div>        
+        <m-universal-header></m-universal-header>
         <div className="container relative flex items-center justify-between px-4 pt-8 pb-4 mx-auto lg:block lg:px-10">
           <h1 className="mr-6 lg:mb-8 lg:w-5/12">
             <AniLink fade duration={0.25} to="/">
