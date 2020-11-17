@@ -625,9 +625,3 @@ blockquote.quote > p::after {
 .profile-quote::after {
   content: '"';
 }
-
-/* Universal Header */
-.universal-header-container ul {
-  list-style: none;
-  margin: 0;
-}
