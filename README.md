@@ -1,4 +1,3 @@
-Test
 ## 🚀 Quick start
 
 1.  **Start developing.**
