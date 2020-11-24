@@ -17,7 +17,9 @@ export const wrapPageElement = ({ element }) => {
           <div>
             <m-universal-header></m-universal-header>
           </div>
-          {element}
+	  <div>
+            {element}
+	  </div>
         </div>
       </React.Fragment>
     )
