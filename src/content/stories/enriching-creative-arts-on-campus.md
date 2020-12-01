@@ -5,14 +5,14 @@ categories:
 title: Enriching Creative Arts on Campus
 path: /stories-of-impact/Enriching-Creative-Arts
 hero:
-  text: The New York Philharmonic performs at Hill Auditorium, October 10, 2015.
+  text: ""
   story_hero_image: /assets/p169-cover-image.jpg
 story_image:
   caption: On September 10, 2015, President Barack Obama awarded UMS the 2014
     National Medal of the Arts, the nation’s highest public artistic honor,
     given to those who have “demonstrated a lifetime of creative excellence.”
   credit: ""
-  file: /assets/p164.jpg
+  file: /assets/fischer-obama-hero.jpg
   alt: Ken Fischer of University Musical Society shakes hands with President
     Barack Obama
 date: 2020-12-01T21:12:34.339Z
