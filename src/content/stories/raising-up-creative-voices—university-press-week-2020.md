@@ -24,6 +24,7 @@ profiles:
 related_stories:
   - "Trusting the Process: Rethinking Peer Review for Innovative Scholarship"
   - Adding Diversity to the Data Mix
+  - Enriching Creative Arts on Campus
 type: story
 ---
 Supporting innovative scholarship is a key value at the University of Michigan Press, and one prominent subject area where this is highlighted through a diverse array of scholarship is in its music and performance studies titles. The Press’ forward-thinking, inclusive editorial and production teams have helped several authors with unique voices publish works that share new research in these topics in exciting ways.
