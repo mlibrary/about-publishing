@@ -99,6 +99,9 @@ sections:
         button_text: Explore the Catalog
         heading: University of Michigan Press Asian Studies Catalog
         button_link: press.umich.edu
+      - type: image
+        image: /assets/screen-shot-2020-08-13-at-11.35.00-am.png
+        image_alt: Collage of Asian Studies book cover illustrations
     heading: Asian Studies Books
     subheading: Read titles from University of Michigan Press
   - heading: Learn More
