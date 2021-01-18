@@ -14,7 +14,8 @@ feature_image:
 sections:
   - heading: About the Event
     id: event
-    subheading: Friday, February 26, 1-5 PM ET (US)
+    subheading: Open Access Publishing in Asian Studies | Friday, February 26, 1-5
+      PM ET (US)
     content:
       - type: highlight
         text: >-
@@ -48,7 +49,7 @@ sections:
 
           * Reggie/Markus book proposal workshop \[link out]
 
-          * [The Politics of Volume and the Poetics of Reverberations across the Black Pacific](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html) | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
+          * *[The Politics of Volume and the Poetics of Reverberations across the Black Pacific](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html)* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
 
           * Meet the Author Events
 
