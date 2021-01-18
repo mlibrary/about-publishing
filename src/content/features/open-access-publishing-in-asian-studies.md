@@ -190,7 +190,7 @@ sections:
           Lieberthal and Richard H. Rogel Center for Chinese Studies University
           of Michigan"
       - type: image
-        image: /assets/cseas_logo_rgb.png
+        image: /assets/cseas_logo_2c.jpg
         image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
           Southeast Asian Studies University of Michigan"
 related_stories:
