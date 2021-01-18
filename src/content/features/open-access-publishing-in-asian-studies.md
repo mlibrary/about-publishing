@@ -52,7 +52,7 @@ sections:
           * Meet the Author Events
 
 
-          Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth
+          Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
   - content:
       - type: cta
         image: /assets/neh-brochure.png
