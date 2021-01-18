@@ -107,7 +107,7 @@ sections:
     content:
       - type: cta
         heading: "Sign up "
-        text: "Sign up for "
+        text: "Sign up for mailing lists that will share updates on ... "
         button_text: Sign Up Here
         button_link: press.umich.edu
       - type: image
