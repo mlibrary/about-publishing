@@ -15,7 +15,7 @@ sections:
   - heading: About the Event
     id: event
     subheading: Open Access Publishing in Asian Studies | Friday, February 26, 1-5
-      PM ET (US)
+      p.m. ET (US)
     content:
       - type: highlight
         text: >-
@@ -31,9 +31,10 @@ sections:
         id: register
         heading: Register for the Event
         text: >+
-          The event will take place on Friday, February 26, 1-5 PM ET (US). This
-          virtual event is free and open to the public. Registration is required
-          to receive the Zoom link and other event-related information.
+          The event will take place on Friday, February 26 from 1-5 p.m. ET
+          (US). This virtual event is free and open to the public. Registration
+          is required to receive the Zoom link and other event-related
+          information.
 
         button_text: Register Now
         button_link: publishing.umich.edu
