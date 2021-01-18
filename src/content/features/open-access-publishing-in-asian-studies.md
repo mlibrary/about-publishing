@@ -7,7 +7,7 @@ subtitle: A Collaboration between the University of Michigan Press and
 path: /publishing-asian-studies
 hero:
   text: ""
-  feature_hero_image: /assets/untitled-1.png
+  feature_hero_image: ""
 feature_image:
   file: /assets/untitled-1.png
   alt: On a navy background, text 'Placeholder Image'
