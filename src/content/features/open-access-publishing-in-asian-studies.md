@@ -39,8 +39,8 @@ sections:
         button_link: publishing.umich.edu
       - type: highlight
         text: >-
-          ***You may also be interested in other virtual events related to Asian
-          Studies publishing:***
+          ***You may also be interested in other Asian Studies virtual
+          events:***
 
 
           * Korean Cinema, hosted by the Nam Center for Korean Studies \[link out]
