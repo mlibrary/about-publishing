@@ -23,17 +23,17 @@ sections:
           of Michigan Press*
 
 
-          This event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies) so far, and asks “where do we go from here?” While it is focused on the Michigan publications as a case study, the panel aims to explore more broadly the opportunities for Open Access publishing in Asian studies more generally. **The full program for the event is available [here](https://publishing.umich.edu/assets/eventprogram.pdf).**
+          The Open Access Publishing in Asian Studies event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies) so far, and asks “where do we go from here?” While it is focused on the Michigan publications as a case study, the panel aims to explore more broadly the opportunities for Open Access publishing in Asian studies more generally. **The full program for the event is available [here](https://publishing.umich.edu/assets/eventprogram.pdf).**
 
 
-          Thank you to the directors of the participating centers (CJS, CSAS, CSEAS, LRCCS, NCKS) and Asia Library: The Center for Japanese Studies: Reginald Jackson; The Lieberthal-Rogel Center for Chinese Studies: Twila Tardif; The Center for South Asian Studies: Jatin Dua; The Center for Southeast Asian Studies: Laura Rozek; The Nam Center for Korean Studies: Nojin Kwak; The Asia Library: Dawn Lawson.
+          Thank you to the directors of the participating Centers and U-M Asia Library: Reginald Jackson (Center for Japanese Studies); Twila Tardif (Lieberthal-Rogel Center for Chinese Studies); Jatin Dua (Center for South Asian Studies); Laura Rozek (Center for Southeast Asian Studies); Nojin Kwak (Nam Center for Korean Studies:); and Dawn Lawson (U-M Asia Library).
       - type: cta
         id: register
         heading: Register for the Event
         text: >-
-          This Zoom event is free and open to the public. Registration is
-          required to receive the link and other related information about the
-          event.
+          This virtual event is free and open to the public. Registration is
+          required to receive the Zoom link and other related information about
+          the event.
 
 
           Friday, February 26, 1-5 PM ET (US)
@@ -87,7 +87,7 @@ sections:
           [Read titles from the Center for Southeast Asian Studies](https://www.fulcrum.org/cseas)
 
 
-          [Read titles from  the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies](https://www.fulcrum.org/lrccs)
+          [Read titles from the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies](https://www.fulcrum.org/lrccs)
 
 
           [Read titles from the Center for Japanese Studies](https://www.fulcrum.org/cjs)
@@ -163,6 +163,12 @@ sections:
 
 
           [Twitter](https://twitter.com/UofMPress) | [Facebook](https://www.facebook.com/pages/University-of-Michigan-Press/37383103953?ref=ts) | [Youtube](https://www.youtube.com/user/umichpress)
+      - type: spacer
+        spacer: Spacer
+      - type: image
+        image: /assets/ump_horizontal_blue_rgb.png
+        image_alt: University of Michigan Press logo with University of Michigan Press
+          written to the right of it in navy blue text.
       - type: image
         image: /assets/csas_logo_4c.png
         image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
@@ -194,4 +200,4 @@ related_stories:
 
 Open Access publishing means that ebooks can be read by anybody in the world with access to an internet connection. Because open access titles are openly-licensed and downloadable as well as free-to-read online, they are now also available for integration into digital scholarship projects. As book publishing moves increasingly digital, an International Institute collaboration with the U-M Press and with the Asia Library offers new opportunities for imaginative publishing that transcends disciplinary boundaries, reaches readers outside as well as inside the academy, and extends the understanding of Asian culture, history, and society around the world.
 
-Over the last 50 years, the centers now housed in the University of Michigan International Institute have published over 300 ground-breaking books about East, South, and Southeast Asia. In 2018, these centers collaborated with University of Michigan Press and the U-M Asia Library to successfully apply for a [Humanities Open Book program grant](https://www.neh.gov/project/michigan-asian-studies-open-access-books-collection) from the National Endowment for the Humanities and the Andrew W. Mellon Foundation, aimed at making important backlist books broadly available again. This funding has allowed a complete record of the centers’ publications to be compiled and for 100 selected titles to be brought back into print and made digitally-available open access. These are now all freely available on major online platforms including JSTOR, Project MUSE, OAPEN, and as part of the University of Michigan Press Ebook Collection.
+Over the last 50 years, the centers now housed in the University of Michigan International Institute have published over 300 ground-breaking books about East, South, and Southeast Asia. In 2018, these centers collaborated with the University of Michigan Press and the U-M Asia Library to successfully apply for a [Humanities Open Book Program grant](https://www.neh.gov/project/michigan-asian-studies-open-access-books-collection) from the National Endowment for the Humanities and the Andrew W. Mellon Foundation, aimed at making important backlist books broadly available again. This funding has allowed a complete record of the centers’ publications to be compiled and for 100 selected titles to be brought back into print and made digitally-available open access. These are now all freely available on major online platforms including JSTOR, Project MUSE, OAPEN, and as part of the University of Michigan Press Ebook Collection.
