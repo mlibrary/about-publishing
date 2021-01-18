@@ -102,11 +102,12 @@ sections:
     heading: Asian Studies Books
     subheading: Read titles from University of Michigan Press
   - heading: Learn More
-    subheading: Stay in touch
+    subheading: Stay in touch with social media and newsletters
     content:
       - type: cta
-        heading: "Sign up "
-        text: "Sign up for mailing lists that will share updates on ... "
+        heading: Sign up for our mailing lists
+        text: "Sign up for the University of Michigan Press mailing list that will share
+          updates about Asian Studies books, events, and more. "
         button_text: Sign Up Here
         button_link: press.umich.edu
       - type: highlight
