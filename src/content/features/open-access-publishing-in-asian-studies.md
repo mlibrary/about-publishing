@@ -30,13 +30,11 @@ sections:
       - type: cta
         id: register
         heading: Register for the Event
-        text: >-
-          This virtual event is free and open to the public. Registration is
-          required to receive the Zoom link and other related information about
-          the event.
+        text: >+
+          The event will take place on Friday, February 26, 1-5 PM ET (US). This
+          virtual event is free and open to the public. Registration is required
+          to receive the Zoom link and other event-related information.
 
-
-          Friday, February 26, 1-5 PM ET (US)
         button_text: Register Now
         button_link: publishing.umich.edu
       - type: highlight
