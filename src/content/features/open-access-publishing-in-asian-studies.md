@@ -90,9 +90,6 @@ sections:
 
 
           [Read titles from the Center for Japanese Studies](https://www.fulcrum.org/cjs)
-      - type: image
-        image: /assets/screen-shot-2020-08-14-at-1.56.46-pm.png
-        image_alt: Collage of variety of Asian Studies book covers
       - type: cta
         text: The University of Michigan Press is increasingly strong in international
           relations and area studies, with a particular focus on East and
