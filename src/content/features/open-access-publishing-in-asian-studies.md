@@ -123,6 +123,15 @@ sections:
         caption: ""
         image_alt: Block yellow "M" to the left of navy text that reads "LSA NAM Center
           for Korean Studies University of Michigan"
+      - type: image
+        image: /assets/cjs_logo_4c.png
+        image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
+          Japanese Studies University of Michigan"
+      - type: image
+        image: /assets/lrccs_logo_4c.jpg
+        image_alt: Block yellow "M" to the left of navy text that reads "LSA Kenneth G.
+          Lieberthal and Richard H. Rogel Center for Chinese Studies University
+          of Michigan"
 related_stories:
   - ""
 ---
