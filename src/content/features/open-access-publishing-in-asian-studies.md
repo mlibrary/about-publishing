@@ -110,6 +110,26 @@ sections:
         text: "Sign up for "
         button_text: Sign Up Here
         button_link: press.umich.edu
+      - type: image
+        image: /assets/lrccs_stacked_4c-copy.jpg
+        image_alt: Block "M" in yellow over bold navy text that reads "Lieberthal-Rogel
+          Center for Chinese Studies University of Michigan"
+      - type: image
+        image: /assets/ncks_stacked_4c.jpg
+        image_alt: Block "M" in yellow over bold navy text that reads "NAM Center for
+          Korean Studies University of Michigan"
+      - type: image
+        image: /assets/cseas_logo_stacked_4c.png
+        image_alt: Block "M" in yellow over bold navy text that reads "Center for
+          Southeast Asian Studies University of Michigan"
+      - type: image
+        image: /assets/csas_stacked_4c-2.png
+        image_alt: Block "M" in yellow over bold navy text that reads "Center for South
+          Asian Studies University of Michigan"
+      - type: image
+        image: /assets/japanese_stacked_4c.png
+        image_alt: Block "M" in yellow over bold navy text that reads "Center for
+          Japanese Studies University of Michigan"
 related_stories:
   - ""
 ---
