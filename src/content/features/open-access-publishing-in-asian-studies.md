@@ -135,7 +135,7 @@ sections:
 related_stories:
   - ""
 ---
-Register for the Open Access Publishing in Asian Studies event, and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan.
+**Register for the Open Access Publishing in Asian Studies event, and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan.**
 
 —
 
