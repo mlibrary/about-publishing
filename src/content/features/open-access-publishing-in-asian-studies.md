@@ -111,7 +111,7 @@ sections:
         button_link: press.umich.edu
       - type: highlight
         text: >-
-          *Follow the Centers and University of Michigan Press on Social Media*
+          *Follow the Centers and University of Michigan Press on social media*
 
 
 
