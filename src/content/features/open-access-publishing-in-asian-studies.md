@@ -110,6 +110,94 @@ sections:
         text: "Sign up for mailing lists that will share updates on ... "
         button_text: Sign Up Here
         button_link: press.umich.edu
+      - type: highlight
+        text: >-
+          Be sure to follow the Centers and University of Michigan Press on
+          social media.
+
+
+
+
+          **Center for South Asian Studies**
+
+
+          Twitter: [@umCSAS](https://twitter.com/umCSAS)
+
+
+          Facebook: @UMCSAS
+
+
+          Youtube: [https://www.youtube.​com/user/umcsas](https://www.youtube.com/user/umcsas)
+
+
+
+
+          **Center for Southeast Asian Studies**
+
+
+          Twitter: [@UMCSEAS](https://twitter.com/UMCSEAS)
+
+
+          Facebook: [https://www.​facebook.com/umcseas](https://www.facebook.com/umcseas)
+
+
+          Youtube: [https://www.youtube.​com/user/umcseas](https://www.youtube.com/user/umcseas)
+
+
+
+
+          **Lieberthal-Rogel Center for Chinese Studies** 
+
+
+          Twitter: [@MichiganChina](https://twitter.com/​MichiganChina)
+
+
+          Facebook: [@centerforchinesestudies]([https://www.facebook.com/​centerforchinesestudies](https://www.facebook.com/centerforchinesestudies))
+
+
+          Youtube: [https://www.youtube.com/​channel/​UCh1JmoKwIMuzdJbxMyiQrQw](https://www.youtube.com/channel/UCh1JmoKwIMuzdJbxMyiQrQw)
+
+
+
+
+          **Center for Japanese Studies**
+
+
+          Twitter: [@UMCJS](https://twitter.com/UMCJS)
+
+
+          Facebook: [facebook.com/umcjs](http://facebook.com/umcjs) (​@umcjs)
+
+
+          Youtube: [https://www.youtube.​com/user/umcjs/](https://www.youtube.com/user/umcjs/)
+
+
+
+
+          **Nam Center for Korean Studies** 
+
+
+          Twitter: [@MichiganKorea](https://twitter.com/MichiganKorea)
+
+
+          Facebook: @NamCenter [https://​www.facebook.com/NamCenter](https://www.facebook.com/NamCenter)
+
+
+          YouTube: [https://www.​youtube.com/channel/​UCS3WxYxar3WJvcHLRiQh-Tg](https://www.youtube.com/channel/UCS3WxYxar3WJvcHLRiQh-Tg)
+
+
+
+
+          **University of Michigan Press**
+
+
+          Twitter: [@UofMPress](https://twitter.com/UofMPress)
+
+
+          Facebook: 
+
+
+          YouTube: <https://www.youtube.com/user/umichpress>
       - type: image
         image: /assets/csas_logo_4c.png
         image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
