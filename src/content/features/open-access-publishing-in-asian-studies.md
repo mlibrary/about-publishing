@@ -113,8 +113,8 @@ sections:
         button_link: press.umich.edu
       - type: highlight
         text: >-
-          Be sure to follow the Centers and University of Michigan Press on
-          social media.
+          *Follow the Centers and University of Michigan Press on Twitter,
+          Facebook, and YouTube*
 
 
 
