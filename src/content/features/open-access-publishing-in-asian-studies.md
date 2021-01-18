@@ -54,6 +54,54 @@ sections:
 
 
           Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth
+  - content:
+      - type: cta
+        image: /assets/neh-brochure.png
+        heading: Michigan Asian Studies Open Access Books Collection
+        text: >+
+          Through the Humanities Open Book Program, the University of Michigan
+          Press has made 100 significant books about Asia freely and publicly
+          available online, in editions that enrich the reading and teaching
+          experience through digital enhancements. These titles advance public
+          understanding of the diversity of society, culture, and history in
+          East, South, and Southeast Asia at a time when the region is rarely
+          out of the headlines.
+
+        button_text: Learn More
+        button_link: https://www.publishing.umich.edu/features/asian-studies
+      - type: image
+        image: /assets/screen-shot-2020-08-14-at-1.56.46-pm.png
+        image_alt: Collage of variety of Asian Studies book covers
+      - type: highlight
+        text: >-
+          The Michigan Asian Studies Open Access Books Collection grew from a
+          partnership between faculty from four Asian Studies Centers at the
+          University of Michigan, librarians from U-M Asia Library and
+          International Studies, and University of Michigan Press staff.
+
+
+          The titles in the Michigan Asian Studies Open Access Books Collection are presented in discoverable, accessible, and citable form. The books are free to read on Fulcrum at each Center’s page and within the University of Michigan Press Ebook Collection (UMP EBC).
+
+
+          [Read titles from the Center for South Asian Studies](https://www.fulcrum.org/csas)
+
+
+          [Read titles from the Center for Southeast Asian Studies](https://www.fulcrum.org/cseas)
+
+
+          [Read titles from  the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies](https://www.fulcrum.org/lrccs)
+
+
+          [Read titles from the Center for Japanese Studies](https://www.fulcrum.org/cjs)
+      - type: cta
+        text: The University of Michigan Press is increasingly strong in international
+          relations and area studies, with a particular focus on East and
+          Southeast Asia.
+        button_text: Explore the Catalog
+        heading: Asian Studies Catalog
+        button_link: press.umich.edu
+    heading: Books in Asian Studies
+    subheading: Read key titles from UMP
 related_stories:
   - ""
 ---
