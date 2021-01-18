@@ -122,7 +122,7 @@ sections:
           **Center for South Asian Studies**
 
 
-          [Twitter](https://twitter.com/umCSAS) | [Facebook](https://www.facebook.com/UMCSAS) | [Youtube](https://www.youtube.com/user/umcsas)
+          [Twitter](https://twitter.com/umCSAS) | [Facebook](https://www.facebook.com/UMCSAS) | [YouTube](https://www.youtube.com/user/umcsas)
 
 
 
@@ -130,7 +130,7 @@ sections:
           **Center for Southeast Asian Studies**
 
 
-          [Twitter](https://twitter.com/UMCSEAS) | [Facebook](https://www.facebook.com/umcseas) | [Youtube](https://www.youtube.com/user/umcseas)
+          [Twitter](https://twitter.com/UMCSEAS) | [Facebook](https://www.facebook.com/umcseas) | [YouTube](https://www.youtube.com/user/umcseas)
 
 
 
@@ -138,7 +138,7 @@ sections:
           **Lieberthal-Rogel Center for Chinese Studies** 
 
 
-          [Twitter](https://twitter.com/MichiganChina) | [Facebook](https://www.facebook.com/centerforchinesestudies) | [Youtube](https://www.youtube.com/channel/UCh1JmoKwIMuzdJbxMyiQrQw)
+          [Twitter](https://twitter.com/MichiganChina) | [Facebook](https://www.facebook.com/centerforchinesestudies) | [YouTube](https://www.youtube.com/channel/UCh1JmoKwIMuzdJbxMyiQrQw)
 
 
 
@@ -146,7 +146,7 @@ sections:
           **Center for Japanese Studies**
 
 
-          [Twitter](https://twitter.com/UMCJS) | [Facebook](https://facebook.com/umcjs) | [Youtube](https://www.youtube.com/user/umcjs)
+          [Twitter](https://twitter.com/UMCJS) | [Facebook](https://facebook.com/umcjs) | [YouTube](https://www.youtube.com/user/umcjs)
 
 
 
@@ -154,7 +154,7 @@ sections:
           **Nam Center for Korean Studies** 
 
 
-          [Twitter](https://twitter.com/MichiganKorea) | [Facebook](https://www.facebook.com/NamCenter) | [Youtube](https://www.youtube.com/channel/UCS3WxYxar3WJvcHLRiQh-Tg)
+          [Twitter](https://twitter.com/MichiganKorea) | [Facebook](https://www.facebook.com/NamCenter) | [YouTube](https://www.youtube.com/channel/UCS3WxYxar3WJvcHLRiQh-Tg)
 
 
 
@@ -162,7 +162,7 @@ sections:
           **University of Michigan Press**
 
 
-          [Twitter](https://twitter.com/UofMPress) | [Facebook](https://www.facebook.com/pages/University-of-Michigan-Press/37383103953?ref=ts) | [Youtube](https://www.youtube.com/user/umichpress)
+          [Twitter](https://twitter.com/UofMPress) | [Facebook](https://www.facebook.com/pages/University-of-Michigan-Press/37383103953?ref=ts) | [YouTube](https://www.youtube.com/user/umichpress)
       - type: spacer
         spacer: Spacer
       - type: image
