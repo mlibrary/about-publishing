@@ -69,9 +69,6 @@ sections:
 
         button_text: Learn More
         button_link: https://www.publishing.umich.edu/features/asian-studies
-      - type: image
-        image: /assets/screen-shot-2020-08-14-at-1.56.46-pm.png
-        image_alt: Collage of variety of Asian Studies book covers
       - type: highlight
         text: >-
           The Michigan Asian Studies Open Access Books Collection grew from a
@@ -93,15 +90,26 @@ sections:
 
 
           [Read titles from the Center for Japanese Studies](https://www.fulcrum.org/cjs)
+      - type: image
+        image: /assets/screen-shot-2020-08-14-at-1.56.46-pm.png
+        image_alt: Collage of variety of Asian Studies book covers
       - type: cta
         text: The University of Michigan Press is increasingly strong in international
           relations and area studies, with a particular focus on East and
           Southeast Asia.
         button_text: Explore the Catalog
-        heading: Asian Studies Catalog
+        heading: University of Michigan Press Asian Studies Catalog
         button_link: press.umich.edu
     heading: Books in Asian Studies
     subheading: Read key titles from UMP
+  - heading: Learn More
+    subheading: Stay in touch
+    content:
+      - type: cta
+        heading: "Sign up "
+        text: "Sign up for "
+        button_text: Sign Up Here
+        button_link: press.umich.edu
 related_stories:
   - ""
 ---
