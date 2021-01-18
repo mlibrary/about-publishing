@@ -93,7 +93,10 @@ sections:
       - type: cta
         text: The University of Michigan Press is increasingly strong in international
           relations and area studies, with a particular focus on East and
-          Southeast Asia.
+          Southeast Asia. The 2021 list aims to shift perspectives and challenge
+          and re-envision our understanding of Asian Studies. Highlights include
+          Liang Luo's Global White Snake and three volumes of world-renowned
+          playwright Stan Lai's Selected Plays.
         button_text: Explore the Catalog
         heading: University of Michigan Press Asian Studies Catalog
         button_link: press.umich.edu
