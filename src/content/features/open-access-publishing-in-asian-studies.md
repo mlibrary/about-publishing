@@ -6,9 +6,7 @@ subtitle: A Collaboration between the University of Michigan Press and
   International Institute
 path: /publishing-asian-studies
 hero:
-  text: Register for the Open Access Publishing in Asian Studies event, and learn
-    more about the rich tradition of Asian Studies scholarship and publishing at
-    the University of Michigan.
+  text: ""
   feature_hero_image: ""
 feature_image:
   file: /assets/untitled-1.png
@@ -31,8 +29,13 @@ sections:
       - type: cta
         id: register
         heading: Register for the Event
-        text: This Zoom event is free and open to the public. Registration is required
-          to receive the link and other related information about the event.
+        text: >-
+          This Zoom event is free and open to the public. Registration is
+          required to receive the link and other related information about the
+          event.
+
+
+          Friday, February 26, 1-5 PM ET (US)
         button_text: Register Now
         button_link: publishing.umich.edu
       - type: highlight
@@ -54,6 +57,10 @@ sections:
 related_stories:
   - ""
 ---
+Register for the Open Access Publishing in Asian Studies event, and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan.
+
+—
+
 Open Access publishing means that ebooks can be read by anybody in the world with access to an internet connection. Because open access titles are openly-licensed and downloadable as well as free-to-read online, they are now also available for integration into digital scholarship projects. As book publishing moves increasingly digital, an International Institute collaboration with the U-M Press and with the Asia Library offers new opportunities for imaginative publishing that transcends disciplinary boundaries, reaches readers outside as well as inside the academy, and extends the understanding of Asian culture, history, and society around the world.
 
 Over the last 50 years, the centers now housed in the University of Michigan International Institute have published over 300 ground-breaking books about East, South, and Southeast Asia. In 2018, these centers collaborated with University of Michigan Press and the U-M Asia Library to successfully apply for a [Humanities Open Book program grant](https://www.neh.gov/project/michigan-asian-studies-open-access-books-collection) from the National Endowment for the Humanities and the Andrew W. Mellon Foundation, aimed at making important backlist books broadly available again. This funding has allowed a complete record of the centers’ publications to be compiled and for 100 selected titles to be brought back into print and made digitally-available open access. These are now all freely available on major online platforms including JSTOR, Project MUSE, OAPEN, and as part of the University of Michigan Press Ebook Collection.
