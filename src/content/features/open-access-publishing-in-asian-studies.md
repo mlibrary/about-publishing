@@ -169,7 +169,7 @@ sections:
         image_alt: University of Michigan Press logo with University of Michigan Press
           written to the right of it in navy blue text.
       - type: image
-        image: /assets/csas_logo_4c.png
+        image: /assets/cseas_logo_rgb.png
         image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
           South Asian Studies University of Michigan"
       - type: image
