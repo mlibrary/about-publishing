@@ -100,8 +100,8 @@ sections:
         button_text: Explore the Catalog
         heading: University of Michigan Press Asian Studies Catalog
         button_link: press.umich.edu
-    heading: Books in Asian Studies
-    subheading: Read key titles from UMP
+    heading: Asian Studies Books
+    subheading: Read titles from University of Michigan Press
   - heading: Learn More
     subheading: Stay in touch
     content:
