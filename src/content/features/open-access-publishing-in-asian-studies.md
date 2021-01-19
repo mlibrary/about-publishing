@@ -27,7 +27,7 @@ sections:
           link and other event-related information.
 
         button_text: Register Now
-        button_link: publishing.umich.edu
+        button_link: https://oa_asianstudies.eventbrite.com
       - type: highlight
         text: >-
           ***You may also be interested in other Asian Studies virtual
