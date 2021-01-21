@@ -96,8 +96,10 @@ sections:
         button_link: press.umich.edu
       - type: highlight
         text: >-
-          *[People's Wars in China, Malaya, and
-          Vietnam](https://doi.org/10.3998/mpub.11413902)* by Marc Opper
+          Explore additional Asian Studies titles:
+
+
+          *[People's Wars in China, Malaya, and Vietnam](https://doi.org/10.3998/mpub.11413902)* by Marc Opper
 
 
           *[Global Digital Cultures: Perspectives from South Asia](https://doi.org/10.3998/mpub.9561751)* edited by Aswin Punathambekar and Sriram Mohan
