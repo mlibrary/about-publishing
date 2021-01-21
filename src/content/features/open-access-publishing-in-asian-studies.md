@@ -94,9 +94,8 @@ sections:
         button_text: Explore the Catalog
         heading: University of Michigan Press Asian Studies Catalog
         button_link: press.umich.edu
-    heading: A Storied Publishing Legacy . . .
-    subheading: Enjoy older titles from the U-M International Institute Asian
-      Studies Centers
+    heading: Asian Studies Books
+    subheading: Read titles from the U-M International Institute Centers and U-M Press
   - heading: Learn More
     subheading: Stay in touch with social media and newsletters
     content:
