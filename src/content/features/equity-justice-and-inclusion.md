@@ -33,6 +33,15 @@ sections:
 
 
           Please register here: <http://myumi.ch/BoWml>
+      - type: highlight
+        text: >-
+          “As a public university with a mission to serve society, we must use
+          our intellectual power and commitment to advocacy as instruments to
+          defeat an unjust system, advance anti-racism and dismantle systems of
+          oppression.” 
+
+
+          —[Mark Schlissel](https://record.umich.edu/articles/keynote-speakers-praise-mlks-fearlessness-and-perseverance/), President, University of Michigan
   - heading: Equity
     subheading: In order to create true equality of opportunity, equity is needed to
       make sure that everyone has the same chance of getting there. These books
