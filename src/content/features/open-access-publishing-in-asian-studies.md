@@ -50,12 +50,12 @@ sections:
         heading: Michigan Asian Studies Open Access Books Collection
         text: >+
           Through the Humanities Open Book Program, the University of Michigan
-          Press has made 100 significant books about Asia freely and publicly
-          available online, in editions that enrich the reading and teaching
-          experience through digital enhancements. These titles advance public
-          understanding of the diversity of society, culture, and history in
-          East, South, and Southeast Asia at a time when the region is rarely
-          out of the headlines.
+          has made 100 significant books about Asia published by the Centers
+          within the U-M International Institute that focus on South, Southeast,
+          and East Asia freely available online.  These titles constitute just
+          one-third of the publishing output of these Centers over the last 50
+          years, and we continue to work to make sure all the books are back in
+          print and also converted, where possible, into ebook form.
 
         button_text: Learn More
         button_link: https://www.publishing.umich.edu/features/asian-studies
@@ -64,10 +64,14 @@ sections:
           The Michigan Asian Studies Open Access Books Collection grew from a
           partnership between faculty from four Asian Studies Centers at the
           University of Michigan, librarians from U-M Asia Library and
-          International Studies, and University of Michigan Press staff.
+          International Studies, and University of Michigan Press staff. It was
+          made possible through a generous grant from the National Endowment for
+          the Humanities,. It is one of many collections of open access books
+          that have been made possible by the Humanities Open Book Program that
+          NEH and the Andrew W. Mellon Foundation created.
 
 
-          The titles in the Michigan Asian Studies Open Access Books Collection are presented in discoverable, accessible, and citable form. The books are free to read on Fulcrum at each Center’s page and within the University of Michigan Press Ebook Collection (UMP EBC).
+          The titles in the Michigan Asian Studies Open Access Books Collection are presented in discoverable, accessible, and citable form. The books are free to read on Michigan's Fulcrum platform at each Center’s page and within the University of Michigan Press Ebook Collection (UMP EBC).
 
 
           [Read titles from the Center for South Asian Studies](https://www.fulcrum.org/csas)
