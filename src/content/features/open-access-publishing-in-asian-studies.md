@@ -34,13 +34,7 @@ sections:
           events:***
 
 
-          * Korean Cinema, hosted by the Nam Center for Korean Studies \[link out]
-
-          * Reggie/Markus book proposal workshop \[link out]
-
           * *[The Politics of Volume and the Poetics of Reverberations across the Black Pacific](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html)* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
-
-          * Meet the Author Events
 
 
           Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
@@ -61,17 +55,11 @@ sections:
         button_link: https://www.publishing.umich.edu/features/asian-studies
       - type: highlight
         text: >-
-          The Michigan Asian Studies Open Access Books Collection grew from a
-          partnership between faculty from four Asian Studies Centers at the
-          University of Michigan, librarians from U-M Asia Library and
-          International Studies, and University of Michigan Press staff. It was
-          made possible through a generous grant from the National Endowment for
-          the Humanities,. It is one of many collections of open access books
-          that have been made possible by the Humanities Open Book Program that
-          NEH and the Andrew W. Mellon Foundation created.
-
-
-          The titles in the Michigan Asian Studies Open Access Books Collection are presented in discoverable, accessible, and citable form. The books are free to read on Michigan's Fulcrum platform at each Center’s page and within the University of Michigan Press Ebook Collection (UMP EBC).
+          The titles in the Michigan Asian Studies Open Access Books Collection
+          are presented in discoverable, accessible, and citable form. The books
+          are free to read on Michigan's Fulcrum platform at each Center’s page
+          and within the University of Michigan Press Ebook Collection (UMP
+          EBC).
 
 
           [Read titles from the Center for South Asian Studies](https://www.fulcrum.org/csas)
@@ -117,8 +105,8 @@ sections:
       - type: highlight
         text: >-
           *Follow the Centers and University of Michigan Press on social media
-          and sign up for their mailing lists for access to more events and
-          Asian Studies scholarship.*
+          and join their mailing lists for access to more events and the latest
+          news and books in Asian Studies scholarship.*
 
 
           **Center for Japanese Studies**
