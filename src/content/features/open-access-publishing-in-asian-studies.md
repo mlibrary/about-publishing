@@ -12,7 +12,7 @@ feature_image:
   file: /assets/untitled-1.png
   alt: On a navy background, text 'Placeholder Image'
 sections:
-  - heading: Register for the Event
+  - heading: About the Event
     id: event
     subheading: Open Access Publishing in Asian Studies | Friday, February 26, 1-5
       p.m. ET (US)
@@ -200,4 +200,6 @@ related_stories:
 
 —
 
-The Open Access Publishing in Asian Studies event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies). While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. **[View the event program here](https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing).**
+The Open Access Publishing in Asian Studies event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies). While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. 
+
+**[View the event program here](https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing).**
