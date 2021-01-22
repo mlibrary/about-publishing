@@ -119,6 +119,10 @@ sections:
           *Follow the Centers and University of Michigan Press on social media*
 
 
+          **Center for Japanese Studies**
+
+
+          [Twitter](https://twitter.com/UMCJS) | [Facebook](https://facebook.com/umcjs) | [YouTube](https://www.youtube.com/user/umcjs)
 
 
           **Center for South Asian Studies**
@@ -127,14 +131,10 @@ sections:
           [Twitter](https://twitter.com/umCSAS) | [Facebook](https://www.facebook.com/UMCSAS) | [YouTube](https://www.youtube.com/user/umcsas)
 
 
-
-
           **Center for Southeast Asian Studies**
 
 
           [Twitter](https://twitter.com/UMCSEAS) | [Facebook](https://www.facebook.com/umcseas) | [YouTube](https://www.youtube.com/user/umcseas)
-
-
 
 
           **Lieberthal-Rogel Center for Chinese Studies** 
@@ -143,22 +143,10 @@ sections:
           [Twitter](https://twitter.com/MichiganChina) | [Facebook](https://www.facebook.com/centerforchinesestudies) | [YouTube](https://www.youtube.com/channel/UCh1JmoKwIMuzdJbxMyiQrQw)
 
 
-
-
-          **Center for Japanese Studies**
-
-
-          [Twitter](https://twitter.com/UMCJS) | [Facebook](https://facebook.com/umcjs) | [YouTube](https://www.youtube.com/user/umcjs)
-
-
-
-
           **Nam Center for Korean Studies** 
 
 
           [Twitter](https://twitter.com/MichiganKorea) | [Facebook](https://www.facebook.com/NamCenter) | [YouTube](https://www.youtube.com/channel/UCS3WxYxar3WJvcHLRiQh-Tg)
-
-
 
 
           **University of Michigan Press**
@@ -168,31 +156,12 @@ sections:
       - type: spacer
         spacer: Spacer
       - type: image
-        image: /assets/ump_horizontal_blue_rgb.png
-        image_alt: University of Michigan Press logo with University of Michigan Press
-          written to the right of it in navy blue text.
-      - type: image
-        image: /assets/csas_logo_4c.png
-        image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
-          South Asian Studies University of Michigan"
-      - type: image
-        image: /assets/ncks_logo.png
-        caption: ""
-        image_alt: Block yellow "M" to the left of navy text that reads "LSA NAM Center
-          for Korean Studies University of Michigan"
-      - type: image
-        image: /assets/cjs_logo_4c.png
-        image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
-          Japanese Studies University of Michigan"
-      - type: image
-        image: /assets/lrccs_logo_4c.jpg
-        image_alt: Block yellow "M" to the left of navy text that reads "LSA Kenneth G.
-          Lieberthal and Richard H. Rogel Center for Chinese Studies University
-          of Michigan"
-      - type: image
-        image: /assets/cseas_logo_2c.jpg
-        image_alt: Block yellow "M" to the left of navy text that reads "LSA Center for
-          Southeast Asian Studies University of Michigan"
+        image: /assets/oa-asian-studies-partner-logos.png
+        image_alt: Logos for University of Michigan Press, International Institute,
+          Center for Japanese Studies, Center for South Asian Studies, Center
+          for Southeast Asian Sstudies, Kenneth G. Lieberthal and Richard H.
+          Rogel Center for Chinese Studies, and Nam Center for Korean Studies at
+          the University of Michigan
 related_stories:
   - ""
 ---
