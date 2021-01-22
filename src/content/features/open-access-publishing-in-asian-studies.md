@@ -6,7 +6,7 @@ subtitle: A Collaboration between the University of Michigan Press and
   International Institute
 path: /publishing-asian-studies
 hero:
-  text: ""
+  text: Free Zoom Event (registration required)
   feature_hero_image: ""
 feature_image:
   file: /assets/untitled-1.png
