@@ -12,7 +12,7 @@ feature_image:
   file: /assets/untitled-1.png
   alt: On a navy background, text 'Placeholder Image'
 sections:
-  - heading: About the Event
+  - heading: Register for the Event
     id: event
     subheading: Open Access Publishing in Asian Studies | Friday, February 26, 1-5
       p.m. ET (US)
@@ -199,7 +199,5 @@ related_stories:
 **Register for the Open Access Publishing in Asian Studies event and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan.**
 
 —
-
-Open Access publishing means that ebooks can be read by anybody in the world with access to an internet connection. Because open access titles are openly-licensed and downloadable as well as free-to-read online, they are now available for integration into digital scholarship projects. As book publishing moves increasingly digital, the collaboration between the University of Michigan Press, International Institute, and U-M Asia Library offers new opportunities for imaginative publishing that transcends disciplinary boundaries, reaches readers outside as well as inside the academy, and extends the understanding of Asian culture, history, and society around the world.
 
 The Open Access Publishing in Asian Studies event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies). While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. **[View the event program here](https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing).**
