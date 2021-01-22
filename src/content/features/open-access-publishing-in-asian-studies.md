@@ -158,7 +158,7 @@ sections:
       - type: spacer
         spacer: Spacer
       - type: image
-        image: /assets/oa-asian-studies-partner-logos2.png
+        image: /assets/oa-asian-studies-partner-logos.png
         image_alt: Logos for University of Michigan Press, International Institute,
           Center for Japanese Studies, Center for South Asian Studies, Center
           for Southeast Asian Sstudies, Kenneth G. Lieberthal and Richard H.
