@@ -116,47 +116,49 @@ sections:
     content:
       - type: highlight
         text: >-
-          *Follow the Centers and University of Michigan Press on social media*
+          *Follow the Centers and University of Michigan Press on social media
+          and sign up for their mailing lists for access to more events and
+          Asian Studies scholarship.*
 
 
           **Center for Japanese Studies**
 
 
-          [Twitter](https://twitter.com/UMCJS) | [Facebook](https://facebook.com/umcjs) | [YouTube](https://www.youtube.com/user/umcjs)
+          [Twitter](https://twitter.com/UMCJS) | [Facebook](https://facebook.com/umcjs) | [YouTube](https://www.youtube.com/user/umcjs) | [Mailing List](https://ii.umich.edu/cjs/about-us/contact-us.html)
 
 
           **Center for South Asian Studies**
 
 
-          [Twitter](https://twitter.com/umCSAS) | [Facebook](https://www.facebook.com/UMCSAS) | [YouTube](https://www.youtube.com/user/umcsas)
+          [Twitter](https://twitter.com/umCSAS) | [Facebook](https://www.facebook.com/UMCSAS) | [YouTube](https://www.youtube.com/user/umcsas) | [Mailing List](https://ii.umich.edu/csas/about/contact-us.html)
 
 
           **Center for Southeast Asian Studies**
 
 
-          [Twitter](https://twitter.com/UMCSEAS) | [Facebook](https://www.facebook.com/umcseas) | [YouTube](https://www.youtube.com/user/umcseas)
+          [Twitter](https://twitter.com/UMCSEAS) | [Facebook](https://www.facebook.com/umcseas) | [YouTube](https://www.youtube.com/user/umcseas) | [Mailing List](http://eepurl.com/c9jGVD)
 
 
           **Lieberthal-Rogel Center for Chinese Studies** 
 
 
-          [Twitter](https://twitter.com/MichiganChina) | [Facebook](https://www.facebook.com/centerforchinesestudies) | [YouTube](https://www.youtube.com/channel/UCh1JmoKwIMuzdJbxMyiQrQw)
+          [Twitter](https://twitter.com/MichiganChina) | [Facebook](https://www.facebook.com/centerforchinesestudies) | [YouTube](https://www.youtube.com/channel/UCh1JmoKwIMuzdJbxMyiQrQw) | [Mailing List](https://ii.umich.edu/lrccs/about-us/contact-us.html)
 
 
           **Nam Center for Korean Studies** 
 
 
-          [Twitter](https://twitter.com/MichiganKorea) | [Facebook](https://www.facebook.com/NamCenter) | [YouTube](https://www.youtube.com/channel/UCS3WxYxar3WJvcHLRiQh-Tg)
+          [Twitter](https://twitter.com/MichiganKorea) | [Facebook](https://www.facebook.com/NamCenter) | [YouTube](https://www.youtube.com/channel/UCS3WxYxar3WJvcHLRiQh-Tg) | [Mailing List](https://ii.umich.edu/ncks/about-us/join-our-e-mail-list.html)
 
 
           **University of Michigan Press**
 
 
-          [Twitter](https://twitter.com/UofMPress) | [Facebook](https://www.facebook.com/pages/University-of-Michigan-Press/37383103953?ref=ts) | [YouTube](https://www.youtube.com/user/umichpress)
+          [Twitter](https://twitter.com/UofMPress) | [Facebook](https://www.facebook.com/pages/University-of-Michigan-Press/37383103953?ref=ts) | [YouTube](https://www.youtube.com/user/umichpress) | [Mailing List](https://www.press.umich.edu/ordering/emaillist)
       - type: spacer
         spacer: Spacer
       - type: image
-        image: /assets/oa-asian-studies-partner-logos.png
+        image: /assets/oa-asian-studies-partner-logos2.png
         image_alt: Logos for University of Michigan Press, International Institute,
           Center for Japanese Studies, Center for South Asian Studies, Center
           for Southeast Asian Sstudies, Kenneth G. Lieberthal and Richard H.
