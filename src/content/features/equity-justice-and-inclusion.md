@@ -42,6 +42,8 @@ sections:
 
 
           —[Mark Schlissel](https://record.umich.edu/articles/keynote-speakers-praise-mlks-fearlessness-and-perseverance/), President, University of Michigan
+      - type: spacer
+        spacer: Spacer
   - heading: Equity
     subheading: In order to create true equality of opportunity, equity is needed to
       make sure that everyone has the same chance of getting there. These books
