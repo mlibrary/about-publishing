@@ -15,32 +15,6 @@ feature_image:
     the University of Michigan Press and the LSA International Institute,
     University of Michigan
 sections:
-  - heading: About the Event
-    id: event
-    subheading: Open Access Publishing in Asian Studies | Friday, February 26, 1-5
-      p.m. ET (US)
-    content:
-      - type: cta
-        id: register
-        heading: Register for the Event
-        text: >+
-          The Open Access Publishing in Asian Studies event will take place on
-          Friday, February 26 from 1-5 p.m. ET (US). This virtual event is free
-          and open to the public. Registration is required to receive the Zoom
-          link and other event-related information.
-
-        button_text: Register Now
-        button_link: https://oa_asianstudies.eventbrite.com
-      - type: highlight
-        text: >-
-          ***You may also be interested in other Asian Studies virtual
-          events:***
-
-
-          * *[The Politics of Volume and the Poetics of Reverberations across the Black Pacific](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html)* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
-
-
-          Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
   - content:
       - type: cta
         image: /assets/neh-brochure.png
@@ -167,3 +141,13 @@ related_stories:
 The Open Access Publishing in Asian Studies event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies). While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. 
 
 **[View the event program here](https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing).**
+
+*This virtual event is free and open to the public. Registration is required to receive the Zoom link and other event-related information.*
+
+<hr>
+
+***You may also be interested in other Asian Studies virtual events:***
+
+* *[The Politics of Volume and the Poetics of Reverberations across the Black Pacific](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html)* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
+
+Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
