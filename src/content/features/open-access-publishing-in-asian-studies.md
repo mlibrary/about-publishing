@@ -39,16 +39,16 @@ sections:
           EBC).
 
 
-          [Read titles from the Center for South Asian Studies](https://www.fulcrum.org/csas)
+          <a href="https://www.fulcrum.org/csas" onclick="ga('send','event','asian-studies','click','csas titles');">Read titles from the Center for South Asian Studies</a>
 
 
-          [Read titles from the Center for Southeast Asian Studies](https://www.fulcrum.org/cseas)
+          <a href="https://www.fulcrum.org/cseas" onclick="ga('send','event','asian-studies','click','cseas titles');">Read titles from the Center for Southeast Asian Studies</a>
 
 
-          [Read titles from the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies](https://www.fulcrum.org/lrccs)
+          <a href="https://www.fulcrum.org/lrccs" onclick="ga('send','event','asian-studies','click','lrccs titles');">Read titles from the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies</a>
 
 
-          [Read titles from the Center for Japanese Studies](https://www.fulcrum.org/cjs)
+          <a href="https://www.fulcrum.org/cjs" onclick="ga('send','event','asian-studies','click','cjs titles');">Read titles from the Center for Japanese Studies</a>
       - type: cta
         text: The University of Michigan Press is increasingly strong in international
           relations and area studies, with a particular focus on East and
