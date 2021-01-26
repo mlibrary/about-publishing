@@ -140,7 +140,7 @@ related_stories:
 
 The Open Access Publishing in Asian Studies event highlights the impact of the <a href="https://www.publishing.umich.edu/features/asian-studies" onclick="ga('send','event','asian-studies','click','neh feature');">Michigan Asian Studies Open Access Books Collection</a>. While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. 
 
-**[View the event program here](https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing).**
+**<a href="https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing" onclick="ga('send','event','asian-studies','click','event program');">View the event program here</a>.**
 
 *This virtual event is free and open to the public. Registration is required to receive the Zoom link and other event-related information.*
 
@@ -150,6 +150,6 @@ The Open Access Publishing in Asian Studies event highlights the impact of the <
 
 ***You may also be interested in other Asian Studies virtual events:***
 
-* *[The Politics of Volume and the Poetics of Reverberations across the Black Pacific](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html)* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
+* *<a href="https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html" onclick="ga('send','event','asian-studies','click','bridges event');">The Politics of Volume and the Poetics of Reverberations across the Black Pacific</a>* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
 
 Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
