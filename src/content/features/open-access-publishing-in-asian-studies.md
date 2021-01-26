@@ -9,8 +9,10 @@ hero:
   text: Free Zoom Event (registration required)
   feature_hero_image: ""
 feature_image:
-  file: /assets/untitled-1.png
-  alt: On a navy background, text 'Placeholder Image'
+  file: /assets/mpublishing_asianstudiesevent_1200x628_bg-logos.png
+  alt: Details of a roof in an Asian architectural style with a dark blue overlay,
+    with the logos for the University of Michigan Press and the LSA
+    International Institute, University of Michigan
 sections:
   - heading: About the Event
     id: event
