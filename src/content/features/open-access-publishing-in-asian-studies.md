@@ -70,10 +70,10 @@ sections:
           *[Global Digital Cultures: Perspectives from South Asia](*https://doi.org/10.3998/mpub.9561751*)* edited by Aswin Punathambekar and Sriram Mohan
 
 
-          *<a href="https://doi.org/10.3998/mpub.11521701" onclick="ga('send','event','asian-studies','click','mezur book');">Corporeal Politics: Dancing East Asia</a>* edited by Katherine Mezur and Emily Wilcox
+          *[Corporeal Politics: Dancing East Asia](*https://doi.org/10.3998/mpub.11521701*)* edited by Katherine Mezur and Emily Wilcox
 
 
-          *<a href="https://doi.org/10.3998/mpub.11373292" onclick="ga('send','event','asian-studies','click','nornes book');">Brushed in Light: Calligraphy in East Asian Cinema</a>* by Markus Nornes
+          *[Brushed in Light: Calligraphy in East Asian Cinema](https://doi.org/10.3998/mpub.11373292)* by Markus Nornes
     heading: Asian Studies Books
     subheading: Read titles from the U-M International Institute Centers and U-M Press
   - heading: Learn More
