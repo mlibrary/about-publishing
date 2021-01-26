@@ -39,16 +39,16 @@ sections:
           EBC).
 
 
-          <a href="https://www.fulcrum.org/csas">Read titles from the Center for South Asian Studies</a>
+          [Read titles from the Center for South Asian Studies](https://www.fulcrum.org/csas)
 
 
-          <a href="https://www.fulcrum.org/cseas" onclick="ga('send','event','asian-studies','click','cseas titles');">Read titles from the Center for Southeast Asian Studies</a>
+          [Read titles from the Center for Southeast Asian Studies](https://www.fulcrum.org/cseas)
 
 
-          <a href="https://www.fulcrum.org/lrccs" onclick="ga('send','event','asian-studies','click','lrccs titles');">Read titles from the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies</a>
+          [Read titles from the Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies](https://www.fulcrum.org/lrccs)
 
 
-          <a href="https://www.fulcrum.org/cjs" onclick="ga('send','event','asian-studies','click','cjs titles');">Read titles from the Center for Japanese Studies</a>
+          [Read titles from the Center for Japanese Studies](https://www.fulcrum.org/cjs)
       - type: cta
         text: The University of Michigan Press is increasingly strong in international
           relations and area studies, with a particular focus on East and
@@ -64,10 +64,10 @@ sections:
           Explore additional Asian Studies titles:
 
 
-          *<a href="https://doi.org/10.3998/mpub.11413902" onclick="ga('send','event','asian-studies','click','opper book');">People's Wars in China, Malaya, and Vietnam</a>* by Marc Opper
+          *[People's Wars in China, Malaya, and Vietnam](https://doi.org/10.3998/mpub.11413902)* by Marc Opper
 
 
-          *<a href="https://doi.org/10.3998/mpub.9561751" onclick="ga('send','event','asian-studies','click','punathambekar book');">Global Digital Cultures: Perspectives from South Asia</a>* edited by Aswin Punathambekar and Sriram Mohan
+          *[Global Digital Cultures: Perspectives from South Asia](*https://doi.org/10.3998/mpub.9561751*)* edited by Aswin Punathambekar and Sriram Mohan
 
 
           *<a href="https://doi.org/10.3998/mpub.11521701" onclick="ga('send','event','asian-studies','click','mezur book');">Corporeal Politics: Dancing East Asia</a>* edited by Katherine Mezur and Emily Wilcox
