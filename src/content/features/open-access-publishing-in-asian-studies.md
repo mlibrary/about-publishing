@@ -159,7 +159,7 @@ related_stories:
 ---
 **Register for the Open Access Publishing in Asian Studies event and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan (free Zoom event; registration required.**
 
-<a href="https://oa_asianstudies.eventbrite.com"><button>Register Now</button></a>
+<a href="https://oa_asianstudies.eventbrite.com"><button style="background-color: black;" "color: white">Register Now</button></a>
 
 The Open Access Publishing in Asian Studies event highlights the impact of the [Michigan Asian Studies Open Access Books Collection](https://www.publishing.umich.edu/features/asian-studies). While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. 
 
