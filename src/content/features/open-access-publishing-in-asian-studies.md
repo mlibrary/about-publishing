@@ -159,7 +159,7 @@ related_stories:
 ---
 **Register for the Open Access Publishing in Asian Studies event and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan**
 
-<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="https://oa_asianstudies.eventbrite.com"><img class="mb-4" src="/assets/register-button.png"><p>Register button</p></a></div>
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="https://oa_asianstudies.eventbrite.com"><img class="mb-4" src="/assets/register-button.png"><p></p></a></div>
 
 *Friday, February 26, 1-5 p.m. ET (US) | Free Zoom event, registration required*
 
