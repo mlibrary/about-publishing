@@ -67,10 +67,10 @@ sections:
           *[People's Wars in China, Malaya, and Vietnam](https://doi.org/10.3998/mpub.11413902)* by Marc Opper
 
 
-          *[Global Digital Cultures: Perspectives from South Asia](*https://doi.org/10.3998/mpub.9561751*)* edited by Aswin Punathambekar and Sriram Mohan
+          *[Global Digital Cultures: Perspectives from South Asia](https://doi.org/10.3998/mpub.9561751)* edited by Aswin Punathambekar and Sriram Mohan
 
 
-          *[Corporeal Politics: Dancing East Asia](*https://doi.org/10.3998/mpub.11521701*)* edited by Katherine Mezur and Emily Wilcox
+          *[Corporeal Politics: Dancing East Asia](https://doi.org/10.3998/mpub.11521701)* edited by Katherine Mezur and Emily Wilcox[](https://doi.org/10.3998/mpub.11373292)
 
 
           *[Brushed in Light: Calligraphy in East Asian Cinema](https://doi.org/10.3998/mpub.11373292)* by Markus Nornes
