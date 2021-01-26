@@ -39,7 +39,7 @@ sections:
           EBC).
 
 
-          <a href="https://www.fulcrum.org/csas" onclick="ga('send','event','asian-studies','click','csas titles');">Read titles from the Center for South Asian Studies</a>
+          <a href="https://www.fulcrum.org/csas">Read titles from the Center for South Asian Studies</a>
 
 
           <a href="https://www.fulcrum.org/cseas" onclick="ga('send','event','asian-studies','click','cseas titles');">Read titles from the Center for Southeast Asian Studies</a>
