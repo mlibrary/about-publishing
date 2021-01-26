@@ -9,10 +9,11 @@ hero:
   text: ""
   feature_hero_image: ""
 feature_image:
-  file: /assets/mpublishing_asianstudiesevent_1200x628_bg-logos.png
+  file: /assets/mpublishing_asianstudiesevent_1200x628_title-logos-only.png
   alt: Details of a roof in an Asian architectural style with a dark blue overlay,
-    with the logos for the University of Michigan Press and the LSA
-    International Institute, University of Michigan
+    with the text "Open Access Publishing in Asian Studies" and the logos for
+    the University of Michigan Press and the LSA International Institute,
+    University of Michigan
 sections:
   - heading: About the Event
     id: event
