@@ -144,7 +144,9 @@ The Open Access Publishing in Asian Studies event highlights the impact of the [
 
 *This virtual event is free and open to the public. Registration is required to receive the Zoom link and other event-related information.*
 
-<hr>
+<hr><hr>
+
+
 
 ***You may also be interested in other Asian Studies virtual events:***
 
