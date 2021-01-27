@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 categories:
   - Faculty Public Engagement
 title: What Happens When Ebooks are Free-to-Read? Reflecting on UMP's COVID-19
