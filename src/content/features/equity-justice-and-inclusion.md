@@ -11,39 +11,6 @@ feature_image:
   alt: Demonstration outside US Capitol, October 2020 (Ted Eytan, CC-BY-SA)
   file: /assets/books-for-social-justice.gif
 sections:
-  - heading: "MLK Symposium 2021: University of Michigan"
-    subheading: Books for Social Justice Event, January 27, 2021 10 - 11 am ET
-    content:
-      - type: highlight
-        text: >-
-          As the scholarly publishing arm of the University of Michigan,
-          University of Michigan Press publishes over 100 books a year in topics
-          ranging from disability studies to African studies, from performing
-          arts to political science. Over the last few years, the Press has been
-          on a journey toward publishing in a more equitable, just, and
-          inclusive way. This extends from seeking out marginalized voices,
-          through reexamining how titles are accepted, to increasing access.
-          Acknowledging that there is still far to go, Dr. Elizabeth Demers, the
-          Editorial Director of the Press, will discuss the steps taken so far
-          and future directions that the Press and other publishers can take.
-          She will be joined by some special guests.
-
-
-          The event is free-of-charge online but pre-registration is required.
-
-
-          Please register here: <http://myumi.ch/BoWml>
-      - type: highlight
-        text: >-
-          “As a public university with a mission to serve society, we must use
-          our intellectual power and commitment to advocacy as instruments to
-          defeat an unjust system, advance anti-racism and dismantle systems of
-          oppression.” 
-
-
-          —[Mark Schlissel](https://record.umich.edu/articles/keynote-speakers-praise-mlks-fearlessness-and-perseverance/), President, University of Michigan
-      - type: spacer
-        spacer: Spacer
   - heading: Equity
     subheading: In order to create true equality of opportunity, equity is needed to
       make sure that everyone has the same chance of getting there. These books
