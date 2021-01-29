@@ -74,6 +74,17 @@ sections:
 
 
           *[Brushed in Light: Calligraphy in East Asian Cinema](https://doi.org/10.3998/mpub.11373292)* by Markus Nornes
+      - type: cta
+        id: ""
+        text: Oral histories, essays, articles, and other materials from the Department
+          of Asian Languages and Cultures (ALC) are hosted by Deep Blue, the
+          University's institutional repository. ALC is a center for the
+          exploration of the humanities of Asia, where students are invited to
+          cross the boundaries of nations and of disciplines a deep local
+          knowledge and a broad global perspective.
+        heading: Michigan Asian Languages and Cultures Collection on Deep Blue
+        button_text: Browse the Collection
+        button_link: https://deepblue.lib.umich.edu/handle/2027.42/100257
     heading: Asian Studies Books
     subheading: Read titles from the U-M International Institute Centers and U-M Press
   - heading: Learn More
