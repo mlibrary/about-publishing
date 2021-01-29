@@ -8,7 +8,7 @@ hero:
   text: ""
   feature_hero_image: /assets/hero.jpg
 feature_image:
-  file: /assets/uompebook.jpg
+  file: /assets/accessible-books-work-on-any-device.jpg
   alt: Open book on grass with yellowed leaves surrounding the book.
 sections:
   - heading: Seasonal Catalogs
