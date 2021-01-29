@@ -81,7 +81,9 @@ sections:
           University's institutional repository. ALC is a center for the
           exploration of the humanities of Asia, where students are invited to
           cross the boundaries of nations and of disciplines a deep local
-          knowledge and a broad global perspective.
+          knowledge and a broad global perspective. You can explore many other
+          interesting open-access materials from Michigan authors in Deep Blue's
+          multiple Communities and Collections.
         heading: Michigan Asian Languages and Cultures Collection on Deep Blue
         button_text: Browse the Collection
         button_link: https://deepblue.lib.umich.edu/handle/2027.42/100257
