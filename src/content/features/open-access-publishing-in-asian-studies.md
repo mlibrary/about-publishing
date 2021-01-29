@@ -84,7 +84,7 @@ sections:
           knowledge and a broad global perspective. You can explore many other
           interesting open-access materials from Michigan authors in Deep Blue's
           multiple Communities and Collections.
-        heading: Michigan Asian Languages and Cultures Collection on Deep Blue
+        heading: Michigan Asian Languages and Cultures Collections on Deep Blue
         button_text: Browse the Collection
         button_link: https://deepblue.lib.umich.edu/handle/2027.42/100257
     heading: Asian Studies Books
