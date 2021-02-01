@@ -45,16 +45,31 @@ sections:
           title: Author of Academic Ableism
       - type: highlight
         text: >-
-          **Additional Equity Titles**
+          **Equity Titles[](https://doi.org/10.3998/mpub.10131793)**
 
 
-          *[Vitality Politics: Health, Debility, and the Limits of Black Emancipation](https://doi.org/10.3998/mpub.10043782)* by Stephen Knadler
+          *[State of Empowerment: Low-Income Families and the New Welfare State](https://doi.org/10.3998/mpub.10131793)* by Carolyn Barnes
 
 
-          *[The Enduring Legacy: Structured Inequality in America’s Public Schools](https://doi.org/10.3998/mpub.11645040)* by Mark Ryan
+          *[Bad Boys: Public Schools in the Making of Black Masculinity](https://www.press.umich.edu/11515236/bad_boys)* by Ann Arnett Ferguson[](https://www.press.umich.edu/11645040/enduring_legacy)
 
 
-          *[State of Empowerment: Low Income Families and the New Welfare State](https://www.press.umich.edu/10131793/state_of_empowerment)* by Carolyn Barnes
+          *[The Enduring Legacy: Structured Inequality in America’s Public Schools](https://www.press.umich.edu/11645040/enduring_legacy)* by Mark Ryan
+
+
+          *[Strike for the Common Good: Fighting for the Future of Public Education](https://www.press.umich.edu/11621094/strike_for_the_common_good)* edited by Rebecca Kolins Givan and Amy Schrager Lang
+
+
+          *[Academic Ableism: Disability and Higher Education](https://doi.org/10.3998/mpub.9708722)* by Jay Dolmage
+
+
+          *[Intellectual Empathy: Critical Thinking for Social Justice](https://www.press.umich.edu/5914478/intellectual_empathy)* by Maureen Linker
+
+
+          *[Vitality Politics: Health, Debility, and the Limits of Black Emancipation](https://www.press.umich.edu/10043782/vitality_politics)* by Stephen Knadler
+
+
+          *[Just Vibrations: The Purpose of Sounding Good](https://doi.org/10.3998/mpub.9293551)* by William Cheng
   - content:
       - type: profile
         profile: Clarence Lang
