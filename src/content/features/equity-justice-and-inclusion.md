@@ -155,25 +155,31 @@ sections:
           title: Associate Professor in Philosophy at the University of Windsor
       - type: highlight
         text: >-
-          **Additional Inclusion Titles**
+          **Inclusion Titles**
 
 
-          *[Understanding Your Refugee and Immigrant Students: An Educational, Cultural, and Linguistic Guide](https://www.press.umich.edu/123975/understanding_your_refugee_and_immigrant_students)* by Jeffra Falitz
+          *[i used to love to dream](https://doi.org/10.3998/mpub.11738372)* by A.D. Carson
 
 
-          *[America Beyond Black and White: How Immigrants and Fusions are Helping Us Overcome the Racial Divide](https://www.press.umich.edu/268662/america_beyond_black_and_white)* by Ronald Fernandez 
+          *[Of Vagabonds and Fellow Travelers: African Diaspora Literary Culture and the Cultural Cold War](https://www.press.umich.edu/9426664/of_vagabonds_and_fellow_travelers)* by Cedric R. Tolliver
 
 
-          *[No Safe Spaces: Re-casting Race, Ethnicity, and Nationality in American Theater](https://www.press.umich.edu/1729062/no_safe_spaces)* by Angela C. Pao
+          *[Uncle Tom's Cabins: The Transnational History of America's Most Mutable Book](https://www.press.umich.edu/8057139/uncle_toms_cabins)* edited by Tracy C. Davis and Stefka Mihaylova
 
 
-          *[Mark One or More: Civil Rights in Multiracial America](https://www.press.umich.edu/325778/mark_one_or_more)* by Kim M. Williams 
+          *[Robert Hayden in Verse: New Histories of African American Poetry and the Black Arts Era ](https://www.press.umich.edu/9794295/robert_hayden_in_verse)*by Derik Smith
 
 
-          *[Jackie Ormes: The First African American Woman Cartoonist](https://www.press.umich.edu/11368041/jackie_ormes)* by Nancy Goldstein
+          *[Ishtyle: Accenting Gay Indian Nightlife](https://www.press.umich.edu/9958984/ishtyle)* by Kareem Khubchandani
 
 
-          *[A Question of Voice: Philosophy and the Search for Legitimacy](https://www.press.umich.edu/10090712/question_of_voice)* by Ron Scapp
+          *[Translocas: The Politics of Puerto Rican Drag and Trans Performance](https://www.press.umich.edu/11314788/translocas)* by Lawrence La Fountain-Stokes
+
+
+          *[Singing Out: GALA Choruses and Social Change](https://www.press.umich.edu/11579619/singing_out)* by Heather MacLachlan
+
+
+          *[Prismatic Performances: Queer South Africa and the Fragmentation of the Rainbow Nation](https://www.press.umich.edu/10192303/prismatic_performances)* by April Sizemore-Barber
       - type: spacer
         spacer: Spacer
       - type: cta
