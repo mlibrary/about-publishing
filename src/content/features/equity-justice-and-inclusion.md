@@ -101,19 +101,31 @@ sections:
         id: v3uIZavp9Yg
       - type: highlight
         text: >-
-          **Additional Justice Titles**
+          **Justice Titles**
 
 
-          *[Harvest of American Racism](https://doi.org/10.3998/mpub.9684789)* edited by Robert Shellow
+          *[Concordance: Black Lawmaking in the U.S. Congress from Carter to Obama](https://www.press.umich.edu/11727237/concordance)* by Katherine Tate
 
 
           *[Selma and the Liuzzo Murder Trials: The first Modern Civil Rights Convictions](https://doi.org/10.3998/mpub.9753373)* by James P. Turner
 
 
-          *[Philadelphia Freedom: Memoirs of a Civil Rights Lawyer](https://www.press.umich.edu/297518/philadelphia_freedom)* by David Kairys
+          *[The Harvest of American Racism: The Political Meaning of Violence in the Summer of 1967](https://www.press.umich.edu/9684789)* edited by Robert Shellow
 
 
-          *[A Change is Gonna Come: Music, Race & the Soul of America](https://www.press.umich.edu/179458/change_is_gonna_come)* (Revised Edition) by Craig Werner
+          *[Black America in the Shadow of the Sixties: Notes on the Civil Rights Movement, Neoliberalism, and Politics](https://www.press.umich.edu/6011515/black_america_in_the_shadow_of_the_sixties)* by Clarence Lang
+
+
+          *[\#identity: Hashtagging Race, Gender, Sexuality, and Nation](https://doi.org/10.3998/mpub.9697041)* edited by Abigail De Kosnik and Keith P. Feldman
+
+
+          *[Coronavirus Politics: The Comparative Politics and Policy of COVID-19](https://www.press.umich.edu/11927713)* edited by Scott L. Greer, Elizabeth J. King, André Peralta-Santos, and Elize Massard da Fonseca
+
+
+          *[Coexistence in the Aftermath of Mass Violence: Imagination, Empathy, and Resilience](https://www.press.umich.edu/11302800/coexistence_in_the_aftermath_of_mass_violence) e*dited by Eve Monique Zucker and Laura McGrew
+
+
+          *[The Black and White Rainbow: Reconciliation, Opposition, and Nation-Building in Democratic South Africa](https://www.press.umich.edu/11518321/black_and_white_rainbow)* by Carolyn E. Holmes
     heading: Justice
     subheading: Justice is the concept of fairness and social justice is fairness as
       it manifests in society. These books explore movements for social justice,
