@@ -5,17 +5,15 @@ categories:
 title: Student Journals Catalyze Lifelong Learning and Success
 path: /stories-of-impact/student-journals
 hero:
-  story_hero_image: ''
-  text: >-
-    In many cases, students go to college for experiences and insights that will
-    prepare them for their professional lives. Michigan Publishing provides a
-    meaningful, measurable output of that experience.
+  story_hero_image: ""
+  text: In many cases, students go to college for experiences and insights that
+    will prepare them for their professional lives. Michigan Publishing provides
+    a meaningful, measurable output of that experience.
 story_image:
-  alt: >-
-    A photograph of a young woman studying with books and a computer at a table
+  alt: A photograph of a young woman studying with books and a computer at a table
     in the U-M Law Library.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/general-campus-images-3.jpg
 date: 2019-09-19T20:55:18.258Z
 highlight_box:
@@ -28,10 +26,10 @@ highlight_box:
     * Michigan Journal of Medicine
     * Absinthe: A Journal of World Literature in Translation
 books:
-  - ''
+  - ""
 profiles: []
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 In many cases, students go to college for experiences and insights that will prepare them for their professional lives. Michigan Publishing provides a meaningful, measurable output of that experience.
@@ -54,6 +52,8 @@ This seriousness is key to the mission of the Michigan Journals program. “When
 just distributing copies to 50 people in your department.</p><footer><cite>- Sean Guynes<br>Michigan Publishing Journals Coordinator</cite></footer></blockquote>
 
 For many years, the University Library has supported the ambitious students in U-M’s prestigious Undergraduate Research Opportunity Program (UROP) with the annual publication of the University of Michigan Undergraduate Research Journal. Funded through UROP and the Office of Research, the journal has been active for 14 years, a track record which is unusual for student-led publications to achieve. 
+
+Absinthe: World Literature in Translation is another student journal published by Michigan Publishing, along with the Department of Comparative Literature at the University of Michigan. Absinthe publishes foreign literature in the English language, and its most recent issue from Volume 26: Vibrate! features African authors and draws attention to the politics behind language in African literature.
 
 According to Guynes, this journals program is a way to help students beyond their Michigan Experience. “It’s about pride in research. They want the professional experience,” he said.  “They have the Michigan degree, but now they also have this experience as an editor. They want to show they’re more than just a 4.0.”
 
