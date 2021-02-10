@@ -17,14 +17,19 @@ story_image:
   file: /assets/general-campus-images-3.jpg
 date: 2019-09-19T20:55:18.258Z
 highlight_box:
-  text: |-
+  text: >-
     Student-led publications:
 
-    * University of Michigan Undergraduate Research Journal
-    * Undergraduate Journal of Public Health
-    * Michigan Quarterly Review
-    * Michigan Journal of Medicine
-    * Absinthe: A Journal of World Literature in Translation
+
+    * [University of Michigan Undergraduate Research Journal](https://www.umurj.org/)
+
+    * [Undergraduate Journal of Public Health](https://www.ujph.org/)
+
+    * [Michigan Quarterly Review](https://sites.lsa.umich.edu/mqr/)
+
+    * [Michigan Journal of Medicine](http://www.michjmed.org/)
+
+    * [Absinthe: A Journal of World Literature in Translation](https://quod.lib.umich.edu/a/abs)
 books:
   - ""
 profiles: []
@@ -40,7 +45,7 @@ Michigan Journals is home to more than 30 electronic serials, publishing peer-re
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">$3.5 million in grants were given to Michigan Publishing in the last five years to support innovative new approaches to scholarly communication from funders including the National Endowment for the Humanities, the National Institutes of Health, the Andrew W . Mellon Foundation, the Sloan Foundation, and the Institute for Museum and Library Services.</div>
 
-“Working as an editor on a student-run publication gave me the opportunity to work on projects I found meaningful with like-minded people,” said Caitlin Heenan from the Undergraduate Journal of Public Health (UJPH). “We also found new outlets to share our work with others and expand the reach of our publication through a partnership with Michigan Publishing.”
+“Working as an editor on a student-run publication gave me the opportunity to work on projects I found meaningful with like-minded people,” said Caitlin Heenan from the [Undergraduate Journal of Public Health](https://www.ujph.org/) (UJPH). “We also found new outlets to share our work with others and expand the reach of our publication through a partnership with Michigan Publishing.”
 
 Within the Michigan Journals program, student-led publications are treated like traditional academic journals, with articles provided in a fully searchable HTML format that Google Scholar will index, and with access to copy editors, professional typesetting, and printing.
 
@@ -51,9 +56,9 @@ This seriousness is key to the mission of the Michigan Journals program. “When
 <blockquote class="quote floated yellow"><p>When you can say 40,000 people looked at your articles, that’s a lot different than
 just distributing copies to 50 people in your department.</p><footer><cite>- Sean Guynes<br>Michigan Publishing Journals Coordinator</cite></footer></blockquote>
 
-For many years, the University Library has supported the ambitious students in U-M’s prestigious Undergraduate Research Opportunity Program (UROP) with the annual publication of the University of Michigan Undergraduate Research Journal. Funded through UROP and the Office of Research, the journal has been active for 14 years, a track record which is unusual for student-led publications to achieve. 
+For many years, the University Library has supported the ambitious students in U-M’s prestigious Undergraduate Research Opportunity Program (UROP) with the annual publication of the [University of Michigan Undergraduate Research Journal](https://www.umurj.org/). Funded through UROP and the Office of Research, the journal has been active for 14 years, a track record which is unusual for student-led publications to achieve. 
 
-Absinthe: World Literature in Translation is another student journal published by Michigan Publishing, along with the Department of Comparative Literature at the University of Michigan. Absinthe publishes foreign literature in the English language, and its most recent issue from Volume 26: Vibrate! features African authors and draws attention to the politics behind language in African literature.
+[Absinthe: World Literature in Translation](https://quod.lib.umich.edu/a/abs) is another student journal published by Michigan Publishing, along with the Department of Comparative Literature at the University of Michigan. Absinthe publishes foreign literature in the English language, and its most recent issue from Volume 26: Vibrate! features African authors and draws attention to the politics behind language in African literature.
 
 According to Guynes, this journal's program is a way to help students beyond their Michigan Experience. “It’s about pride in research. They want the professional experience,” he said.  “They have the Michigan degree, but now they also have this experience as an editor. They want to show they’re more than just a 4.0.”
 
