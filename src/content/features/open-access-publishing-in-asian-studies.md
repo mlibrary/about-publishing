@@ -61,19 +61,23 @@ sections:
         button_link: https://www.press.umich.edu/browse/subjects/asian_studies
       - type: highlight
         text: >-
-          Explore additional Asian Studies titles:
+          Explore additional Asian Studies titles from University of Michigan
+          Press:
 
 
-          *[People's Wars in China, Malaya, and Vietnam](https://doi.org/10.3998/mpub.11413902)* by Marc Opper
+          *[Brushed in Light: Calligraphy in East Asian Cinema](https://doi.org/10.3998/mpub.11373292)* by Markus Nornes
 
 
           *[Global Digital Cultures: Perspectives from South Asia](https://doi.org/10.3998/mpub.9561751)* edited by Aswin Punathambekar and Sriram Mohan
 
 
-          *[Corporeal Politics: Dancing East Asia](https://doi.org/10.3998/mpub.11521701)* edited by Katherine Mezur and Emily Wilcox[](https://doi.org/10.3998/mpub.11373292)
+          *[Corporeal Politics: Dancing East Asia](https://doi.org/10.3998/mpub.11521701)* edited by Katherine Mezur and Emily Wilcox[](https://doi.org/10.3998/mpub.11373292)[](https://www.press.umich.edu/11859489/courteous_power)
 
 
-          *[Brushed in Light: Calligraphy in East Asian Cinema](https://doi.org/10.3998/mpub.11373292)* by Markus Nornes
+          *[The Courteous Power: Japan and Southeast Asia in the Indo-Pacific Era](https://www.press.umich.edu/11859489/courteous_power)* edited by John D. Ciorciari and Kiyoteru Tsutsui[](https://www.press.umich.edu/11564671/writing_pirates)
+
+
+          *[Writing Pirates: Vernacular Fiction and Oceans in Late Ming China](https://www.press.umich.edu/11564671/writing_pirates)* by Yuanfei Wang[](https://doi.org/10.3998/mpub.11373292)
       - type: cta
         id: ""
         text: Oral histories, essays, articles, and other materials from the Department
@@ -145,17 +149,11 @@ sections:
 related_stories:
   - ""
 ---
-**Register for the Open Access Publishing in Asian Studies event and learn more about the rich tradition of Asian Studies scholarship and publishing at the University of Michigan.**
+**What are the opportunities of free electronic access to read and reuse scholarly publications in the discipline of Asian Studies?**
 
-<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="https://oa_asianstudies.eventbrite.com" onclick="ga('send','event','asian-studies','click','register form');"><img class="mb-4" src="/assets/register-button.png"><p></p></a></div>
-
-*Friday, February 26, 1-5 p.m. ET (US) | Free Zoom event, registration required*
-
-The Open Access Publishing in Asian Studies event highlights the impact of the <a href="https://www.publishing.umich.edu/features/asian-studies" onclick="ga('send','event','asian-studies','click','neh feature');">Michigan Asian Studies Open Access Books Collection</a>. While the event focuses on University of Michigan publications, the panels aim to explore opportunities for open access publishing in Asian studies more broadly. 
+Held on February 26, 2021, the Open Access Publishing in Asian Studies event highlighted the impact of the <a href="https://www.publishing.umich.edu/features/asian-studies" onclick="ga('send','event','asian-studies','click','neh feature');">Michigan Asian Studies Open Access Books Collection</a>. While the event focuses on University of Michigan publications, the panels explored opportunities for open access publishing in Asian studies more broadly. 
 
 **<a href="https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing" onclick="ga('send','event','asian-studies','click','event program');">View the event program here</a>.**
-
-*This virtual event is free and open to the public. Registration is required to receive the Zoom link and other event-related information.*
 
 <hr><hr>
 
