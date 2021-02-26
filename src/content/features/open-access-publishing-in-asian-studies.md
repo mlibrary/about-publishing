@@ -58,7 +58,7 @@ sections:
           playwright Stan Lai's Selected Plays.
         button_text: Explore the Catalog
         heading: University of Michigan Press Asian Studies Catalog
-        button_link: https://www.press.umich.edu/browse/subjects/asian_studies
+        button_link: /assets/asiansubjectcatalog2021_mpub.pdf
       - type: highlight
         text: >-
           Explore additional Asian Studies titles from University of Michigan
