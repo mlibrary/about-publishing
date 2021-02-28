@@ -11,28 +11,13 @@ For many decades, publishing at the University of Michigan grew out of diverse a
 
 Today, Michigan Publishing brings together three entities to serve the changing needs of scholars: University of Michigan Press, Michigan Publishing Services, and Deep Blue Repository and Research Data Services. Together, they engage with a spectrum of publishing needs across the life-cycle of scholarly communication and provide guidance and assistance to the University community. 
 
+**We value what we do and the communities behind it.**
+
 [University of Michigan Press](https://www.press.umich.edu/) publishes award-winning books that advance humanities and social science fields, as well as English language teaching and regional resources.
 
 [Michigan Publishing Services](https://www.publishing.umich.edu/services/) assists the U-M community of faculty, staff, and students in achieving their publishing ambitions.
 
 [Deep Blue Repository and Research Data Services](https://deepblue.lib.umich.edu/) provides a platform for stable, citable, measurable presentation of research outputs and consultation services for scholars.
-
-**We value what we do and the communities behind it.**
-
-Our ten core values unite our team and push us to accomplish our work every day.
-
-Scholarship at its best is collaborative, innovative, and engages and solves real-world problems. Michigan Publishing exists to support the creation and spread of knowledge, and as a mission-driven organization, our work is shaped by ten interconnected design principles:
-
-* Partnership
-* Diversity
-* Equity
-* Inclusion
-* Accessibility
-* Durability (Preservation)
-* Discoverability 
-* Flexibility (Interoperability)
-* Reusability
-* Openness (content + infrastructure + values)
 
 **Interested in working on a project with our team?**
 
