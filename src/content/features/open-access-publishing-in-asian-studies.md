@@ -26,13 +26,19 @@ sections:
           here](**https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing**)**
 
 
-          The videos embedded below are ordered as follows:
+          The videos embedded below are ordered as follows (full transcripts and other context are available at the links):
 
 
           [Part 1: Introduction and initial presentations](https://lib.mivideo.it.umich.edu/media/t/1_xyh4fgx2)
 
 
           [Part 2: First panel discussion](https://lib.mivideo.it.umich.edu/media/t/1_6go3vfuu)
+
+
+          [Part 3: Second panel discussion](https://lib.mivideo.it.umich.edu/media/t/1_aqwuhax1)
+
+
+          [Part 4: Wrap up and discussion](https://lib.mivideo.it.umich.edu/media/t/1_m4kurqfw)
       - type: podcast
         id: part1
         embed_code: <iframe id="kaltura_player"
