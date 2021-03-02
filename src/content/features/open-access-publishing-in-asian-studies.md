@@ -67,25 +67,19 @@ sections:
       - type: podcast
         id: part3
         embed_code: <iframe id="kaltura_player"
-          src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_aqwuhax1&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_w1f1u8ws](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_aqwuhax1&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_w1f1u8ws)"
+          src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_aqwuhax1&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_w1f1u8ws"
           width="400" height="285" allowfullscreen webkitallowfullscreen
-          mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*;
-          encrypted-media *" sandbox="allow-forms allow-same-origin
-          allow-scripts allow-top-navigation allow-pointer-lock allow-popups
-          allow-modals allow-orientation-lock allow-popups-to-escape-sandbox
-          allow-presentation allow-top-navigation-by-user-​activation"
+          mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"
+          sandbox="allow-forms allow-same-origin allow-scripts
+          allow-top-navigation allow-pointer-lock allow-popups allow-modals
+          allow-orientation-lock allow-popups-to-escape-sandbox
+          allow-presentation allow-top-navigation-by-user-activation"
           frameborder="0" title="Kaltura Player"></iframe>
       - type: podcast
         id: part4
-        embed_code: <iframe id="kaltura_player"
-          src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_m4kurqfw&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_19c1krfl](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_m4kurqfw&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_19c1krfl)"
-          width="400" height="285" allowfullscreen webkitallowfullscreen
-          mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*;
-          encrypted-media *" sandbox="allow-forms allow-same-origin
-          allow-scripts allow-top-navigation allow-pointer-lock allow-popups
-          allow-modals allow-orientation-lock allow-popups-to-escape-sandbox
-          allow-presentation allow-top-navigation-by-user-​activation"
-          frameborder="0" title="Kaltura Player"></iframe>
+        embed_code: >-
+          
+          <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_m4kurqfw&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_19c1krfl" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
       - type: highlight
         text: >-
           ***You may also be interested in other Asian Studies virtual
