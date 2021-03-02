@@ -21,9 +21,18 @@ sections:
     content:
       - type: highlight
         id: program
-        text: "**[View the event program
-          here](**https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z61\
-          1QUvz_1PvaanWWQ85E/edit?usp=sharing**)**"
+        text: >-
+          **[View the event program
+          here](**https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing**)**
+
+
+          The videos embedded below are ordered as follows:
+
+
+          [Part 1: Introduction and initial presentations](https://lib.mivideo.it.umich.edu/media/t/1_xyh4fgx2)
+
+
+          [Part 2: First panel discussion](https://lib.mivideo.it.umich.edu/media/t/1_6go3vfuu)
       - type: podcast
         id: part1
         embed_code: <iframe id="kaltura_player"
@@ -216,6 +225,4 @@ related_stories:
 ---
 **What happens when scholarly publications in Asian studies are made freely available online?**
 
-Held on February 26, 2021, the Open Access Publishing in Asian Studies event highlighted the impact of the <a href="https://www.publishing.umich.edu/features/asian-studies" onclick="ga('send','event','asian-studies','click','neh feature');">Michigan Asian Studies Open Access Books Collection</a>. Although focused on Michigan publications, the panels explored opportunities for open access publishing in Asian studies more broadly. 
-
-**<a href="https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing" onclick="ga('send','event','asian-studies','click','event program');">View the event program here</a>.**
+Held on February 26, 2021, the Open Access Publishing in Asian Studies event highlighted the impact of the <a href="https://www.publishing.umich.edu/features/asian-studies" onclick="ga('send','event','asian-studies','click','neh feature');">Michigan Asian Studies Open Access Books Collection</a>. Although focused on Michigan publications, the panels explored opportunities for open access publishing in Asian studies more broadly.
