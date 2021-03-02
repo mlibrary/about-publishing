@@ -26,6 +26,9 @@ sections:
           here](**https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing**)**
 
 
+          **[View the links shared in the Zoom chat by participants and attendees here](open-access-publishing-in-asian-studies_chat-links.pdf)**
+
+
           The videos embedded below are ordered as follows (full transcripts and other context are available at the links):
 
 
