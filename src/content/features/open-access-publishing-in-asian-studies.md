@@ -15,8 +15,19 @@ feature_image:
     the University of Michigan Press and the LSA International Institute,
     University of Michigan
 sections:
-  - content:
+  - heading: The Event
+    id: video
+    subheading: Recordings and Materials
+    content:
+      - type: highlight
+        id: program
+        text: "**<a
+          href=\"https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611\
+          QUvz_1PvaanWWQ85E/edit?usp=sharing\"
+          onclick=\"ga('send','event','asian-studies','click','event
+          program');\">View the event program here</a>.**"
       - type: podcast
+        id: part1
         embed_code: <iframe id="kaltura_player"
           src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_xyh4fgx2&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_xeciglha"
           width="400" height="285" allowfullscreen webkitallowfullscreen
@@ -26,6 +37,52 @@ sections:
           allow-orientation-lock allow-popups-to-escape-sandbox
           allow-presentation allow-top-navigation-by-user-activation"
           frameborder="0" title="Kaltura Player"></iframe>
+      - type: podcast
+        id: part2
+        embed_code: <iframe id="kaltura_player"
+          src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_6go3vfuu&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_qcumplpf](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_6go3vfuu&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_qcumplpf)"
+          width="400" height="285" allowfullscreen webkitallowfullscreen
+          mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*;
+          encrypted-media *" sandbox="allow-forms allow-same-origin
+          allow-scripts allow-top-navigation allow-pointer-lock allow-popups
+          allow-modals allow-orientation-lock allow-popups-to-escape-sandbox
+          allow-presentation allow-top-navigation-by-user-​activation"
+          frameborder="0" title="Kaltura Player"></iframe>
+      - type: podcast
+        id: part3
+        embed_code: <iframe id="kaltura_player"
+          src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_aqwuhax1&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_w1f1u8ws](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_aqwuhax1&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_w1f1u8ws)"
+          width="400" height="285" allowfullscreen webkitallowfullscreen
+          mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*;
+          encrypted-media *" sandbox="allow-forms allow-same-origin
+          allow-scripts allow-top-navigation allow-pointer-lock allow-popups
+          allow-modals allow-orientation-lock allow-popups-to-escape-sandbox
+          allow-presentation allow-top-navigation-by-user-​activation"
+          frameborder="0" title="Kaltura Player"></iframe>
+      - type: podcast
+        id: part4
+        embed_code: <iframe id="kaltura_player"
+          src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_m4kurqfw&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_19c1krfl](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_m4kurqfw&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_19c1krfl)"
+          width="400" height="285" allowfullscreen webkitallowfullscreen
+          mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*;
+          encrypted-media *" sandbox="allow-forms allow-same-origin
+          allow-scripts allow-top-navigation allow-pointer-lock allow-popups
+          allow-modals allow-orientation-lock allow-popups-to-escape-sandbox
+          allow-presentation allow-top-navigation-by-user-​activation"
+          frameborder="0" title="Kaltura Player"></iframe>
+      - type: highlight
+        text: >-
+          ***You may also be interested in other Asian Studies virtual
+          events:***
+
+
+          * *<a href="https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html" onclick="ga('send','event','asian-studies','click','bridges event');">"*The Politics of Volume and the Poetics of Reverberations across the Black Pacific"*</a>* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
+
+          * <a href="https://ii.umich.edu/ncks/news-events/events/conferences---symposia/perspectives-on-contemporary-korea/perspectives-on-contemporary-korea-2020-21.html" onclick="ga('send','event','asian-studies','click','film conference');">Perspectives on Contemporary Korea 2020-21: South Korean Film Industry Virtual Conference</a> | Sangjoon Lee (Nanyang Technological University), Dal Yong Jin (Simon Fraser University), Junhyoung Cho (Korean Film Archive), Nojin Kwak (University of Michigan) | April 12-16 | Hosted by the Nam Center for Korean Studies at the University of Michigan
+
+
+          Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
+  - content:
       - type: cta
         image: /assets/neh-brochure.png
         heading: Michigan Asian Studies Open Access Books Collection
@@ -164,36 +221,3 @@ related_stories:
 Held on February 26, 2021, the Open Access Publishing in Asian Studies event highlighted the impact of the <a href="https://www.publishing.umich.edu/features/asian-studies" onclick="ga('send','event','asian-studies','click','neh feature');">Michigan Asian Studies Open Access Books Collection</a>. Although focused on Michigan publications, the panels explored opportunities for open access publishing in Asian studies more broadly. 
 
 **<a href="https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611QUvz_1PvaanWWQ85E/edit?usp=sharing" onclick="ga('send','event','asian-studies','click','event program');">View the event program here</a>.**
-
-<hr><hr>
-
-Part 1:
-
-<iframe width="1680" height="690" src="[](https://www.youtube.com/embed/DyY9Wpfajqo)<https://lib.mivideo.it.umich.edu/media/t/1_xyh4fgx2>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-Part 2:
-
-<iframe id="kaltura_player" src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_6go3vfuu&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_qcumplpf](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_6go3vfuu&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_qcumplpf)" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-​activation" frameborder="0" title="Kaltura Player"></iframe>
-
-<br>
-
-Part 3:
-
-<iframe id="kaltura_player" src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_aqwuhax1&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_w1f1u8ws](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_aqwuhax1&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_w1f1u8ws)" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-​activation" frameborder="0" title="Kaltura Player"></iframe>
-
-<br>
-
-Part 4:
-
-<iframe id="kaltura_player" src="\\[https://cdnapisec.​kaltura.com/p/1038472/sp/​103847200/embedIframeJs/​uiconf_id/20515051/partner_id/​1038472?iframeembed=true&​playerId=kaltura\\\_player&entry\\\_​id=1_m4kurqfw&flashvars\[​streamerType]=auto&amp;​flashvars\\\[localizationCode]=​en&amp;flashvars\\\[​leadWithHTML5]=true&amp;​flashvars\\\[sideBarContainer.​plugin]=true&amp;flashvars\\\[​sideBarContainer.position]=​left&amp;flashvars\\\[​sideBarContainer.clickToClose]​=true&amp;flashvars\\\[chapters.​plugin]=true&amp;flashvars\\\[​chapters.layout]=vertical&amp;​flashvars\\\[chapters.​thumbnailRotator]=false&amp;​flashvars\\\[streamSelector.​plugin]=true&amp;flashvars\\\[​EmbedPlayer.SpinnerTarget]=​videoHolder&amp;flashvars\\\[​dualScreen.plugin]=true&amp;​flashvars\\\[Kaltura.​addCrossoriginToIframe]=true&​amp;&wid=1_19c1krfl](https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/20515051/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_m4kurqfw&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en&amp;flashvars\\[leadWithHTML5]=true&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_19c1krfl)" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-​activation" frameborder="0" title="Kaltura Player"></iframe>
-
-<hr><hr>
-
-***You may also be interested in other Asian Studies virtual events:***
-
-* *<a href="https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html" onclick="ga('send','event','asian-studies','click','bridges event');">"*The Politics of Volume and the Poetics of Reverberations across the Black Pacific"*</a>* | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
-* <a href="https://ii.umich.edu/ncks/news-events/events/conferences---symposia/perspectives-on-contemporary-korea/perspectives-on-contemporary-korea-2020-21.html" onclick="ga('send','event','asian-studies','click','film conference');">Perspectives on Contemporary Korea 2020-21: South Korean Film Industry Virtual Conference</a> | Sangjoon Lee (Nanyang Technological University), Dal Yong Jin (Simon Fraser University), Junhyoung Cho (Korean Film Archive), Nojin Kwak (University of Michigan) | April 12-16 | Hosted by the Nam Center for Korean Studies at the University of Michigan
-
-Attendees of the Association of Asian Studies Conference (March 21-26, 2021) can also look for our University of Michigan Press and International Institute virtual booth.
