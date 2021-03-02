@@ -21,11 +21,9 @@ sections:
     content:
       - type: highlight
         id: program
-        text: "**<a
-          href=\"https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z611\
-          QUvz_1PvaanWWQ85E/edit?usp=sharing\"
-          onclick=\"ga('send','event','asian-studies','click','event
-          program');\">View the event program here</a>.**"
+        text: "**[View the event program
+          here](**https://docs.google.com/document/d/1PcYRpAY1f8hMkHe1eNLa-1z61\
+          1QUvz_1PvaanWWQ85E/edit?usp=sharing**)**"
       - type: podcast
         id: part1
         embed_code: <iframe id="kaltura_player"
