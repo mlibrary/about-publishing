@@ -89,7 +89,7 @@ sections:
           events:***
 
 
-          * [*"*The Politics of Volume and the Poetics of Reverberations across the Black Pacific"](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html") | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
+          * [*"*The Politics of Volume and the Poetics of Reverberations across the Black Pacific"](https://ii.umich.edu/cjs/news-events/events.detail.html/79852-20509609.html) | Will Bridges, University of Rochester | April 15, 12:00-1:30 PM ET | Hosted by the Center for Japanese Studies at the University of Michigan
 
           * [Perspectives on Contemporary Korea 2020-21: South Korean Film Industry Virtual Conference](<* https://ii.umich.edu/ncks/news-events/events/conferences---symposia/perspectives-on-contemporary-korea/perspectives-on-contemporary-korea-2020-21.html>) | Sangjoon Lee (Nanyang Technological University), Dal Yong Jin (Simon Fraser University), Junhyoung Cho (Korean Film Archive), Nojin Kwak (University of Michigan) | April 12-16 | Hosted by the Nam Center for Korean Studies at the University of Michigan
 
