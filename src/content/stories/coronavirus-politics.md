@@ -32,7 +32,8 @@ highlight_box:
     comparative discussion that will shed light on COVID-19 and shape debates about what it
 
     means for scholarship in health and comparative politics."
-books: []
+books:
+  - "Coronavirus Politics: The Comparative Politics and Policy of COVID-19"
 profiles:
   - Scott Greer
 related_stories: []
