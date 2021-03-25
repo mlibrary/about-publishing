@@ -150,7 +150,7 @@ class Trending extends Component {
 
                     <p className="text-battleship-grey">
                       {book.authors && book.authors.join(" | ")}
-                      {!book.authors && book.editors.join(" | ")}
+                      {!book.authors && book.editors && book.editors.join(" | ")}
                     </p>
                   </div>
                   <div className="mt-auto">
