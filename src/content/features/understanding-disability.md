@@ -17,6 +17,4 @@ related_stories:
 
 Disabilities have been traditionally treated as conditions in need of medical intervention and correction. Rarely has disability been approached as a constructed category forwarded by social institutions seeking to legislate the slippery line that exists between normative biologies and deviant bodies. Michigan Publishing advances ongoing scholarly efforts to conceive of a more humane constellation of narratives about physical and cognitive difference as well as striving to make its publications as accessible as possible to disabled readers.
 
-
-
 <!--EndFragment-->
