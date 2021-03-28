@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 type: feature
 title: Understanding Disability
 subtitle: Rethinking Physical and Cognitive Differences
