@@ -10,6 +10,7 @@ hero:
 feature_image:
   file: /assets/kim_front.png
   alt: Four disabled arms stretching out, bound with twine
+sections: []
 related_stories:
   - ""
 ---
