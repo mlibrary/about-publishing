@@ -3,7 +3,7 @@ published: true
 type: feature
 title: Understanding Disability
 subtitle: Rethinking Physical and Cognitive Differences
-path: understanding-disability
+path: /understanding-disability
 hero:
   text: ""
   feature_hero_image: ""
