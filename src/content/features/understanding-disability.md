@@ -11,7 +11,7 @@ feature_image:
   file: /assets/kim_front.png
   alt: Four disabled arms stretching out, bound with twine
 sections:
-  - heading: Corporealities
+  - heading: New from "Corporealities"
     subheading: "Series Editors: David Mitchell and Sharon Snyder"
     content:
       - type: highlight
