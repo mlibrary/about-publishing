@@ -68,6 +68,15 @@ sections:
         button_link: https://www.press.umich.edu/11741095/beholding_disability_in_renaissance_england
         button_text: Order Book
         image: /assets/beholding-disability.jpg
+      - type: highlight
+        text: >-
+          University of Michigan Press is a Benetech Global Certified Accessible
+          Publisher, producing EPUB books that meet a full range of
+          accessibility features to support readers with and without
+          disabilities and learning differences.
+
+
+          ![](/assets/1.png "Global Certified Accessible Publisher")
 related_stories:
   - ""
 ---
