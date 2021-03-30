@@ -45,7 +45,7 @@ sections:
           constantly shifting continuum.
 
 
-          Author, Jeremy Colangelo is SSHRC Post-doctoral Fellow at SUNY Buffalo and Lecturer at King's University College at The University of Western Ontario.
+          Author Jeremy Colangelo is SSHRC Post-doctoral Fellow at SUNY Buffalo and Lecturer at King's University College at The University of Western Ontario.
         button_link: https://www.press.umich.edu/11677854/diaphanous_bodies
         button_text: Order Book
 related_stories:
