@@ -48,6 +48,27 @@ sections:
           Author Jeremy Colangelo is SSHRC Post-doctoral Fellow at SUNY Buffalo and Lecturer at King's University College at The University of Western Ontario.
         button_link: https://www.press.umich.edu/11677854/diaphanous_bodies
         button_text: Order Book
+      - type: cta
+        image: /assets/embodied-archive.jpg
+        heading: Embodied Archive Disability in Post-Revolutionary Mexican Cultural
+          Production
+        text: Weaving between the historical context of Mexico’s post-revolutionary
+          period and our present-day world, Embodied Archive approaches literary
+          and archival documents that include anti-alcohol and hygiene
+          campaigns; projects in school architecture and psychopedagogy;
+          biotypological studies of urban schoolchildren and indigenous
+          populations; and literary approaches to futuristic utopias or violent
+          pasts. It focuses in particular on the way disability is represented
+          indirectly through factors that may have caused it in the past or may
+          cause it in the future, or through perceptions and measurements that
+          cannot fully capture it. In engaging with these narratives, the book
+          proposes an archival encounter, a witnessing of past injustices and
+          their implications for the disability of our present and future. An
+          Open Access ebook has been made possible by support from Victoria
+          College at the University of Toronto. Author Susan Antebi is Associate
+          Professor of Latin American Literature at the University of Toronto.
+        button_text: Buy Book
+        button_link: https://www.press.umich.edu/11644714/embodied_archive
 related_stories:
   - ""
 ---
