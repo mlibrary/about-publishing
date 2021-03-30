@@ -31,33 +31,26 @@ sections:
         heading: "Diaphanous Bodies: Ability, Disability, and Modernist Irish
           Literature"
         text: >
-          Diaphanous Bodies examines ability, as a category of embodiment and
-          embodied experience, and in the process opens up a new area of inquiry
-          in the growing field of literary disability studies. It argues that
-          the construction of ability arises through a process of exclusion and
-          forgetting, in which the depiction of sensory information and
-          epistemological judgment subtly (or sometimes un-subtly) elide the
-          fact of embodied subjectivity. 
-
-
-          Author Jeremy Colangelo is SSHRC Post-doctoral Fellow at SUNY Buffalo and Lecturer at King's University College at The University of Western Ontario.
+          This book by Jeremy Colangelo examines ability, as a category of
+          embodiment and embodied experience, and in the process opens up a new
+          area of inquiry in the growing field of literary disability studies.
+          It argues that the construction of ability arises through a process of
+          exclusion and forgetting, in which the depiction of sensory
+          information and epistemological judgment subtly (or sometimes
+          un-subtly) elide the fact of embodied subjectivity.
         button_link: https://www.press.umich.edu/11677854/diaphanous_bodies
         button_text: Order Book
       - type: cta
         image: /assets/embodied-archive.jpg
         heading: Embodied Archive Disability in Post-Revolutionary Mexican Cultural
           Production
-        text: >-
-          Weaving between the historical context of Mexico’s post-revolutionary
-          period and our present-day world, Embodied Archive approaches literary
-          and archival documents that include anti-alcohol and hygiene
-          campaigns; projects in school architecture and psychopedagogy;
-          biotypological studies of urban schoolchildren and indigenous
-          populations; and literary approaches to futuristic utopias or violent
-          pasts. 
-
-
-          Author Susan Antebi is Associate Professor of Latin American Literature at the University of Toronto.
+        text: Weaving between the historical context of Mexico’s post-revolutionary
+          period and our present-day world, this title by Susan Antebi
+          approaches literary and archival documents that include anti-alcohol
+          and hygiene campaigns; projects in school architecture and
+          psychopedagogy; biotypological studies of urban schoolchildren and
+          indigenous populations; and literary approaches to futuristic utopias
+          or violent pasts.
         button_text: Order Book
         button_link: https://www.press.umich.edu/11644714/embodied_archive
 related_stories:
