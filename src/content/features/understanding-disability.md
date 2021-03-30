@@ -53,6 +53,21 @@ sections:
           or violent pasts.
         button_text: Order Book
         button_link: https://www.press.umich.edu/11644714/embodied_archive
+      - type: cta
+        heading: Beholding Disability in Renaissance England
+        text: >
+          Uncovers crucial counterdiscourses circulating in the English
+          Renaissance that opposed cultural fantasies of ability and had a keen
+          sensibility toward non-normative embodiments. Hobgood reads
+          impairments as varied as epilepsy, stuttering, disfigurement,
+          deafness, chronic pain, blindness, and castration in order to
+          understand not just powerful fictions of ability present during the
+          Renaissance but also the somewhat paradoxical, surprising ways these
+          ableist ideals provided creative fodder for many Renaissance writers
+          and thinkers.
+        button_link: https://www.press.umich.edu/11741095/beholding_disability_in_renaissance_england
+        button_text: Order Book
+        image: /assets/beholding-disability.jpg
 related_stories:
   - ""
 ---
