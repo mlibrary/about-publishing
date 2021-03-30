@@ -20,10 +20,11 @@ sections:
           terms that define the essence of what it means to be human. Rarely has
           disability been approached as a constructed category forwarded by
           social institutions seeking to legislate the slippery line that exists
-          between normative biologies and deviant bodies. This University of
-          Michigan Press book series identifies the social phantasms that have
-          been projected upon disabled subjects in history and theorizes the
-          shifting coordinates of disabled identities.
+          between normative biologies and deviant bodies. Subtitled "Discourses
+          of Disability" this University of Michigan Press book series
+          identifies the social phantasms that have been projected upon disabled
+          subjects in history and theorizes the shifting coordinates of disabled
+          identities.
       - type: cta
         image: /assets/diaphanous-bodies.jpg
         image_alt: Cover of Diaphanous Bodies book
