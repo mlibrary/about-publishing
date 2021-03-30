@@ -58,7 +58,7 @@ sections:
 
 
           Author Susan Antebi is Associate Professor of Latin American Literature at the University of Toronto.
-        button_text: Buy Book
+        button_text: Order Book
         button_link: https://www.press.umich.edu/11644714/embodied_archive
 related_stories:
   - ""
