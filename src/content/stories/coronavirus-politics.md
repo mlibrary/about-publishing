@@ -34,6 +34,7 @@ highlight_box:
     means for scholarship in health and comparative politics."
 books:
   - "Coronavirus Politics: The Comparative Politics and Policy of COVID-19"
+  - Being Human during COVID
 profiles:
   - Scott Greer
 related_stories: []
