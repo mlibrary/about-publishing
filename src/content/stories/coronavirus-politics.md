@@ -44,6 +44,9 @@ The last year has been a sleepless one for [Scott Greer](https://sph.umich.edu/f
 
 Their expertise is constantly being sought by national governments and international organizations such as the World Health Organization. However, the four long-time collaborators have also been reflecting on how to capture some of the lessons of the current crisis so that the international academic and policy community can learn from experience. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5f6iWdgdVKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 Working with Elizabeth Demers, Editorial Director of the University of Michigan Press, Greer, King, Peralta, and Massard have drawn together a stellar group of case studies from around the world to develop an edited book, *[Coronavirus Politics: The Comparative Politics and Policy of COVID-19](https://www.press.umich.edu/11927713/coronavirus_politics).* Thanks to a novel iterative review process and an expedited production schedule, the book is being published in spring 2021. With support from the [University of Michigan International Institute](https://ii.umich.edu/ii), the electronic version will be distributed free-of-charge.
 
 University of Michigan Press will also be publishing a book on cultural reactions to COVID-19 in fall 2021, written by a diverse group of leading scholars at the University. *[Being Human During COVID-19](https://www.press.umich.edu/12136619/being_human_during_covid)* is edited by Kristin Ann Hass and is also being made available free-of-charge electronically with support from the U-M College of Literature, Science, and the Arts and the Michigan Humanities Collaboratory.
