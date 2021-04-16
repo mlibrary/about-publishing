@@ -11,6 +11,33 @@ feature_image:
   file: /assets/kim_front.png
   alt: Four disabled arms stretching out, bound with twine
 sections:
+  - heading: Tobin Siebers Prize for Disability Studies in the Humanities
+    id: siebers
+    subheading: 2021 Submissions due August 1, 2021
+    content:
+      - type: cta
+        button_text: Submission Guidelines Here
+        button_link: https://blog.press.umich.edu/2021/01/call-2021-tobin-siebers-prize-disability-studies/
+        heading: About the Prize
+        text: >-
+          The Tobin Siebers Prize for Disability Studies in the Humanities is
+          awarded in memory of disability studies pioneer Tobin Siebers,
+          Professor of English at the University of Michigan and author of many
+          influential books and articles in the field of Disability Studies. The
+          prize is awarded yearly for the best book-length manuscript on a topic
+          of pressing urgency in the field (with the exception of 2020, due to
+          the challenges presented by COVID-19). Reflecting on the work of the
+          scholar the prize commemorates, the competition invites submissions on
+          a wide range of topics, from literary and cultural studies, to
+          trans-historical research, to contributions to disability theory such
+          as work in crip/queer studies. The deadline is August 1, 2021. The
+          winner will be announced in January 2022. 
+
+
+          Winners receive a cash prize of $1500, and a book contract from the University of Michigan Press to be published in the Corporealities: Discourses of Disability series. In addition, the winner of the 2021 prize will receive the unique opportunity to participate in the Fall 2021 book launch event for Sex, Identity, Aesthetics: The Work of Tobin Siebers and Disability Studies as a panelist among three of the volume’s editors and members of the Department of English Language and Literature at the University of Michigan.
+
+
+          This prize is funded by the Tobin Siebers Memorial Fund.
   - heading: New from "Corporealities"
     subheading: "Series Editors: David Mitchell and Sharon Snyder"
     content:
