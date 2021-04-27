@@ -84,6 +84,14 @@ sections:
         button_link: https://www.press.umich.edu/11741095/beholding_disability_in_renaissance_england
         button_text: Order Book
         image: /assets/beholding-disability.jpg
+      - type: cta
+        button_link: https://www.press.umich.edu/images/catalog/disabilitystudies2021.pdf
+        button_text: Browse Our Brochure
+        heading: More Disability Studies Titles
+        text: Browse a highlighted selection of our Disability Studies list for more
+          excellent titles exploring various aspects of disability, including
+          disability in history, higher education, and the arts; the experience,
+          politics, and philosophy of disability; and the legacy of war.
       - type: highlight
         text: >-
           University of Michigan Press is a Benetech Global Certified Accessible
