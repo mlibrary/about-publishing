@@ -31,6 +31,9 @@ const AdvancedImageComponent = {
   toBlock(obj) {
     return `<figure class="advanced-image ${obj.alignment}"><img src="${obj.image}" alt="${obj.alt}"><figcaption><div class="caption">${obj.caption}</div><div class="credit">${obj.credit}</div></figcaption></figure>`
   },
+  toPreview(obj) {
+    return `<figure class="advanced-image ${obj.alignment}"><img src="${obj.image}" alt="${obj.alt}"><figcaption><div class="caption">${obj.caption}</div><div class="credit">${obj.credit}</div></figcaption></figure>`
+  },
 }
 
 export default AdvancedImageComponent

@@ -45,6 +45,9 @@ const BlockquoteComponent = {
   toBlock({ text, citeName, citeTitle, layout, color }) {
     return `<blockquote class="quote ${layout} ${color}"><p>${text}</p><footer><cite>- ${citeName}<br>${citeTitle}</cite></footer></blockquote>`
   },
+  toPreview({ text, citeName, citeTitle, layout, color }) {
+    return `<blockquote class="quote ${layout} ${color}"><p>${text}</p><footer><cite>- ${citeName}<br>${citeTitle}</cite></footer></blockquote>`
+  },
 }
 
 export default BlockquoteComponent
