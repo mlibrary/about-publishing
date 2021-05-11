@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 type: feature
 title: TEST
 subtitle: Test
