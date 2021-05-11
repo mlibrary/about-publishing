@@ -36,11 +36,11 @@ const QuoteSlider = ({ content, books, slides }) => {
             <p className="font-bold text-metallic-blue">
               {book.frontmatter.author}
             </p>
-            <div className="mb-6 sm:flex">
+            <div className="mb-6 sm:flex sm:items-start">
               <img
                 src={book.frontmatter.image.file}
                 alt={book.frontmatter.image.alt}
-                className="flex-shrink-0 pr-6 mb-6 rounded sm:w-4/12 sm:mb-0"
+                className="flex-shrink-0 mb-6 rounded sm:pr-6 sm:w-4/12 sm:mb-0"
               />
 
               <Quote
