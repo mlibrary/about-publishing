@@ -154,7 +154,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: published, label: Published, widget: boolean }
+      - { name: published, label: Published, widget: boolean, required: false }
       - { name: type, label: Type, widget: hidden, default: feature }
       - { name: title, label: Title }
       - { name: subtitle, label: Subtitle }
