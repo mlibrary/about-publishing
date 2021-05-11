@@ -3,7 +3,7 @@ published: false
 type: feature
 title: TEST
 subtitle: Test
-path: test
+path: /features/test
 hero:
   text: ""
   feature_hero_image: ""
