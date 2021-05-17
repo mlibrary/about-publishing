@@ -38,9 +38,23 @@ sections:
           * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
 
           * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
-      - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.48.31-pm.png
-        image_alt: 3 charts outlining pricing for UMP EBC packages
+      - type: highlight
+        text: >-
+          **The Mission**
+
+
+          With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
+
+
+          * Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
+
+          * Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
+
+          * Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
+
+          * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
+
+          * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
       - type: highlight
         text: >-
           **Resources**
@@ -59,23 +73,8 @@ sections:
 
 
           **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
-      - type: highlight
-        text: >-
-          **The Mission**
-
-
-          With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
-
-
-          * Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
-
-          * Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
-
-          * Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
-
-          * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
-
-          * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
+      - type: spacer
+        spacer: Spacer
   - heading: Open Access at UMP
     content:
       - type: cta
