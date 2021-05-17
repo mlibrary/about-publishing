@@ -37,33 +37,6 @@ sections:
         heading: The Funding Model
         button_text: Learn More
         button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
-      - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.18.31-pm.png
-        image_alt: "Table that represents Transitional Collection pricing. "
-      - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.18.41-pm.png
-        caption: ""
-        image_alt: Table that represents Frontlist pricing.
-      - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.18.46-pm.png
-        image_alt: Table that represents Backlist Bundle pricing.
-      - type: highlight
-        text: >-
-          **The Mission**
-
-
-          With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
-
-
-          * Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
-
-          * Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
-
-          * Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
-
-          * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
-
-          * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
       - type: highlight
         text: >-
           **Resources**
@@ -82,6 +55,23 @@ sections:
 
 
           **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
+      - type: highlight
+        text: >-
+          **The Mission**
+
+
+          With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
+
+
+          * Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
+
+          * Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
+
+          * Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
+
+          * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
+
+          * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
   - heading: Open Access at UMP
     content:
       - type: cta
