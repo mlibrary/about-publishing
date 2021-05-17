@@ -18,19 +18,12 @@ sections:
     subheading: The Model and the Mission
     content:
       - type: cta
-        text: >
-          The University of Michigan Press aims to convert at least 75% of its
-          monographs (for research and teaching) to open access by the end of
-          2023, without any author ever having to pay. The Press is working to
-          build a sustainable model by achieving stable funding for this
-          monograph program from three sources: $250,000 in annual funding from
-          the library community, $400,000 in additional recurring funds from the
-          University, and $300,000 in other funder payments. Libraries are
-          invited to continue to participate in the University of Michigan Press
-          Ebook Collection by way of our current fair pricing. However, rather
-          than only funding a paywalled collection, an increasing
-
-          percentage of titles become open access. 
+        text: "The Press aims to convert at least 75% of its monographs to open access
+          by the end of 2023, without any author ever having to pay. The Press
+          is working to build a sustainable model by achieving stable funding
+          for this monograph program from three sources: $250,000 in annual
+          funding from the library community, $400,000 in additional recurring
+          funds from U-M, and $300,000 in other funder payments."
         heading: The Funding Model
         button_text: Learn More
         button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
