@@ -18,24 +18,21 @@ sections:
     subheading: The Model and the Mission
     content:
       - type: cta
-        text: >+
-          The Press is seeking a total of $250,000 in annual funding from the
-          library community as it transitions to open. After extensive
+        text: >
+          The University of Michigan Press aims to convert at least 75% of its
+          monographs (for research and teaching) to open access by the end of
+          2023, without any author ever having to pay. The Press is working to
+          build a sustainable model by achieving stable funding for this
+          monograph program from three sources: $250,000 in annual funding from
+          the library community, $400,000 in additional recurring funds from the
+          University, and $300,000 in other funder payments. After extensive
           consultation with libraries, we have adopted a simple approach to
-          reach our annual funding goal. By committing to purchase one of the
-          UMP EBC packages, libraries:
+          reach our annual funding goal. Libraries are invited to continue to
+          participate in the University of Michigan Press Ebook Collection (UMP
+          EBC) by way of our current fair pricing. However, rather than only
+          funding a paywalled collection, an increasing
 
-
-          • Support the conversion to open access of at least half (~45) of University of Michigan Press scholarly monographs in 2022. (We will expand this percentage if we realize our full goal, and will build on it in succeeding years)
-
-
-
-          • Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
-
-
-
-          • Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
-
+          percentage of titles become open access. 
         heading: The Funding Model
         button_text: Learn More
         button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
