@@ -8,10 +8,11 @@ hero:
   text: "\n\n"
   feature_hero_image: ""
 feature_image:
-  file: /assets/screen-shot-2021-05-17-at-4.53.47-pm.png
+  file: /assets/screen-shot-2021-05-17-at-4.55.58-pm.png
   alt: "Navy blue background with University of Michigan Press logo in upper
-    lefthand corner. Main title reads \"Fund to Mission: University of Michigan
-    Press' Open Access Model\" in white serif font. "
+    lefthand corner and orange open lock open access logo in upper righthand
+    corner. Main title reads \"Fund to Mission: University of Michigan Press'
+    Open Access Model\" in white serif font. "
 sections:
   - heading: Fund to Mission
     subheading: The Model and the Mission
