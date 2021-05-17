@@ -31,14 +31,14 @@ sections:
 
           * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source [Fulcrum platform](fulcrum.org).
       - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.14.55-pm.png
+        image: /assets/screen-shot-2021-05-17-at-5.18.31-pm.png
         image_alt: "Table that represents Transitional Collection pricing. "
       - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.15.01-pm.png
+        image: /assets/screen-shot-2021-05-17-at-5.18.41-pm.png
         caption: ""
         image_alt: Table that represents Frontlist pricing.
       - type: image
-        image: /assets/screen-shot-2021-05-17-at-5.15.06-pm.png
+        image: /assets/screen-shot-2021-05-17-at-5.18.46-pm.png
         image_alt: Table that represents Backlist Bundle pricing.
       - type: highlight
         text: >-
