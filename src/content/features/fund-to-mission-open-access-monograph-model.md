@@ -37,21 +37,6 @@ sections:
         heading: The Funding Model
         button_text: Learn More
         button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
-      - type: highlight
-        text: >-
-          **Resources**
-
-
-          **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
-
-
-          **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
-
-
-          **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
-
-
-          **[UMP Open Access Books on Fulcrum](https://www.fulcrum.org/michigan?locale=en&user_access=oa)**
       - type: image
         image: /assets/screen-shot-2021-05-17-at-5.18.31-pm.png
         image_alt: "Table that represents Transitional Collection pricing. "
@@ -79,6 +64,24 @@ sections:
           * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
 
           * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
+      - type: highlight
+        text: >-
+          **Resources**
+
+
+          **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
+
+
+          **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
+
+
+          **[Information on Pricing and Licensing](https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429)**
+
+
+          **[UMP Open Access Books on Fulcrum](https://www.fulcrum.org/michigan?locale=en&user_access=oa)**
+
+
+          **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
   - heading: Open Access at UMP
     content:
       - type: cta
