@@ -47,6 +47,21 @@ sections:
           * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
 
           * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
+      - type: highlight
+        text: >-
+          **Resources**
+
+
+          **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
+
+
+          **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
+
+
+          **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
+
+
+          **[UMP Open Access Books on Fulcrum](https://www.fulcrum.org/michigan?locale=en&user_access=oa)**
   - heading: Open Access at UMP
     content:
       - type: cta
