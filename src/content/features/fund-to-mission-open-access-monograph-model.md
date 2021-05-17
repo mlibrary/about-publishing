@@ -33,6 +33,10 @@ sections:
       - type: image
         image: /assets/screen-shot-2021-05-17-at-5.14.55-pm.png
         image_alt: Chart that represents pricing for the transitional collection
+      - type: image
+        image: /assets/screen-shot-2021-05-17-at-5.15.01-pm.png
+        caption: ""
+        image_alt: Table that represents Frontlist pricing.
       - type: highlight
         text: >-
           **The Mission**
