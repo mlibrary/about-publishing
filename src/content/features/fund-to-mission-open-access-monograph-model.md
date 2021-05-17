@@ -25,12 +25,10 @@ sections:
           build a sustainable model by achieving stable funding for this
           monograph program from three sources: $250,000 in annual funding from
           the library community, $400,000 in additional recurring funds from the
-          University, and $300,000 in other funder payments. After extensive
-          consultation with libraries, we have adopted a simple approach to
-          reach our annual funding goal. Libraries are invited to continue to
-          participate in the University of Michigan Press Ebook Collection (UMP
-          EBC) by way of our current fair pricing. However, rather than only
-          funding a paywalled collection, an increasing
+          University, and $300,000 in other funder payments. Libraries are
+          invited to continue to participate in the University of Michigan Press
+          Ebook Collection by way of our current fair pricing. However, rather
+          than only funding a paywalled collection, an increasing
 
           percentage of titles become open access. 
         heading: The Funding Model
