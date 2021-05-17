@@ -29,7 +29,9 @@ sections:
           • Support the conversion to open access of at least half (~45) of University of Michigan Press scholarly monographs in 2022. (We will expand this percentage if we realize our full goal, and will build on it in succeeding years)
 
 
+
           • Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
+
 
 
           • Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
