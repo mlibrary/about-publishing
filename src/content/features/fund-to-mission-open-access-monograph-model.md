@@ -68,9 +68,10 @@ sections:
         heading: Explore Open Access Content
         text: "University of Michigan Press has published over 250 open access titles to
           date. These titles are available to freely read and download on the
-          Fulcrum platform. "
-        button_text: Read OA Books
-        button_link: https://www.fulcrum.org/michigan?locale=en&user_access=oa
+          Fulcrum platform at fulcrum.org/michigan. MARC records for open access
+          books are available to download to your library catalog. "
+        button_text: Download MARC Records
+        button_link: https://umich.app.box.com/s/oxuimlw7m656w9ngpjfwim10zdqxy5at
         image: /assets/655px-open_access_logo_plos_white.svg.png
     subheading: Explore content and download records
 related_stories:
