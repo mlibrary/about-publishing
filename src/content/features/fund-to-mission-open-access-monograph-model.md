@@ -17,19 +17,41 @@ sections:
   - heading: Fund to Mission
     subheading: The Model and the Mission
     content:
+      - type: cta
+        text: >-
+          The Press is seeking a total of $250,000 in annual funding from the
+          library community as it transitions to open. After extensive
+          consultation with libraries, we have adopted a simple approach to
+          reach our annual funding goal. By committing to purchase one of the
+          UMP EBC packages, libraries:
+
+
+          • Support the conversion to open access of at least half (~45) of University of Michigan Press scholarly monographs in 2022. (We will expand this percentage if we realize our full goal, and will build on it in succeeding years)
+
+          • Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
+
+          • Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
+
+
+          Explore 
+        heading: The Funding Model
+        button_text: Learn More
+        button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
       - type: highlight
         text: >-
-          **The Funding Model**
+          **Resources**
 
 
-          The Press is seeking a total of $250,000 in annual funding from the library community as it transitions to open. After extensive consultation with libraries, we have adopted a simple approach to reach our annual funding goal. By committing to purchase one of the UMP EBC packages, libraries:
+          **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
 
 
-          * Support the conversion to open access of at least half (~45) of University of Michigan Press scholarly monographs in 2022. (We will expand this percentage if we realize our full goal, and will build on it in succeeding years);
+          **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
 
-          * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers;
 
-          * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source [Fulcrum platform](fulcrum.org).
+          **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
+
+
+          **[UMP Open Access Books on Fulcrum](https://www.fulcrum.org/michigan?locale=en&user_access=oa)**
       - type: image
         image: /assets/screen-shot-2021-05-17-at-5.18.31-pm.png
         image_alt: "Table that represents Transitional Collection pricing. "
@@ -57,21 +79,6 @@ sections:
           * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
 
           * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
-      - type: highlight
-        text: >-
-          **Resources**
-
-
-          **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
-
-
-          **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
-
-
-          **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
-
-
-          **[UMP Open Access Books on Fulcrum](https://www.fulcrum.org/michigan?locale=en&user_access=oa)**
   - heading: Open Access at UMP
     content:
       - type: cta
