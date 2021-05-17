@@ -38,6 +38,9 @@ sections:
           * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
 
           * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
+      - type: image
+        image: /assets/screen-shot-2021-05-17-at-5.48.31-pm.png
+        image_alt: 3 charts outlining pricing for UMP EBC packages
       - type: highlight
         text: >-
           **Resources**
