@@ -18,7 +18,7 @@ sections:
     subheading: The Model and the Mission
     content:
       - type: cta
-        text: >-
+        text: >+
           The Press is seeking a total of $250,000 in annual funding from the
           library community as it transitions to open. After extensive
           consultation with libraries, we have adopted a simple approach to
@@ -28,12 +28,12 @@ sections:
 
           • Support the conversion to open access of at least half (~45) of University of Michigan Press scholarly monographs in 2022. (We will expand this percentage if we realize our full goal, and will build on it in succeeding years)
 
+
           • Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
+
 
           • Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
 
-
-          Explore 
         heading: The Funding Model
         button_text: Learn More
         button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
