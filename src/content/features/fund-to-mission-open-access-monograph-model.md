@@ -89,7 +89,7 @@ sections:
   - heading: Open Access at UMP
     content:
       - type: cta
-        heading: Explore Open Access Content
+        heading: Engage with UMP's Open Content
         text: "At the University of Michigan Press, open access is one of many ways that
           we strive to deliver the best scholarship to the broadest possible
           audience. The Press has published over 250 open access titles to date.
@@ -100,7 +100,7 @@ sections:
         button_text: Download MARC Records
         button_link: https://umich.app.box.com/s/oxuimlw7m656w9ngpjfwim10zdqxy5at
         image: /assets/655px-open_access_logo_plos_white.svg.png
-    subheading: Explore content and download records
+    subheading: Explore OA monographs and download MARC records
 related_stories:
   - ""
 ---
