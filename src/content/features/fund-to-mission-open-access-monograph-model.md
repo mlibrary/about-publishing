@@ -38,6 +38,8 @@ sections:
           * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers
 
           * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform
+
+            Explore the three funding packages below. Any purchase a library makes today supports our transition to open access. Libraries who commit to purchase before **June 30, 2021** [will receive an extra 5% discount](https://www.google.com/url?q=https://www.lyrasis.org/content/Pages/product-details.aspx?pid%3D8D37544B-F9AA-E811-9416-00155DA0E429&sa=D&source=editors&ust=1621338454104000&usg=AOvVaw0oXdtowU_TYCHniOs-FzrW).
       - type: image
         image: /assets/screen-shot-2021-05-18-at-6.37.41-am.png
         image_alt: Table that shows pricing for Transitional Collection
