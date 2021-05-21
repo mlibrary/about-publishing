@@ -86,6 +86,15 @@ sections:
           **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
       - type: spacer
         spacer: Spacer
+      - type: highlight
+        id: Why Fund to Mission?
+        text: >-
+          This webinar explains why our model is called "Fund to Mission" and
+          highlights the impact of investments in transitioning University of
+          Michigan Press monographs to open access.
+
+
+          <iframe src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/25437071/partner_id/1038472?iframeembed=true&playerId=kplayer&entry_id=1_3omiqtfm&flashvars\[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \*; fullscreen \*; encrypted-media *" frameborder="0"></iframe>
   - heading: Open Access at UMP
     content:
       - type: cta
