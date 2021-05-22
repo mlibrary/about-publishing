@@ -92,6 +92,8 @@ sections:
           Mission"](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1038472/uiconf_id/25437071/entry_id/1_3omiqtfm/embed/dynamic)
           and highlights the impact of investments in transitioning University
           of Michigan Press monographs to open access.'
+      - type: youtube
+        id: https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1038472/uiconf_id/25437071/entry_id/1_3omiqtfm/embed/dynamic
   - heading: Open Access at UMP
     content:
       - type: cta
