@@ -88,14 +88,11 @@ sections:
         spacer: Spacer
       - type: highlight
         id: Why Fund to Mission?
-        text: >-
-          The webinar below was recorded on May 18, 2021. It outlines the model
-          and explains why it is called "Fund to Mission." The presenters also
-          highlight the impact of investments in transitioning University of
-          Michigan Press monographs to open access for authors and readers.
-
-
-          <iframe src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/25437071/partner_id/1038472?iframeembed=true&playerId=kplayer&entry_id=1_3omiqtfm&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+        text: <iframe
+          src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/25437071/partner_id/1038472?iframeembed=true&playerId=kplayer&entry_id=1_3omiqtfm&flashvars[streamerType]=auto"
+          width="560" height="395" allowfullscreen webkitallowfullscreen
+          mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"
+          frameborder="0"></iframe>
   - heading: Open Access at UMP
     content:
       - type: cta
