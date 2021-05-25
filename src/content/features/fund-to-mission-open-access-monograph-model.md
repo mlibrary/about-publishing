@@ -14,8 +14,8 @@ feature_image:
     corner. Main title reads \"Fund to Mission: University of Michigan Press'
     Open Access Model\" in white serif font. "
 sections:
-  - heading: Webinar
-    subheading: Recording and Slides
+  - heading: Webinar Recording
+    subheading: May 18, 2021
     content:
       - type: podcast
         embed_code: <iframe
@@ -25,9 +25,10 @@ sections:
           frameborder="0"></iframe>
         id: Why Fund to Mission?
       - type: highlight
-        text: "[Webinar
-          slides](https://docs.google.com/presentation/d/1gHCxHPqgm_zBpoF9mpo35\
-          vZXk6PIUBrz1dDB3sJYaNg/edit?usp=sharing)"
+        text: If you missed the webinar on May 18, take a look below. You can access the
+          [slides from the
+          webinar](https://docs.google.com/presentation/d/1gHCxHPqgm_zBpoF9mpo35vZXk6PIUBrz1dDB3sJYaNg/edit?usp=sharing)
+          here, and we've also linked to other helpful resources below.
   - heading: Fund to Mission
     subheading: The Model and the Mission
     content:
