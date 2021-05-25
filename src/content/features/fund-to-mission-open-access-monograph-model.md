@@ -31,13 +31,6 @@ sections:
   - heading: Fund to Mission
     subheading: The Model and the Mission
     content:
-      - type: podcast
-        id: Why Fund to Mission?
-        embed_code: <iframe
-          src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/25437071/partner_id/1038472?iframeembed=true&playerId=kplayer&entry_id=1_3omiqtfm&flashvars[streamerType]=auto"
-          width="560" height="700" allowfullscreen webkitallowfullscreen
-          mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"
-          frameborder="0"></iframe>
       - type: cta
         text: "The Press aims to convert at least 75% of its monographs to open access
           by the end of 2023, without any author ever having to pay. The Press
