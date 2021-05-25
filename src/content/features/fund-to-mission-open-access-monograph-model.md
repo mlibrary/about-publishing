@@ -18,8 +18,8 @@ sections:
     subheading: May 18, 2021
     content:
       - type: highlight
-        text: If you missed the webinar on May 18, take a look below. You can access the
-          [slides from the
+        text: If you missed the webinar on May 18, watch the recording with live
+          captions below. You can access the [slides from the
           webinar](https://docs.google.com/presentation/d/1gHCxHPqgm_zBpoF9mpo35vZXk6PIUBrz1dDB3sJYaNg/edit?usp=sharing)
           here, and we've also linked to other helpful resources below.
       - type: podcast
