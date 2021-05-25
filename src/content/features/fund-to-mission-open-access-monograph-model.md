@@ -14,8 +14,8 @@ feature_image:
     corner. Main title reads \"Fund to Mission: University of Michigan Press'
     Open Access Model\" in white serif font. "
 sections:
-  - heading: Webinar Recording
-    subheading: May 18, 2021
+  - heading: Informational Webinar
+    subheading: Recording from May 18, 2021
     content:
       - type: highlight
         text: If you missed the webinar on May 18, watch the recording with live
