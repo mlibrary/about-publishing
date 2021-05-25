@@ -18,10 +18,11 @@ sections:
     subheading: Recording from May 18, 2021
     content:
       - type: highlight
-        text: If you missed the webinar on May 18, watch the recording with live
-          captions below. You can access the [slides from the
-          webinar](https://docs.google.com/presentation/d/1gHCxHPqgm_zBpoF9mpo35vZXk6PIUBrz1dDB3sJYaNg/edit?usp=sharing)
-          here, and we've also linked to other helpful resources below.
+        text: If you missed the informational webinar about Fund to Mission on May 18,
+          watch the recording with live captions below. You can access the
+          [slides from the webinar
+          here](https://docs.google.com/presentation/d/1gHCxHPqgm_zBpoF9mpo35vZXk6PIUBrz1dDB3sJYaNg/edit?usp=sharing),
+          and we've also linked to other helpful resources on this page.
       - type: podcast
         embed_code: <iframe
           src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/25437071/partner_id/1038472?iframeembed=true&playerId=kplayer&entry_id=1_3omiqtfm&flashvars[streamerType]=auto"
