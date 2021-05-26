@@ -8,7 +8,7 @@ hero:
   text: "\n\n"
   feature_hero_image: ""
 feature_image:
-  file: /assets/screen-shot-2021-05-17-at-5.01.52-pm.png
+  file: /assets/fund-to-mission-wordmark_umpr_navy.png
   alt: "Navy blue background with University of Michigan Press logo in upper
     lefthand corner and orange open lock open access logo in upper righthand
     corner. Main title reads \"Fund to Mission: University of Michigan Press'
