@@ -90,6 +90,9 @@ sections:
           **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
 
 
+          **[Invesment FAQs](https://drive.google.com/file/d/1gZM0b2WB_u1xwB2RBHlCFW9lH4a6tlHg/view?usp=sharing)**
+
+
           **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
 
 
