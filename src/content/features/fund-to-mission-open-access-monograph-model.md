@@ -90,10 +90,13 @@ sections:
           **[Informational Flyer](https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view)**
 
 
-          **[Invesment FAQs](https://drive.google.com/file/d/1gZM0b2WB_u1xwB2RBHlCFW9lH4a6tlHg/view?usp=sharing)**
+          **[Investment FAQs](https://drive.google.com/file/d/1gZM0b2WB_u1xwB2RBHlCFW9lH4a6tlHg/view?usp=sharing)**
 
 
           **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
+
+
+          **[Course Adoptable Title List](https://docs.google.com/spreadsheets/d/1j__p9tJ8BMWxxm5_kR5XKaHHufEU4gTI1wEO8xAT5pU/edit#gid=1866999211)**
 
 
           **[Information on Pricing and Licensing](https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429)**
