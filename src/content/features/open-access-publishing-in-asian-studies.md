@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 type: feature
 title: Open Access Publishing in Asian Studies
 subtitle: A Collaboration between the University of Michigan Press and
