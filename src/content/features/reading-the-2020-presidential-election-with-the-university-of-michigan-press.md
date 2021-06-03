@@ -39,6 +39,8 @@ sections:
             title: Polarization increased in the 1980s
         id: american-voter
       - type: podcast
+        heading: Test Heading
+        description: Test description
         embed_code: <iframe
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
           height="90" width="100%" scrolling="no"  allowfullscreen

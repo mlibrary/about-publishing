@@ -144,10 +144,22 @@ export default function FeatureTemplate({ data }) {
                     )}
 
                     {item.type === "podcast" && (
-                      <div
-                        id={item.id}
-                        dangerouslySetInnerHTML={{ __html: item.embed_code }}
-                      ></div>
+                      <div>
+                        {item.heading && (
+                          <h3 className="mb-2 font-sans text-3xl font-semibold">
+                            {item.heading}
+                          </h3>
+                        )}
+
+                        {item.description && (
+                          <p>{item.description}</p>
+                        )}
+
+                        <div
+                          id={item.id}
+                          dangerouslySetInnerHTML={{ __html: item.embed_code }}
+                        ></div>
+                      </div>
                     )}
 
                     {item.type === "spacer" && <hr></hr>}
@@ -159,7 +171,10 @@ export default function FeatureTemplate({ data }) {
                         )
                         .map(match => {
                           return (
-                            <div className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2" id={item.id}>
+                            <div
+                              className="items-center px-6 py-10 mb-16 text-lg lg:flex bg-pale-grey-2"
+                              id={item.id}
+                            >
                               <img
                                 src={match.frontmatter.faculty_image}
                                 alt={match.frontmatter.title}
@@ -187,7 +202,10 @@ export default function FeatureTemplate({ data }) {
                     )}
 
                     {item.type === "highlight" && (
-                      <div className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2" id={item.id}>
+                      <div
+                        className="pt-4 pb-1 pl-6 mb-20 border-l-8 border-michigan-maize bg-pale-grey-2"
+                        id={item.id}
+                      >
                         <MarkdownContent
                           content={item.text}
                           className="markdown small-margin"
@@ -196,7 +214,10 @@ export default function FeatureTemplate({ data }) {
                     )}
 
                     {item.type === "image" && (
-                      <figure className="mb-20 text-xs text-slate-grey" id={item.id}>
+                      <figure
+                        className="mb-20 text-xs text-slate-grey"
+                        id={item.id}
+                      >
                         <img
                           src={item.image}
                           alt={item.image_alt}
@@ -276,6 +297,7 @@ export const featureQuery = graphql`
               title
             }
             type
+            description
             slides {
               image
               image_alt
