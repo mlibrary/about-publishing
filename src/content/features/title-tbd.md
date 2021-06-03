@@ -11,6 +11,18 @@ feature_image:
   file: /assets/confucius_and_his_students2.jpg
   alt: collage of book covers
 sections:
+  - heading: Open Access Publishing in Asian Studies
+    subheading: February 26, 2021 Event Information
+    content:
+      - type: cta
+        image: /assets/mpublishing_asianstudiesevent_1200x628_title-logos-only.png
+        text: Held on February 26, 2021, the Open Access Publishing in Asian Studies
+          event highlighted the impact of the Michigan Asian Studies Open Access
+          Books Collection. Click below to explore the event program and watch
+          recordings of the sessions.
+        button_text: Explore the Event
+        button_link: https://www.publishing.umich.edu/publishing-asian-studies
+        heading: Open Access Publishing in Asian Studies Event
   - content:
       - type: highlight
         text: >-
