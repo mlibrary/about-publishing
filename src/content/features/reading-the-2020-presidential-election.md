@@ -19,13 +19,13 @@ sections:
           American democracy
         button_link: https://blog.press.umich.edu/2020/09/announcing-podcast-mini-series-from-michigan-publishing/
         button_text: Learn More
-        text: "Our limited podcast series, released on Thursdays throughout October
-          2020, bring several illuminating conversations to the University of
-          Michigan campus. Each episode features a pair of authors bringing
-          different perspectives to the table on issues of national, and
-          international, concern: social policy, national security, racial
-          justice, and leadership. For more information including the full
-          lineup, click the button on the right."
+        text: "Our limited podcast series brings several illuminating conversations to
+          the University of Michigan campus. Each episode features a pair of
+          authors bringing different perspectives to the table on issues of
+          national, and international, concern: social policy, national
+          security, racial justice, and leadership. Listen to the episodes
+          below. For more information including the full lineup, click the
+          button on the right."
       - type: highlight
         id: Three New Free-to-Read Titles!
         text: >-
@@ -457,6 +457,6 @@ related_stories:
 ---
 Produced in collaboration with the [University of Michigan Democracy and Debate theme semester](https://speakactvote.umich.edu/), Dialogues in Democracy is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. The Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-This collection served as a companion to the [University of Michigan's Democracy and Debate teaching and learning efforts](https://speakactvote.umich.edu/) in the fall of 2020, and the books included in the reading list were free to read from September-December 31, 2020 as part of the University of Michigan Press Ebook Collection on the Fulcrum platform. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
+This collection served as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts in the fall of 2020, and the books included in the reading list were free to read from September through December 31, 2020 as part of the University of Michigan Press Ebook Collection on the Fulcrum platform. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
 
 <div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump11823democracydebatebooklet_websingle.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
