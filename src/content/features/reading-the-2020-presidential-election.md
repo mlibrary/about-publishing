@@ -11,7 +11,7 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
-  - heading: '"Dialogues in Democracy: In Conversation" '
+  - heading: "Dialogues in Democracy: In Conversation"
     subheading: Limited Podcast Series
     content:
       - type: cta
@@ -24,8 +24,7 @@ sections:
           authors bringing different perspectives to the table on issues of
           national, and international, concern: social policy, national
           security, racial justice, and leadership. Listen to the episodes
-          below. For more information including the full lineup, click the
-          button on the right."
+          below. "
       - type: highlight
         id: Three New Free-to-Read Titles!
         text: >-
