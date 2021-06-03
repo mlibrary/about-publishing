@@ -11,22 +11,21 @@ feature_image:
   file: /assets/feature.jpg
   alt: Collage of book covers in the Debate and Democracy collection and guide
 sections:
-  - heading: '"Dialogues in Democracy: In Conversation" Limited Podcast Series'
-    subheading: October 2020
+  - heading: '"Dialogues in Democracy: In Conversation" '
+    subheading: Limited Podcast Series
     content:
       - type: cta
         heading: Listen to our political science authors debate key topics central to
           American democracy
         button_link: https://blog.press.umich.edu/2020/09/announcing-podcast-mini-series-from-michigan-publishing/
-        button_text: Tell Me More
-        text: "Our limited podcast series, releasing on Thursdays throughout October
-          2020, will bring several illuminating conversations to the University
-          of Michigan campus. Each episode will feature a pair of authors
-          bringing different perspectives to the table on issues of national,
-          and international, concern: social policy, national security, racial
+        button_text: Learn More
+        text: "Our limited podcast series, released on Thursdays throughout October
+          2020, bring several illuminating conversations to the University of
+          Michigan campus. Each episode features a pair of authors bringing
+          different perspectives to the table on issues of national, and
+          international, concern: social policy, national security, racial
           justice, and leadership. For more information including the full
-          lineup, click the button on the right. Episodes will be added below as
-          they are published."
+          lineup, click the button on the right."
       - type: highlight
         id: Three New Free-to-Read Titles!
         text: >-
