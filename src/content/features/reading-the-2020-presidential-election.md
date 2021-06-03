@@ -26,10 +26,9 @@ sections:
           security, racial justice, and leadership. Listen to the episodes
           below. "
       - type: highlight
-        id: Three New Free-to-Read Titles!
+        id: ""
         text: >-
-          With the podcast mini series comes three new books available as part
-          of our free-to-read collection through the end of the 2020:
+          Books Highlighted:
 
 
           * [Strike for the Common Good: Fighting for the Future of Public Education](https://doi.org/10.3998/mpub.11621094) by Rebecca Kolins Givan and Amy Schrager Lang, Editors (featured in Episode 1 of the mini series)
