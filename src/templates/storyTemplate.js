@@ -29,10 +29,7 @@ export default function StoryTemplate({ data }) {
 
   // Get profiles.
   const profiles = data.profiles.nodes.filter(profile =>
-    profile.frontmatter.bio &&
-    frontmatter.profiles.includes(profile.frontmatter.title)
-      ? true
-      : false
+    frontmatter.profiles.includes(profile.frontmatter.title) ? true : false
   )
 
   const hero = frontmatter.hero.story_hero_image
