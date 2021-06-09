@@ -1,21 +1,21 @@
 backend:
-  
+
   name: gitlab
   auth_type: implicit
   api_root: https://gitlab.umich.edu/api/v4
   base_url: https://gitlab.umich.edu
   auth_endpoint: oauth/authorize
-  
+
   # Test settings. @todo comment out when deploying to prod
   # branch: feature-page
   # repo: kellerch/publishing-backup
   # app_id: 40d8aa03d25b1c29bb69d7920ea01741830a426046fed6ff304344210737df6b
-  
+
   # Production settings. @todo switch back to this when deploying to prod
   branch: master
   repo: michigan-publishing/publishing
   app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3
-  
+
   # Local development settings
   # name: git-gateway
 # local_backend: true
@@ -204,7 +204,7 @@ collections:
                   - label: ID
                     name: id
                     required: false
-                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
                   - label: Quote
                     name: quote
                     widget: object
@@ -245,7 +245,7 @@ collections:
                   - label: ID
                     name: id
                     required: false
-                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
                   - label: Image
                     name: image
                     widget: image
@@ -280,6 +280,13 @@ collections:
                     name: id
                     required: false
                     hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
+                  - label: Heading
+                    name: heading
+                    required: false
+                  - label: Description
+                    name: description
+                    widget: text
+                    required: false
                   - label: Embed code
                     name: embed_code
                     widget: text
@@ -291,7 +298,7 @@ collections:
                   - label: ID
                     name: id
                     required: false
-                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.      
+                    hint: Provide an ID (lowercase, hyphens instead of spaces e.g. my-id) if you'd like to link to this component.
                   - label: Profile
                     name: profile
                     widget: relation
