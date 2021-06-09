@@ -17,7 +17,7 @@ backend:
   app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3
   
   # Local development settings
-#   name: git-gateway
+  # name: git-gateway
 # local_backend: true
 
 media_folder: static/assets
@@ -151,8 +151,6 @@ collections:
     label_singular: Feature
     create: true
     folder: src/content/features
-    editor:
-      preview: false
     fields:
       - { name: published, label: Published, widget: boolean, required: false }
       - { name: type, label: Type, widget: hidden, default: feature }

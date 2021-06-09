@@ -1,7 +1,6 @@
 import React from "react"
 
 export const Cta = ({ image, alt, heading, text, buttonText, buttonLink }) => {
-  console.log(buttonLink)
   return (
     <div className={`${image ? "sm:flex" : "w-full border-b border-sea-blue"}`}>
       {image && (
