@@ -272,7 +272,7 @@ collections:
                     default: Spacer
                     hint: Adds border seperator to content. Text entered in this field is for admin purposes only and will not display on the site.
 
-              - label: Podcast
+              - label: Media Embed
                 name: podcast
                 widget: object
                 fields:
