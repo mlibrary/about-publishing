@@ -12,7 +12,17 @@ feature_image:
   alt: "Collage of ten selected covers for the Poets on Poetry relaunch: (from top
     left to bottom right) Keelan, Hall, Harjo, Ashbery, Notley, Komunyakaa,
     Hayden, Gilbert, Gonzalez, Yau"
-sections: []
+sections:
+  - heading: Accessing the Series' Past
+    subheading: "Reviving the Archive of Poets on Poetry "
+    content:
+      - type: quote_slider
+        book: "Death to the Death of Poetry: Essays, Reviews, Notes, Interviews "
+        quote:
+          quote: Dubious elegies on the death of poetry shouldn't need answers. A
+            frequently reported lie, however, can turn into fact.
+          name: Donald Hall
+          title: Death to the Death of Poetry (1995)
 related_stories:
   - ""
 ---
