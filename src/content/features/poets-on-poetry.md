@@ -39,6 +39,24 @@ sections:
   - heading: Imagining Digital Futures
     subheading: New Directions in the Series
     content:
+      - type: quote_slider
+        book: "The Passionate Spectator: Essays on Art and Poetry"
+        quote:
+          quote: insert quote
+          name: John Yau
+          title: The Passionate Spectator (2006)
+      - type: quote_slider
+        book: "Condition Red: Essays, Interviews, and Commentaries "
+        quote:
+          quote: insert quote here
+          name: Yusef Komunyakaa
+          title: Condition Red (2017)
+      - type: quote_slider
+        book: "Ecstatic Émigré: An Ethics of Practice "
+        quote:
+          quote: insert quote here
+          name: Claudia Keelan
+          title: Ecstatic Émigré
       - type: spacer
         spacer: Spacer
   - heading: Poets on Poetry Pedagogy
