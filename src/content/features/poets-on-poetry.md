@@ -28,6 +28,11 @@ sections:
         profile: "Donald Hall "
       - type: spacer
         spacer: Spacer
+  - heading: Imagining Digital Futures
+    subheading: New Directions in the Series
+    content:
+      - type: spacer
+        spacer: Spacer
   - heading: Poets on Poetry Pedagogy
     subheading: "Teaching Materials for the University Classroom "
     content:
