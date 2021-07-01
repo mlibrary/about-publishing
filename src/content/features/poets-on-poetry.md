@@ -23,6 +23,10 @@ sections:
             frequently reported lie, however, can turn into fact.
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
 related_stories:
   - ""
 ---
