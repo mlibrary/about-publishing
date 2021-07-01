@@ -26,6 +26,14 @@ sections:
         slides: []
       - type: profile
         profile: "Donald Hall "
+      - type: quote_slider
+        book: "The Spiral of Memory: Interviews"
+        quote:
+          name: Joy Harjo
+          title: The Spiral of Memory (1996)
+          quote: '"I think I always write with especially these women in mind because I
+            want us all to know as women, as Indian people, as human beings that
+            there is always hope, that we are whole, alive, and precious." '
       - type: spacer
         spacer: Spacer
   - heading: Imagining Digital Futures
