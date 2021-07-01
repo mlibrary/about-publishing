@@ -24,7 +24,7 @@ sections:
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
         slides:
-          - image: /assets/donaldhall200-c77fd244402967b9c983f6d682e59668cec3dfd9-s800-c85.jpeg
+          - image: ""
             image_alt: "Black and white photograph of Donald Hall "
             title: Donald Hall (image courtesy of NPR.org)
 related_stories:
