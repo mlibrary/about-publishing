@@ -24,10 +24,6 @@ sections:
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
         slides:
-          - image: /assets/donald-hall-image.jpeg
-            image_alt: photograph of Donald Hall reading from a volume
-            title: Donald Hall (image courtesy of the Atlantic)
-            text: ""
           - image: ""
             image_alt: ""
             title: ""
