@@ -24,9 +24,16 @@ sections:
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
         slides:
+          - image: /assets/donald-hall-image.jpeg
+            image_alt: photograph of Donald Hall reading from a volume
+            title: Donald Hall (image courtesy of the Atlantic)
+            text: ""
           - image: ""
-            image_alt: "Black and white photograph of Donald Hall "
-            title: Donald Hall (image courtesy of NPR.org)
+            image_alt: ""
+            title: ""
+            text: '"There are a thousand ways to love a poem. The best poets make up new
+              ways, and the new ways mostly take getting used to." (Hall, Death
+              to the Death of Poetry"  '
 related_stories:
   - ""
 ---
