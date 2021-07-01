@@ -26,6 +26,11 @@ sections:
         slides: []
       - type: profile
         profile: "Donald Hall "
+  - heading: Poets on Poetry Pedagogy
+    subheading: "Teaching Materials for the University Classroom "
+    content:
+      - type: highlight
+        text: Insert syllabus project ideas here
 related_stories:
   - ""
 ---
