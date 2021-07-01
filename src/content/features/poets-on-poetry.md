@@ -26,6 +26,8 @@ sections:
         slides: []
       - type: profile
         profile: "Donald Hall "
+      - type: spacer
+        spacer: Spacer
   - heading: Poets on Poetry Pedagogy
     subheading: "Teaching Materials for the University Classroom "
     content:
