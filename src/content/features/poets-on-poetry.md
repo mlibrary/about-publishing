@@ -23,13 +23,9 @@ sections:
             frequently reported lie, however, can turn into fact.
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
-        slides:
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: '"There are a thousand ways to love a poem. The best poets make up new
-              ways, and the new ways mostly take getting used to." (Hall, Death
-              to the Death of Poetry"  '
+        slides: []
+      - type: profile
+        profile: "Donald Hall "
 related_stories:
   - ""
 ---
