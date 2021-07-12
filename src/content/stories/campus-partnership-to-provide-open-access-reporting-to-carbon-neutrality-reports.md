@@ -11,7 +11,7 @@ hero:
 story_image:
   caption: ""
   credit: ""
-  file: /assets/maxim-tolchinskiy-w3y2crfkvis-unsplash.jpg
+  file: /assets/marcin-jozwiak-ndmcz5d74ak-unsplash-1-.jpg
   alt: "An overhead view of factory, with large smoke stacks producing clouds. "
 date: 2021-07-13T15:00:18.005Z
 highlight_box:
