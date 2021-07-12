@@ -4,8 +4,7 @@ categories:
   - Faculty Public Engagement
 title: "Campus Partnership to Provide Open Access Reporting to Carbon Neutrality
   Reports "
-path: "/stories-of-impact/Campus Partnership to Provide Open Access Reporting to
-  Carbon Neutrality Reports "
+path: /stories-of-impact/Campus-Partnership-to-Provide-Open-Access-Reporting
 hero:
   text: ""
   story_hero_image: ""
@@ -34,14 +33,6 @@ The carbon neutrality initiative spans across all three U-M campuses as a collab
 The work between MPS and PCCN focused on fulfilling overarching missions at the university: academic innovation, diversity, equity, and inclusion, and faculty and public engagement, to devise the best strategy for hosting the reports. The publishing process relied heavily on the accessibility of the project to not only the University of Michigan community, but the world at large as a means to share information with other institutions looking to improve their carbon footprint. Hosting the reports on an open-access platform allowed U-M to disseminate research-based information to those who may otherwise not have had access.
 
 “Fulcrum is specially designed with accessibility in mind, and we build accessibility into as many of our digital products as possible through the production process,” said Joe Muller, digital publishing coordinator at MPS. Working with experts at the U-M Library’s Accessibility Remediation Program, MPS ensured that users with disabilities could access the documents with ease. The site provides a stable place to house the documents over time, hosted by Library infrastructure, to ensure that these documents are available to the public years in advance.
-
-> <!--StartFragment-->
->
-> "It takes special care to make digital content accessible to everyone because many common practices in document creation and web design only serve fully-sighted users, not people with blindness or other print disabilities. For this project, we worked with experts in the U-M Library's Accessibility Remediation Program to make sure everyone can access the PCCN's publications on Fulcrum and read them in a way that suits their needs.” 
->
-> \- Joe Muller, Michigan Publishing Services
->
-> <!--EndFragment-->
 
 The final project includes 12 reports commissioned by the PCCN and authored by faculty and consultants. Report topics range from building efficiencies, university-sponsored travel, energy consumption to campus culture to ensure a well-rounded approach to recommendations made by the commission. The website also includes the commission’s own report, entitled Final Report and Recommendations, synthesizing the commissioned reports and making recommendations to the president. The PCCN’s final report recommends timelines, pathways, and strategies for U-M to achieve carbon neutrality in a comprehensive, affordable, sustainable, equitable, inclusive, transparent, and scalable way, as expressed by Administrative Director for the Commission, Drew Horning.
 
