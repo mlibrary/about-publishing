@@ -40,6 +40,8 @@ The final project includes 12 reports commissioned by the PCCN and authored by f
 
 Michigan Publishing Services trusts that this collaboration can serve as an example of the services MPS can provide to those in the university community and at the national level. “This kind of collaboration is great because we get to work closely with subject matter experts on campus and learn about the exciting work they’re doing, and they benefit from our expertise and infrastructure in scholarly publishing,” said Jason Colman, Director of Michigan Publishing Services.
 
-“We were excited to help – not only because helping important U-M research like this find its audience is core to what we do, but also because we are all very concerned about carbon emissions and their role in climate change, and were interested to see how we could help solve this problem as members of the campus community.” - Jason Colman, Director of Michigan Publishing Services
+> “We were excited to help – not only because helping important U-M research like this find its audience is core to what we do, but also because we are all very concerned about carbon emissions and their role in climate change, and were interested to see how we could help solve this problem as members of the campus community.” 
+>
+> \- Jason Colman, Director of Michigan Publishing Services
 
 The reports are now live on Fulcrum and can be found [here](https://www.fulcrum.org/um-pccn).
