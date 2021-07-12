@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories:
   - Faculty Public Engagement
 title: "Campus Partnership to Provide Open Access Reporting to Carbon Neutrality
