@@ -3,7 +3,7 @@ published: true
 categories:
   - Faculty Public Engagement
 title: "Campus Partnership to Provide Open Access to Carbon Neutrality Reports "
-path: /stories-of-impact/Campus-Partnership-to-Provide-Open-Access-Reporting
+path: /stories-of-impact/Campus-Partnership-to-Provide-Open-Access-Report
 hero:
   text: ""
   story_hero_image: ""
