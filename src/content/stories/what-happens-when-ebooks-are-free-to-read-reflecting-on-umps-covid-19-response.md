@@ -68,7 +68,7 @@ Even though the immediate benefit for users of free-to-read content ended in Sep
 
 During the period of the free-to-read initiative, UMP also conducted several surveys with key stakeholders to get a sense of their reactions to the initiative. Respondents to the survey of authors were overwhelmingly positive with 97% supportive. UMP  implemented a pop-up survey of readers, which also received a large number of positive responses. What was most striking from the responses is the geographic spread of use and the degree of interest outside the academy. Some of the responses were very moving:
 
-**"Without free-to-read, there is no way that an ordinary lawyer such as myself could have afforded a copy of the book and appreciated its critique of systems that I engage with on a daily basis."**
+> **"Without free-to-read, there is no way that an ordinary lawyer such as myself could have afforded a copy of the book and appreciated its critique of systems that I engage with on a daily basis."**
 
 Despite the limited term of free-to-read ebooks, University of Michigan Press learned a lot from the experience. The bottom line is that if a press is able to make its books freely available in ebook form, untapped global demand for the sorts of scholarship university presses publish emerges that is entirely at odds with the popular perception that monographs “are books that do not get read.” The Press learned this not only from statistics, but also from the feedback collected from real individual users whose gratitude for access is not only moving but inspiring — to UMP as a publisher and to the authors who have written their books with the expectation that they will be read but rarely get such direct feedback. 
 
