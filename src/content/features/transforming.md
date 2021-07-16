@@ -65,6 +65,14 @@ sections:
           - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
             image_alt: ""
             title: ""
+      - type: cta
+        image: /assets/screen-shot-2021-07-16-at-4.40.15-pm.png
+        text: "Lightning Birds by Jacob Smith is a multi-media project that consists of
+          a five-episode, podcast-style audiobook, a curatorial essay, and a
+          bibliography. "
+        heading: Pushing the Boundaries of the Book
+        button_text: Listen Now
+        button_link: https://doi.org/10.3998/mpub.11714652
 related_stories:
   - ""
 ---
