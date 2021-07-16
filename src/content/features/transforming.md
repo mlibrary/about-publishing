@@ -62,7 +62,7 @@ sections:
         quote:
           name: Sara Jo Cohen
           title: Senior Acquiring Editor, University of Michigan Press
-          quote: I saw an opportunity to challenge what counts as scholarly publishing in
+          quote: I saw the chance to challenge what counts as scholarly publishing in
             terms of both form and content. This mixtap/e/ssay  was an
             opportunity to support cutting-edge scholarship that we were
             uniquely able to take on because of the digital affordances of
