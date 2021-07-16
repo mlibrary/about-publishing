@@ -66,7 +66,7 @@ sections:
             image_alt: ""
             title: ""
       - type: cta
-        image: /assets/screen-shot-2021-07-16-at-4.40.15-pm.png
+        image: /assets/default.png
         text: "Lightning Birds by Jacob Smith is a multi-media project that consists of
           a five-episode, podcast-style audiobook, a curatorial essay, and a
           bibliography. "
