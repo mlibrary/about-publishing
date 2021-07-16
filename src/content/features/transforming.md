@@ -73,6 +73,14 @@ sections:
         heading: Pushing the Boundaries of the Book
         button_text: Listen Now
         button_link: https://doi.org/10.3998/mpub.11714652
+      - type: spacer
+        spacer: Spacer
+      - type: cta
+        button_text: Learn More
+        button_link: https://www.press.umich.edu/authors
+        heading: Information for Authors
+        text: More info
+        image: /assets/iqlqu4dw_400x400.png
 related_stories:
   - ""
 ---
