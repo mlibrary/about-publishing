@@ -1,8 +1,8 @@
 ---
 published: false
 type: feature
-title: "Transforming "
-subtitle: Transforming Performing Arts and Media Studies with Digital Features
+title: Digital Innovation at University of Michigan Press
+subtitle: Transforming Performing Arts and Media Studies Scholarship
 path: /digital-publishing-pams
 hero:
   text: ""
@@ -45,8 +45,6 @@ sections:
               text and on the resources tab on the main book page, where readers
               can explore the metadata associated with an individual media
               object. "
-      - type: youtube
-        id: F1LiFINq27k
   - heading: Interactive Scholarly Work
     subheading: Interactive scholarly works are long-form digital publications that
       could not exist in a print environment
@@ -66,13 +64,23 @@ sections:
             image_alt: ""
             title: ""
       - type: cta
-        image: /assets/default.png
+        image: ""
         text: "Lightning Birds by Jacob Smith is a multi-media project that consists of
           a five-episode, podcast-style audiobook, a curatorial essay, and a
           bibliography. "
         heading: Pushing the Boundaries of the Book
         button_text: Listen Now
         button_link: https://doi.org/10.3998/mpub.11714652
+      - type: highlight
+        text: Rather than forcing authors to strip away the richness of the digital
+          materials at the point of formal publication to meet the constraints
+          of a book format, Fulcrum facilitates rich integration of such digital
+          objects with the narratives that reference them. They can be published
+          as supplemental materials, with the narrative (a book, a journal
+          article) elsewhere, or both narrative and data can be presented
+          together in an embedded form. Learn more by watching the video below.
+      - type: youtube
+        id: F1LiFINq27k
       - type: spacer
         spacer: Spacer
       - type: cta
