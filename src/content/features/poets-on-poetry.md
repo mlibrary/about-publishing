@@ -110,6 +110,7 @@ sections:
 
           * *Plan a visit to your local museum, or find a museum website that is of interest to you (for example, the University of Michigan Museum of Art offers free reservations to students, and the website can be found here: <https://umma.umich.edu/>). Select a piece of visual art at your chosen museum that you think speaks to the concept of “poetics.” It may remind you of a particular poem, inspire a poem of your own, or have qualities that you find “poetic” in a broader sense. After you have selected your visual art piece, take a few minutes to write down 1) what you notice about the piece (colors, textures, shapes, familiar figures, strange or unexpected details, etc.) 2) why you think these details might matter. Drawing from your notes, write a brief essay on the connections you are making between your visual art piece and poetry/poetics. What details are key to your analysis? How do you articulate a visual piece’s poetics? What elements of the piece resist meaning or interpretation?*
 
+            ![]()
 
           Our hope that these modules will serve as a valuable resource for instructors looking to engage with contemporary critical conversations about poetry and poetics.
 related_stories:
