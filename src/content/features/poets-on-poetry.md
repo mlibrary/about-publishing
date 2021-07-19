@@ -59,6 +59,12 @@ sections:
           title: Ecstatic Émigré
       - type: spacer
         spacer: Spacer
+  - heading: "A Letter From the Editor "
+    subheading: "Poets on Poetry series editor Derek Pollard on the impact of the
+      digitization project "
+    content:
+      - type: highlight
+        text: insert letter from Derek
   - heading: Poets on Poetry Pedagogy
     subheading: "Teaching Materials for the University Classroom "
     content:
