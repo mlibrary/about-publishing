@@ -100,11 +100,12 @@ sections:
               kind of academic writing."
       - type: cta
         image: ""
-        text: "Lightning Birds is Jacob Smith's second audiobook to be published by the
+        text: Lightning Birds is Jacob Smith's second audiobook to be published by the
           Press. It is a multi-media project that consists of a five-episode,
           podcast-style audiobook, a curatorial essay, and a bibliography. Both
           ESC and Lightning Birds apply audiovisual tools to the analysis of
-          audiovisual culture, "
+          audiovisual culture thanks to the tools and infrastructure provided by
+          the Fulcrum platform.
         heading: Pushing the Boundaries of the Book
         button_text: Listen Now
         button_link: https://doi.org/10.3998/mpub.11714652
