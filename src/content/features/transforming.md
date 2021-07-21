@@ -110,7 +110,7 @@ sections:
               with innovative vision and state-of-the-art technological
               infrastructure. "
       - type: cta
-        image: ""
+        image: /assets/default.png
         text: "Lightning Birds is the second audiobook by Jacob Smith to be published.
           by the Press. It is a multi-media project that consists of a
           five-episode, podcast-style audiobook, a curatorial essay, and a
