@@ -25,17 +25,17 @@ sections:
           name: Danielle Fosler-Lussier
           title: Professor of Music, The Ohio State University
         slides:
-          - image: /assets/screen-shot-2021-07-20-at-10.45.09-pm.png
-            image_alt: ""
-            title: Embedded Audio
-            text: "Authors can embed music clips directly into the ebook for readers to play
-              while simultaneously reading the text in the Fulcrum ereader. "
           - image: ""
             image_alt: ""
             title: Rich Media Integration
             text: "The ability to embed media enables authors to tell their stories in a
               more natural way, allowing readers to experience the media in
               real-time (versus reading a description of it). "
+          - image: /assets/screen-shot-2021-07-20-at-10.45.09-pm.png
+            image_alt: ""
+            title: Embedded Audio
+            text: "Authors can embed music clips directly into the ebook for readers to play
+              while simultaneously reading the text in the Fulcrum ereader. "
           - image: /assets/screen-shot-2021-07-16-at-11.34.52-am.png
             image_alt: ""
             title: Interactive Maps
