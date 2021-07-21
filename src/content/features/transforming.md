@@ -83,34 +83,34 @@ sections:
         slides:
           - image: ""
             image_alt: ""
+            title: The Process
+            text: "My editors at UMP helped me to think through different approaches,
+              ranging from a traditional book with a few supplementary audio
+              clips to a more wholeheartedly audio-driven format. "
+          - image: ""
+            image_alt: ""
             title: ""
-            text: "The editorial team at UMP were ideal interlocutors as I worked through
-              initial ideas for how I might do sound studies research in the
-              medium of audio. My editors at UMP helped me to think through
-              different approaches, ranging from a traditional book with a few
-              supplementary audio clips to a more wholeheartedly audio-driven
-              format. To their great credit, UMP pushed me to go for the stretch
-              and take the latter route. The next step was to try several “proof
-              of concept” prototypes, and the UMP team provided valuable
-              feedback that was crucial as I found my footing in this new form
-              of digital authorship. UMP was supportive at every step of the
-              way, and I was particularly impressed and reassured by how
-              effectively they maintained the rigor of the review process
-              despite the novelty of the publication. After the production and
-              review processes were completed, the final project was posted to
-              UMP’s Fulcrum platform, which is well-designed, user-friendly,
-              accessible, and easy to modify thanks to UMP’s exceptional support
-              team. I couldn’t be happier with my experience working with UMP:
-              they pushed me to take intellectual risks and explore new modes of
-              research and publication; they encouraged me to develop strategies
-              for reaching new audiences with my research; and they supported me
-              as I developed the new skills required to become proficient at a
-              new kind of academic writing. UMP is the ideal place for digital
-              publishing, combining intellectual rigor and academic knowledge
-              with innovative vision and state-of-the-art technological
-              infrastructure. "
+            text: "The next step was to try several “proof of concept” prototypes, and the
+              UMP team provided valuable feedback that was crucial as I found my
+              footing in this new form of digital authorship. "
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "After the production and review processes were completed, the final
+              project was posted to UMP’s Fulcrum platform, which is
+              well-designed, user-friendly, accessible, and easy to modify
+              thanks to UMP’s exceptional support team. "
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "I couldn’t be happier with my experience working with UMP: they pushed me
+              to take intellectual risks and explore new modes of research and
+              publication; they encouraged me to develop strategies for reaching
+              new audiences with my research; and they supported me as I
+              developed the new skills required to become proficient at a new
+              kind of academic writing."
       - type: cta
-        image: /assets/default.png
+        image: ""
         text: "Lightning Birds is the second audiobook by Jacob Smith to be published.
           by the Press. It is a multi-media project that consists of a
           five-episode, podcast-style audiobook, a curatorial essay, and a
