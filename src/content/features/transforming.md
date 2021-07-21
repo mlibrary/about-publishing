@@ -32,7 +32,7 @@ sections:
               while simultaneously reading the text in the Fulcrum ereader. "
           - image: ""
             image_alt: ""
-            title: ""
+            title: Rich Media Integration
             text: "The ability to embed media enables authors to tell their stories in a
               more natural way, allowing readers to experience the media in
               real-time (versus reading a description of it). "
