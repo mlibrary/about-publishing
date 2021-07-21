@@ -8,7 +8,7 @@ hero:
   text: ""
   feature_hero_image: /assets/story-hero.jpg
 feature_image:
-  file: /assets/poets-on-poetry-feature-cover-image.jpg
+  file: /assets/covers-screen-shot-2021-07-21-at-10.39.39-am.jpg
   alt: "Collage of ten selected covers for the Poets on Poetry relaunch: (from top
     left to bottom right) Keelan, Hall, Harjo, Ashbery, Notley, Komunyakaa,
     Hayden, Gilbert, Gonzalez, Yau"
