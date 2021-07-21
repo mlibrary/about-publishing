@@ -51,20 +51,21 @@ sections:
           watching the video below.**
       - type: youtube
         id: F1LiFINq27k
+      - type: spacer
+        spacer: Spacer
   - heading: Interactive Scholarly Work
     subheading: Interactive scholarly works are long-form digital publications that
-      could not exist in a print environment
+      could not exist in a print environment.
     content:
       - type: quote_slider
         book: i used to love to dream
         quote:
           name: Sara Jo Cohen
           title: Senior Acquiring Editor, University of Michigan Press
-          quote: I saw the chance to challenge what counts as scholarly publishing in
-            terms of both form and content. This mixtap/e/ssay  was an
-            opportunity to support cutting-edge scholarship that we were
-            uniquely able to take on because of the digital affordances of
-            Fulcrum.”
+          quote: I saw a chance to challenge what counts as scholarly publishing in terms
+            of both form and content. This mixtap/e/ssay  was an opportunity to
+            support cutting-edge scholarship that we were uniquely able to take
+            on because of the digital affordances of Fulcrum.
         slides:
           - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
             image_alt: ""
@@ -72,14 +73,13 @@ sections:
       - type: quote_slider
         book: "ESC "
         quote:
-          quote: "I feel extremely fortunate to have worked with UMP on my two
-            experimental audiobooks. I had long been interested in applying
-            audiovisual tools to the analysis of audiovisual culture, but it was
-            only when I began working with UMP that I felt the confidence to
-            undertake such a project. "
+          quote: I feel extremely fortunate to have worked with UMP on my two experimental
+            audiobooks. I had long been interested in applying audiovisual tools
+            to the analysis of audiovisual culture, but it was only when I began
+            working with the Press that I felt the confidence to undertake such
+            a project.
           name: Jacob Smith
-          title: Professor and Associate Chair, Department of Radio-Television-Film,
-            Northwestern University
+          title: Professor of Radio/Television/Film, Northwestern University
         slides:
           - image: ""
             image_alt: ""
@@ -108,11 +108,12 @@ sections:
               new kind of academic writing. UMP is the ideal place for digital
               publishing, combining intellectual rigor and academic knowledge
               with innovative vision and state-of-the-art technological
-              infrastructur"
+              infrastructure. "
       - type: cta
         image: ""
-        text: "Lightning Birds by Jacob Smith is a multi-media project that consists of
-          a five-episode, podcast-style audiobook, a curatorial essay, and a
+        text: "Lightning Birds is the second audiobook by Jacob Smith to be published.
+          by the Press. It is a multi-media project that consists of a
+          five-episode, podcast-style audiobook, a curatorial essay, and a
           bibliography. "
         heading: Pushing the Boundaries of the Book
         button_text: Listen Now
@@ -123,7 +124,10 @@ sections:
         button_text: Learn More
         button_link: https://www.press.umich.edu/authors
         heading: Information for Authors
-        text: More info
+        text: The University of Michigan Press publishes a wide range of humanities and
+          social science disciplines and continues to be a leader in the
+          development of digital scholarship. To learn more about publishing
+          with UMP, click the link below.
         image: /assets/iqlqu4dw_400x400.png
 related_stories:
   - ""
