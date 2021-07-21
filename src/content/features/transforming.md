@@ -85,7 +85,7 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: The Process
+            title: "The Process: An Author's Perspective"
             text: "My editors at UMP helped me to think through different approaches,
               ranging from a traditional book with a few supplementary audio
               clips to a more wholeheartedly audio-driven format. "
@@ -134,6 +134,6 @@ sections:
 related_stories:
   - ""
 ---
-The University of Michigan Press is uniquely poised to help scholars bring multimedia scholarship to the academic community and the public thanks to our [open source digital publishing platform, Fulcrum](fulcrum.org). In addition to hosting our ebook collection and open access titles, Fulcrum allows us to partner with authors to redefine the traditional monograph and expand published scholarship beyond the book. 
+The University of Michigan Press is uniquely positioned to help scholars bring multimedia scholarship to both the academic community and the public thanks to our [open source digital publishing platform, Fulcrum](fulcrum.org). In addition to hosting our ebook collection and open access titles, Fulcrum allows us to partner with authors to redefine the traditional monograph and expand published scholarship beyond the book. 
 
-The titles below are divided into two categories [introduced by Michael Elliott in his germinal paper, published in the *Journal of Electronic Publishing*](https://www.google.com/url?q=https://quod.lib.umich.edu/j/jep/3336451.0018.407/--future-of-the-monograph-in-the-digital-era-a-report?rgn%3Dmain;view%3Dfulltext;q1%3Delliott&sa=D&source=editors&ust=1626451848783000&usg=AOvVaw1hDky0ia1rMWWIVOfz2Bom), on the future of the digital monograph. The main distinction is between enhanced ebooks and interactive scholarly works.
+Performing Arts and Media Studies, two key subject areas for the Press, have increasingly been taking advantage of the The titles below are divided into two categories [introduced by Michael Elliott in his germinal paper, published in the *Journal of Electronic Publishing*](https://www.google.com/url?q=https://quod.lib.umich.edu/j/jep/3336451.0018.407/--future-of-the-monograph-in-the-digital-era-a-report?rgn%3Dmain;view%3Dfulltext;q1%3Delliott&sa=D&source=editors&ust=1626451848783000&usg=AOvVaw1hDky0ia1rMWWIVOfz2Bom), on the future of the digital monograph. The main distinction is between enhanced ebooks and interactive scholarly works.
