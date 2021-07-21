@@ -25,7 +25,7 @@ sections:
           name: Danielle Fosler-Lussier
           title: Professor of Music, The Ohio State University
         slides:
-          - image: /assets/screen-shot-2021-07-16-at-11.34.19-am.png
+          - image: /assets/screen-shot-2021-07-20-at-10.45.09-pm.png
             image_alt: ""
             title: Embedded Audio
             text: "Authors can embed music clips directly into the ebook for readers to play
