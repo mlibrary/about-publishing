@@ -60,19 +60,6 @@ sections:
       could not exist in a print environment.
     content:
       - type: quote_slider
-        book: i used to love to dream
-        quote:
-          name: Sara Jo Cohen
-          title: Senior Acquiring Editor, University of Michigan Press
-          quote: I saw a chance to challenge what counts as scholarly publishing in terms
-            of both form and content. This mixtap/e/ssay  was an opportunity to
-            support cutting-edge scholarship that we were uniquely able to take
-            on because of the digital affordances of Fulcrum.
-        slides:
-          - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
-            image_alt: ""
-            title: ""
-      - type: quote_slider
         book: "ESC "
         quote:
           quote: I feel extremely fortunate to have worked with UMP on my two experimental
@@ -113,13 +100,27 @@ sections:
               kind of academic writing."
       - type: cta
         image: ""
-        text: "Lightning Birds is the second audiobook by Jacob Smith to be published.
-          by the Press. It is a multi-media project that consists of a
-          five-episode, podcast-style audiobook, a curatorial essay, and a
-          bibliography. "
+        text: "Lightning Birds is Jacob Smith's second audiobook to be published by the
+          Press. It is a multi-media project that consists of a five-episode,
+          podcast-style audiobook, a curatorial essay, and a bibliography. Both
+          ESC and Lightning Birds apply audiovisual tools to the analysis of
+          audiovisual culture, "
         heading: Pushing the Boundaries of the Book
         button_text: Listen Now
         button_link: https://doi.org/10.3998/mpub.11714652
+      - type: quote_slider
+        book: i used to love to dream
+        quote:
+          name: Sara Jo Cohen
+          title: Senior Acquiring Editor, University of Michigan Press
+          quote: I saw a chance to challenge what counts as scholarly publishing in terms
+            of both form and content. This mixtap/e/ssay  was an opportunity to
+            support cutting-edge scholarship that we were uniquely able to take
+            on because of the digital affordances of Fulcrum.
+        slides:
+          - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
+            image_alt: ""
+            title: ""
       - type: spacer
         spacer: Spacer
       - type: cta
@@ -131,6 +132,8 @@ sections:
           development of digital scholarship. To learn more about publishing
           with UMP, click the link below.
         image: /assets/iqlqu4dw_400x400.png
+      - type: youtube
+        id: ONSPITzuGLM
 related_stories:
   - ""
 ---
