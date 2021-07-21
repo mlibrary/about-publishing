@@ -19,9 +19,9 @@ sections:
       - type: quote_slider
         book: Music on the Move
         quote:
-          quote: "The opportunity to publish with the University of Michigan Press has
+          quote: The opportunity to publish with the University of Michigan Press has
             allowed me to think as I'm writing about what music I want my reader
-            to hear, and then embed it in the enhanced ebook on Fulcrum. "
+            to hear, and then embed it in the enhanced ebook on Fulcrum.
           name: Danielle Fosler-Lussier
           title: Professor of Music, The Ohio State University
         slides:
