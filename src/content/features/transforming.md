@@ -28,9 +28,11 @@ sections:
           - image: ""
             image_alt: ""
             title: Rich Media Integration
-            text: "The ability to embed media enables authors to tell their stories in a
-              more natural way, allowing readers to experience the media in
-              real-time (versus reading a description of it). "
+            text: The ability to embed media enables authors to tell their stories in a more
+              natural way, allowing readers to experience the media in real-time
+              (versus reading a description of it). Enhanced ebooks on Fulcrum
+              include integrated media such as audio, video, images, maps, and
+              3D models.
           - image: /assets/screen-shot-2021-07-20-at-10.45.09-pm.png
             image_alt: ""
             title: Embedded Audio
