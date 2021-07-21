@@ -121,6 +121,8 @@ sections:
           - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
             image_alt: ""
             title: ""
+      - type: youtube
+        id: ONSPITzuGLM
       - type: spacer
         spacer: Spacer
       - type: cta
@@ -132,8 +134,6 @@ sections:
           development of digital scholarship. To learn more about publishing
           with UMP, click the link below.
         image: /assets/iqlqu4dw_400x400.png
-      - type: youtube
-        id: ONSPITzuGLM
 related_stories:
   - ""
 ---
