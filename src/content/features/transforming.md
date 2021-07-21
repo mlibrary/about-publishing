@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 type: feature
 title: Digital Innovation at University of Michigan Press
 subtitle: Transforming Performing Arts and Media Studies Scholarship
