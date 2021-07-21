@@ -117,10 +117,7 @@ sections:
             of both form and content. This mixtap/e/ssay  was an opportunity to
             support cutting-edge scholarship that we were uniquely able to take
             on because of the digital affordances of Fulcrum.
-        slides:
-          - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
-            image_alt: ""
-            title: ""
+        slides: []
       - type: youtube
         id: ONSPITzuGLM
       - type: spacer
