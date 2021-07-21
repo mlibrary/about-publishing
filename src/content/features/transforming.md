@@ -13,11 +13,9 @@ feature_image:
     screen
 sections:
   - heading: Enhanced Ebooks
-    subheading: Enhanced ebooks take advantage of the networked digital environment
-      (e.g., embedded audio and video), but can also be made available in print
+    subheading: Enhanced ebooks take advantage of the networked digital environment,
+      but can also be made available in print.
     content:
-      - type: highlight
-        text: Insert text about these books here
       - type: quote_slider
         book: Music on the Move
         quote:
@@ -52,7 +50,7 @@ sections:
           objects with the narratives that reference them. **Learn more by
           watching the video below.**
       - type: youtube
-        id: F1LiFINq27k&feature=emb_title
+        id: F1LiFINq27k
   - heading: Interactive Scholarly Work
     subheading: Interactive scholarly works are long-form digital publications that
       could not exist in a print environment
@@ -71,6 +69,46 @@ sections:
           - image: /assets/screen-shot-2021-07-16-at-4.39.36-pm.png
             image_alt: ""
             title: ""
+      - type: quote_slider
+        book: "ESC "
+        quote:
+          quote: "I feel extremely fortunate to have worked with UMP on my two
+            experimental audiobooks. I had long been interested in applying
+            audiovisual tools to the analysis of audiovisual culture, but it was
+            only when I began working with UMP that I felt the confidence to
+            undertake such a project. "
+          name: Jacob Smith
+          title: Professor and Associate Chair, Department of Radio-Television-Film,
+            Northwestern University
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "The editorial team at UMP were ideal interlocutors as I worked through
+              initial ideas for how I might do sound studies research in the
+              medium of audio. My editors at UMP helped me to think through
+              different approaches, ranging from a traditional book with a few
+              supplementary audio clips to a more wholeheartedly audio-driven
+              format. To their great credit, UMP pushed me to go for the stretch
+              and take the latter route. The next step was to try several “proof
+              of concept” prototypes, and the UMP team provided valuable
+              feedback that was crucial as I found my footing in this new form
+              of digital authorship. UMP was supportive at every step of the
+              way, and I was particularly impressed and reassured by how
+              effectively they maintained the rigor of the review process
+              despite the novelty of the publication. After the production and
+              review processes were completed, the final project was posted to
+              UMP’s Fulcrum platform, which is well-designed, user-friendly,
+              accessible, and easy to modify thanks to UMP’s exceptional support
+              team. I couldn’t be happier with my experience working with UMP:
+              they pushed me to take intellectual risks and explore new modes of
+              research and publication; they encouraged me to develop strategies
+              for reaching new audiences with my research; and they supported me
+              as I developed the new skills required to become proficient at a
+              new kind of academic writing. UMP is the ideal place for digital
+              publishing, combining intellectual rigor and academic knowledge
+              with innovative vision and state-of-the-art technological
+              infrastructur"
       - type: cta
         image: ""
         text: "Lightning Birds by Jacob Smith is a multi-media project that consists of
