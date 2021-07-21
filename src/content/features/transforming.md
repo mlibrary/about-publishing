@@ -8,7 +8,7 @@ hero:
   text: ""
   feature_hero_image: ""
 feature_image:
-  file: /assets/matthew-kwong-qjgw5ewkco8-unsplash.jpg
+  file: /assets/screen-shot-2021-07-21-at-11.20.54-am.png
   alt: Picture of hand on Mac laptop keyboard with video editing technology on the
     screen
 sections:
