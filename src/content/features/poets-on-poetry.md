@@ -37,6 +37,23 @@ sections:
           quote: insert quote here
           name: Robert Hayden
           title: Collected Prose (1984)
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: >
+              Click here for a Library of Congress audio recording of Hayden's
+              “How it Strikes a Contemporary: Reflections on Poetry and the Role
+              of the Poet” (1978) https://www.loc.gov/item/91740837/ 
+          - image: ""
+            image_alt: ""
+            title: ""
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "Click here for the text and audio recording of “Middle Passage,” a poem
+              by Robert Hayden:
+              https://www.poetryfoundation.org/poems/43076/middle-passage"
       - type: quote_slider
         book: "The Spiral of Memory: Interviews"
         quote:
