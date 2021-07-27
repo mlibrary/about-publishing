@@ -3,7 +3,7 @@ title: "On Burning Ground: Thirty Years of Thinking About Poetry"
 link: https://www.press.umich.edu/345683/on_burning_ground
 author: "Sandra M. Gilbert "
 image:
-  file: /assets/9780472050567_gilbert_cover.jpg
+  file: /assets/gilbert-burning-ground.jpeg
   alt: Cover of Sandra M. Gilbert, On Burning Ground
 description: >-
   The highly esteemed literary critic and poet Sandra M. Gilbert is best known
