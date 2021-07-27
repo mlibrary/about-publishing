@@ -4,7 +4,7 @@ link: https://www.press.umich.edu/10584/spiral_of_memory
 author: "Joy Harjo "
 image:
   alt: "Cover of Joy Harjo, The Spiral of Memory "
-  file: /assets/9780472065813_harjo_scan_cover.jpg
+  file: /assets/spiral-of-memory.jpeg
 description: >-
   With the recently-published The Woman Who Fell from the Sky, Joy Harjo has
   emerged as one of the most powerful Native American voices of her generation.
