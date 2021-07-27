@@ -45,9 +45,10 @@ sections:
               Click here for a Library of Congress audio recording of Hayden's
               “How it Strikes a Contemporary: Reflections on Poetry and the Role
               of the Poet” (1978) https://www.loc.gov/item/91740837/ 
-          - image: ""
-            image_alt: ""
-            title: ""
+          - image: /assets/roberthayden-243x300.jpeg
+            image_alt: "Image of Robert Hayden. "
+            title: Robert Hayden, former Poet Laureate and the first African American to be
+              appointed as Consultant in Poetry to the Library of Congress.
           - image: ""
             image_alt: ""
             title: ""
