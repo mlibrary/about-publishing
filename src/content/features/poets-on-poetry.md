@@ -24,8 +24,13 @@ sections:
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
         slides: []
-      - type: profile
-        profile: "Donald Hall "
+      - type: image
+        image: /assets/donald-hall-image.jpeg
+        caption: "Donald Hall, former Poet Laureate and Poets on Poetry series founder.
+          "
+        image_alt: "An image of Donald Hall reading from one of his texts. "
+      - type: youtube
+        id: "n-A6veVHhtA   "
       - type: quote_slider
         book: Collected Prose
         quote:
@@ -94,7 +99,7 @@ sections:
 related_stories:
   - ""
 ---
-University of Michigan Press' *Poets on Poetry* series was founded on a vision: to collect “critical works by contemporary poets, gathering together the articles, interviews, and book reviews by which they have articulated the poetics of a new generation.” To further the aims of the *Poets on Poetry* series, which began with series founder Donald Hall, and to develop them in innovative and exciting new directions, University of Michigan Press has launched a digital transformation pilot project with an aim to reinvigorate interest in the Poets on Poetry series and at the same time demonstrate the creative and educative possibilities of a broader series digitization initiative in the near future. 
+University of Michigan Press' *Poets on Poetry* series was founded on a vision: to collect “critical works by contemporary poets, gathering together the articles, interviews, and book reviews by which they have articulated the poetics of a new generation.” To further the aims of the *Poets on Poetry* series, which began in 1978 with series founder Donald Hall, and to develop them in innovative and exciting new directions, University of Michigan Press has launched a digital transformation pilot project with an aim to reinvigorate interest in the *Poets on Poetry* series and at the same time demonstrate the creative and educative possibilities of a broader series digitization initiative in the near future. 
 
 For our pilot project, we have selected ten texts that represent the rich and various array of voices found in the extant volumes of the *Poets on Poetry* series: Robert Hayden’s *Collected Prose* (1984), Donald Hall’s *Death to the Death of Poetry* (1995), Joy Harjo’s *The Spiral of Memory* (1996), Alice Notley’s *Coming After* (2005), John Yau’s *The Passionate Spectator* (2006), Sandra M. Gilbert’s *On Burning Ground* (2009), Kazim Ali's *Resident Alien* (2015), Yusef Komunyakaa’s *Condition Red* (2017), Rigoberto González’s *Pivotal Voices, Era of Transition* (2017), and Claudia Keelan’s *Ecstatic Émigré* (2018). The authors we have chosen for this digital relaunch of *Poets on Poetry* come from a variety of communities, backgrounds, and poetic sensibilities, and their works have helped shape our vision for the series' future. 
 
