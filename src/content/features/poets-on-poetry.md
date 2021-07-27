@@ -45,11 +45,12 @@ sections:
           quote: I think I always write with especially these women in mind because I want
             us all to know as women, as Indian people, as human beings that
             there is always hope, that we are whole, alive, and precious.
-      - type: spacer
-        spacer: Spacer
-  - heading: Imagining Digital Futures
-    subheading: New Directions in the Series
-    content:
+      - type: quote_slider
+        book: "Coming After: Essays on Poetry"
+        quote:
+          quote: insert quote here
+          name: "Alice Notley "
+          title: Coming After (2005)
       - type: quote_slider
         book: "The Passionate Spectator: Essays on Art and Poetry"
         quote:
@@ -57,11 +58,34 @@ sections:
           name: John Yau
           title: The Passionate Spectator (2006)
       - type: quote_slider
+        book: "On Burning Ground: Thirty Years of Thinking About Poetry"
+        quote:
+          quote: insert quote
+          name: Sandra M. Gilbert
+          title: On Burning Ground (2009)
+      - type: spacer
+        spacer: Spacer
+  - heading: Imagining Digital Futures
+    subheading: New Directions in the Series
+    content:
+      - type: quote_slider
+        book: "Resident Alien: On Border-crossing and the Undocumented Divine"
+        quote:
+          quote: "insert quote here "
+          name: Kazim Ali
+          title: Resident Alien (2015)
+      - type: quote_slider
         book: "Condition Red: Essays, Interviews, and Commentaries "
         quote:
           quote: insert quote here
           name: Yusef Komunyakaa
           title: Condition Red (2017)
+      - type: quote_slider
+        book: "Pivotal Voices, Era of Transition: Toward a 21st Century Poetics "
+        quote:
+          quote: insert quote here
+          name: Rigoberto González
+          title: Pivotal Voices, Era of Transition (2017)
       - type: quote_slider
         book: "Ecstatic Émigré: An Ethics of Practice "
         quote:
@@ -86,16 +110,16 @@ sections:
           our classrooms and beyond? 
 
 
-          The *Poets on Poetry* series offers many exciting inroads for thinking about how we read and engage with poetry in both scholarly and public life. In order to think pedagogically about the Poets on Poetry series, University of Michigan PhD candidate and Michigan Publishing intern Amanda Kubic has created a [syllabus project](https://docs.google.com/document/d/1dwXiiZl8KbdH67gkLRFXiUO5akYAsc1O8vZUf9LCnzk/edit?usp=sharing) that demonstrates how instructors can teach selected texts and supplementary materials from the *Poets on Poetry* series in the university classroom. 
+          The *Poets on Poetry* series offers many exciting inroads for thinking about how we read and engage with poetry in both scholarly and public life. In order to think pedagogically about the *Poets on Poetry* series, University of Michigan PhD candidate and Michigan Publishing intern Amanda Kubic has created a [syllabus project](https://docs.google.com/document/d/1dwXiiZl8KbdH67gkLRFXiUO5akYAsc1O8vZUf9LCnzk/edit?usp=sharing) that demonstrates how instructors can teach selected texts and supplementary materials from the *Poets on Poetry* series in the university classroom. 
 
 
           The project contains five modules that university instructors can adopt or adapt to teach a selection of materials from *Poets on Poetry* and relevant supplementary content. The modules have been organized by theme: performing poetry, poetry and visual art, poetry and revision, poetry and the public, and emerging voices in poetry. These modules can be incorporated into a variety of syllabi and are ideal for an undergraduate English course or creative writing course. Each module comes with a set of driving questions to guide the discussion of the material, a selection of readings, and proposed assignments to help students comprehend and engage with the material. See the following sample module on "Poetry and Visual Art":
 
 
-          *   ![Module 2: Poetry and Visual Art   Guiding Questions: How can we put the textual qualities of poetry into conversation with the visual qualities of mediums like sculpture, painting, and collage? What language can we use to talk about the poetics of visual art and the visual aspects of poetry? What kinds of distinctions do we make between texts and other kinds of media, and for what purpose? What do spaces like museums or art galleries have to offer to our discussions of poetry and poetics? What does it mean to be a critic/scholar/spectator of poetry vs. of visual art?   Readings: John Yau, “The Poet as Art Critic” and “Street Song: The Art of Jean-Michel Basquiat and the Poetry of Kevin Young” from The Passionate Spectator: Essays on Art and Poetry (2006), pp. 40-65, 87-101. Please also view Basquiat’s painting Hollywood Africans (1983), available here: https://whitney.org/collection/works/453.   Kazim Ali, “Poet Crossing Borders” from Resident Alien (2015), pp. 121-151.   Alice Notley, “Ron Padgett’s Visual Imagination” from Coming After (2005), pp. 27-41.  Robert Hayden, selections from “A Romantic Realist” and “The Poet and His Art: A Conversation” from Collected Prose (1984), pp.125-128, 202-203. Please also read Hayden’s “The Peacock Room” (1975) and “Monet’s ‘Water Lilies’” (1970); and view Monet’s painting Water Lilies (1906), available here: https://www.artic.edu/artworks/16568/water-lilies.  Assignment: Plan a visit to your local museum, or find a museum website that is of interest to you (for example, the University of Michigan Museum of Art offers free reservations to students, and the website can be found here: https://umma.umich.edu/). Select a piece of visual art at your chosen museum that you think speaks to the concept of “poetics.” It may remind you of a particular poem, inspire a poem of your own, or have qualities that you find “poetic” in a broader sense.  After you have selected your visual art piece, take a few minutes to write down 1) what you notice about the piece (colors, textures, shapes, familiar figures, strange or unexpected details, etc.) 2) why you think these details might matter. Drawing from your notes, write a brief essay on the connections you are making between your visual art piece and poetry/poetics. What details are key to your analysis? How do you articulate a visual piece’s poetics? What elements of the piece resist meaning or interpretation? ](/assets/screen-shot-2021-07-21-at-10.33.05-am.jpg "Module Two: Poetry and Visual Art ")
+          * ![Module 2: Poetry and Visual Art   Guiding Questions: How can we put the textual qualities of poetry into conversation with the visual qualities of mediums like sculpture, painting, and collage? What language can we use to talk about the poetics of visual art and the visual aspects of poetry? What kinds of distinctions do we make between texts and other kinds of media, and for what purpose? What do spaces like museums or art galleries have to offer to our discussions of poetry and poetics? What does it mean to be a critic/scholar/spectator of poetry vs. of visual art?   Readings: John Yau, “The Poet as Art Critic” and “Street Song: The Art of Jean-Michel Basquiat and the Poetry of Kevin Young” from The Passionate Spectator: Essays on Art and Poetry (2006), pp. 40-65, 87-101. Please also view Basquiat’s painting Hollywood Africans (1983), available here: https://whitney.org/collection/works/453.   Kazim Ali, “Poet Crossing Borders” from Resident Alien (2015), pp. 121-151.   Alice Notley, “Ron Padgett’s Visual Imagination” from Coming After (2005), pp. 27-41.  Robert Hayden, selections from “A Romantic Realist” and “The Poet and His Art: A Conversation” from Collected Prose (1984), pp.125-128, 202-203. Please also read Hayden’s “The Peacock Room” (1975) and “Monet’s ‘Water Lilies’” (1970); and view Monet’s painting Water Lilies (1906), available here: https://www.artic.edu/artworks/16568/water-lilies.  Assignment: Plan a visit to your local museum, or find a museum website that is of interest to you (for example, the University of Michigan Museum of Art offers free reservations to students, and the website can be found here: https://umma.umich.edu/). Select a piece of visual art at your chosen museum that you think speaks to the concept of “poetics.” It may remind you of a particular poem, inspire a poem of your own, or have qualities that you find “poetic” in a broader sense.  After you have selected your visual art piece, take a few minutes to write down 1) what you notice about the piece (colors, textures, shapes, familiar figures, strange or unexpected details, etc.) 2) why you think these details might matter. Drawing from your notes, write a brief essay on the connections you are making between your visual art piece and poetry/poetics. What details are key to your analysis? How do you articulate a visual piece’s poetics? What elements of the piece resist meaning or interpretation? ](/assets/screen-shot-2021-07-21-at-10.33.05-am.jpg "Module Two: Poetry and Visual Art ")
 
 
-          Our hope that these modules will serve as a valuable resource for instructors looking to engage with contemporary critical conversations about poetry and poetics.
+          We hope these modules will be a valuable resource for instructors looking to engage with contemporary critical conversations about poetry and poetics.
 related_stories:
   - ""
 ---
