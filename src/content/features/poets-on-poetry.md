@@ -45,6 +45,11 @@ sections:
           - image: ""
             image_alt: ""
             title: ""
+            text: Robert Hayden, former Poet Laureate and the first African American to be
+              appointed as Consultant in Poetry to the Library of Congress.
+          - image: ""
+            image_alt: ""
+            title: ""
             text: >
               For a Library of Congress audio recording of Hayden's “How it
               Strikes a Contemporary: Reflections on Poetry and the Role of the
@@ -54,11 +59,6 @@ sections:
           - image: /assets/roberthayden-243x300.jpeg
             image_alt: "Image of Robert Hayden. "
             title: ""
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: Robert Hayden, former Poet Laureate and the first African American to be
-              appointed as Consultant in Poetry to the Library of Congress.
           - image: ""
             image_alt: ""
             title: ""
