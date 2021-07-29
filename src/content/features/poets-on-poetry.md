@@ -92,11 +92,40 @@ sections:
       - type: spacer
         spacer: Spacer
   - heading: "A Letter From the Editor "
-    subheading: "Poets on Poetry series editor Derek Pollard on the impact of the
-      digitization project "
+    subheading: "Poets on Poetry editor Derek Pollard on the Series' Digital
+      Transformation Project "
     content:
       - type: highlight
-        text: insert letter from Derek
+        text: >-
+          Donald Hall was a keen observer and an impassioned advocate for
+          poetry. In this, he followed in the tradition—or tradition*s,*
+          plural—of the many forebears whose poetry fueled his own. He founded
+          the *Poets on Poetry* series to remind us not only of the pleasures of
+          poetry and the importance of creative expression but also of the
+          perils we face whenever we ignore the caged bird’s song or continue to
+          defer the dream Langston Hughes writes about so poignantly and so
+          urgently in “Harlem.”
+
+
+          For the past six decades, the *Poets on Poetry* series has provided a forum for contemporary poets to speak—oftentimes boldly—to the issue of why poetry matters. “Gathering together the articles, interviews, and book reviews by which \[these poets] have articulated the poetics of a new generation,” titles in the series have presented readers with an open invitation to follow—and equally to contribute to—a rich and varied dialogue about what role literature and the arts play in society, about the shifting sands of cultural production and consumption, even about what poetry is and why it matters where and from whom our definitions may have originated.
+
+
+          The series catalogue exemplifies the commitment the University of Michigan Press has long had to fostering a dialogue as diverse and inclusive as it is well-considered and engaging. Spanning the decades since the 1978 publication of William Stafford’s *Writing the Australian Crawl,* theseries has published books by Meena Alexander, Kazim Ali, MartÍn Espada, Sandra M. Gilbert, Rigoberto González, Thom Gunn, Joy Harjo, Robert Hayden, Yusef Komunyakaa, Natasha Saje, Anne Sexton, and John Yau, among a host of other luminaries.
+
+
+          And this meaningful proliferation of voices and perspectives is being further amplified digitally. Through an innovative initiative—the scope and details of which you see here—past and future *Poets on Poetry* titles will include an interactive EPUB edition. These eBooks will feature supplemental content such as online articles, video recordings of book festival events, poetry films, and audio recordings of interviews, making the material on the page (or screen) come alive in new and exciting ways and creating an even more immersive—and accessible—reading experience.
+
+
+          The editorial team is also readying an expanded digital publishing calendar that will include short-form, multimedia, and serialized content in addition to the print books and EPUBs that have been the signature of the series to this point.
+
+
+          It is a particularly exhilarating time for the *Poets on Poetry* Series, and I am hopeful that these additional avenues for exploring poetry and celebrating the poets who make it—and make it matter to us in all the ways that it does—succeed in welcoming even more voices to the conversation Donald Hall and the other exceptional editors who preceded me have helped to frame by publishing the books they did.
+
+
+          Derek Pollard
+
+
+          Series Editor
       - type: spacer
         spacer: Spacer
   - heading: Imagining Digital Futures
