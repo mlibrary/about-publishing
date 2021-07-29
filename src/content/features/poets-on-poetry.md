@@ -175,12 +175,22 @@ sections:
             Poetry today, as in the past, will write the way.
           name: Rigoberto González
           title: Pivotal Voices, Era of Transition (2017)
+      - type: cta
+        button_link: "https://www.loc.gov/item/webcast-6313 "
+        button_text: View Recording
+        text: "For a recording of Rigoberto González's 2014 Library of Congress lecture
+          \"Latino Poetry:  Pivotal Voices, Era of Transition,” click here. "
+        heading: ' González, "Latino Poetry:  Pivotal Voices, Era of Transition" (2014)'
       - type: quote_slider
         book: "Ecstatic Émigré: An Ethics of Practice "
         quote:
-          quote: insert quote here
+          quote: The figure of the émigré intensifies the evidence of the temporal. The
+            place you call home, country, native habitat, homeland—you will
+            depart, and what you are will also remain, as energy remains.
           name: Claudia Keelan
           title: Ecstatic Émigré
+      - type: youtube
+        id: "1Ap98CXGGao "
       - type: spacer
         spacer: Spacer
   - heading: Poets on Poetry Pedagogy
