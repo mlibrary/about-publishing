@@ -164,6 +164,8 @@ sections:
             beings. "
           name: Yusef Komunyakaa
           title: Condition Red (2017)
+      - type: youtube
+        id: "KhWfzcvUJfU "
       - type: quote_slider
         book: "Pivotal Voices, Era of Transition: Toward a 21st Century Poetics "
         quote:
