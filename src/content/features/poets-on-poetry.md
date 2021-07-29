@@ -65,7 +65,7 @@ sections:
         button_link: "https://www.loc.gov/item/  91740837/ "
         button_text: "Access Recording "
         heading: Hayden, "How it Strikes a Contemporary" (1978)
-        image: /assets/screen-shot-2021-07-29-at-4.33.33-pm.jpg
+        image: /assets/screen-shot-2021-07-29-at-4.40.36-pm.jpg
         image_alt: Library of Congress Header
       - type: quote_slider
         book: "The Spiral of Memory: Interviews"
