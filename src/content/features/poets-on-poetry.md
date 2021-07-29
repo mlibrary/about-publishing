@@ -52,7 +52,7 @@ sections:
             title: ""
           - image: ""
             image_alt: ""
-            title: ""
+            title: '"Middle Passage"'
             text: >-
               For the text and audio recording of “Middle Passage,” a poem by
               Robert Hayden, see: https://www.poetryfoundation
@@ -66,6 +66,7 @@ sections:
         button_text: "Access Recording "
         heading: Hayden, "How it Strikes a Contemporary" (1978)
         image: /assets/screen-shot-2021-07-29-at-4.02.36-pm.jpg
+        image_alt: Library of Congress Header
       - type: quote_slider
         book: "The Spiral of Memory: Interviews"
         quote:
@@ -84,6 +85,7 @@ sections:
         button_text: Access Recording
         button_link: " https://www.loc.gov/item/webcast-9260/ "
         image: /assets/screen-shot-2021-07-29-at-4.13.17-pm.jpg
+        image_alt: Screenshot of Harjo, Smith, and Hayden
       - type: quote_slider
         book: "Coming After: Essays on Poetry"
         quote:
@@ -93,6 +95,23 @@ sections:
             invented equally by women and men together.
           name: "Alice Notley "
           title: Coming After (2005)
+        slides:
+          - image: ""
+            image_alt: ""
+            title: '"At Night the States"'
+            text: 'For the text and an audio recording of "At Night the States," a poem by
+              Alice Notley, see:
+              https://www.poetryfoundation.org/poems/50834/at-night-the-states'
+          - image: ""
+            image_alt: ""
+            title: '"The Descent of Alette" '
+            text: 'For an excerpted text of "The Descent of Alette," a poem by Alice Notley,
+              see: https://poets.org/poem/descent-alette-i-walked. '
+          - image: ""
+            image_alt: ""
+            title: BOMB Magazine with Alice Notley
+            text: "For a 2015 BOMB Magazine interview with Alice Notley, see:
+              https://bombmagazine.org/articles/alice-notley/ . "
       - type: quote_slider
         book: "The Passionate Spectator: Essays on Art and Poetry"
         quote:
@@ -115,6 +134,21 @@ sections:
             everything means to her.
           name: Sandra M. Gilbert
           title: On Burning Ground (2009)
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: "Sandra M. Gilbert; award-winning poet, critic, and Distinguished
+              Professor of English Emerita at the University of California,
+              Davis. "
+          - image: /assets/snadra-m-gilbert.jpeg
+            image_alt: An image of Sandra M. Gilbert
+            title: ""
+          - image: ""
+            image_alt: ""
+            title: '"Belongings"'
+            text: 'For the text of "Belongings," a poem by Sandra M. Gilbert, see:
+              https://www.poetryfoundation.org/poems/51832/belongings-56d22fd735e2a.'
       - type: spacer
         spacer: Spacer
   - heading: "A Letter From the Editor "
@@ -169,7 +203,7 @@ sections:
         slides:
           - image: ""
             image_alt: ""
-            title: ""
+            title: "Ali Audio Archive "
             text: >-
               "From the Fishouse," an audio archive of emerging poets, features
               recordings of Ali reading his poetry: http://www.fishousepoems.org
@@ -177,7 +211,7 @@ sections:
               /category/kazim-ali/  
           - image: ""
             image_alt: ""
-            title: ""
+            title: '"Home"'
             text: >-
               For the text of "Home," a poem by Kazim Ali, see:
               https://www.poetryfoundation
@@ -187,7 +221,7 @@ sections:
               56d234e87b113. 
           - image: ""
             image_alt: ""
-            title: ""
+            title: '"Bright Felon DVD Extra/Alternate Ending"'
             text: 'For the text of "Bright Felon DVD Extra/Alternate Ending, " a poem by
               Kazim Ali, see:
               https://poets.org/poem/bright-felon-dvd-extraalternate-ending.'
@@ -218,6 +252,7 @@ sections:
           \"Latino Poetry:  Pivotal Voices, Era of Transition,” click here. "
         heading: ' González, "Latino Poetry:  Pivotal Voices, Era of Transition" (2014)'
         image: /assets/screen-shot-2021-07-29-at-3.46.56-pm.jpg
+        image_alt: "Screenshot of Library of Congress opening slide. "
       - type: quote_slider
         book: "Ecstatic Émigré: An Ethics of Practice "
         quote:
