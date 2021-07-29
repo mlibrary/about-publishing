@@ -19,8 +19,8 @@ sections:
       - type: quote_slider
         book: "Death to the Death of Poetry: Essays, Reviews, Notes, Interviews "
         quote:
-          quote: Dubious elegies on the death of poetry shouldn't need answers. A
-            frequently reported lie, however, can turn into fact.
+          quote: "There are a thousand ways to love a poem. The best poets make up new
+            ways, and the new ways mostly take getting used to. "
           name: Donald Hall
           title: Death to the Death of Poetry (1995)
         slides: []
@@ -34,7 +34,11 @@ sections:
       - type: quote_slider
         book: Collected Prose
         quote:
-          quote: insert quote here
+          quote: After all, as a poet I am trying to come to grips with reality, yes, to
+            define reality as I can perceive it. Isn't that what every poet
+            worthy of the name is attempting to do? [...] What is a poet but a
+            human being speaking to other human beings about things that matter
+            to all of us?
           name: Robert Hayden
           title: Collected Prose (1984)
         slides:
@@ -74,19 +78,30 @@ sections:
       - type: quote_slider
         book: "Coming After: Essays on Poetry"
         quote:
-          quote: insert quote here
+          quote: What might be another kind of poetry? Whole other poetry springing from
+            nowhere, as at the beginning of the world, in the hands of women? Or
+            perhaps even more desirably, as at the beginning of the world,
+            invented equally by women and men together.
           name: "Alice Notley "
           title: Coming After (2005)
       - type: quote_slider
         book: "The Passionate Spectator: Essays on Art and Poetry"
         quote:
-          quote: insert quote
+          quote: >+
+            It takes a certain kind of resiliency to be a poet critic who not
+            only doesn't become a curmudgeon [...] but also still manages to
+            maintain a high level of sophistication, insight, and wit in your
+            essays and reviews.
+
           name: John Yau
           title: The Passionate Spectator (2006)
       - type: quote_slider
         book: "On Burning Ground: Thirty Years of Thinking About Poetry"
         quote:
-          quote: insert quote
+          quote: But the outsider, the Other, the woman poet owns only her own vision, and
+            therefore she can steal into the house of myth, see everything, and
+            say for the first time (and thus with the dearest freshness) what
+            everything means to her.
           name: Sandra M. Gilbert
           title: On Burning Ground (2009)
       - type: spacer
@@ -134,19 +149,28 @@ sections:
       - type: quote_slider
         book: "Resident Alien: On Border-crossing and the Undocumented Divine"
         quote:
-          quote: "insert quote here "
+          quote: Well it is me, then, with my Moorish passport, refusing to write the laws
+            of the nation on my body but instead to learn through the language
+            of poetry what it really is that binds one human to another in
+            community.
           name: Kazim Ali
           title: Resident Alien (2015)
       - type: quote_slider
         book: "Condition Red: Essays, Interviews, and Commentaries "
         quote:
-          quote: insert quote here
+          quote: "One has to be inquisitive about life, about the elemental and
+            unthinkable components of existence. Such questions keep us
+            connected to who we are, and what our possibilities are as human
+            beings. "
           name: Yusef Komunyakaa
           title: Condition Red (2017)
       - type: quote_slider
         book: "Pivotal Voices, Era of Transition: Toward a 21st Century Poetics "
         quote:
-          quote: insert quote here
+          quote: And it becomes particularly pressing today [...] that the Chicano
+            voice—that Chicano voices—must continue to speak in order assert the
+            Chicano community’s relevance to American society and culture.
+            Poetry today, as in the past, will write the way.
           name: Rigoberto González
           title: Pivotal Voices, Era of Transition (2017)
       - type: quote_slider
