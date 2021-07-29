@@ -47,15 +47,6 @@ sections:
             title: ""
             text: Robert Hayden, former Poet Laureate and the first African American to be
               appointed as Consultant in Poetry to the Library of Congress.
-          - image: ""
-            image_alt: ""
-            title: ""
-            text: >
-              For a Library of Congress audio recording of Hayden's “How it
-              Strikes a Contemporary: Reflections on Poetry and the Role of the
-              Poet” (1978), see: https://www.loc.gov/item/ 
-
-              91740837/ 
           - image: /assets/roberthayden-243x300.jpeg
             image_alt: "Image of Robert Hayden. "
             title: ""
@@ -67,6 +58,13 @@ sections:
               Robert Hayden, see: https://www.poetryfoundation
 
               .org/poems/43076/middle-passage
+      - type: cta
+        text: "For an audio recording of Robert Hayden's 1978 Library of Congress
+          lecture “How it Strikes a Contemporary: Reflections on Poetry and the
+          Role of the Poet,\" click here. "
+        button_link: "https://www.loc.gov/item/  91740837/ "
+        button_text: "Access Recording "
+        heading: Hayden, "How it Strikes a Contemporary" (1978)
       - type: quote_slider
         book: "The Spiral of Memory: Interviews"
         quote:
@@ -166,7 +164,13 @@ sections:
             image_alt: ""
             title: ""
             text: 'For the text of "Home," a poem by Kazim Ali, see:
-              https://www.poetryfoundation.org/poems/54498/home-56d234e87b113 '
+              https://www.poetryfoundation.org/poems/54498/home-56d234e87b113. '
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: 'For the text of "Bright Felon DVD Extra/Alternate Ending, " a poem by
+              Kazim Ali, see:
+              https://poets.org/poem/bright-felon-dvd-extraalternate-ending.'
       - type: quote_slider
         book: "Condition Red: Essays, Interviews, and Commentaries "
         quote:
@@ -189,11 +193,11 @@ sections:
           title: Pivotal Voices, Era of Transition (2017)
       - type: cta
         button_link: "https://www.loc.gov/item/webcast-6313 "
-        button_text: View Recording
+        button_text: Access Recording
         text: "For a recording of Rigoberto González's 2014 Library of Congress lecture
           \"Latino Poetry:  Pivotal Voices, Era of Transition,” click here. "
         heading: ' González, "Latino Poetry:  Pivotal Voices, Era of Transition" (2014)'
-        image: /assets/screen-shot-2021-07-29-at-3.46.56-pm.jpg
+        image: ""
       - type: quote_slider
         book: "Ecstatic Émigré: An Ethics of Practice "
         quote:
