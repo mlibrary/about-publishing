@@ -83,6 +83,7 @@ sections:
         heading: '“Hear You, Hear Me: Conversations on Race in America" (2020)'
         button_text: Access Recording
         button_link: " https://www.loc.gov/item/webcast-9260/ "
+        image: /assets/screen-shot-2021-07-29-at-4.13.17-pm.jpg
       - type: quote_slider
         book: "Coming After: Essays on Poetry"
         quote:
