@@ -155,6 +155,18 @@ sections:
             community.
           name: Kazim Ali
           title: Resident Alien (2015)
+        slides:
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: '"From the Fishouse," an audio archive of emerging poets, features
+              recordings of Ali reading his poetry:
+              http://www.fishousepoems.org/category/kazim-ali/  '
+          - image: ""
+            image_alt: ""
+            title: ""
+            text: 'For the text of "Home," a poem by Kazim Ali, see:
+              https://www.poetryfoundation.org/poems/54498/home-56d234e87b113 '
       - type: quote_slider
         book: "Condition Red: Essays, Interviews, and Commentaries "
         quote:
