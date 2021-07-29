@@ -204,7 +204,7 @@ sections:
         text: "For a recording of Rigoberto González's 2014 Library of Congress lecture
           \"Latino Poetry:  Pivotal Voices, Era of Transition,” click here. "
         heading: ' González, "Latino Poetry:  Pivotal Voices, Era of Transition" (2014)'
-        image: ""
+        image: /assets/screen-shot-2021-07-29-at-3.46.56-pm.jpg
       - type: quote_slider
         book: "Ecstatic Émigré: An Ethics of Practice "
         quote:
