@@ -99,19 +99,29 @@ sections:
           - image: ""
             image_alt: ""
             title: '"At Night the States"'
-            text: 'For the text and an audio recording of "At Night the States," a poem by
-              Alice Notley, see:
-              https://www.poetryfoundation.org/poems/50834/at-night-the-states'
+            text: >-
+              For the text and an audio recording of "At Night the States," a
+              poem by Alice Notley, see: https://www.poetryfoundation
+
+              .org/poems/50834/
+
+              at-night-the-states
           - image: ""
             image_alt: ""
             title: '"The Descent of Alette" '
-            text: 'For an excerpted text of "The Descent of Alette," a poem by Alice Notley,
-              see: https://poets.org/poem/descent-alette-i-walked. '
+            text: >-
+              For an excerpted text of "The Descent of Alette," a poem by Alice
+              Notley, see: https://poets.org/poem/
+
+              descent-alette-i-walked. 
           - image: ""
             image_alt: ""
             title: BOMB Magazine with Alice Notley
-            text: "For a 2015 BOMB Magazine interview with Alice Notley, see:
-              https://bombmagazine.org/articles/alice-notley/ . "
+            text: >-
+              For a 2015 BOMB Magazine interview with Alice Notley, see:
+              https://bombmagazine.org/
+
+              articles/alice-notley/. 
       - type: quote_slider
         book: "The Passionate Spectator: Essays on Art and Poetry"
         quote:
@@ -147,8 +157,13 @@ sections:
           - image: ""
             image_alt: ""
             title: '"Belongings"'
-            text: 'For the text of "Belongings," a poem by Sandra M. Gilbert, see:
-              https://www.poetryfoundation.org/poems/51832/belongings-56d22fd735e2a.'
+            text: >-
+              For the text of "Belongings," a poem by Sandra M. Gilbert, see:
+              https://www.poetryfoundation
+
+              .org/poems/51832/belongings-
+
+              56d22fd735e2a.
       - type: spacer
         spacer: Spacer
   - heading: "A Letter From the Editor "
