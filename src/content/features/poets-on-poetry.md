@@ -65,6 +65,7 @@ sections:
         button_link: "https://www.loc.gov/item/  91740837/ "
         button_text: "Access Recording "
         heading: Hayden, "How it Strikes a Contemporary" (1978)
+        image: /assets/screen-shot-2021-07-29-at-4.02.36-pm.jpg
       - type: quote_slider
         book: "The Spiral of Memory: Interviews"
         quote:
@@ -73,6 +74,15 @@ sections:
           quote: I think I always write with especially these women in mind because I want
             us all to know as women, as Indian people, as human beings that
             there is always hope, that we are whole, alive, and precious.
+      - type: youtube
+        id: "HiIJFRXxa3o "
+      - type: cta
+        text: 'For a video recording of a 2020 Library of Congress Zoom conversation
+          “Hear You, Hear Me: Conversations on Race in America" with U.S. Poets
+          Laureate appointees Joy Harjo and Tracy K. Smith, click here. '
+        heading: '“Hear You, Hear Me: Conversations on Race in America" (2020)'
+        button_text: Access Recording
+        button_link: " https://www.loc.gov/item/webcast-9260/ "
       - type: quote_slider
         book: "Coming After: Essays on Poetry"
         quote:
@@ -93,6 +103,8 @@ sections:
 
           name: John Yau
           title: The Passionate Spectator (2006)
+      - type: youtube
+        id: "Tnz5okgHhxY "
       - type: quote_slider
         book: "On Burning Ground: Thirty Years of Thinking About Poetry"
         quote:
