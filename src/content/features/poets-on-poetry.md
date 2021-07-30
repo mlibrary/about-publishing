@@ -166,43 +166,29 @@ sections:
               56d22fd735e2a.
       - type: spacer
         spacer: Spacer
-  - heading: "A Letter From the Editor "
-    subheading: "Poets on Poetry editor Derek Pollard on the Series' Digital
-      Transformation Project "
+  - heading: Teaching Poets on Poetry
+    subheading: "Bringing the Poets to Life in the Classroom "
     content:
       - type: highlight
         text: >-
-          Donald Hall was a keen observer and an impassioned advocate for
-          poetry. In this, he followed in the tradition—or tradition*s,*
-          plural—of the many forebears whose poetry fueled his own. He founded
-          the *Poets on Poetry* series to remind us not only of the pleasures of
-          poetry and the importance of creative expression but also of the
-          perils we face whenever we ignore the caged bird’s song or continue to
-          defer the dream Langston Hughes writes about so poignantly and so
-          urgently in “Harlem.”
+          The *Poets on Poetry* series offers many exciting inroads for thinking
+          about how we read and engage with poetry in both scholarly and public
+          life. In order to think pedagogically about the *Poets on Poetry*
+          series, University of Michigan PhD candidate, Rackham Fellow, and
+          University instructor Amanda Kubic has created a [syllabus
+          project](https://docs.google.com/document/d/1dwXiiZl8KbdH67gkLRFXiUO5akYAsc1O8vZUf9LCnzk/edit?usp=sharing)
+          that demonstrates how instructors can teach selected texts and
+          supplementary materials from the *Poets on Poetry* series in the
+          university classroom. 
 
 
-          For the past six decades, the *Poets on Poetry* series has provided a forum for contemporary poets to speak—oftentimes boldly—to the issue of why poetry matters. “Gathering together the articles, interviews, and book reviews by which \[these poets] have articulated the poetics of a new generation,” titles in the series have presented readers with an open invitation to follow—and equally to contribute to—a rich and varied dialogue about what role literature and the arts play in society, about the shifting sands of cultural production and consumption, even about what poetry is and why it matters where and from whom our definitions may have originated.
+          The project contains five modules that university instructors can adopt or adapt to teach a selection of materials from *Poets on Poetry* and relevant supplementary content. The modules have been organized by theme: performing poetry, poetry and visual art, poetry and revision, poetry and the public, and emerging voices in poetry. These modules can be incorporated into a variety of syllabi and are ideal for an undergraduate English course or creative writing course. Each module comes with a set of driving questions to guide the discussion of the material, a selection of readings, and proposed assignments to help students comprehend and engage with the material. See the following sample module on "Poetry and Visual Art":
 
 
-          The series catalogue exemplifies the commitment the University of Michigan Press has long had to fostering a dialogue as diverse and inclusive as it is well-considered and engaging. Spanning the decades since the 1978 publication of William Stafford’s *Writing the Australian Crawl,* theseries has published books by Meena Alexander, Kazim Ali, MartÍn Espada, Sandra M. Gilbert, Rigoberto González, Thom Gunn, Joy Harjo, Robert Hayden, Yusef Komunyakaa, Natasha Saje, Anne Sexton, and John Yau, among a host of other luminaries.
+          * ![Module 2: Poetry and Visual Art   Guiding Questions: How can we put the textual qualities of poetry into conversation with the visual qualities of mediums like sculpture, painting, and collage? What language can we use to talk about the poetics of visual art and the visual aspects of poetry? What kinds of distinctions do we make between texts and other kinds of media, and for what purpose? What do spaces like museums or art galleries have to offer to our discussions of poetry and poetics? What does it mean to be a critic/scholar/spectator of poetry vs. of visual art?   Readings: John Yau, “The Poet as Art Critic” and “Street Song: The Art of Jean-Michel Basquiat and the Poetry of Kevin Young” from The Passionate Spectator: Essays on Art and Poetry (2006), pp. 40-65, 87-101. Please also view Basquiat’s painting Hollywood Africans (1983), available here: https://whitney.org/collection/works/453.   Kazim Ali, “Poet Crossing Borders” from Resident Alien (2015), pp. 121-151.   Alice Notley, “Ron Padgett’s Visual Imagination” from Coming After (2005), pp. 27-41.  Robert Hayden, selections from “A Romantic Realist” and “The Poet and His Art: A Conversation” from Collected Prose (1984), pp.125-128, 202-203. Please also read Hayden’s “The Peacock Room” (1975) and “Monet’s ‘Water Lilies’” (1970); and view Monet’s painting Water Lilies (1906), available here: https://www.artic.edu/artworks/16568/water-lilies.  Assignment: Plan a visit to your local museum, or find a museum website that is of interest to you (for example, the University of Michigan Museum of Art offers free reservations to students, and the website can be found here: https://umma.umich.edu/). Select a piece of visual art at your chosen museum that you think speaks to the concept of “poetics.” It may remind you of a particular poem, inspire a poem of your own, or have qualities that you find “poetic” in a broader sense.  After you have selected your visual art piece, take a few minutes to write down 1) what you notice about the piece (colors, textures, shapes, familiar figures, strange or unexpected details, etc.) 2) why you think these details might matter. Drawing from your notes, write a brief essay on the connections you are making between your visual art piece and poetry/poetics. What details are key to your analysis? How do you articulate a visual piece’s poetics? What elements of the piece resist meaning or interpretation? ](/assets/screen-shot-2021-07-21-at-10.33.05-am.jpg "Module Two: Poetry and Visual Art ")
 
 
-          And this meaningful proliferation of voices and perspectives is being further amplified digitally. Through an innovative initiative—the scope and details of which you see here—past and future *Poets on Poetry* titles will include an interactive EPUB edition. These eBooks will feature supplemental content such as online articles, video recordings of book festival events, poetry films, and audio recordings of interviews, making the material on the page (or screen) come alive in new and exciting ways and creating an even more immersive—and accessible—reading experience.
-
-
-          The editorial team is also readying an expanded digital publishing calendar that will include short-form, multimedia, and serialized content in addition to the print books and EPUBs that have been the signature of the series to this point.
-
-
-          It is a particularly exhilarating time for the *Poets on Poetry* Series, and I am hopeful that these additional avenues for exploring poetry and celebrating the poets who make it—and make it matter to us in all the ways that it does—succeed in welcoming even more voices to the conversation Donald Hall and the other exceptional editors who preceded me have helped to frame by publishing the books they did.
-
-
-          Derek Pollard
-
-
-          Series Editor
-      - type: spacer
-        spacer: Spacer
+          We hope these modules will be a valuable resource for instructors looking to engage with contemporary critical conversations about poetry and poetics.
   - heading: Imagining Digital Futures
     subheading: New Directions in the Series
     content:
@@ -280,26 +266,43 @@ sections:
         id: "1Ap98CXGGao "
       - type: spacer
         spacer: Spacer
-  - heading: Poets on Poetry Pedagogy
-    subheading: "Teaching Materials for the University Classroom "
+  - heading: "A Letter From the Editor "
+    subheading: "Poets on Poetry editor Derek Pollard on the Series' Digital
+      Transformation Project "
     content:
       - type: highlight
         text: >-
-          How do we read poetry? How do we review it, critique it, teach it, and
-          bring it into our conversations about the value of literature both in
-          our classrooms and beyond? 
+          Donald Hall was a keen observer and an impassioned advocate for
+          poetry. In this, he followed in the tradition—or tradition*s,*
+          plural—of the many forebears whose poetry fueled his own. He founded
+          the *Poets on Poetry* series to remind us not only of the pleasures of
+          poetry and the importance of creative expression but also of the
+          perils we face whenever we ignore the caged bird’s song or continue to
+          defer the dream Langston Hughes writes about so poignantly and so
+          urgently in “Harlem.”
 
 
-          The *Poets on Poetry* series offers many exciting inroads for thinking about how we read and engage with poetry in both scholarly and public life. In order to think pedagogically about the *Poets on Poetry* series, University of Michigan PhD candidate and Michigan Publishing intern Amanda Kubic has created a [syllabus project](https://docs.google.com/document/d/1dwXiiZl8KbdH67gkLRFXiUO5akYAsc1O8vZUf9LCnzk/edit?usp=sharing) that demonstrates how instructors can teach selected texts and supplementary materials from the *Poets on Poetry* series in the university classroom. 
+          For the past six decades, the *Poets on Poetry* series has provided a forum for contemporary poets to speak—oftentimes boldly—to the issue of why poetry matters. “Gathering together the articles, interviews, and book reviews by which \[these poets] have articulated the poetics of a new generation,” titles in the series have presented readers with an open invitation to follow—and equally to contribute to—a rich and varied dialogue about what role literature and the arts play in society, about the shifting sands of cultural production and consumption, even about what poetry is and why it matters where and from whom our definitions may have originated.
 
 
-          The project contains five modules that university instructors can adopt or adapt to teach a selection of materials from *Poets on Poetry* and relevant supplementary content. The modules have been organized by theme: performing poetry, poetry and visual art, poetry and revision, poetry and the public, and emerging voices in poetry. These modules can be incorporated into a variety of syllabi and are ideal for an undergraduate English course or creative writing course. Each module comes with a set of driving questions to guide the discussion of the material, a selection of readings, and proposed assignments to help students comprehend and engage with the material. See the following sample module on "Poetry and Visual Art":
+          The series catalogue exemplifies the commitment the University of Michigan Press has long had to fostering a dialogue as diverse and inclusive as it is well-considered and engaging. Spanning the decades since the 1978 publication of William Stafford’s *Writing the Australian Crawl,* theseries has published books by Meena Alexander, Kazim Ali, MartÍn Espada, Sandra M. Gilbert, Rigoberto González, Thom Gunn, Joy Harjo, Robert Hayden, Yusef Komunyakaa, Natasha Saje, Anne Sexton, and John Yau, among a host of other luminaries.
 
 
-          * ![Module 2: Poetry and Visual Art   Guiding Questions: How can we put the textual qualities of poetry into conversation with the visual qualities of mediums like sculpture, painting, and collage? What language can we use to talk about the poetics of visual art and the visual aspects of poetry? What kinds of distinctions do we make between texts and other kinds of media, and for what purpose? What do spaces like museums or art galleries have to offer to our discussions of poetry and poetics? What does it mean to be a critic/scholar/spectator of poetry vs. of visual art?   Readings: John Yau, “The Poet as Art Critic” and “Street Song: The Art of Jean-Michel Basquiat and the Poetry of Kevin Young” from The Passionate Spectator: Essays on Art and Poetry (2006), pp. 40-65, 87-101. Please also view Basquiat’s painting Hollywood Africans (1983), available here: https://whitney.org/collection/works/453.   Kazim Ali, “Poet Crossing Borders” from Resident Alien (2015), pp. 121-151.   Alice Notley, “Ron Padgett’s Visual Imagination” from Coming After (2005), pp. 27-41.  Robert Hayden, selections from “A Romantic Realist” and “The Poet and His Art: A Conversation” from Collected Prose (1984), pp.125-128, 202-203. Please also read Hayden’s “The Peacock Room” (1975) and “Monet’s ‘Water Lilies’” (1970); and view Monet’s painting Water Lilies (1906), available here: https://www.artic.edu/artworks/16568/water-lilies.  Assignment: Plan a visit to your local museum, or find a museum website that is of interest to you (for example, the University of Michigan Museum of Art offers free reservations to students, and the website can be found here: https://umma.umich.edu/). Select a piece of visual art at your chosen museum that you think speaks to the concept of “poetics.” It may remind you of a particular poem, inspire a poem of your own, or have qualities that you find “poetic” in a broader sense.  After you have selected your visual art piece, take a few minutes to write down 1) what you notice about the piece (colors, textures, shapes, familiar figures, strange or unexpected details, etc.) 2) why you think these details might matter. Drawing from your notes, write a brief essay on the connections you are making between your visual art piece and poetry/poetics. What details are key to your analysis? How do you articulate a visual piece’s poetics? What elements of the piece resist meaning or interpretation? ](/assets/screen-shot-2021-07-21-at-10.33.05-am.jpg "Module Two: Poetry and Visual Art ")
+          And this meaningful proliferation of voices and perspectives is being further amplified digitally. Through an innovative initiative—the scope and details of which you see here—past and future *Poets on Poetry* titles will include an interactive EPUB edition. These eBooks will feature supplemental content such as online articles, video recordings of book festival events, poetry films, and audio recordings of interviews, making the material on the page (or screen) come alive in new and exciting ways and creating an even more immersive—and accessible—reading experience.
 
 
-          We hope these modules will be a valuable resource for instructors looking to engage with contemporary critical conversations about poetry and poetics.
+          The editorial team is also readying an expanded digital publishing calendar that will include short-form, multimedia, and serialized content in addition to the print books and EPUBs that have been the signature of the series to this point.
+
+
+          It is a particularly exhilarating time for the *Poets on Poetry* Series, and I am hopeful that these additional avenues for exploring poetry and celebrating the poets who make it—and make it matter to us in all the ways that it does—succeed in welcoming even more voices to the conversation Donald Hall and the other exceptional editors who preceded me have helped to frame by publishing the books they did.
+
+
+          Derek Pollard
+
+
+          Series Editor
+      - type: spacer
+        spacer: Spacer
 related_stories:
   - ""
 ---
