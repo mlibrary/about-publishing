@@ -62,7 +62,7 @@ sections:
         text: "For an audio recording of Robert Hayden's 1978 Library of Congress
           lecture “How it Strikes a Contemporary: Reflections on Poetry and the
           Role of the Poet,\" click here. "
-        button_link: "https://www.loc.gov/item/  91740837/ "
+        button_link: https://www.loc.gov/item/91740837/
         button_text: "Access Recording "
         heading: Hayden, "How it Strikes a Contemporary" (1978)
         image: /assets/screen-shot-2021-07-29-at-4.40.36-pm.jpg
