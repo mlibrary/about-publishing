@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 type: feature
 title: Poets on Poetry
 subtitle: "New Digital Directions in the Series "
