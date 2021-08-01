@@ -19,6 +19,14 @@ Today, Michigan Publishing brings together three entities to serve the changing 
 
 [Deep Blue Repository and Research Data Services](https://deepblue.lib.umich.edu/) provides a platform for stable, citable, measurable presentation of research outputs and consultation services for scholars.
 
+**Three focus areas.**
+
+As part of the University of Michigan Library, we share its [Mission and Values](https://lib.umich.edu/about-us/about-library/mission-and-values). We co-create and share common [Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives). As a publisher, representing the University to the world, we are pursuing three particular [focus areas set out by the President of the University of Michigan](https://president.umich.edu/initiatives-and-focus-areas/):
+
+* faculty public engagement and expert connections;
+  diversity, equity, and inclusion through the selection and distribution of content; and
+  academic innovation by publishing work that leverages digital technology.
+
 **Interested in working on a project with our team?**
 
 We're here to support the publishing aspirations of faculty, researchers, students, and staff across the U-M campus and beyond. We invite you to work with us or reach out with your questions or information about your project.
