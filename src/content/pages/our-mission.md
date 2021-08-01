@@ -25,9 +25,9 @@ As part of the University of Michigan Library, we share its [Mission and Values]
 
 * faculty public engagement, expert connections, and trust in evidence;
 
-  diversity, equity, and inclusion in the selection and distribution of content; 
+* diversity, equity, and inclusion in the selection and distribution of content; 
 
-  academic innovation by publishing work that leverages digital technology.
+* academic innovation by publishing work that leverages digital technology.
 
 **Interested in working on a project with our team?**
 
