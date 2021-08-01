@@ -23,8 +23,8 @@ Today, Michigan Publishing brings together three entities to serve the changing 
 
 As part of the University of Michigan Library, we share its [Mission and Values](https://lib.umich.edu/about-us/about-library/mission-and-values). We co-create and share common [Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives). As a publisher, representing the University to the world, we are pursuing three particular [focus areas set out by the President of the University of Michigan](https://president.umich.edu/initiatives-and-focus-areas/):
 
-* faculty public engagement and expert connections;
-  diversity, equity, and inclusion through the selection and distribution of content; and
+* faculty public engagement, expert connections, and trust in evidence;
+  diversity, equity, and inclusion in the selection and distribution of content; and
   academic innovation by publishing work that leverages digital technology.
 
 **Interested in working on a project with our team?**
