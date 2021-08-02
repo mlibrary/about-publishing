@@ -166,6 +166,7 @@ sections:
               56d22fd735e2a.
       - type: spacer
         spacer: Spacer
+    id: accessing-past
   - heading: Teaching Poets on Poetry
     subheading: "Bringing the Poets to Life in the Classroom "
     content:
@@ -189,6 +190,7 @@ sections:
 
 
           We hope these modules will be a valuable resource for instructors looking to engage with contemporary critical conversations about poetry and poetics.
+    id: teaching-poets
   - heading: Imagining Digital Futures
     subheading: New Directions in the Series
     content:
@@ -266,6 +268,7 @@ sections:
         id: "1Ap98CXGGao "
       - type: spacer
         spacer: Spacer
+    id: imagining-futures
   - heading: "A Letter From the Editor "
     subheading: "Poets on Poetry editor Derek Pollard on the Series' Digital
       Transformation Project "
@@ -303,6 +306,7 @@ sections:
           Series Editor
       - type: spacer
         spacer: Spacer
+    id: letter-from-editor
 related_stories:
   - ""
 ---
