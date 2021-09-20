@@ -16,22 +16,50 @@ sections:
     subheading: Limited Podcast Mini-Series
     content:
       - type: cta
-        text: >-
-          Listen to our political science authors debate key topics central to
-          American democracy
-
-          Our limited podcast series brings several illuminating conversations to the University of Michigan campus. Each episode features a pair of authors bringing different perspectives to the table on issues of national, and international, concern: social policy, national security, racial justice, and leadership. Listen to the episodes below.
+        text: >
+          The second season of Michigan Publishing's limited podcast series
+          brings several illuminating conversations to the XXX. Each episode
+          features a 
         heading: Tune in Every Friday in October
         button_text: Learn More
         button_link: fulcrum.org
   - heading: Open Access at Michigan Publishing
     subheading: Learn more
+    content:
+      - type: cta
+        image: /assets/655px-open_access_logo_plos_white.svg.png
+        heading: Engage with UMP's Open Content
+        text: The University of Michigan Press has published over 250 open access titles
+          to date. These titles are available to freely read and download on the
+          Fulcrum platform at fulcrum.org/michigan. MARC records and KBART files
+          for open access books are also freely available to download to your
+          library catalog from press.umich.edu/librarians.
+        button_text: Read OA Books
+        button_link: https://www.fulcrum.org/michigan?locale=en&user_access=oa
   - heading: Fund to Mission
     subheading: UMP's Open Access Monograph Model
-    content: []
-related_stories:
-  - ""
----
-[Open Access Week](http://openaccessweek.org/), a global event organized by [SPARC](https://sparcopen.org/), is an opportunity for the academic and research community to continue to learn about the potential benefits of Open Access, to share what they’ve learned with colleagues, and to help inspire wider participation in helping to make Open Access a new norm in scholarship and research.
+    content:
+      - type: cta
+        heading: Learn about our transition to open
+        text: >-
+          Working with LYRASIS, the University of Michigan Press has been taking
+          steps to develop a publishing program that aligns with its mission and
+          commitment to equity, justice, inclusion, and accessibility. Based on
+          these principles, the Press is now transitioning to an open access
+          monograph model we call Fund to Mission.
 
-At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts below and share
+
+          Fund to Mission demonstrates a return to the origins of the university press movement and moves toward a more open, sustainable infrastructure for the humanities and social sciences.
+        button_text: Learn More
+        button_link: https://www.publishing.umich.edu/features/fund-to-mission
+        image: ""
+      - type: image
+        image: /assets/fund-to-mission-wordmark_umpr_navy.png
+        image_alt: Fund to Mission in a circle with an arrow next to the text University
+          of Michigan Press
+related_stories:
+  - Opening Access to Books Increases Reach and Engagement
+---
+[Open Access Week](http://openaccessweek.org/), a global event organized by [SPARC](https://sparcopen.org/), is an opportunity for the academic and research community to continue to learn about the potential benefits of open access and to help inspire wider participation in helping to make open access a new norm in scholarship and research.
+
+At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts below and share new open access initiatives.
