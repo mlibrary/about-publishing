@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 type: feature
 title: Open Access Week 2021
 subtitle: "It Matters How We Open Knowledge: Building Structural Equity"
