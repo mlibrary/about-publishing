@@ -8,7 +8,7 @@ hero:
   text: ""
   feature_hero_image: ""
 feature_image:
-  file: /assets/2021-oaw-01-986x310-eng.png
+  file: /assets/2021-oaw-01-1200x630-eng.png
   alt: "Red and purple graphic that reads Open Access Week 2021 It Matters How We
     Open Knowledge: Building Structural Equity October 25-31"
 sections:
