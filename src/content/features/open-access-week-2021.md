@@ -60,6 +60,6 @@ sections:
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
 ---
-[Open Access Week](http://openaccessweek.org/), a global event organized by [SPARC](https://sparcopen.org/), is an opportunity for the academic and research community to continue to learn about the potential benefits of open access and to help inspire wider participation in helping to make open access a new norm in scholarship and research.
+[Open Access Week](http://openaccessweek.org/), a global event organized by [SPARC](https://sparcopen.org/), is an opportunity for the academic and research community to continue to learn about the potential benefits of open access and to help inspire wider participation in helping to make open access a new norm in scholarship and research. The theme for the 2021 week is "It Matters How We Open Knowledge: Building Structural Equity."
 
-At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts below and share new open access initiatives.
+At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts and share new open access initiatives below.
