@@ -15,14 +15,6 @@ sections:
   - heading: "Open Access: In Conversation"
     subheading: Limited Podcast Mini-Series
     content:
-      - type: cta
-        text: >
-          The second season of Michigan Publishing's limited podcast series
-          brings several illuminating conversations to the XXX. Each episode
-          features a 
-        heading: Tune in Every Friday in October
-        button_text: Learn More
-        button_link: fulcrum.org
       - type: highlight
         text: >-
           The second season of Michigan Publishing's limited podcast series
