@@ -23,6 +23,18 @@ sections:
         heading: Tune in Every Friday in October
         button_text: Learn More
         button_link: fulcrum.org
+      - type: highlight
+        text: >-
+          The second season of Michigan Publishing's limited podcast series
+          explores  the theme of this year’s International Open Access Week, “It
+          Matters How We Open Knowledge: Building Structural Equity.” Through
+          this series, we will talk to a range of stakeholders*—*including
+          students, authors, libraries, researchers, and publisers*—*addressing
+          questions around open access and the implications of open access for
+          diversity, equity, inclusion, and accessibility.
+
+
+          Tune in every Friday in October to the latest episode. Subscribe wherever you get your podcasts so you’ll never miss a show.
   - heading: Open Access at Michigan Publishing
     subheading: Learn more
     content:
