@@ -3,7 +3,7 @@ published: true
 type: feature
 title: Open Access Week 2021
 subtitle: "It Matters How We Open Knowledge: Building Structural Equity"
-path: /open-access-week
+path: /open-access-week-2021
 hero:
   text: ""
   feature_hero_image: ""
@@ -20,13 +20,14 @@ sections:
           The second season of Michigan Publishing's limited podcast series
           explores  the theme of this year’s International Open Access Week, “It
           Matters How We Open Knowledge: Building Structural Equity.” Through
-          this series, we will talk to a range of stakeholders*—*including
-          students, authors, libraries, researchers, and publishers*—*addressing
+          this series, we will talk to a range of stakeholders—*including
+          students, authors, libraries, researchers, and publishers*—addressing
           questions around open access and the implications of open access for
           diversity, equity, inclusion, and accessibility.
 
 
-          **Tune in every Friday in October to hear the latest episode**. Subscribe wherever you get your podcasts so you’ll never miss a show.
+          **Tune in every Friday in October to hear the latest episode**. [Subscribe wherever you get your podcasts](https://pod.link/1531931385) so you’ll never miss a show.
+    id: podcast
   - heading: Open Access at Michigan Publishing
     subheading: Learn more
     content:
