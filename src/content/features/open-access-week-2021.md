@@ -17,16 +17,23 @@ sections:
     content:
       - type: highlight
         text: >-
-          The second season of Michigan Publishing's limited podcast series
-          explores  the theme of this year’s International Open Access Week, “It
-          Matters How We Open Knowledge: Building Structural Equity.” Through
-          this series, we will talk to a range of stakeholders—*including
-          students, authors, libraries, researchers, and publishers*—addressing
-          questions around open access and the implications of open access for
-          diversity, equity, inclusion, and accessibility.
+          The second season of Michigan Publishing's limited podcast series,
+          Open Access: In Conversation, explores the theme of this year’s
+          International Open Access Week, “It Matters How We Open Knowledge:
+          Building Structural Equity.” Through this series, we talk to a range
+          of stakeholders—*including students, authors, libraries, researchers,
+          and publishers*—addressing questions around open access and the
+          implications of open access for diversity, equity, inclusion, and
+          accessibility.
 
 
           **Tune in every Friday in October to hear the latest episode**. [Subscribe wherever you get your podcasts](https://pod.link/1531931385) so you’ll never miss a show.
+      - type: podcast
+        embed_code: '<iframe title="Open Access: In Conversation Mini Series Episode 1:
+          Students" allowtransparency="true" height="150" width="100%"
+          style="border: none; min-width: min(100%, 430px);" scrolling="no"
+          data-name="pb-iframe-player"
+          src="https://www.podbean.com/player-v2/?i=renni-10f2c9a-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&btn-skin=7"></iframe>'
     id: podcast
   - heading: Open Access at Michigan Publishing
     subheading: Learn more
