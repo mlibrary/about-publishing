@@ -87,10 +87,10 @@ sections:
           **Resources**
 
 
-          **[Informational Flyer](https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0)**
+          **[Informational Flyer](https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0)[](https://www.dropbox.com/s/enjdr3aq729tfa6/UMP%20Fund%20to%20Mission%20Investment%20FAQs.pdf?dl=0)**
 
 
-          **[Investment FAQs](https://drive.google.com/file/d/1gZM0b2WB_u1xwB2RBHlCFW9lH4a6tlHg/view?usp=sharing)**
+          **[Investment FAQs](https://www.dropbox.com/s/enjdr3aq729tfa6/UMP%20Fund%20to%20Mission%20Investment%20FAQs.pdf?dl=0)**
 
 
           **[Complete Title List](https://umich.app.box.com/s/3ylk40n7lo3oyl62j9wlvvhus69ocf0v)**
