@@ -42,7 +42,7 @@ sections:
           funder payments."
         heading: The Funding Model
         button_text: Learn More
-        button_link: https://drive.google.com/file/d/1dhPyQo74zGV9jukqlootY8JF8uj-7Q2p/view
+        button_link: https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0
       - type: highlight
         text: >-
           **Benefits for Supporting Libraries**
@@ -87,7 +87,7 @@ sections:
           **Resources**
 
 
-          **[Informational Flyer](https://umich.box.com/s/1ltq8ma0b3iantncirxo0gsx2huabtma)**
+          **[Informational Flyer](https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0)**
 
 
           **[Investment FAQs](https://drive.google.com/file/d/1gZM0b2WB_u1xwB2RBHlCFW9lH4a6tlHg/view?usp=sharing)**
