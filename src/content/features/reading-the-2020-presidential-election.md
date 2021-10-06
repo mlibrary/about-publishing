@@ -2,7 +2,7 @@
 published: true
 type: feature
 title: Dialogues in Democracy
-subtitle: Democracy and Debate | Decision 2020
+subtitle: Democracy and Debate | 2021-22
 path: /features/reading-the-2020-presidential-election
 hero:
   text: ""
@@ -453,8 +453,8 @@ related_stories:
   - Born-accessible Publishing is Good Book-making for Everyone
   - Cultivating the Perfect Guidebook through Teaching
 ---
-Produced in collaboration with the [University of Michigan Democracy and Debate theme semester](https://speakactvote.umich.edu/), Dialogues in Democracy is an interdisciplinary collection of 25 books that explore the core tensions in American political culture—tensions that erupt every four years during the presidential election. The Press’s 2020 presidential election reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America, perhaps, as well as big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
+Dialogues in Democracy is an interdisciplinary collection of 25 books that explore the core tensions in American political culture. These tensions erupt every four years during the presidential election, but they also shape our daily experiences of democracy outside the voting booth. This dynamic reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America. They will also find big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-This collection served as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts in the fall of 2020, and the books included in the reading list were free to read from September through December 31, 2020 as part of the University of Michigan Press Ebook Collection on the Fulcrum platform. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
+Michigan Publishing originally created this collection to serve as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts in the fall of 2020. Since then, the collection continues to evolve in conjunction with the university's ongoing Democracy and debate initiative in 2021-22, and as part of the Big Ten Collaboration, Democracy in the 21st Century. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
 
 <div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump11823democracydebatebooklet_websingle.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
