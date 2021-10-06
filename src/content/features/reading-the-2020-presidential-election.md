@@ -17,12 +17,21 @@ sections:
     content:
       - type: highlight
         text: >-
-          
-
-          ![](/assets/_images_covers_full_9780472132232.jpeg)
+          ![]()
 
 
           It is only in the last 250 years that ordinary people (in some parts of the world) have become citizens rather than subjects. This change happened in a very short period, between 1780 and 1820, a result of the foundations of democracy laid in the age of revolutions. A century later local governments embraced this shift due to rapid industrialization, urbanization, and population growth. During the twentieth century, all democratic governments began to perform a range of tasks, functions, and services that had no historical precedent. In the thirty years following the Second World War, Western democracies created welfare states that, for the first time in history, significantly reduced the gap between the wealthy and everyone else. Many of the reforms of that postwar period have been since rolled back because of the belief that government should be more like a business. Jos C.N. Raadschelders provides the information that all citizens should have about their connections to government, why there is a government, what it does, how it does it, and why we can no longer do without it. *The Three Ages of Government* rises above stereotypical thinking to show the centrality of government in human life.
+      - type: cta
+        image: /assets/_images_covers_full_9780472132232.jpeg
+        heading: Available via Open Access
+        button_text: Read Now
+        text: "This book is freely available in an open access edition thanks to TOME
+          (Toward an Open Monograph Ecosystem)—a collaboration of the
+          Association of American Universities, the Association of University
+          Presses, and the Association of Research Libraries—and the generous
+          support of The Ohio State University Libraries. Learn more at the TOME
+          website, available at: openmonographs.org."
+        button_link: https://doi.org/10.3998/mpub.11666501
       - type: youtube
         id: wNm4GrmOcUQ
   - heading: "Dialogues in Democracy: In Conversation"
