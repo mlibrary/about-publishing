@@ -87,10 +87,13 @@ sections:
           **Resources**
 
 
-          **[Informational Flyer](https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0)[](https://www.dropbox.com/s/enjdr3aq729tfa6/UMP%20Fund%20to%20Mission%20Investment%20FAQs.pdf?dl=0)**
+          **[Informational Flyer](https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0)**
 
 
-          **[Investment FAQs](https://www.dropbox.com/s/enjdr3aq729tfa6/UMP%20Fund%20to%20Mission%20Investment%20FAQs.pdf?dl=0)[](https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0)**
+          **[Open Access Community Investment Program (OACIP) Declaration](https://www.dropbox.com/s/427wchea5t85jgo/Open%20Access%20Community%20Investment%20Program%20%28OACIP%29%20Declaration.pdf?dl=0)** 
+
+
+          **[Investment FAQs](https://www.dropbox.com/s/enjdr3aq729tfa6/UMP%20Fund%20to%20Mission%20Investment%20FAQs.pdf?dl=0)**[](https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0)
 
 
           **[Complete Title List](https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0)**
