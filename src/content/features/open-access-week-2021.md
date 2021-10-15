@@ -30,18 +30,21 @@ sections:
           **Tune in every Friday in October to hear the latest episode**. [Subscribe wherever you get your podcasts](https://pod.link/1531931385) so you’ll never miss a show.
       - type: cta
         id: live
-        heading: Join Us for a Live Episode on Twitter Spaces on October 28th
-        text: "Join us during #openaccessweek on Thursday, October 28th at 1 pm Eastern
-          for a LIVE special episode of our podcast mini-series, Open Access: In
-          Conversation. This episode focuses on UMP's open access monograph
-          model, Fund to Mission. Tune in on Twitter to hear Kristen Twardowski
-          (Director of Sales, Marketing, and Outreach, Michigan Publishing),
-          Elizabeth Demers (Editorial Director, University of Michigan Press),
-          and Sharla Lair (Senior Strategist, Open Access & Scholarly
-          Communication Initiatives, Lyrasis) share exciting updates on the
-          model. Click the button to set a reminder on Twitter or join day-of by
-          selecting our profile photo with a purple, pulsing outline at the top
-          of your Twitter feed."
+        heading: Live Episode on Twitter Spaces on October 28th
+        text: >-
+          Join us during Open Access Week on Thursday, October 28th at 1 pm
+          Eastern for a LIVE special episode of our podcast mini-series, Open
+          Access: In Conversation. This episode focuses on UMP's open access
+          monograph model, Fund to Mission. Tune in on Twitter to hear exciting
+          updates on the model from: 
+
+          - Kristen Twardowski (Director of Sales, Marketing, and Outreach, Michigan Publishing);
+
+          - Elizabeth Demers (Editorial Director, University of Michigan Press);
+
+          - and Sharla Lair (Senior Strategist, Open Access & Scholarly Communication Initiatives, Lyrasis)
+
+          Click the button to set a reminder on Twitter or join day-of by selecting our profile photo with a purple, pulsing outline at the top of your Twitter feed.
         button_text: Set Reminder to Join
         button_link: https://twitter.com/i/spaces/1PlJQaRLMPyJE
       - type: podcast
