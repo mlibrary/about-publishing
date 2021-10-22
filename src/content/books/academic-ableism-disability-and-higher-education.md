@@ -3,7 +3,7 @@ title: "Academic Ableism: Disability and Higher Education"
 link: https://doi.org/10.3998/mpub.9708722
 author: Jay Timothy Dolmage
 image:
-  file: /assets/default.png
+  file: /assets/9780472053711.jpg
   alt: Title in bold white and red fonts on a black background
 description: Academic Ableism brings together disability studies and
   institutional critique to recognize the ways that disability is composed in
