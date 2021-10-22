@@ -18,8 +18,8 @@ date: 2021-10-22T13:55:36.887Z
 highlight_box:
   text: ""
 books:
-  - "Theater as Data: Computational Journeys into Theater Research"
   - "a tumblr book: platform and cultures"
+  - "Theater as Data: Computational Journeys into Theater Research"
 profiles:
   - ""
 related_stories:
@@ -58,15 +58,11 @@ During the COVID-19 pandemic, when many libraries were closed physically, Wang�
 
 Wang's book makes waves in the field of Chinese literature studies: current scholarship of early modern Chinese literature does not address connections between Chinese literature and this important transnational history. With making this title open access, she hopes “Readers from around the world can enjoy Chinese literature - interacting with exciting stories about pirate kings, treasure islands, and more importantly, learn more about foreign countries and their concerns for outlaws, the underprivileged, and the Chinese diaspora.” By taking such an impactful approach to her scholarship, her open access monograph is accessible internationally, beyond Western scholars. Although the book was published as open access, rights opportunities did not erode: interest in translations and rights flourished, despite the monograph being freely accessible.
 
-
-
 <blockquote class="quote full blue"><p>Many scholarly books are not for profit. So when approached with the idea of making my monograph open access, I was happy to make the book free for the public. I’m honored to see many people finding my book useful, interesting, and enlightening.</p><footer><cite>- Yuanfei Wang<br>Author of "Writing Pirates"</cite></footer></blockquote>
 
 To learn more about *Writing Pirates*, [click here](https://www.fulcrum.org/concern/monographs/8336h409h?locale=en).
 
 *This publication was made possible in part by an award from the James P. Geiss and Margaret Y. Hsu Foundation.*
-
-
 
 ## Exploring Digital Culture with a tumblr book
 
@@ -79,8 +75,6 @@ And when the book hit the Twittersphere, the editors said it made its way around
 To learn more about *a tumblr book*, [click here](https://www.fulcrum.org/concern/monographs/x346d608w?locale=en).
 
 *This Open Access edition is made available through financial support from Depaul University, Middlebury College, and the University of California President's Postdoctoral Fellow's Research Fund.*
-
-
 
 ## Into A Digital Future
 
