@@ -66,6 +66,13 @@ sections:
           style="border: none; min-width: min(100%, 430px);" scrolling="no"
           data-name="pb-iframe-player"
           src="https://www.podbean.com/player-v2/?i=f44q2-1103562-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>'
+      - type: podcast
+        embed_code: '<iframe title="Michigan Publishing Podcast"
+          allowtransparency="true" height="315" width="100%" style="border:
+          none; min-width: min(100%, 430px);" scrolling="no"
+          data-name="pb-iframe-player"
+          src="https://www.podbean.com/player-v2/?i=57f5j-92e97c-pbblog-playlist&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=&order=episodic&limit=10&filter=all&ss=a713390a017602015775e868a2cf26b0&btn-skin=8bbb4e&size=315"
+          allowfullscreen=""></iframe>'
     id: podcast
   - heading: Open Access at Michigan Publishing
     subheading: Learn more
