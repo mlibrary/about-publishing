@@ -24,7 +24,9 @@ highlight_box:
     has designed? Most [Lever Press titles](https://www.fulcrum.org/leverpress)
     include free downloadable audiobook files from the Google TTS program. Click
     on "download" on the book page to get the widely compatible MP3 edition.
-books: []
+books:
+  - "Academic Ableism: Disability and Higher Education"
+  - "Coronavirus Politics: The Comparative Politics and Policy of COVID-19"
 profiles:
   - ""
 related_stories:
