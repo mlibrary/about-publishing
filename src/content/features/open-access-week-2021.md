@@ -110,6 +110,7 @@ sections:
           of Michigan Press
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
+  - "Breaking Down the Paywall: Author Relationships with Open Access"
 ---
 [Open Access Week](http://openaccessweek.org/), a global event organized by [SPARC](https://sparcopen.org/), is an opportunity for the academic and research community to continue to learn about the potential benefits of open access and to help inspire wider participation in helping to make open access a new norm in scholarship and research. The theme for the 2021 week is "It Matters How We Open Knowledge: Building Structural Equity."
 
