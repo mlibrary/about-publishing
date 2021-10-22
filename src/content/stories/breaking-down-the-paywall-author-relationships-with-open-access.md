@@ -18,7 +18,8 @@ date: 2021-10-22T13:55:36.887Z
 highlight_box:
   text: ""
 books:
-  - ""
+  - "Theater as Data: Computational Journeys into Theater Research"
+  - "a tumblr book: platform and cultures"
 profiles:
   - ""
 related_stories:
