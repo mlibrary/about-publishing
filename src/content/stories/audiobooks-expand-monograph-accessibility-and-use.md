@@ -4,7 +4,7 @@ categories:
   - Academic Innovation
   - Faculty Public Engagement
   - Diversity, Equity & Inclusion
-title: Audiobooks Expand Monograph Accessibility and Use
+title: Audiobooks Expand Specialist Monograph Accessibility and Use
 path: /stories-of-impact/audiobooks
 hero:
   text: The lack of a scalable option for creating audio versions of specialist
