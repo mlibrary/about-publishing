@@ -23,7 +23,7 @@ highlight_box:
   text: Interested in hearing the examples of some of the different voices Google
     has designed? Most [Lever Press titles](https://www.fulcrum.org/leverpress)
     include free downloadable audiobook files from the Google TTS program. Click
-    on "download" on the book page to get the widely compatible MP3 edition.
+    on "download" on each book page to get the widely compatible MP3 edition.
 books:
   - "Academic Ableism: Disability and Higher Education"
   - "Coronavirus Politics: The Comparative Politics and Policy of COVID-19"
