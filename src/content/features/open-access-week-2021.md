@@ -72,6 +72,12 @@ sections:
           style="border: none; min-width: min(100%, 430px);" scrolling="no"
           data-name="pb-iframe-player"
           src="https://www.podbean.com/player-v2/?i=gu8iz-110e2f2-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=8bbb4e"></iframe>'
+      - type: podcast
+        embed_code: '<iframe title="Open Access: In Conversation Mini Series Episode 5:
+          Publishers" allowtransparency="true" height="150" width="100%"
+          style="border: none; min-width: min(100%, 430px);" scrolling="no"
+          data-name="pb-iframe-player"
+          src="https://www.podbean.com/player-v2/?i=g3r7f-111810b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=&btn-skin=8bbb4e"></iframe>'
     id: podcast
   - heading: Open Access at Michigan Publishing
     subheading: Learn more
