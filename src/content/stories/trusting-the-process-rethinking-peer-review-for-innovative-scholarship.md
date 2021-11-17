@@ -30,7 +30,7 @@ related_stories:
   - Opening Access to Books Increases Reach and Engagement
 type: story
 ---
-In August 2020, the University of Michigan Press published *i used to love to dream* by A.D. Carson, the first ever peer-reviewed hip-hop mixtap/e/ssay published by a university press. The open access mixtap/e/ssay performs hip-hop scholarship using sampled and live instrumentation, repurposed music, film, and news clips, and original rap lyrics. In January 2021 the publication was[ recognized as Best eProduct of the year by the Association of American Publishers PROSE Award](https://publishers.org/news/association-of-american-publishers-announces-subject-category-winners-of-2021-prose-awards/)s.
+In August 2020, the University of Michigan Press published *i used to love to dream* by A.D. Carson, the first ever peer-reviewed hip-hop mixtap/e/ssay published by a university press. The open access mixtap/e/ssay performs hip-hop scholarship using sampled and live instrumentation, repurposed music, film, and news clips, and original rap lyrics. In January 2021 the publication was [recognized as Best eProduct of the year by the Association of American Publishers PROSE Awards](https://publishers.org/news/association-of-american-publishers-announces-subject-category-winners-of-2021-prose-awards/).
 
 As a genre, the mixtap/e/ssay brings together the mixtape—a self-produced or independently released album issued free of charge to gain publicity—and the personal and scholarly essays. The tracks are presented along with liner notes and a short documentary about the making of the mixtap/e/ssay, and accompanying articles to provide context for the tracks on Fulcrum, Michigan Publishing’s community-based, open source publishing platform.
 
