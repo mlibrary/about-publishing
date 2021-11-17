@@ -16,18 +16,16 @@ sections:
     subheading: Limited Podcast Mini-Series
     content:
       - type: highlight
-        text: >-
-          The second season of Michigan Publishing's limited podcast series,
-          Open Access: In Conversation, explores the theme of this year’s
+        text: "The second season of Michigan Publishing's limited podcast series, Open
+          Access: In Conversation, explores the theme of this year’s
           International Open Access Week, “It Matters How We Open Knowledge:
           Building Structural Equity.” Through this series, we talk to a range
           of stakeholders—*including students, authors, libraries, researchers,
           and publishers*—addressing questions around open access and the
           implications of open access for diversity, equity, inclusion, and
-          accessibility.
-
-
-          **Tune in every Friday in October to hear the latest episode**. [Subscribe wherever you get your podcasts](https://pod.link/1531931385) so you’ll never miss a show.
+          accessibility. [Subscribe wherever you get your
+          podcasts](https://pod.link/1531931385) so you’ll never miss an
+          episode."
       - type: cta
         id: live
         heading: Live Episode on Twitter Spaces on October 28th
