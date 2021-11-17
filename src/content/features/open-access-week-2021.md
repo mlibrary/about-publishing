@@ -113,6 +113,11 @@ sections:
         image: /assets/fund-to-mission-wordmark_umpr_navy.png
         image_alt: Fund to Mission in a circle with an arrow next to the text University
           of Michigan Press
+      - type: youtube
+        id: https://www.youtube.com/watch?v=zPEApMIQ38c
+      - type: highlight
+        text: Watch this webinar that explores Fund to Mission in the context of two
+          other models for funding Open Access Book Publishing.
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - "Breaking Down the Paywall: Author Relationships with Open Access"
