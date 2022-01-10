@@ -111,19 +111,19 @@ sections:
           **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
       - type: spacer
         spacer: Spacer
-  - heading: Open Access at UMP
+  - heading: Open Access Books
     content:
       - type: cta
         heading: Engage with UMP's Open Content
         text: "At the University of Michigan Press, open access is one of many ways that
           we strive to deliver the best scholarship to the broadest possible
-          audience. The Press has published over 250 open access titles to date.
-          These titles are available to freely read and download on the Fulcrum
-          platform at fulcrum.org/michigan. MARC records for open access books
-          are freely available to download to your library catalog, and we
-          encourage you to do so below. "
-        button_text: Download MARC Records
-        button_link: https://umich.app.box.com/s/oxuimlw7m656w9ngpjfwim10zdqxy5at
+          audience. The Press has published close to 300 open access titles to
+          date. These titles are available to freely read and download on the
+          Fulcrum platform. MARC records for open access books are freely
+          available to download to your library catalog, and we encourage you to
+          do so here: https://ftp.fulcrum.org/UMPEBC/MARC/. "
+        button_text: Explore OA Titles
+        button_link: https://www.fulcrum.org/michigan?locale=en&user_access=oa
         image: /assets/655px-open_access_logo_plos_white.svg.png
     subheading: Explore OA monographs and download MARC records
 related_stories:
