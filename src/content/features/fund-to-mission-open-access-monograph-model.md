@@ -25,7 +25,7 @@ sections:
           library community, recurring funds from the U-M Provost, and other
           funder payments. For more information on the model, mission, our
           progress, as well as downloadable resources, click "Learn More." '
-        heading: The Funding Model
+        heading: The Model
         button_text: Learn More
         button_link: https://ebc.press.umich.edu/
       - type: spacer
