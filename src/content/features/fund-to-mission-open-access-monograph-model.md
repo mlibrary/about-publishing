@@ -14,6 +14,22 @@ feature_image:
     corner. Main title reads \"Fund to Mission: University of Michigan Press'
     Open Access Model\" in white serif font. "
 sections:
+  - heading: Fund to Mission
+    subheading: A Brief Overview
+    content:
+      - type: cta
+        text: 'The Press aims to convert at least 75% of its monographs to open access
+          by the end of 2023, without any author ever having to pay. The Press
+          is working to build a sustainable model by achieving stable funding
+          for this monograph program from three sources: annual funding from the
+          library community, recurring funds from the U-M Provost, and other
+          funder payments. For more information on the model, mission, our
+          progress, as well as downloadable resources, click "Learn More." '
+        heading: The Funding Model
+        button_text: Learn More
+        button_link: https://ebc.press.umich.edu/
+      - type: spacer
+        spacer: Spacer
   - heading: Informational Webinar
     subheading: Recording from May 18, 2021
     content:
@@ -30,87 +46,6 @@ sections:
           mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"
           frameborder="0"></iframe>
         id: Why Fund to Mission?
-  - heading: Fund to Mission
-    subheading: The Model and the Mission
-    content:
-      - type: cta
-        text: "The Press aims to convert at least 75% of its monographs to open access
-          by the end of 2023, without any author ever having to pay. The Press
-          is working to build a sustainable model by achieving stable funding
-          for this monograph program from three sources: annual funding from the
-          library community, recurring funds from the U-M Provost, and other
-          funder payments."
-        heading: The Funding Model
-        button_text: Learn More
-        button_link: https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0
-      - type: highlight
-        text: >-
-          **Benefits for Supporting Libraries**
-
-           By committing to purchase one of the UMP EBC packages, libraries:
-
-          * Support the conversion to open access of at least half (~45) of University of Michigan Press scholarly monographs in 2022 (We will expand this percentage if we realize our full goal, and will build on it in succeeding years);
-
-          * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,500 titles), which will otherwise remain closed to non-purchasers;
-
-          * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform.
-
-            Explore the three funding packages below. Any purchase a library makes today supports our transition to open access. Libraries who commit to purchase before **December 17, 2021** [will receive an extra 5% discount](https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429).
-      - type: image
-        image: /assets/screen-shot-2021-05-18-at-6.37.41-am.png
-        image_alt: Table that shows pricing for Transitional Collection
-      - type: image
-        image: /assets/screen-shot-2021-05-18-at-6.37.51-am.png
-        image_alt: Table that shows pricing for 2021 Frontlist Collection
-      - type: image
-        image: /assets/screen-shot-2021-05-18-at-6.37.57-am.png
-        image_alt: Table that shows pricing for Backlist Bundle Collection
-      - type: highlight
-        text: >-
-          **The Mission**
-
-
-          With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
-
-
-          * Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
-
-          * Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
-
-          * Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
-
-          * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
-
-          * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
-      - type: highlight
-        text: >-
-          **Resources**
-
-
-          **[Informational Flyer](https://www.dropbox.com/s/di4n54cpq7xec27/UMP%20Fund%20to%20Mission%20Overview%20Flyer.pdf?dl=0)**
-
-
-          **[Open Access Community Investment Program (OACIP) Declaration](https://www.dropbox.com/s/427wchea5t85jgo/Open%20Access%20Community%20Investment%20Program%20%28OACIP%29%20Declaration.pdf?dl=0)** 
-
-
-          **[Investment FAQs](https://www.dropbox.com/s/enjdr3aq729tfa6/UMP%20Fund%20to%20Mission%20Investment%20FAQs.pdf?dl=0)**[](https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0)
-
-
-          **[Complete Title List](https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0)**
-
-
-          **[Course Adoptable Title List](https://docs.google.com/spreadsheets/d/1j__p9tJ8BMWxxm5_kR5XKaHHufEU4gTI1wEO8xAT5pU/edit#gid=1866999211)**
-
-
-          **[Information on Pricing and Licensing](https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429)**
-
-
-          **[UMP Open Access Books on Fulcrum](https://www.fulcrum.org/michigan?locale=en&user_access=oa)**
-
-
-          **[Newsletter Sign-Up ](https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45)**
-      - type: spacer
-        spacer: Spacer
   - heading: Open Access Books
     content:
       - type: cta
@@ -129,7 +64,6 @@ sections:
 related_stories:
   - ""
 ---
-Working with LYRASIS, the University of Michigan Press has been taking steps to develop a publishing program that aligns with its mission and commitment to equity, justice, inclusion, and accessibility. Based on these principles, the Press is now transitioning to an open access monograph model we call “Fund to Mission.” 
+Working with LYRASIS, the University of Michigan Press has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. Since spring 2021, the Press has been transitioning to an open access monograph model termed Fund to Mission.
 
-Fund to Mission demonstrates a return to the origins of the [university press movement](https://aupresses.org/the-value-of-university-presses/) and moves toward a
-more open, sustainable infrastructure for the humanities and social sciences.
+Fund to Mission demonstrates a return to [the origins of the university press movement](https://charleston-hub.us17.list-manage.com/track/click?u=9c7b74f7c0dd90bee932a6473&id=fbe996f833&e=0570623b50) and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert at least 75% of U-M Press monographs to open access by the end of 2023, **without any author ever having to pay**.
