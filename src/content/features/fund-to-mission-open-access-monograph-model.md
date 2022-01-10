@@ -19,12 +19,13 @@ sections:
     content:
       - type: cta
         text: 'The Press aims to convert at least 75% of its monographs to open access
-          by the end of 2023, without any author ever having to pay. The Press
-          is working to build a sustainable model by achieving stable funding
-          for this monograph program from three sources: annual funding from the
+          by the end of 2023, without any author ever having to pay. UMP is
+          working to build a sustainable model by achieving stable funding for
+          this monograph program from three sources: annual funding from the
           library community, recurring funds from the U-M Provost, and other
           funder payments. For more information on the model, mission, our
-          progress, as well as downloadable resources, click "Learn More." '
+          progress, as well as downloadable resources, visit our UMP Ebook
+          Collection website by clicking "Learn More." '
         heading: The Model
         button_text: Learn More
         button_link: https://ebc.press.umich.edu/
