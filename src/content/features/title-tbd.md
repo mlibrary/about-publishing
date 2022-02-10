@@ -43,7 +43,7 @@ sections:
           Kenneth G. Lieberthal and Richard H. Rogel Center for Chinese Studies,
           the Center for South Asian Studies, and the Center for Southeast Asian
           Studies. Read more about the Centers below. "
-        button_link: https://umich.box.com/s/v39rkhxbo5qr6l700yn0eusk5qbhzfwh
+        button_link: https://www.dropbox.com/s/9jbasglbkom0jij/NEHOpenBookBrochure.pdf?dl=0
       - type: profile
         profile: Lisa Trivedi
       - type: quote_slider
