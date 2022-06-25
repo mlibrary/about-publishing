@@ -7,11 +7,12 @@ hero_section:
     of formats for wide distribution and permanent preservation. We support the
     broadest possible access to scholarship by promoting:
 
-    * faculty public engagement and expert connections;
 
-    * diversity, equity, and inclusion through the selection and distribution of content; and
+    * openness, innovation, and public engagement with the expertise of our authors and creators;
 
-    * academic innovation by publishing work that leverages digital technology.
+    * diversity, equity, inclusion, and a commitment to dignity in how we treat each other; and
+
+    * continuous improvement in the structure and transparency of the processes we employ.
   video: /assets/infographic_no_link.mp4
   video_description: 2,000 original contributions published every year. 10M
     readers download U-M faculty scholarly outputs, advancing public engagement.
