@@ -8,7 +8,7 @@ hero_section:
     broadest possible access to scholarship by promoting:
 
 
-    * openness, innovation, and public engagement with the expertise of our authors and creators;
+    * openness, innovation, and public engagement with the expertise of authors and creators;
 
     * diversity, equity, inclusion, and a commitment to dignity in how we treat each other; and
 
