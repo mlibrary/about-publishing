@@ -1,7 +1,7 @@
 backend:
 
   name: gitlab
-  auth_type: implicit
+  auth_type: pkce
   api_root: https://gitlab.umich.edu/api/v4
   base_url: https://gitlab.umich.edu
   auth_endpoint: oauth/authorize
@@ -14,7 +14,7 @@ backend:
   # Production settings. @todo switch back to this when deploying to prod
   branch: master
   repo: michigan-publishing/publishing
-  app_id: 7df7120c922948a173c3ed23131e082a0b0b1307a8f01c6a12e60d1e49d86ec3
+  app_id: 8087fa5fed1b241cd6c75a3e6ea26e40a913fecc87f94928fceb2571c8b9427b
 
   # Local development settings
   # name: git-gateway
