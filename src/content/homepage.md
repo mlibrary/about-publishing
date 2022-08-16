@@ -8,9 +8,9 @@ hero_section:
     broadest possible access to scholarship by promoting:
 
 
-    * openness, innovation, and public engagement with the expertise of authors and creators;
+    * engagement with the expertise of authors and creators through our investments in quality, openness, and innovation;
 
-    * diversity, equity, inclusion, and a commitment to dignity in how we treat each other; and
+    * equity, justice, and inclusion. We contribute to a positive work environment in which our digity and the dignity of others are valued; and
 
     * continuous improvement in the structure and transparency of the processes we employ.
   video: /assets/infographic_no_link.mp4
