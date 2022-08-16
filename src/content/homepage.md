@@ -10,7 +10,7 @@ hero_section:
 
     * engagement with the expertise of authors and creators through our investments in quality, openness, and innovation;
 
-    * equity, justice, and inclusion. We contribute to a positive work environment in which our digity and the dignity of others are valued; and
+    * equity, justice, and inclusion. We contribute to a positive work environment in which our dignity and the dignity of others are valued; and
 
     * continuous improvement in the structure and transparency of the processes we employ.
   video: /assets/infographic_no_link.mp4
