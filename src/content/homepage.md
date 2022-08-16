@@ -12,7 +12,7 @@ hero_section:
 
     * equity, justice, and inclusion. We contribute to a positive work environment in which our dignity and the dignity of others are valued; and
 
-    * continuous improvement in the structure and transparency of the processes we employ.
+    * improvement in the structure and clarity of the processes we employ.
   video: /assets/infographic_no_link.mp4
   video_description: 2,000 original contributions published every year. 10M
     readers download U-M faculty scholarly outputs, advancing public engagement.
