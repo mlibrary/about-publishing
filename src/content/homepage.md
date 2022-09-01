@@ -4,7 +4,7 @@ hero_section:
   heading: Advancing scholarship at U-M and beyond
   text: >-
     Michigan Publishing publishes scholarly and educational materials in a range
-    of formats for wide distribution and permanent preservation.  We support the
+    of formats for wide distribution and permanent preservation. We support the
     broadest possible access to scholarship by promoting:
 
 
