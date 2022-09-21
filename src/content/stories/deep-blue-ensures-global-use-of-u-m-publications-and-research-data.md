@@ -24,7 +24,7 @@ related_stories:
   - ""
 type: story
 ---
-Since Deep Blue Repository and Research Data Services launched under the University of Michigan Library in 2006, it has grown to be a nucleus for the preservation and promotion of the work of University of Michigan scholars.
+Since Deep Blue Repository and Research Data Services launched under the University of Michigan Library in 2006, it has grown to be a nucleus for the preservation and promotion of the work of University of Michigan scholars. [The Deep Blue impact report provides an update on this important platform.](https://drive.google.com/file/d/1tglzTXSxDCvMtUNJGD3GLrfxJRB4NlfA/view?usp=sharing)
 
 Deep Blue Documents began as a simple dissertation deposit venue and has grown to house over 140,000 pieces of scholarship, including articles, chapters, conference presentations, and other works created by U-M community members. Most of the authors who choose to deposit their research with Deep Blue decide to make that content freely viewable and searchable to anyone regardless of institutional affiliation.
 
