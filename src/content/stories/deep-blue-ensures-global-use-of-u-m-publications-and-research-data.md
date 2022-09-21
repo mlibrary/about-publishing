@@ -7,7 +7,7 @@ path: /stories-of-impact/deep-blue
 hero:
   text: The latest Deep Blue impact report provides an overview of the impact of
     the repository and research data services.
-  story_hero_image: ""
+  story_hero_image: /assets/blue.walking.bridge.jpg
 story_image:
   caption: ""
   credit: ""
