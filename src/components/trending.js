@@ -75,28 +75,30 @@ class Trending extends Component {
     const response = await axios.get(
       `https://www.googleapis.com/books/v1/volumes?q=${isbn}`
     )
-    
-    // Grab title from response.
-    const responseTitle = response.data.items[0].volumeInfo.title
-    
-    // Set default thumbnail value.
-    let thumbnail = `/assets/article.png`
-    
-    // Check to see if response title matches expected title.
-    if (responseTitle === title) {
-      thumbnail = response.data.items[0].volumeInfo.imageLinks.thumbnail
-      
-      // Replace the zoom so we can get a larger image.
-      thumbnail = thumbnail.replace(`zoom=1`, `zoom=2`)
 
-      // Ensure we are using the https URL.
-      thumbnail = thumbnail.replace(`http`, `https`)
+    // // Grab title from response.
+    if (response.data.totalItems) {
+      const responseTitle = response.data.items[0].volumeInfo.title
 
-      // Remove book curl.
-      thumbnail = thumbnail.replace(`&edge=curl`, ``)
+      // Set default thumbnail value.
+      let thumbnail = `/assets/article.png`
+
+      // Check to see if response title matches expected title.
+      if (responseTitle === title) {
+        thumbnail = response.data.items[0].volumeInfo.imageLinks.thumbnail
+
+        // Replace the zoom so we can get a larger image.
+        thumbnail = thumbnail.replace(`zoom=1`, `zoom=2`)
+
+        // Ensure we are using the https URL.
+        thumbnail = thumbnail.replace(`http`, `https`)
+
+        // Remove book curl.
+        thumbnail = thumbnail.replace(`&edge=curl`, ``)
+      }
+
+      return thumbnail
     }
-
-    return thumbnail
   }
 
   replaceImage = id => {
