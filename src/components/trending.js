@@ -42,7 +42,7 @@ class Trending extends Component {
       // Add book cover
       if (book.attributes["output-type"] === `book`) {
         bookData.image = await this.getBookCover(
-          book.attributes.identifiers.isbns[0],
+          book.attributes.identifiers.isbns[1],
           book.attributes.title,
         )
       }
@@ -73,7 +73,7 @@ class Trending extends Component {
   // Calls google book API to get cover images.
   getBookCover = async (isbn, title) => {
     const response = await axios.get(
-      `https://www.googleapis.com/books/v1/volumes?q=${isbn}`
+      `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`
     )
 
     // // Grab title from response.
