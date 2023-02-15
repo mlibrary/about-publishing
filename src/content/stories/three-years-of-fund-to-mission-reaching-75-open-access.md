@@ -59,4 +59,8 @@ We are inspired by the collective passion for open access scholarship and can't 
 **\
 To learn more about the Fund to Mission program and how you can support our diamond open access model for books, visit [ebc.press.umich.edu](https://ebc.press.umich.edu/).**
 
+
+
+
+
 <!--EndFragment-->
