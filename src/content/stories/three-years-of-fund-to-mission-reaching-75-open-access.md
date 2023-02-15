@@ -32,7 +32,7 @@ type: story
 
 As a nonprofit academic publisher, we at the University of Michigan Press are not only committed to the books we publish, but also to the larger scholarly community. We collaborate with our authors, other university presses, our home institution, libraries, and, of course, our readers around the globe. These relationships inspire our mission of sustainably distributing scholarship to the broadest possible audience and of continuing our work towards diversity, equity, inclusion, and accessibility.
 
-![Supporter chart with 3 overlapping circles for the Provost's Office, Author side funding, and the library community.](/assets/fund-to-mission-chart.png)
+![Infograph showing 100+ institutional library supporters, over 2 million ebook views, and 75% open access frontlist monographs for 2023](/assets/fund-to-mission-stats.png)
 
 The 2023 Michigan Ebook Collection marks the third year of our renewed engagement with open access (OA) through our ebook monograph program, Fund to Mission. Inspired by the increased need for digital research during the pandemic, we launched Fund to Mission in 2021 with the goal of making as many of our books available to those who need them most. During that first year, we converted 25% of our frontlist to open access, and in 2022, we were able to expand that to 50% of our new monographs. Over that time we have received resounding support from over 100 libraries, numerous individual and grant funders, and our provost. Their support has enabled us to now make 75%, over 60 titles, of our new monographs open without ever requiring inequitable author-side payments.
 
@@ -44,23 +44,23 @@ We would never have been able to make this content open without the support from
 
 Libraries have invested in the program both as individual institutions as well as through consortia. Kate McCready, Visiting Program Officer for Academy Owned Scholarly Publishing at the Big Ten Academic Alliance, highlighted the importance of these partnerships, stating,
 
-"The libraries of the BTAA were early investors in Fund to Mission, and we are pleased to see this first phase of the vision reach fruition. We greet this as another step forward on the pathway toward creating a sustainable and scalable open knowledge ecosystem.”
+<blockquote class="quote full yellow"><p>The libraries of the BTAA were early investors in Fund to Mission, and we are pleased to see this first phase of the vision reach fruition. We greet this as another step forward on the pathway toward creating a sustainable and scalable open knowledge ecosystem.</p><footer><cite>- Kate McCready<br>Visiting Program Officer for Academy Owned Scholarly Publishing at the Big Ten Academic Alliance</cite></footer></blockquote>
+
+
 
 The move towards open access has reverberations that extend far outside of universities and libraries. Providing access to high quality, peer-reviewed research is a matter of equity and of the public good. As Brett Bobley, Chief Information Officer and Director, Office of Digital Humanities at the National Endowment for the Humanities said,
 
-“NEH is pleased to have been able to support the open access editions of several University of Michigan Press monographs written by NEH fellows. We applaud the leadership of the University of Michigan and their innovative Fund to Mission initiative, which brings together presses, libraries, funders, and authors and offers the potential of greatly expanding the availability of freely available, high-quality humanities scholarship to readers around the world."
+<blockquote class="quote full blue"><p>NEH is pleased to have been able to support the open access editions of several University of Michigan Press monographs written by NEH fellows. We applaud the leadership of the University of Michigan and their innovative Fund to Mission initiative, which brings together presses, libraries, funders, and authors and offers the potential of greatly expanding the availability of freely available, high-quality humanities scholarship to readers around the world.</p><footer><cite>- Brett Bobley<br>Chief Information Officer and Director, Office of Digital Humanities at the National Endowment for the Humanities</cite></footer></blockquote>
+
+
 
 This engagement highlights how much libraries and scholars value open access, and as a result, in 2022, Provost Laurie McCauley renewed the University of Michigan’s commitment to provide another three years of financial support for the Fund to Mission program and invited the press to request ongoing funding in subsequent years. James Hilton, Vice Provost for Academic Innovation at University of Michigan described his enthusiasm for the initiative by explaining that,
 
-
-
-<blockquote class="quote full yellow"><p>"Ensuring a sustainable future for high-quality scholarly publishing cannot just be the responsibility of strained library budgets. In expanding its support for the University of Michigan Press's monograph program, the university has shown its commitment to university press publishing as a core infrastructure for the humanities. The central investment also advances open access without author payment, so that the Press can maximize the reach of the best humanities scholarship, irrespective of its authors' institutional affiliations (or non-affiliations).We all benefit from the shared infrastructure that university presses represent and should all be willing to contribute." </p><footer><cite>- James Hilton<br>Vice Provost for Academic Innovation at University of Michigan</cite></footer></blockquote>
+<blockquote class="quote full yellow"><p>Ensuring a sustainable future for high-quality scholarly publishing cannot just be the responsibility of strained library budgets. In expanding its support for the University of Michigan Press's monograph program, the university has shown its commitment to university press publishing as a core infrastructure for the humanities. The central investment also advances open access without author payment, so that the Press can maximize the reach of the best humanities scholarship, irrespective of its authors' institutional affiliations (or non-affiliations).We all benefit from the shared infrastructure that university presses represent and should all be willing to contribute.</p><footer><cite>- James Hilton<br>Vice Provost for Academic Innovation at University of Michigan</cite></footer></blockquote>
 
 We are inspired by the collective passion for open access scholarship and can't wait to continue to work together to build a more equitable future for academic monographs.. We’re proud of the success of Fund to Mission thus far and excited to see more readers gain access to high quality, highly innovative open access content.
 
 **\
 To learn more about the Fund to Mission program and how you can support our diamond open access model for books, visit [ebc.press.umich.edu](https://ebc.press.umich.edu/).**
-
-![Stats chart showing over 100 institutional library supporters, 2 million ebooks used, and 75% open access frontlist monographs for 2023.](/assets/fund-to-mission-stats.png)
 
 <!--EndFragment-->
