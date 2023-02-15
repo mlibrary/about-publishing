@@ -7,7 +7,7 @@ title: "Three Years of Fund to Mission: Reaching 75% Open Access"
 path: /stories-of-impact/three-years-fund-to-mission
 hero:
   text: ""
-  story_hero_image: ""
+  story_hero_image: /assets/fund-to-mission-user-map.png
 story_image:
   caption: ""
   credit: ""
