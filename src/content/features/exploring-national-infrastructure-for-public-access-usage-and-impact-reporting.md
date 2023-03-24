@@ -1,4 +1,5 @@
 ---
+published: true
 type: feature
 title: Exploring National Infrastructure for Public Access Usage and Impact Reporting
 subtitle: Convening key stakeholders to explore the impact of public access policies
