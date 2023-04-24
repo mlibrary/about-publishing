@@ -20,7 +20,7 @@ date: 2023-04-24T19:19:42.443Z
 highlight_box:
   text: ""
 books:
-  - ""
+  - "Magnificent Méliès: The Authorized Biography"
 profiles:
   - ""
 related_stories:
