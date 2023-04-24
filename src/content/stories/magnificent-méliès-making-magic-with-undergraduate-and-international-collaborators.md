@@ -21,6 +21,8 @@ highlight_box:
   text: ""
 books:
   - "Magnificent Méliès: The Authorized Biography"
+  - "Méliès Boots: Footwear and Film Manufacturing in Second Industrial
+    Revolution Paris"
 profiles:
   - ""
 related_stories:
