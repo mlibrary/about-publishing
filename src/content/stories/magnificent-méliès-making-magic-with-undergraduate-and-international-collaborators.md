@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories:
   - Faculty Public Engagement
 title: "Magnificent Méliès: Making Magic with Undergraduate and International
