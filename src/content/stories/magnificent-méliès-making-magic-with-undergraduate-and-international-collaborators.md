@@ -9,11 +9,11 @@ hero:
   text: ""
   story_hero_image: ""
 story_image:
-  caption: "Book launch, Ross Business School, Ann Arbor, September 29, 2023:
+  caption: "Book launch, Ross Business School, Ann Arbor, September 29, 2022:
     Jennifer Lipsmeier Guy, Rose Albayat, Matthew Solomon"
   credit: ""
   file: /assets/ump-blog-10.jpg
-  alt: "Book launch, Ross Business School, Ann Arbor, September 29, 2023: Jennifer
+  alt: "Book launch, Ross Business School, Ann Arbor, September 29, 2022: Jennifer
     Lipsmeier Guy, Rose Albayat, Matthew Solomon"
 author: Matthew Solomon
 date: 2023-04-24T19:19:42.443Z
@@ -46,9 +46,9 @@ It was then that Jennifer Lipsmeier Guy appeared, like another figure in a Méli
 
 <blockquote class="quote full blue"><p>I am extremely proud of the two Méliès books we published in 2022, but it is the great work with international partners and undergraduate collaborators during the previous three years which I recall most fondly—truly a 'magical' experience</p><footer><cite>- Matthew Solomon<br>Professor in the Department of Film, Television, and Media at UM</cite></footer></blockquote>
 
-When *Magnificent Méliès* was published in hardcover, it was extremely gratifying to have the former director of La Tour Verte, Robert deLaroche, say that we had “built a bridge between France and the United States” with the book. With additional help from two former FTVM undergraduates, technician [Dylan Hancook](https://dylanhancook.com/) and musician [Joey Pecoraro](https://www.joeypecoraro.com/), we marked this milestone with a Zoom book launch on September 29, 2023 co-sponsored by UROP and the Ross Business School. This celebration of our collaboration took place in the Ross White Light Studio and featured a newly rediscovered Méliès film, *Marvellous Suspension and Evolution* (1902) not widely seen for 120 years. A recording of the event can be seen [here](https://youtu.be/VK5Kgzen9Mw).
+When *Magnificent Méliès* was published in hardcover, it was extremely gratifying to have the former director of La Tour Verte, Robert deLaroche, say that we had “built a bridge between France and the United States” with the book. With additional help from two former FTVM undergraduates, technician [Dylan Hancook](https://dylanhancook.com/) and musician [Joey Pecoraro](https://www.joeypecoraro.com/), we marked this milestone with a Zoom book launch on September 29, 2022 co-sponsored by UROP and the Ross Business School. This celebration of our collaboration took place in the Ross White Light Studio and featured a newly rediscovered Méliès film, *Marvellous Suspension and Evolution* (1902) not widely seen for 120 years. A recording of the event can be seen [here](https://youtu.be/VK5Kgzen9Mw).
 
-![](/assets/3.png)
+![](/assets/solomon-photos_edit.png)
 
 ![](/assets/4.png)
 
