@@ -1,11 +1,6 @@
 backend:
 
-  name: gitlab
-  auth_type: pkce
-  api_root: https://gitlab.umich.edu/api/v4
-  base_url: https://gitlab.umich.edu
-  auth_endpoint: oauth/authorize
-
+  name: github
   # Test settings. @todo comment out when deploying to prod
   # branch: feature-page
   # repo: kellerch/publishing-backup
@@ -13,8 +8,8 @@ backend:
 
   # Production settings. @todo switch back to this when deploying to prod
   branch: master
-  repo: michigan-publishing/publishing
-  app_id: 8087fa5fed1b241cd6c75a3e6ea26e40a913fecc87f94928fceb2571c8b9427b
+  repo: mlibrary/about-publishing
+  #app_id: 8087fa5fed1b241cd6c75a3e6ea26e40a913fecc87f94928fceb2571c8b9427b
 
   # Local development settings
   # name: git-gateway
