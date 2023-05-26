@@ -1,3 +1,11 @@
+## About Michigan Publishing
+This is the brochureware/about informational website for Michigan Publishing.
+
+It uses GatsbyJS, Netlify hosting, and Netlify CMS.
+
+View it at https://publishing.umich.edu
+
+
 ## 🚀 Quick start
 
 1.  **Start developing.**
