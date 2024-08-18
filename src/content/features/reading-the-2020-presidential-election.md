@@ -2,7 +2,7 @@
 published: true
 type: feature
 title: Dialogues in Democracy
-subtitle: Democracy and Debate | 2021-22
+subtitle: Democracy, Civic, and Global Engagement | 2024-25
 path: /features/reading-the-2020-presidential-election
 hero:
   text: ""
@@ -480,4 +480,4 @@ related_stories:
 
 Dialogues in Democracy is an interdisciplinary collection of University of Michigan Press books that explore the core tensions in American political culture. These tensions erupt every four years during the presidential election, but they also shape our daily experiences of democracy outside the voting booth. This dynamic reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America. They will also find big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-Michigan Publishing originally created this collection to serve as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts in the fall of 2020. Since then, the collection continues to evolve in conjunction with the university's ongoing Democracy and debate initiative in 2021-22, and as part of the Big Ten Collaboration, Democracy in the 21st Century. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
+Michigan Publishing originally created this collection to serve as a companion to the University of Michigan's Democracy and Debate teaching and learning efforts in the fall of 2020.  Since then, the collection continues to evolve in conjunction with the university's ongoing initiative in 2024-25, and as part of the Big Ten Collaboration, Democracy in the 21st Century. To read the titles, open the reading guide and click the title or cover of the book you wish to access, or use the links listed for the books below under the "Democracy" and "Debate" headings.
