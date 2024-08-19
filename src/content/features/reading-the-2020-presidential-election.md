@@ -478,4 +478,4 @@ related_stories:
 ---
 **Dialogues in Democracy** is an interdisciplinary collection of University of Michigan Press books that explore the core tensions in American political culture. These tensions erupt every four years during the presidential election, but they also shape our daily experiences of democracy outside the voting booth. This dynamic reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America. They will also find big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
-To read the titles, open the reading guide and click the title or cover of the book you wish to access.
+To read the titles, [open the reading guide and click the title or cover of the book you wish to access.](static/assets/dialogues-in-democracy_web-compressed.pdf)
