@@ -1,16 +1,15 @@
 ---
 published: true
 type: feature
-title: Open Access Week 2021
+title: Open Access - In Conversation
 subtitle: "It Matters How We Open Knowledge: Building Structural Equity"
-path: /open-access-week-2021
+path: /open-access-in-conversation
 hero:
   text: ""
   feature_hero_image: ""
 feature_image:
-  file: /assets/2021-oaw-01-1200x630-eng.png
-  alt: "Red and purple graphic that reads Open Access Week 2021 It Matters How We
-    Open Knowledge: Building Structural Equity October 25-31"
+  file: /assets/gere_cover_art_istock-544982936.jpg
+  alt: Network image showing nodes and lights connecting them. Decorative only.
 sections:
   - heading: "Open Access: In Conversation"
     subheading: Limited Podcast Mini-Series
@@ -120,8 +119,4 @@ related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - "Breaking Down the Paywall: Author Relationships with Open Access"
 ---
-[Open Access Week](http://openaccessweek.org/), a global event organized by [SPARC](https://sparcopen.org/), is an opportunity for the academic and research community to continue to learn about the potential benefits of open access and to help inspire wider participation in helping to make open access a new norm in scholarship and research. The theme for the 2021 week is "It Matters How We Open Knowledge: Building Structural Equity."
-
-At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts and share new open access initiatives below.
-
-To learn more about Michigan Publishing's open access iniatives, read the introduction to Open Access 2021 from University of Michigan Press with Sales, Marketing, and Outreach Director, Kristen Twardowski [on our blog](https://blog.press.umich.edu/2021/10/building-structural-equity-michigan-publishing-celebrates-open-access-week/).
+[](http://openaccessweek.org/)At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts and share new open access initiatives below
