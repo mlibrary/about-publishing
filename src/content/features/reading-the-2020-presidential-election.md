@@ -476,7 +476,7 @@ related_stories:
   - Born-accessible Publishing is Good Book-making for Everyone
   - Cultivating the Perfect Guidebook through Teaching
 ---
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="https://publishing.umich.edu/assets/dialogues-in-democracy_web-compressed.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
+<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="https://www.publishing.umich.edu/assets/dialogues-in-democracy_web-compressed.pdf"><img class="mb-4" src="/assets/picturethumb.png"><p>Read the Election Reading List</p></a></div>
 
 Dialogues in Democracy is an interdisciplinary collection of University of Michigan Press books that explore the core tensions in American political culture. These tensions erupt every four years during the presidential election, but they also shape our daily experiences of democracy outside the voting booth. This dynamic reading list offers an opportunity for students to experience the richest, most comprehensive scholarship available today. Readers will find books that contextualize their own experiences of voting in America. They will also find big picture analyses of leadership, activism, and international pressures, as well as critiques of the democratic processes that control who gets to sit in the chair, and who gets to pull the lever.
 
