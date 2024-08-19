@@ -3,7 +3,7 @@ published: true
 type: feature
 title: Dialogues in Democracy
 subtitle: Democracy, Civic, and Global Engagement | 2024-25
-path: /features/reading-the-presidential-election
+path: /features/reading-the-2020-presidential-election
 hero:
   text: ""
   feature_hero_image: /assets/story-hero.jpg
