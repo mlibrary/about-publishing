@@ -14,6 +14,4 @@ social:
     social_name: Twitter
   - social_link: http://www.youtube.com/umichpress
     social_name: YouTube
-  - social_name: Bluesky
-    social_link: https://bsky.app/profile/michiganpublishing.bsky.social
 ---
