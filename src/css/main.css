@@ -363,6 +363,14 @@ blockquote.quote > p::after {
   width: 2.25rem;
 }
 
+.bluesky svg {
+  fill: #00274c;
+}
+
+.bluesky:hover svg {
+  fill: #1185fe;
+}
+
 .social-link:hover,
 .social-link:focus {
   background-position-y: -1.5rem;
