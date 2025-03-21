@@ -7,9 +7,7 @@ type: page
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/mp-impactreport.pdf" onclick="ga('send', 'event', 'mission','click','impact-report');"><img class="mb-4" src="/assets/mp-impactreport.jpg"><p>Read Our Impact Report</p></a></div>
 
-For many decades, publishing at the University of Michigan grew out of diverse and dispersed communities. As early as 1930, the Press was founded as a division of the University Library, and nearly 70 years later in 2000, the Library created the Scholarly Publishing Office (SPO) to serve the needs of authors and readers. Other activities related to publishing followed, including Deep Blue in 2006. In 2009, oversight of the University of Michigan Press moved back to the Library. Not long after, all publishing activities were unified under a single brand name, MPublishing. Michigan Publishing is now the hub of publishing activities undertaken by the University of Michigan Library. 
-
-Today, Michigan Publishing brings together three entities to serve the changing needs of scholars: University of Michigan Press, Michigan Publishing Services, and Deep Blue Repository and Research Data Services. Together, they engage with a spectrum of publishing needs across the life-cycle of scholarly communication and provide guidance and assistance to the University community. 
+Michigan Publishing brings together three entities to serve the changing needs of scholars: University of Michigan Press, Michigan Publishing Services, and Deep Blue Repository and Research Data Services. Together, they engage with a spectrum of publishing needs across the life-cycle of scholarly communication and provide guidance and assistance to the University community. 
 
 **We value what we do and the communities behind it.**
 
@@ -21,13 +19,7 @@ Today, Michigan Publishing brings together three entities to serve the changing 
 
 **Current focus areas.**
 
-As part of the University of Michigan Library, we share its [Mission and Values](https://lib.umich.edu/about-us/about-library/mission-and-values). We co-create and share common [Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives). As a publisher, representing the University to the world, we are pursuing three particular [focus areas set out by the President of the University of Michigan](https://president.umich.edu/initiatives-and-focus-areas/):
-
-* faculty public engagement, expert connections, and trust in evidence;
-
-* diversity, equity, and inclusion in the selection and distribution of content; 
-
-* academic innovation by publishing work that leverages digital technology.
+As part of the University of Michigan Library, we share its [Mission and Values](https://lib.umich.edu/about-us/about-library/mission-and-values). We co-create and share common [Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives). 
 
 **Interested in working on a project with our team?**
 
