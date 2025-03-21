@@ -2,7 +2,7 @@
 published: true
 categories:
   - Diversity, Equity & Inclusion
-title: Deaf Studies Digital Journal Revamp Transforms Michigan Publishing DEIA Efforts
+title: Deaf Studies Digital Journal advances sign-language publishing
 path: /stories-of-impact/DSDJ
 hero:
   text: ""
@@ -34,4 +34,4 @@ The accessibility-related development of the journal includes reducing the amoun
 
 “DSDJ is a really exciting addition to our journals program,” says Jason Colman, Director of Michigan Publishing Services. “Not only does it further our mission to increase the reach of scholarship from communities that are not well served by existing publishing models, but building the technological integrations behind the journal taught us a lot about making our journal content more accessible for both deaf and hearing readers. We’re proud to be making DSDJ part of the durable scholarly record.”
 
-This new platform for DSDJ furthers Michigan Publishing’s diversity, equity, inclusion and accessibility efforts. Michigan Publishing has long strived to create a more accessible academic community. In addition to existing DEIA initiatives at Michigan Publishing, this DSDJ revamp will benefit those who wish to interact with scholarly work in new and innovative ways.
+This new platform for DSDJ furthers Michigan Publishing’s diversity, equity, inclusion and accessibility efforts. Michigan Publishing has long strived to create a more accessible academic community.
