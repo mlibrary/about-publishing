@@ -1,18 +1,17 @@
 ---
 published: true
 categories:
-  - 'Diversity, Equity & Inclusion'
+  - Diversity, Equity & Inclusion
 title: Adding Diversity to the Data Mix
 path: /stories-of-impact/adding-diversity
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
-  alt: >-
-    Three people of color siting around a table in discussion at what appears to
-    be a professional conference.
-  caption: ''
-  credit: ''
+  alt: Three people of color siting around a table in discussion at what appears
+    to be a professional conference.
+  caption: ""
+  credit: ""
   file: /assets/divsummprtnshpminst15-78-.jpg
 date: 2019-09-20T14:25:02.928Z
 highlight_box:
@@ -23,30 +22,24 @@ highlight_box:
     [U-M Library at the University of Michigan](https://www.lib.umich.edu/)
 
 
-    [National Center for Institutional Diversity (NCID) at the University of
-    Michigan](https://lsa.umich.edu/ncid)
+    [National Center for Institutional Diversity (NCID) at the University of Michigan](https://lsa.umich.edu/ncid)
 
 
-    [Data Driven Detroit (D3)](https://datadrivendetroit.org/) was founded in
-    2008 to serve as a one-stop shop for data on Detroit and the region and to
-    provide accessible high-quality information and analysis to drive informed
-    decision-making.
+    [Data Driven Detroit (D3)](https://datadrivendetroit.org/) was founded in 2008 to serve as a one-stop shop for data on Detroit and the region and to provide accessible high-quality information and analysis to drive informed decision-making.
 
 
-    [LYRASIS](https://www.lyrasis.org/) was created by its members to help
-    libraries, archives and museums tackle wide-reaching challenges with a
-    collective strength.
+    [LYRASIS](https://www.lyrasis.org/) was created by its members to help libraries, archives and museums tackle wide-reaching challenges with a collective strength.
 books:
-  - ''
+  - ""
 profiles:
-  - ''
+  - ""
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 The University of Michigan Library has always harnessed data to solve big problems. Now, with a recent LYRASIS grant, they will partner with the National Center for Institutional Diversity (NCID) and collaborate with Data Driven Detroit (D3) to develop a toolkit for diversity scholars. 
 
-As a part of the LYRASIS Catalyst Fund, the Open Data Toolkit Based on Diversity, Equity, Inclusion and Access (DEI&A) Principles will provide guidance on best practices in collecting, managing, utilizing, sharing, and curating research data for the public good.
+As a part of the LYRASIS Catalyst Fund, the Open Data Toolkit provides guidance on best practices in collecting, managing, utilizing, sharing, and curating research data for the public good.
 
 “Sharing one's data with others outside of the project is a relatively new expectation and one that many researchers may be unprepared to tackle,” says Rachel Woodbrook, Data Curation Librarian at Michigan Publishing and lead PI. “Additionally, there is a tragic legacy of extracting data from communities without care or concern for the consequences of having done so or the rights of people to have access to information about themselves that could benefit them.”
 
