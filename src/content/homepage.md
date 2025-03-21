@@ -8,9 +8,9 @@ hero_section:
     broadest possible access to scholarship by promoting:
 
 
-    * engagement with the expertise of authors and creators through our investments in quality, openness, and innovation;
+    * engagement with the expertise of authors and creators;
 
-    * a positive work environment in which our dignity and the dignity of others are valued; and
+    * a positive work environment in which human dignity is valued; and
 
     * improvement in the structure and clarity of the processes we employ.
   video: /assets/infographic_no_link.mp4
