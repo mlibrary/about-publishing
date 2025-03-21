@@ -10,7 +10,7 @@ hero_section:
 
     * engagement with the expertise of authors and creators through our investments in quality, openness, and innovation;
 
-    * We contribute to a positive work environment in which our dignity and the dignity of others are valued; and
+    * a positive work environment in which our dignity and the dignity of others are valued; and
 
     * improvement in the structure and clarity of the processes we employ.
   video: /assets/infographic_no_link.mp4
