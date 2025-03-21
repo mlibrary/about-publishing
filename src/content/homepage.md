@@ -10,7 +10,7 @@ hero_section:
 
     * engagement with the expertise of authors and creators through our investments in quality, openness, and innovation;
 
-    * equity, justice, and inclusion. We contribute to a positive work environment in which our dignity and the dignity of others are valued; and
+    * We contribute to a positive work environment in which our dignity and the dignity of others are valued; and
 
     * improvement in the structure and clarity of the processes we employ.
   video: /assets/infographic_no_link.mp4
@@ -31,8 +31,8 @@ highlight:
 profile: Jeremy Glover
 stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
-  - Adding Diversity to the Data Mix
   - '"Coronavirus Politics" book will shape future health policy '
+  - Born-accessible Publishing is Good Book-making for Everyone
 infographics:
   heading: By the Numbers
   infographics:
