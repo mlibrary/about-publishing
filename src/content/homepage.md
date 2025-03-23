@@ -5,19 +5,19 @@ hero_section:
   text: >-
     Michigan Publishing publishes scholarly and educational materials in a range
     of formats for wide distribution and permanent preservation. We support the
-    broadest possible access to scholarship by promoting:
+    broadest possible access to trustworthy knowledge by promoting:
 
 
-    * engagement with the expertise of authors and creators;
+    * deep engagement with the expertise of authors and creators;
 
-    * a positive work environment in which human dignity is valued; and
+    * a positive environment in which human dignity is valued; and
 
-    * improvement in the structure and clarity of the processes we employ.
+    * constant improvement in the structure and clarity of publishing processes.
   video: /assets/infographic_no_link.mp4
-  video_description: 2,000 original contributions published every year. 10M
-    readers download U-M faculty scholarly outputs, advancing public engagement.
-    60 award-winning University of Michigan Press books in last 5 years
-    recognize academic innovation.
+  video_description: 2,000 trusted contributions published every year. 10M readers
+    download U-M faculty scholarly outputs, advancing public engagement. 60
+    award-winning University of Michigan Press books in last 5 years recognize
+    academic innovation.
   video_link: /our-reach
   video_link_text: View the last 24 hours of activity on our readership map
 highlight:
