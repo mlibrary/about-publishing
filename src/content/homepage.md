@@ -23,9 +23,8 @@ hero_section:
 highlight:
   heading: Our Reach
   image:
-    alt: Map showing locations of Michigan Publishing projects on University of
-      Michigan's Ann Arbor campus.
-    file: /assets/group-14.jpg
+    alt: Map showing usage of Michigan Publishing projects around the world
+    file: /assets/screen-shot-2020-08-13-at-4.56.25-pm.png
   link_text: Explore Our Reach
   link_url: /our-reach
 profile: Jeremy Glover
