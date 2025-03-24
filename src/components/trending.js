@@ -134,19 +134,6 @@ class Trending extends Component {
                   className="flex flex-col px-4 pb-8 mb-8 overflow-hidden border-b-4 trending lg:w-1/4 md:w-1/2 lg:m-4 lg:px-0 lg:mb-0 border-dusk-blue"
                   key={book.id}
                 >
-                  <div className="mb-8 lg:h-414">
-                    {book.image && (
-                      <img
-                        src={book.image}
-                        alt={book.title}
-                        role="presentation"
-                        className={`trending-image overflow-hidden rounded ${
-                          book.imageLoaded ? "fade-in" : ""
-                        }`}
-                        onLoad={() => this.replaceImage(book.id)}
-                      />
-                    )}
-                  </div>
                   <div>
                     <h3 className="mb-1 text-xl font-semibold">{book.title}</h3>
 
