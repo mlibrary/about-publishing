@@ -1,4 +1,4 @@
 ---
-title: Democracy, Civic & Global Education
+title: Democracy, Civic & Global Engagement
 page_image: where
 ---
