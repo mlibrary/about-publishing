@@ -1,3 +1,3 @@
 ---
-title: Environment, Sustainability, and Carbon Neutrality
+title: Climate Action, Sustainability, and Environmental Justice
 ---
