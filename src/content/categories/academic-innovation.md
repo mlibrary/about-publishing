@@ -1,4 +1,3 @@
 ---
-title: Academic Innovation
+title: Life-Changing Education
 ---
-
