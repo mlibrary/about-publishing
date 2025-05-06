@@ -13,6 +13,9 @@ hero_section:
     * a positive environment in which human dignity is valued; and
 
     * constant improvement in the structure and clarity of publishing processes.
+
+
+    O﻿ur work is [guided by the values of the University of Michigan](https://culturejourney.umich.edu/values/), as formed in 2023 by an institution-wide culture journey process.
   video: /assets/infographic_no_link.mp4
   video_description: 2,000 trusted contributions published every year. 10M readers
     download U-M faculty scholarly outputs, advancing public engagement. 60
