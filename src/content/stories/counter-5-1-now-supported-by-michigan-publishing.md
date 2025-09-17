@@ -3,7 +3,7 @@ published: true
 categories:
   - Democracy, Civic & Global Engagement
 title: COUNTER 5.1 now supported by Michigan Publishing
-path: /stories-of-impact/story-name
+path: /stories-of-impact/COUNTER5_1
 hero:
   text: "COUNTER is a widely accepted standardized way of counting usage. Starting
     October 15, 2025, Michigan Publishing started supporting COUNTER 5.1, a new
