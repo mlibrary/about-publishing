@@ -17,7 +17,7 @@ hero_section:
     \- constant improvement in the structure and clarity of publishing processes.
 
 
-    O﻿ur work is **[guided by the values of the University of Michigan](https://culturejourney.umich.edu/values/)**, as formed in 2023 by an institution-wide culture journey process. You will find stories of impact across this site that connect with the **[University's bold Vision 2034 commitment](https://vision2034.umich.edu/)** to excellence over the next decade.
+    O﻿ur work is **[guided by the values of the University of Michigan](https://culturejourney.umich.edu/values/)**, as formed in 2023 by an institution-wide culture journey process. You will find stories of impact across this site that connect with the **[University's bold "Look to Michigan" commitment](https://vision2034.umich.edu/)** to excellence over the next decade.
   video: /assets/infographic_no_link.mp4
   video_description: 2,000 trusted contributions published every year. 10M readers
     download U-M faculty scholarly outputs, advancing public engagement. 60
