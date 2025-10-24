@@ -1,7 +1,7 @@
 ---
 published: true
 categories:
-  - Academic Innovation
+  - Life-Changing Education
 title: Student Journals Catalyze Lifelong Learning and Success
 path: /stories-of-impact/student-journals
 hero:
