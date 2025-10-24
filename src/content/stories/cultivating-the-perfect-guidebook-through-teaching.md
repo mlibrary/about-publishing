@@ -1,18 +1,17 @@
 ---
 published: true
 categories:
-  - Academic Innovation
+  - Democracy, Civic & Global Engagement
 title: Cultivating the Perfect Guidebook through Teaching
 path: /stories-of-impact/cultivating-perfect-guidebook
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
-  alt: >-
-    A male instructor holds a sheet of paper while standing in a forest
+  alt: A male instructor holds a sheet of paper while standing in a forest
     surrounded by college students.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/trees2.jpg
 date: 2019-09-20T14:36:38.778Z
 highlight_box:
@@ -22,15 +21,13 @@ highlight_box:
     By Burton V. Barnes and Warren H. Wagner, Jr.
 
 
-    [Michigan Shrubs and Vines
-    (2016)](https://www.press.umich.edu/296735/michigan_shrubs_and_vines) By
-    Burton V. Barnes and Warren H. Wagner, Jr.
+    [Michigan Shrubs and Vines (2016)](https://www.press.umich.edu/296735/michigan_shrubs_and_vines) By Burton V. Barnes and Warren H. Wagner, Jr.
 books:
-  - ''
+  - ""
 profiles:
-  - ''
+  - ""
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 University of Michigan Press publishes a rich collection of books that explore the history, culture, and environment of the Great Lakes region. These books are collaborative efforts with campus partners. A particularly fruitful example involves a book that has been in print since 1913 and a beloved undergraduate course taught in the School for Environment and Sustainability.
