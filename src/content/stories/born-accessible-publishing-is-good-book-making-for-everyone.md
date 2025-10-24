@@ -1,29 +1,28 @@
 ---
 published: true
 categories:
-  - Academic Innovation
-  - 'Diversity, Equity & Inclusion'
+  - Advanced Technology
+  - Life-Changing Education
 title: Born-accessible Publishing is Good Book-making for Everyone
 path: /stories-of-impact/born-accessible-publishing
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
-  alt: >-
-    Close-up of a human hand holding a mobile device with the homepage for
+  alt: Close-up of a human hand holding a mobile device with the homepage for
     Digital Culture Books on the screen.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/accessible-books-work-on-any-device.jpg
 date: 2019-09-20T14:20:01.016Z
 highlight_box:
-  text: ''
+  text: ""
 books:
-  - ''
+  - ""
 profiles:
-  - ''
+  - ""
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 Michigan Publishing is committed to leading on accessibility and disability issues. When readers with visual impairments couldn’t effectively read Press ebooks, comprehensive work to address the ongoing needs of our readers began.
