@@ -1,8 +1,7 @@
 ---
 published: true
 categories:
-  - Academic Innovation
-  - Diversity, Equity & Inclusion
+  - Democracy, Civic & Global Engagement
 title: "Three Years of Fund to Mission: Reaching 75% Open Access"
 path: /stories-of-impact/three-years-fund-to-mission
 hero:
