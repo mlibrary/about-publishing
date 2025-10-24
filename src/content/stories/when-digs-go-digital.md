@@ -1,18 +1,18 @@
 ---
 published: true
 categories:
-  - Sustainability
+  - Advanced Technology
 title: When Digs Go Digital
 path: /stories-of-impact/when-digs-go-digital
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
   alt: A photograph of four archaeologists digging at the Gabii site.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/gabii-1.jpg
-author: ''
+author: ""
 date: 2019-09-19T13:56:37.869Z
 highlight_box:
   text: |-
@@ -29,7 +29,7 @@ books:
   - A Mid-Republican House from Gabii
 profiles: []
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 When archaeologists dig, they simultaneously erase the evidence of ancient civilizations. This means that publishing their finds is vital. At the University of Michigan, scholars are working with U-M Press to create innovative publications that present data in immersive ways, while still preserving the quality that specialists value.
