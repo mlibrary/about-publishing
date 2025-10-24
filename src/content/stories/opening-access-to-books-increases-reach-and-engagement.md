@@ -1,49 +1,42 @@
 ---
 published: true
 categories:
-  - Faculty Public Engagement
+  - Democracy, Civic & Global Engagement
+  - Life-Changing Education
+  - Advanced Technology
 title: Opening Access to Books Increases Reach and Engagement
 path: /stories-of-impact/opening-access-to-books
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
-  alt: >-
-    A photograph of a room covered mostly with shadow, where a student with
+  alt: A photograph of a room covered mostly with shadow, where a student with
     short hair sits at a table in front of a large window with their laptop
     open. The tops of trees and a nearby building can be seen through the
     window.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/libpub_3033.jpg
-author: ''
+author: ""
 date: 2019-09-23T04:00:00.000Z
 highlight_box:
   text: >-
     **Project Partners**
 
 
-    [Knowledge Unlatched](http://www.knowledgeunlatched.org/) makes scholarly
-    content freely available to everyone and contributes to the further
-    development of the Open Access (OA) infrastructure.
+    [Knowledge Unlatched](http://www.knowledgeunlatched.org/) makes scholarly content freely available to everyone and contributes to the further development of the Open Access (OA) infrastructure.
 
 
-    [Towards an Open Monograph Ecosystem
-    (TOME)](https://www.openmonographs.org/) advances the wide dissemination of
-    scholarship by humanities and humanistic social sciences faculty members
-    through open access editions.
+    [Towards an Open Monograph Ecosystem (TOME)](https://www.openmonographs.org/) advances the wide dissemination of scholarship by humanities and humanistic social sciences faculty members through open access editions.
 
 
-    [Lever Press](https://www.leverpress.org/) is a scholarly press operated in
-    partnership between the Oberlin Group, Amherst College Press, and Michigan
-    Publishing Services and is supported by a consortium of fifty-four liberal
-    arts institutions of higher education.
+    [Lever Press](https://www.leverpress.org/) is a scholarly press operated in partnership between the Oberlin Group, Amherst College Press, and Michigan Publishing Services and is supported by a consortium of fifty-four liberal arts institutions of higher education.
 books:
-  - 'ESC '
+  - "ESC "
   - Global Digital Cultures
-  - '#identity'
+  - "#identity"
 profiles:
-  - ''
+  - ""
 related_stories: []
 type: story
 ---
