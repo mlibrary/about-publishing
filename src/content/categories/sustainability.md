@@ -1,3 +1,3 @@
 ---
-title: Climate Action, Sustainability, and Environmental Justice
+title: Sustainability & Climate Action
 ---
