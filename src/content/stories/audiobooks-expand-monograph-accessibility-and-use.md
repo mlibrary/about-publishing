@@ -1,9 +1,8 @@
 ---
 published: true
 categories:
-  - Academic Innovation
-  - Faculty Public Engagement
-  - Diversity, Equity & Inclusion
+  - Democracy, Civic & Global Engagement
+  - Human Health & Well-Being
 title: Audiobooks Expand Specialist Monograph Accessibility and Use
 path: /stories-of-impact/audiobooks
 hero:
