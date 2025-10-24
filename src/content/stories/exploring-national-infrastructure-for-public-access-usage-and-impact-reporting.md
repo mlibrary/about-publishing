@@ -1,7 +1,8 @@
 ---
 published: true
 categories:
-  - Faculty Public Engagement
+  - Advanced Technology
+  - Democracy, Civic & Global Engagement
 title: Exploring National Infrastructure for Public Access Usage and Impact Reporting
 path: /stories-of-impact/public-usage
 hero:
