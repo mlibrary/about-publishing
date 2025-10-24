@@ -2,6 +2,7 @@
 published: true
 categories:
   - Democracy, Civic & Global Engagement
+  - Sustainability & Climate Action
 title: Cultivating the Perfect Guidebook through Teaching
 path: /stories-of-impact/cultivating-perfect-guidebook
 hero:
