@@ -1,7 +1,8 @@
 ---
 published: true
 categories:
-  - Diversity, Equity & Inclusion
+  - Human Health & Well-Being
+  - Advanced Technology
 title: Deaf Studies Digital Journal advances sign-language publishing
 path: /stories-of-impact/DSDJ
 hero:
