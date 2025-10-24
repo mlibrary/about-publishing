@@ -1,7 +1,7 @@
 ---
 published: true
 categories:
-  - Faculty Public Engagement
+  - Democracy, Civic & Global Engagement
 title: What Happens When Ebooks are Free-to-Read? Reflecting on UMP's COVID-19
   Response
 path: /stories-of-impact/free-to-read
