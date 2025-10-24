@@ -1,7 +1,7 @@
 ---
 published: true
 categories:
-  - Faculty Public Engagement
+  - Human Health & Well-Being
 title: '"Coronavirus Politics" book will shape future health policy '
 path: /stories-of-impact/coronavirus-politics
 hero:
