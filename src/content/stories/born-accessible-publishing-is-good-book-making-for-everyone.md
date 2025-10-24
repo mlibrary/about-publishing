@@ -3,6 +3,7 @@ published: true
 categories:
   - Advanced Technology
   - Life-Changing Education
+  - Human Health & Well-Being
 title: Born-accessible Publishing is Good Book-making for Everyone
 path: /stories-of-impact/born-accessible-publishing
 hero:
