@@ -1,20 +1,19 @@
 ---
 published: true
 categories:
-  - Academic Innovation
+  - Life-Changing Education
 title: ELT at Michigan— A Staple in the Field
 path: /stories-of-impact/elt-at-michigan
 hero:
-  story_hero_image: ''
-  text: ''
+  story_hero_image: ""
+  text: ""
 story_image:
-  alt: >-
-    A young female professor smiles and looks out toward her class while holding
-    a textbook and standing in front of a chalkboard with the words "Voice,
-    Tense, and Aspect" visible. The back of a male student's head can be seen in
-    the left foreground.
+  alt: A young female professor smiles and looks out toward her class while
+    holding a textbook and standing in front of a chalkboard with the words
+    "Voice, Tense, and Aspect" visible. The back of a male student's head can be
+    seen in the left foreground.
   caption: Photographed by @benji_bear_photography
-  credit: ''
+  credit: ""
   file: /assets/elt4.jpg
 date: 2019-09-20T14:28:16.296Z
 highlight_box:
@@ -22,14 +21,13 @@ highlight_box:
     **Project Partners**
 
 
-    [English Language Institute (ELI) at the University of
-    Michigan](https://lsa.umich.edu/eli)
+    [English Language Institute (ELI) at the University of Michigan](https://lsa.umich.edu/eli)
 books:
-  - ''
+  - ""
 profiles:
-  - ''
+  - ""
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 If there is an ESL course taught at an R1 institution in the United States, the odds are good that it has used a textbook from the English Language Teaching (ELT) list at the University of Michigan. For more than 60 years, University of Michigan Press’s ELT list has served as the publishing arm of the University’s English Language Institute, the first place in the United States to offer English as a Second Language courses. 
