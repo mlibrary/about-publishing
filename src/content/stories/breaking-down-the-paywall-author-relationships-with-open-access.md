@@ -1,8 +1,8 @@
 ---
 published: true
 categories:
-  - Diversity, Equity & Inclusion
-  - Academic Innovation
+  - Democracy, Civic & Global Engagement
+  - Life-Changing Education
 title: "Breaking Down the Paywall: Author Relationships with Open Access"
 path: "/stories-of-impact/Breaking Down the Paywall: Author Relationships with
   Open Access"
