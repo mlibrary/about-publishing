@@ -1,7 +1,7 @@
 ---
 published: true
 categories:
-  - Faculty Public Engagement
+  - Life-Changing Education
 title: "Magnificent Méliès: Making Magic with Undergraduate and International
   Collaborators"
 path: /stories-of-impact/international-collaborators
