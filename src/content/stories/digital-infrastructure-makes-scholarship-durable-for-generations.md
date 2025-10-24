@@ -1,18 +1,18 @@
 ---
 published: true
 categories:
-  - Sustainability
+  - Advanced Technology
+  - Sustainability & Climate Action
 title: Digital Infrastructure Makes Scholarship Durable for Generations
 path: /stories-of-impact/digital-infrastructure
 hero: {}
 story_image:
-  alt: >-
-    A room with four groups of three to six people seated around tables, most
+  alt: A room with four groups of three to six people seated around tables, most
     with laptops in front of them.
-  caption: ''
-  credit: ''
+  caption: ""
+  credit: ""
   file: /assets/digital-preservation-experts-meet-in-ann-arbor-sept-2018.jpg
-author: ''
+author: ""
 date: 2019-09-19T19:58:25.768Z
 highlight_box:
   text: >-
@@ -21,14 +21,13 @@ highlight_box:
     preservation. 
 
 
-    [CLOCKSS](https://clockss.org/), provides a sustainable dark archive to
-    ensure the long-term survival of Web-based scholarly content.
+    [CLOCKSS](https://clockss.org/), provides a sustainable dark archive to ensure the long-term survival of Web-based scholarly content.
 books:
-  - ''
+  - ""
 profiles:
-  - ''
+  - ""
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 It sometimes feels like you’ll always be able to retrieve electronic files or data. Until you can’t. 
