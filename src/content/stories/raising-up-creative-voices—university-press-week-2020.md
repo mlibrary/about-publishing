@@ -1,9 +1,8 @@
 ---
 published: true
 categories:
-  - Diversity, Equity & Inclusion
-  - Academic Innovation
-title: Raising Up Creative Voices—University Press Week 2020
+  - Life-Changing Education
+title: Raising Up Creative Voices
 path: /stories-of-impact/creative-voices-up-week
 hero:
   text: Highlighting voices in the music and performance studies spaces in new and
