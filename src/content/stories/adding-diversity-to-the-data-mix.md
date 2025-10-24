@@ -1,7 +1,7 @@
 ---
 published: true
 categories:
-  - Diversity, Equity & Inclusion
+  - Advanced Technology
 title: Adding Diversity to the Data Mix
 path: /stories-of-impact/adding-diversity
 hero:
