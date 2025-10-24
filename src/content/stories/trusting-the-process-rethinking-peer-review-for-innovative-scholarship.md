@@ -1,7 +1,8 @@
 ---
 published: true
 categories:
-  - Academic Innovation
+  - Democracy, Civic & Global Engagement
+  - Advanced Technology
 title: "Trusting the Process: Rethinking Peer Review for Innovative Scholarship"
 path: /stories-of-impact/rethinking-peer-review
 hero:
