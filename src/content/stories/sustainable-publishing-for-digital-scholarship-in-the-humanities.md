@@ -1,39 +1,37 @@
 ---
 published: true
 categories:
-  - Academic Innovation
+  - Sustainability & Climate Action
+  - Advanced Technology
 title: Sustainable Publishing for Digital Scholarship in the Humanities
 path: /stories-of-impact/sustainable-publishing
 hero:
-  story_hero_image: ''
-  text: >-
-    Michigan Publishing is pushing the boundaries of the book. The 2018 launch
+  story_hero_image: ""
+  text: Michigan Publishing is pushing the boundaries of the book. The 2018 launch
     of Fulcrum—an open source publishing platform developed with support from
     the Andrew W. Mellon Foundation—was not only a symbol of this innovation,
     but has opened the door for partnerships that sustain the next generation of
     humanities scholarship.
 story_image:
-  alt: >-
-    A photograph of a young woman showing a digital ebook from the University of
-    Michigan Press Ebook collection to a Charleston conference attendee at the
-    Michigan Publishing display booth. 
-  caption: ''
-  credit: ''
+  alt: "A photograph of a young woman showing a digital ebook from the University
+    of Michigan Press Ebook collection to a Charleston conference attendee at
+    the Michigan Publishing display booth. "
+  caption: ""
+  credit: ""
   file: /assets/fulcrum-at-acrl-conference-2.jpg
-author: ''
+author: ""
 date: 2019-09-19T19:45:46.638Z
 highlight_box:
-  text: >-
-    [Fulcrum](https://www.fulcrum.org/), a publishing platform helping
+  text: "[Fulcrum](https://www.fulcrum.org/), a publishing platform helping
     publishers present the full richness of their authors' research outputs in a
-    durable, discoverable, accessible, and flexible form.
+    durable, discoverable, accessible, and flexible form."
 books:
-  - ''
+  - ""
 profiles:
   - Beth Bouloukos
   - Andrée Rathemacher
 related_stories:
-  - ''
+  - ""
 type: story
 ---
 Michigan Publishing is pushing the boundaries of the book. The 2018 launch of Fulcrum—an open source publishing platform developed with support from the Andrew W. Mellon Foundation—was not only a symbol of this innovation, but has opened the door for partnerships that sustain the next generation of humanities scholarship.
