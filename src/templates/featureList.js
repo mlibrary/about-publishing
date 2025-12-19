@@ -36,6 +36,7 @@ export default function FeatureList({ data, pageContext }) {
               href={frontmatter.path}
               title={frontmatter.title}
               image={frontmatter.feature_image.file}
+              alt={frontmatter.feature_image.alt}
               subtitle=""
               className="w-full p-4 md:w-1/2 lg:w-1/3"
             >

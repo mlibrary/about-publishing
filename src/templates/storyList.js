@@ -36,6 +36,7 @@ export default function StoryList({ data, pageContext }) {
               href={frontmatter.path}
               title={frontmatter.title}
               image={frontmatter.story_image.file}
+              alt={frontmatter.story_image.alt}
               subtitle={frontmatter.categories.join(` | `)}
               className="p-4 w-full md:w-1/2 lg:w-1/3"
             >
