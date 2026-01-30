@@ -427,7 +427,8 @@ sections:
         id: dyson
       - type: podcast
         embed_code: >-
-          <iframe frameBorder="0" height="200" scrolling="no"
+          <iframe title="Media embed of audio podcast discussing book"
+          frameBorder="0" height="200" scrolling="no"
           src="https://playlist.megaphone.fm/?e=LIT4928450219"
 
           width="100%"></iframe>
