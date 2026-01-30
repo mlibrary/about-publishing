@@ -176,7 +176,8 @@ sections:
           active."
         id: schaffner
       - type: podcast
-        embed_code: <iframe src="https://www.npr.org/player/embed/804612601/804623175"
+        embed_code: <iframe title="Audio player embed of Talk Policy to Me podcast"
+          src="https://www.npr.org/player/embed/804612601/804623175"
           width="100%" height="290" frameborder="0" scrolling="no" title="NPR
           embedded audio player"></iframe>
       - type: profile
@@ -250,7 +251,8 @@ sections:
           this podcast episode from UC Berkeley.
         id: dyck
       - type: podcast
-        embed_code: <iframe
+        embed_code: <iframe title="Audio embed of New Books Network audio player with
+          podcast"
           src="//html5-player.libsyn.com/embed/episode/id/7245284/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/"
           height="90" width="100%" scrolling="no"  allowfullscreen
           webkitallowfullscreen mozallowfullscreen oallowfullscreen
