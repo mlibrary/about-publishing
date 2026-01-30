@@ -83,8 +83,8 @@ sections:
           title: Black America in the Shadow of the Sixties
         slides: []
       - type: podcast
-        embed_code: <iframe height="200px" width="100%" frameborder="no" scrolling="no"
-          seamless
+        embed_code: <iframe title="Media embed of podcast on Black America in 60s"
+          height="200px" width="100%" frameborder="no" scrolling="no" seamless
           src="https://player.simplecast.com/15f203d7-4cde-466e-b420-e1aef1463cf4?dark=false"></iframe>
       - type: quote_slider
         book: "Conquering Heroines: How Women Fought Sex Bias at Michigan and Paved the
@@ -142,8 +142,6 @@ sections:
             happy few.
           name: Maria Hansen
           title: International Arts Leader
-      - type: youtube
-        id: m3yyrGfpC3g
       - type: quote_slider
         book: "Intellectual Empathy: Critical Thinking for Social Justice"
         quote:
