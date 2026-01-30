@@ -49,4 +49,4 @@ Publishing innovative projects like *i used to love to dream* is critical in amp
 
 **Watch A.D. Carson, Sara Jo Cohen, and Loren Kajikawa speak about the peer review process in a video created for Peer Review Week 2020:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AfK2yPptJG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video embed from YouTube of Trust in Experiments discussion" width="560" height="315" src="https://www.youtube.com/embed/AfK2yPptJG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
