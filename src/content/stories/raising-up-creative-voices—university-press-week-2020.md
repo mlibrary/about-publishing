@@ -42,15 +42,13 @@ This media-rich, open access text explores the cultural, linguistic, and politic
 
 This author’s debut book encourages readers to reimagine a global class perpetually represented as docile and desexualized workers caught in the web of global capitalism through the study of the gay nightlife and performance of queer South Asian men in Bangalore and Chicago. Ultimately, *Ishtyle* demonstrates that the unlikely site of nightlife can be a productive venue for the study of global politics and its institutional hierarchies.
 
-**Interview with Kareem Khubchandani on New Books Network**<iframe frameBorder="0" height="210" scrolling="no" src="https://playlist.megaphone.fm/?e=LIT1249293915" width="100%"></iframe>
+**Interview with Kareem Khubchandani on New Books Network**<iframe title="Embedded audio player from New Books Network" frameBorder="0" height="210" scrolling="no" src="https://playlist.megaphone.fm/?e=LIT1249293915" width="100%"></iframe>
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4" markdown="1">**[*The Detroit News* | “Ken Fischer memoir details 30 years of performances at Ann Arbor's UMS”](https://www.detroitnews.com/story/entertainment/2020/08/19/ken-fischer-memoir-details-30-years-performances-ann-arbors-ums-university-musical-society/3394376001/)**</div>
 
 ### **Ken Fischer with Robin Lea Pyle, *[Everybody In, Nobody Out: Inspiring Community at Michigan's University Musical Society](https://www.press.umich.edu/9902056/everybody_in_nobody_out)* (July 2020)**
 
 Written by the former President of the renowned University Musical Society at the University of Michigan, this book describes a decades-long ambitious campaign to expand and diversify the organization’s programming and audiences—initiatives inspired by Fischer’s overarching philosophy toward promoting the arts, “Everybody In, Nobody Out.” Fischer reflects on the power of the performing arts to engage and enrich communities—not by handing down cultural enrichment from on high, but by meeting communities where they live and helping them preserve cultural heritage, incubate talent, and find ways to make community voices heard.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m3yyrGfpC3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -60,7 +58,7 @@ Written by the former President of the renowned University Musical Society at th
 
 Following his groundbreaking dissertation album, scholar and artist A.D. Carson released with the University of Michigan Press the first peer-reviewed rap album from an academic publisher this year. Carson created a new format—the mixtap/e/ssay, combining the mixtape and personal and scholarly essay—and composed and performed fourteen tracks that account for moral, philosophical, and ethical dimensions undergirding unease about authenticity, highlighting outlooks on Black life generally, and Black manhood in particular, in the United States.
 
-<iframe width="560" height="330" src="https://www.youtube.com/embed/ONSPITzuGLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video player embed of A.D. Carson discussing i used to love to dream" width="560" height="330" src="https://www.youtube.com/embed/ONSPITzuGLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
