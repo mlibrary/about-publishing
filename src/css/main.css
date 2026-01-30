@@ -172,13 +172,13 @@ blockquote.quote > p::after {
 }
 
 .markdown a {
-  color: #1e80a2;
-  box-shadow: inset 0 -1px #1e80a2;
+  color: #1C7797;
+  box-shadow: inset 0 -1px #1C7797;
 }
 
 .markdown a:hover,
 .markdown a:focus {
-  box-shadow: inset 0 -2px #1e80a2;
+  box-shadow: inset 0 -2px #1C7797;
 }
 
 .markdown.small-margin p {
