@@ -410,12 +410,12 @@ blockquote.quote > p::after {
 
 /* Links */
 .link-hover {
-  box-shadow: inset 0 -1px #1e80a2;
+  box-shadow: inset 0 -1px #1c7797;
 }
 
 .link-hover:hover,
 .link-hover:focus {
-  box-shadow: inset 0 -2px #1e80a2;
+  box-shadow: inset 0 -2px #1c7797;
 }
 
 /* Services */
