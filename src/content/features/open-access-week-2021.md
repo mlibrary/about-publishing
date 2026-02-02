@@ -119,4 +119,4 @@ related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - "Breaking Down the Paywall: Author Relationships with Open Access"
 ---
-[](http://openaccessweek.org/)At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts and share new open access initiatives below
+At Michigan Publishing, open access is one of many ways that we strive to deliver the best scholarship to the broadest possible audience. Over the last decade, Michigan Publishing has been taking steps to develop a publishing program that better aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. We are excited to highlight some of those efforts and share new open access initiatives below
