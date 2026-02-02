@@ -45,13 +45,13 @@ sections:
           title: Author of Academic Ableism
       - type: highlight
         text: >-
-          **Equity Titles[](https://doi.org/10.3998/mpub.10131793)**
+          **Equity Titles**
 
 
           *[State of Empowerment: Low-Income Families and the New Welfare State](https://doi.org/10.3998/mpub.10131793)* by Carolyn Barnes
 
 
-          *[Bad Boys: Public Schools in the Making of Black Masculinity](https://www.press.umich.edu/11515236/bad_boys)* by Ann Arnett Ferguson[](https://www.press.umich.edu/11645040/enduring_legacy)
+          *[Bad Boys: Public Schools in the Making of Black Masculinity](https://www.press.umich.edu/11515236/bad_boys)* by Ann Arnett Ferguson
 
 
           *[The Enduring Legacy: Structured Inequality in America’s Public Schools](https://www.press.umich.edu/11645040/enduring_legacy)* by Mark Ryan
@@ -165,7 +165,7 @@ sections:
           *[Uncle Tom's Cabins: The Transnational History of America's Most Mutable Book](https://www.press.umich.edu/8057139/uncle_toms_cabins)* edited by Tracy C. Davis and Stefka Mihaylova
 
 
-          *[Robert Hayden in Verse: New Histories of African American Poetry and the Black Arts Era ](https://www.press.umich.edu/9794295/robert_hayden_in_verse)*by Derik Smith
+          *[Robert Hayden in Verse: New Histories of African American Poetry and the Black Arts Era ](https://www.press.umich.edu/9794295/robert_hayden_in_verse)* by Derik Smith
 
 
           *[Ishtyle: Accenting Gay Indian Nightlife](https://www.press.umich.edu/9958984/ishtyle)* by Kareem Khubchandani
