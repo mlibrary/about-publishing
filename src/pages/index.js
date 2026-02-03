@@ -9,7 +9,7 @@ import MarkdownContent from "../components/markdownContent"
 import Section from "../components/section"
 import Profile from "../components/profile"
 import Infographic from "../components/infographic"
-import Trending from "../components/trending"
+//import Trending from "../components/trending"
 
 export const IndexQuery = graphql`
   {
@@ -202,10 +202,6 @@ class IndexPage extends Component {
               )
             })}
           </div>
-        </Section>
-
-        <Section heading="Trending" className="mb-10 lg:mb-20">
-          <Trending />
         </Section>
 
         <Section heading={frontmatter.infographics.heading} className="mb-16">
