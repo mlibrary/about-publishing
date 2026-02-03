@@ -36,7 +36,7 @@ But the increase in digital scholarship has brought its own pitfalls: many libra
 
 Open access starts with author choice. In order to more deeply explore these issues, Michigan Publishing has invited authors to discuss the impact of Open Access on their scholarship and on the way they view diversity, equity, and inclusion in their fields. What does open access mean for our authors? Changes in the digital landscape and advancements in open access inspire questions, concerns, and sometimes, a lot of anxiety about the future of publishing. But they also present new possibilities for the ways we view scholarship and for expanding global communication pathways to include new voices.
 
-### Digging Deeper with Theater as Data
+## Digging Deeper with Theater as Data
 
 When author Miguel Escobar Varela started writing his manuscript for *Theater as Data* (University of Michigan Press, 2020) he knew he wanted his book to be open access. *Theater as Data: Computational Journeys into Theater Research* explores the use of computational methods and digital data in theater research, and examines important contributions to theater studies from similar computational research, including in classical French drama, collaboration networks in Australian theater, contemporary Portuguese choreography, and global productions of Ibsen. Though the fields of data and computational science and performing arts at first seem disparate, Miguel found they resonated with one another and realized that a broad audience would benefit from having access to this research.
 
@@ -50,7 +50,7 @@ To learn more about *Theatre as Data*, [click here](https://www.fulcrum.org/conc
 
 *This open access version is made available by the National University of Singapore.*
 
-### The Case of *Writing Pirates*
+## The Case of *Writing Pirates*
 
 For Yuanfei Wang, the immediacy of open access scholarship led the way for her own OA monograph: *Writing Pirates: Vernacular Fiction and Oceans in Late Ming China* is the first English-language book in the field of Chinese studies to discuss the sea and pirates in early modern Chinese literature.
 
