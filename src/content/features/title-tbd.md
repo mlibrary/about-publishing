@@ -23,6 +23,8 @@ sections:
         button_text: Explore the Event
         button_link: https://www.publishing.umich.edu/publishing-asian-studies
         heading: Open Access Publishing in Asian Studies Event
+        image_alt: "Graphic: Open Acces Publishing in Asian Studies, U-M Press and U-M
+          LSA"
   - content:
       - type: highlight
         text: >-
@@ -44,6 +46,7 @@ sections:
           the Center for South Asian Studies, and the Center for Southeast Asian
           Studies. Read more about the Centers below. "
         button_link: https://www.dropbox.com/s/9jbasglbkom0jij/NEHOpenBookBrochure.pdf?dl=0
+        image_alt: "Graphic: Michigan Asian Studies Open Access Book Collection"
       - type: profile
         profile: Lisa Trivedi
       - type: quote_slider
@@ -150,6 +153,8 @@ sections:
           Editors Laura Hein and Rebecca Jennison created a companion website offering many more images and demonstrating Tomiyama’s vibrant use of color. The website can be read in English or Japanese. 
         button_link: https://imaginationwithoutborders.northwestern.edu/
         heading: Bringing Art to Life
+        image_alt: "Cover: Imagination without borders: Feminist Artst Tomiyama Tacko
+          and Social Responsibility"
       - type: highlight
         text: >-
           **Project Partners**
@@ -254,6 +259,7 @@ sections:
           titles included in the University of Michigan Press Ebook Collection
           (UMP EBC), a comprehensive collection of the University of Michigan
           Press’s scholarly ebooks for sale to libraries. "
+        image_alt: "Logo: University of Michigan Press"
 related_stories:
   - Opening Access to Books Increases Reach and Engagement
   - Sustainable Publishing for Digital Scholarship in the Humanities
