@@ -40,3 +40,5 @@ Our baseline accessibility target is to meet WCAG 2.2 AA standards.
 The last accessibility evaluation for [publishing.umich.edu](https://publishing.umich.edu) was in February 2026.
 
 The next scheduled accessibility evaluation for this website is in 2027.
+
+**This page was last updated on March 19, 2026**
