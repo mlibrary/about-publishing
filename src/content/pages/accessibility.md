@@ -31,6 +31,8 @@ We do visual checks for link and label text, as well as for color contrast. Colo
 
 In addition to our evaluations, we use enterprise scanning software provided by University of Michigan ITS for continual maintenance.
 
+Published content is evaluated using a combination of automated tools and manual processes, primarily [Ace by DAISY](https://daisy.github.io/ace/) (EPUB), [Ace SMART by DAISY](https://smart.daisy.org/) (EPUB), [PAC Accessibility Checker](https://pac.pdf-accessibility.org/en) (PDF), and Adobe Acrobat (PDF). 
+
 ## Accessibility of this website
 
 Our baseline accessibility target is to meet WCAG 2.2 AA standards. 
