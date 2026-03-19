@@ -40,11 +40,13 @@ const Footer = () => {
 
               <div className="mb-8 md:mb-0 text-center md:text-left">
                 <a
-                  className="text-mid-blue md:mr-16 link-hover block md:inline mb-8 md:mb-0"
+                  className="text-mid-blue link-hover block md:inline mb-8 md:mb-0"
                   href={frontmatter.contact_link}
                 >
                   {frontmatter.email}
-                </a>
+                </a> <span className="md:inline">· </span>
+                <a className="text-mid-blue md:mr-16 link-hover block md:inline mb-8 md:mb-0"
+                  href="/accessibility">Accessibility</a>
               </div>
             </div>
 
