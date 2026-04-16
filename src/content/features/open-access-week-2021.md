@@ -89,6 +89,7 @@ sections:
           library catalog from press.umich.edu/librarians.
         button_text: Read OA Books
         button_link: https://www.fulcrum.org/michigan?locale=en&user_access=oa
+        image_alt: Open Access Logo
   - heading: Fund to Mission
     subheading: UMP's Open Access Monograph Model
     content:
