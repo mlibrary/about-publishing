@@ -132,6 +132,7 @@ sections:
           development of digital scholarship. To learn more about publishing
           with UMP, click the link below.
         image: /assets/iqlqu4dw_400x400.png
+        image_alt: University of Michigan Press logo
 related_stories:
   - ""
 ---
