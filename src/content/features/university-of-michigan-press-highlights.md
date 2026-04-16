@@ -134,6 +134,7 @@ sections:
           EBC), a comprehensive collection of UMP scholarly ebooks for sale to
           libraries.
         button_text: Visit the press website
+        image_alt: University of Michigan Press logo
 related_stories:
   - ""
 ---
