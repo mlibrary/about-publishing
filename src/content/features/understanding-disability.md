@@ -69,6 +69,7 @@ sections:
           or violent pasts.
         button_text: Order Book
         button_link: https://www.press.umich.edu/11644714/embodied_archive
+        image_alt: Cover of Embodied Archive book
       - type: cta
         heading: Beholding Disability in Renaissance England
         text: >
@@ -84,6 +85,7 @@ sections:
         button_link: https://www.press.umich.edu/11741095/beholding_disability_in_renaissance_england
         button_text: Order Book
         image: /assets/beholding-disability.jpg
+        image_alt: Cover of Beholding Disability in Renaissance England book
       - type: cta
         button_link: https://www.press.umich.edu/images/catalog/disabilitystudies2021.pdf
         button_text: Browse Our Brochure
@@ -100,7 +102,7 @@ sections:
           disabilities and learning differences.
 
 
-          ![](/assets/1.png "Global Certified Accessible Publisher")
+          ![Melies working in his studio in 1907 and his family meeting with author Matthew Solomon in 2015](/assets/1.png "Global Certified Accessible Publisher")
 related_stories:
   - ""
 ---
