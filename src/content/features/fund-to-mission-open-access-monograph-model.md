@@ -45,6 +45,7 @@ sections:
         button_text: Explore OA Titles
         button_link: https://www.fulcrum.org/michigan?locale=en&user_access=oa
         image: /assets/655px-open_access_logo_plos_white.svg.png
+        image_alt: Open Access logo
     subheading: Explore OA monographs and download MARC records
 related_stories:
   - ""
