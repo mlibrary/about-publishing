@@ -32,6 +32,7 @@ sections:
           support of The Ohio State University Libraries. Learn more at the TOME
           website, available at: openmonographs.org."
         button_link: https://doi.org/10.3998/mpub.11666501
+        image_alt: Book cover of The Three Ages of Government
       - type: youtube
         id: wNm4GrmOcUQ
   - heading: "Dialogues in Democracy: In Conversation"
@@ -473,6 +474,7 @@ sections:
           Press’s scholarly ebooks for sale to libraries.
         button_text: Learn More
         button_link: https://www.press.umich.edu/librarians
+        image_alt: University of Michigan Press logo
     id: debate-section
 related_stories:
   - Adding Diversity to the Data Mix
