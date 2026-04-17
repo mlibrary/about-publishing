@@ -36,6 +36,7 @@ sections:
         button_link: https://podcasts.apple.com/gh/podcast/short-takes-carolyn-barnes/id1061406250?i=1000470809674
         heading: Becoming Politically Engaged
         image: /assets/i7350582.jpg
+        image_alt: "Portrait photo: Carolyn Barnes"
       - type: quote_slider
         book: "Academic Ableism: Disability and Higher Education"
         quote:
@@ -189,6 +190,7 @@ sections:
         image: /assets/university-of-michigan-press-logo-512x480.png
         button_text: Learn More
         button_link: https://www.press.umich.edu/librarians
+        image_alt: "Logo: University of Michigan Press"
     subheading: Inclusion requires a sense of belonging. These books describe
       strategies for achieving that sense; in the classroom, in the community,
       and in wider society.
@@ -197,4 +199,4 @@ related_stories:
 ---
 The University of Michigan Press publishes books in the humanities and social sciences that seek to make sense of society and culture. As part of this work, UMP is fostering a more inclusive academic publishing program. The titles and resources featured below exemplify our work so far, but we recognize that combatting exclusion is a continual work in progress.  
 
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump_dei_booklet.pdf"><img class="mb-4" src="/assets/dei-booklet-cover.png"><p>Action-oriented Books on Diversity, Equity, and Inclusion</p></a></div>
+<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump_dei_booklet.pdf"><img class="mb-4" src="/assets/dei-booklet-cover.png" alt="Cover: Where do we go from here?><p>Action-oriented Books on Diversity, Equity, and Inclusion</p></a></div>
