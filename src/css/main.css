@@ -56,6 +56,12 @@ hr {
   margin-bottom: 1rem;
 }
 
+.markdown .bg-pale-grey {
+  a {
+    color: #1A708E;
+  }
+}
+
 /* Blockquotes */
 .markdown blockquote {
   background-color: #506fc5;
