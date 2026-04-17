@@ -199,4 +199,4 @@ related_stories:
 ---
 The University of Michigan Press publishes books in the humanities and social sciences that seek to make sense of society and culture. As part of this work, UMP is fostering a more inclusive academic publishing program. The titles and resources featured below exemplify our work so far, but we recognize that combatting exclusion is a continual work in progress.  
 
-<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump_dei_booklet.pdf"><img class="mb-4" src="/assets/dei-booklet-cover.png" alt="Cover: Where do we go from here?><p>Action-oriented Books on Diversity, Equity, and Inclusion</p></a></div>
+<div class="px-6 pt-6 mb-4 ml-6 border-l-8 lg:float-right lg:-mr-64 lg:w-3/5 border-sea-blue"><a href="/assets/ump_dei_booklet.pdf"><img class="mb-4" src="/assets/dei-booklet-cover.png" alt="Cover: Where do we go from here?"/><p>Action-oriented Books on Diversity, Equity, and Inclusion</p></a></div>
