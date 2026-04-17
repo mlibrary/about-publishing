@@ -5,7 +5,7 @@ type: page
 ---
 **Michigan Publishing combines the strengths of a highly-regarded university press with the innovative, service-oriented approach of a university library renowned as a leader in digital initiatives and technologies**
 
-<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/mp-impactreport.pdf" onclick="ga('send', 'event', 'mission','click','impact-report');"><img class="mb-4" src="/assets/mp-impactreport.jpg"><p>Read Our Impact Report</p></a></div>
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/mp-impactreport.pdf"><img class="mb-4" src="/assets/mp-impactreport.jpg" alt="Cover image: Michigan Publishing Impact Report"><p>Read Our Impact Report</p></a></div>
 
 Michigan Publishing brings together three entities to serve the changing needs of scholars: University of Michigan Press, Michigan Publishing Services, and Deep Blue Repository and Research Data Services. Together, they engage with a spectrum of publishing needs across the life-cycle of scholarly communication and provide guidance and assistance to the University community. 
 
