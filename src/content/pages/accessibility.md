@@ -15,7 +15,7 @@ We incorporate accessibility best practices and guidelines into our digital desi
 Our teams are in the process of publishing accessibility information for all of the digital products that Michigan Publishing builds, customizes, or licenses. Current accessibility information is available for:
 
 * [University of Michigan Press](https://press.umich.edu/About/Accessibility)
-* Michigan Publishing Services (forthcoming)
+* [Michigan Publishing Services](https://services.publishing.umich.edu/About-Us/Accessibility)
 * [Deep Blue Docs](https://deepblue.lib.umich.edu/assets/static/accessibility-statement.html)
 * [Deep Blue Data](https://deepblue.lib.umich.edu/data/agreement#accessibility)
 * [University of Michigan Press Ebook Collection](https://ebc.press.umich.edu/accessibility/)
