@@ -74,4 +74,4 @@ yarn-error.log
 # Static files
 static/admin/*.cms.js
 !static/admin/index.html
-!static/admin/config.yml
+static/admin/config.yml

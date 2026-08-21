@@ -1,5 +1,5 @@
 [build]
-  command = "GATSBY_CMS_BRANCH=${BRANCH} gatsby build"
+  command = "GATSBY_CMS_BRANCH=${BRANCH} npm run build"
   functions = "functions"
   publish = "public"
 
