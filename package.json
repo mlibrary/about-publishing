@@ -56,7 +56,8 @@
     "tailwindcss": "^3.4.4"
   },
   "scripts": {
-    "build:cms": "webpack --config webpack.cms.js",
+    "generate-cms-config": "node scripts/generate-cms-config.js",
+    "build:cms": "npm run generate-cms-config && webpack --config webpack.cms.js",
     "build": "npm run build:cms && gatsby build",
     "develop": "npm run build:cms && gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",

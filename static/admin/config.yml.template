@@ -1,19 +1,7 @@
 backend:
-
   name: github
-  # Test settings. @todo comment out when deploying to prod
-  # branch: feature-page
-  # repo: kellerch/publishing-backup
-  # app_id: 40d8aa03d25b1c29bb69d7920ea01741830a426046fed6ff304344210737df6b
-
-  # Production settings. @todo switch back to this when deploying to prod
-  branch: master
+  branch: __CMS_BRANCH__
   repo: mlibrary/about-publishing
-  #app_id: 8087fa5fed1b241cd6c75a3e6ea26e40a913fecc87f94928fceb2571c8b9427b
-
-  # Local development settings
-  # name: git-gateway
-# local_backend: true
 
 media_folder: static/assets
 public_folder: /assets
