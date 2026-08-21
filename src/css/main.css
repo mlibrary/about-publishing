@@ -1,8 +1,56 @@
+@layer third-party, base, components, utilities, overrides;
+
 @tailwind base;
 
 @tailwind components;
 
+@layer components {
+  @media (min-width: 1536px) {
+    .container {
+      max-width: 1280px;
+    }
+  }
+}
+
 @tailwind utilities;
+
+@layer utilities {
+  .line-heading {
+    position: relative;
+  }
+
+  .line-heading::after {
+    border-bottom: 1px solid #aab9e3;
+    content: "";
+    position: absolute;
+    width: 100%;
+  }
+
+  .line-heading > * {
+    background-color: #fefefe;
+    position: relative;
+    z-index: 1;
+  }
+
+  .shadow-1 {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
+  }
+
+  .translate-x-0 {
+    transform: translateX(0);
+  }
+
+  .-translate-x-320 {
+    transform: translateX(-320px);
+  }
+}
+
+@layer overrides {
+  img {
+    width: auto !important;
+    border-radius: 0 !important;
+  }
+}
 
 ul {
   list-style: disc;
@@ -269,23 +317,21 @@ blockquote.quote > p::after {
 }
 
 /* Line heading */
-@responsive {
-  .line-heading {
-    position: relative;
-  }
+.line-heading {
+  position: relative;
+}
 
-  .line-heading::after {
-    border-bottom: 1px solid #aab9e3;
-    content: "";
-    position: absolute;
-    width: 100%;
-  }
+.line-heading::after {
+  border-bottom: 1px solid #aab9e3;
+  content: "";
+  position: absolute;
+  width: 100%;
+}
 
-  .line-heading > * {
-    background-color: #fefefe;
-    position: relative;
-    z-index: 1;
-  }
+.line-heading > * {
+  background-color: #fefefe;
+  position: relative;
+  z-index: 1;
 }
 
 .slide-blur {
@@ -297,10 +343,8 @@ blockquote.quote > p::after {
 }
 
 /* Shadows */
-@variants group-hover, hover, focus {
-  .shadow-1 {
-    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
-  }
+.shadow-1 {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
 }
 
 /* Media */
@@ -543,14 +587,12 @@ blockquote.quote > p::after {
 }
 
 /* Translates */
-@responsive {
-  .translate-x-0 {
-    transform: translateX(0);
-  }
+.translate-x-0 {
+  transform: translateX(0);
+}
 
-  .-translate-x-320 {
-    transform: translateX(-320px);
-  }
+.-translate-x-320 {
+  transform: translateX(-320px);
 }
 
 /* Hamburger */

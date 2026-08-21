@@ -105,7 +105,7 @@ class IndexPage extends Component {
 
         <div className="lg:flex justify-between items-center mb-10 md:mb-20 animated fade-in-up">
           <div className="lg:w-38 mr-6 mb-8 lg:mb-0">
-            <h1 className="md:text-35 text-5xl font-extrabold leading-118 mb-10">
+            <h1 className="md:text-35 text-5xl font-extrabold font-sans leading-118 mb-10">
               {frontmatter.hero_section.heading}
             </h1>
 
@@ -143,14 +143,14 @@ class IndexPage extends Component {
           heading="Our Services"
           className="mb-10 lg:mb-20"
         >
-          <div className="flex-wrap justify-between -m-4 md:flex md:center lg:flex-no-wrap">
-            <a className="flex flex-col px-4 pb-8 m-2 mb-8 overflow-hidden border-b-4 services lg:w-1/4 md:w-1/2 lg:m-4 lg:px-0 lg:mb-0 border-dusk-blue"
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            <a className="flex flex-col p-4 overflow-hidden border-b-4 services border-dusk-blue"
                href="https://fulcrum.org">Books Hosting Services on Fulcrum</a>
-            <a className="flex flex-col px-4 pb-8 m-2 mb-8 overflow-hidden border-b-4 services lg:w-1/4 md:w-1/2 lg:m-4 lg:px-0 lg:mb-0 border-dusk-blue"
+            <a className="flex flex-col p-4 overflow-hidden border-b-4 services border-dusk-blue"
                href="https://ebc.press.umich.edu/">U-M Press Ebook Collection (UMP EBC)</a>
-            <a className="flex flex-col px-4 pb-8 m-2 mb-8 overflow-hidden border-b-4 services lg:w-1/4 md:w-1/2 lg:m-4 lg:px-0 lg:mb-0 border-dusk-blue"
+            <a className="flex flex-col p-4 overflow-hidden border-b-4 services border-dusk-blue"
                href="https://www.lib.umich.edu/collections/deep-blue-repositories">Deep Blue Repositories</a>
-            <a className="flex flex-col px-4 pb-8 m-2 mb-8 overflow-hidden border-b-4 services lg:w-1/4 md:w-1/2 lg:m-4 lg:px-0 lg:mb-0 border-dusk-blue"
+            <a className="flex flex-col p-4 overflow-hidden border-b-4 services border-dusk-blue"
                href="https://www.humanitiesebook.org/">ACLS Humanities Ebook Collection (ACLS HEB)</a>
           </div>
         </Section>

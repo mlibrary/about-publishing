@@ -5,13 +5,6 @@ module.exports = {
     author: `Michigan Creative`,
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        enableIdentityWidget: false,
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -44,37 +37,20 @@ module.exports = {
     `gatsby-plugin-postcss`,
     `gatsby-plugin-transition-link`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "UA-20101573-1",
+        trackingIds: ["G-Y7HY8B8BRE"],
+        pluginConfig: {
+          head: false,
+        },
       },
     },
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
         id: "GTM-K7KXTB7",
-  
-        // Include GTM in development.
-        //
         // Defaults to false meaning GTM will only be loaded in production.
         includeInDevelopment: false,
-  
-        // datalayer to be set before GTM is loaded
-        // should be an object or a function that is executed in the browser
-        //
-        // Defaults to null
-        //defaultDataLayer: { platform: "gatsby" },
-  
-        // Specify optional GTM environment details.
-        //gtmAuth: "YOUR_GOOGLE_TAGMANAGER_ENVIRONMENT_AUTH_STRING",
-        //gtmPreview: "YOUR_GOOGLE_TAGMANAGER_ENVIRONMENT_PREVIEW_NAME",
-        //dataLayerName: "YOUR_DATA_LAYER_NAME",
-  
-        // Name of the event that is triggered
-        // on every Gatsby route change.
-        //
-        // Defaults to gatsby-route-change
-        //routeChangeEventName: "YOUR_ROUTE_CHANGE_EVENT_NAME",
       },
     },
   ],

@@ -1,9 +1,9 @@
-import CMS from "netlify-cms-app"
+import CMS from "decap-cms-app"
 import styles from "!css-loader!postcss-loader!../css/main.css"
 
 import BlockquoteComponent from "./components/blockquoteComponent"
 import CalloutComponent from "./components/calloutComponent"
-import LinkedImageComponent from "./components/linkedImage";
+import LinkedImageComponent from "./components/linkedImage"
 import AdvancedImageComponent from "./components/advancedImageComponent"
 
 import StoryPreview from "./preview-templates/storyPreview"

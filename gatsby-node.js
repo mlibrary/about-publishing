@@ -14,7 +14,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         filter: {
           frontmatter: { published: { eq: true }, type: { eq: "story" } }
         }
-        sort: { fields: [frontmatter___date], order: DESC }
+        sort: { frontmatter: {date: DESC } }
       ) {
         edges {
           node {
@@ -111,7 +111,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.frontmatter.path,
       component: path.resolve(`src/templates/storyTemplate.js`),
-      context: {},
+      context: {
+        slug: node.frontmatter.path,
+      },
     })
   })
 
@@ -120,7 +122,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.frontmatter.path,
       component: path.resolve(`src/templates/pageTemplate.js`),
-      context: {},
+      context: {
+        slug: node.frontmatter.path,
+      },
     })
   })
 
@@ -129,7 +133,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.frontmatter.path,
       component: path.resolve(`src/templates/featureTemplate.js`),
-      context: {},
+      context: {
+        slug: node.frontmatter.path,
+      },
     })
   })
 }
