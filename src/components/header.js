@@ -28,6 +28,7 @@ class Header extends Component {
               <img
                 src="/assets/signature.svg"
                 alt="Michigan Publishing signature"
+                className="resize"
               />
             </AniLink>
           </h1>

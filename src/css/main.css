@@ -46,8 +46,9 @@
 }
 
 @layer overrides {
-  img {
-    width: auto !important;
+  img, 
+  img.resize {
+    width: auto;
     border-radius: 0 !important;
   }
 }
@@ -63,6 +64,11 @@ p {
 
 img {
   object-fit: cover;
+}
+
+img.resize {
+  width: auto;
+  height: auto;
 }
 
 main {
