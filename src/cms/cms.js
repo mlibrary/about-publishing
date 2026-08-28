@@ -10,7 +10,9 @@ import StoryPreview from "./preview-templates/storyPreview"
 import FeaturePreview from "./preview-templates/featurePreview"
 
 const fonts = "@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Muli&display=swap');"
-CMS.registerPreviewStyle(fonts + styles.toString(), { raw: true })
+
+CMS.registerPreviewStyle(fonts, { raw: true })
+CMS.registerPreviewStyle(styles.toString(), { raw: true })
 
 CMS.registerEditorComponent(BlockquoteComponent)
 CMS.registerEditorComponent(CalloutComponent)
