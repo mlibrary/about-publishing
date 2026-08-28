@@ -134,7 +134,7 @@ class IndexPage extends Component {
               class="text-mid-blue md:pl-4 block lg:text-right"
               href={frontmatter.hero_section.video_link}
             >
-              <span class="link-hover">{frontmatter.hero_section.video_link_text} ></span>
+              <span class="link-hover">{frontmatter.hero_section.video_link_text}</span>
             </a>
           </div>
         </div>

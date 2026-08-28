@@ -1,5 +1,7 @@
 @layer third-party, base, components, utilities, overrides;
 
+@import url("https://cdn.jsdelivr.net/npm/@umich-lib/web@latest/umich-lib.css") layer(third-party);
+
 @tailwind base;
 
 @tailwind components;

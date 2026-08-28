@@ -6,15 +6,8 @@
 
 const React = require("react")
 
-// You can delete this file if you're not using it
-
 exports.onRenderBody = ({ setHeadComponents }) => {
   setHeadComponents([
-    <link
-      key="umich-lib-web-css"
-      href="https://cdn.jsdelivr.net/npm/@umich-lib/web@latest/umich-lib.css"
-      rel="stylesheet"
-    />,
     <script
       key="umich-lib-web-js"
       type="module"
