@@ -225,8 +225,8 @@ export default function StoryTemplate({ data }) {
 }
 
 export const pageQuery = graphql`
-  query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query($slug: String!) {
+    markdownRemark(frontmatter: { path: { eq: $slug } }) {
       html
       excerpt(pruneLength: 140, truncate: true)
       frontmatter {

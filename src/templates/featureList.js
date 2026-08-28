@@ -125,7 +125,7 @@ export const featureListQuery = graphql`
   query featureListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       filter: { frontmatter: {published: { eq: true }, type: { eq: "feature" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       limit: $limit
       skip: $skip
     ) {

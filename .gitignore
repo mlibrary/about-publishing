@@ -70,3 +70,8 @@ yarn-error.log
 
 # Local Netlify folder
 .netlify
+
+# Static files
+static/admin/*.cms.js
+!static/admin/index.html
+static/admin/config.yml
