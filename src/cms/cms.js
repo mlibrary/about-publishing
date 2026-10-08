@@ -9,6 +9,8 @@ import AdvancedImageComponent from "./components/advancedImageComponent"
 import StoryPreview from "./preview-templates/storyPreview"
 import FeaturePreview from "./preview-templates/featurePreview"
 
+window.CMS_MANUAL_INIT = true;
+const branch = process.env.GATSBY_CMS_BRANCH || "master";
 const fonts = "@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Muli&display=swap');"
 
 CMS.registerPreviewStyle(fonts, { raw: true })
@@ -21,3 +23,13 @@ CMS.registerEditorComponent(AdvancedImageComponent)
 
 CMS.registerPreviewTemplate("stories", StoryPreview)
 CMS.registerPreviewTemplate("features", FeaturePreview)
+
+CMS.init({
+    config: {
+      backend: {
+        name: 'github',
+        repo: 'mlibrary/about-publishing',
+        branch,
+      },
+    }
+  });

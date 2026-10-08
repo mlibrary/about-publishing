@@ -15,6 +15,12 @@ class Header extends Component {
   render() {
     return (
       <header className="border-b border-almost-black-21">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:px-4 focus:py-2 focus:bg-white focus:text-almost-black-100 focus:shadow-md focus:border focus:border-almost-black-21 focus:outline-none"
+        >
+          Skip to main content
+        </a>
         <div
           className={`fixed inset-0 bg-almost-black-30 z-8 ${
             this.state.active ? "block" : "hidden"

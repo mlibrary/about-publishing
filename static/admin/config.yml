@@ -1,8 +1,3 @@
-backend:
-  name: github
-  branch: __CMS_BRANCH__
-  repo: mlibrary/about-publishing
-
 media_folder: static/assets
 public_folder: /assets
 collections:
