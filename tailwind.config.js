@@ -1,5 +1,16 @@
 module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx,md,mdx}",
+    "./src/cms/**/*.{js,jsx}",
+  ],
   theme: {
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: "1rem",
+        lg: "2.5rem",
+      },
+    },
     extend: {
       fontSize: {
         "09375": "0.9375rem",
@@ -87,9 +98,6 @@ module.exports = {
       serif: ["Crimson Text", "Georgia", "Cambria", "Times New Roman", "serif"],
       mono: ["Menlo", "Monaco", "Consolars", "Libertation Mono", "monospace"],
     },
-  },
-  variants: {
-    textDecoration: ["responsive", "hover", "focus", "active", "group-hover"],
   },
   plugins: [],
 }

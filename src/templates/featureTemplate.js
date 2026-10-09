@@ -269,8 +269,8 @@ export default function FeatureTemplate({ data }) {
 }
 
 export const featureQuery = graphql`
-  query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query($slug: String!) {
+    markdownRemark(frontmatter: { path: { eq: $slug } }) {
       html
       frontmatter {
         path

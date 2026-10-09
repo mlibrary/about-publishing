@@ -41,4 +41,4 @@ The last accessibility evaluation for [publishing.umich.edu](https://publishing.
 
 The next scheduled accessibility evaluation for this website is in 2027.
 
-**This page was last updated on March 19, 2026**
+**This page was last updated on October 8, 2026**
