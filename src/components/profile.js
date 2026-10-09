@@ -11,7 +11,7 @@ const Profile = ({ name, quote, image, title }) => {
       />
       <div>
         <blockquote className="relative">
-          <span className="absolute text-michigan-maize text-6 top-0 leading-none left-0 md:left-12 lg:left-7 xl:left-9 -top-1 block">
+          <span className="absolute text-michigan-maize text-6 top-0 leading-none left-0 md:left-12 lg:left-7 xl:left-9 -top-4 block">
             “
           </span>
           <p className="profile-quote text-2xl font-serif ml-12 md:ml-0">{quote}</p>

@@ -7,7 +7,7 @@ export const Cta = ({ image, alt, heading, text, buttonText, buttonLink }) => {
         <img
           src={image}
           alt={alt}
-          className="flex-shrink-0 border-l-4 border-michigan-maize sm:w-5/12"
+          className="shrink-0 border-l-4 border-michigan-maize sm:w-5/12"
         />
       )}
 
@@ -30,7 +30,7 @@ export const Cta = ({ image, alt, heading, text, buttonText, buttonLink }) => {
         {buttonLink && (
           <a
             href={buttonLink}
-            className="inline-flex items-center flex-shrink-0 px-4 py-2 font-bold rounded-sm transition-color focus:text-michigan-blue focus:bg-michigan-maize hover:text-michigan-blue hover:bg-michigan-maize bg-michigan-blue text-michigan-maize"
+            className="inline-flex items-center shrink-0 px-4 py-2 font-bold rounded-xs transition-color focus:text-michigan-blue focus:bg-michigan-maize hover:text-michigan-blue hover:bg-michigan-maize bg-michigan-blue text-michigan-maize"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

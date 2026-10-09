@@ -77,7 +77,7 @@ const FeaturePreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
               {subtitle}
             </p>
             <h1
-              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 font-semibold ${
+              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 md:leading-none font-semibold ${
                 hero ? "text-very-light-blue" : ""
               }`}
             >
@@ -167,7 +167,7 @@ const FeaturePreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                                   <img
                                     src={book.frontmatter.image.file}
                                     alt={book.frontmatter.image.alt}
-                                    className="flex-shrink-0 mb-6 rounded sm:pr-6 sm:w-4/12 sm:mb-0"
+                                    className="shrink-0 mb-6 rounded-sm sm:pr-6 sm:w-4/12 sm:mb-0"
                                   />
 
                                   {item.quote && [

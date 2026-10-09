@@ -57,7 +57,7 @@ export default function StoryTemplate({ data }) {
               {frontmatter.categories.join(" | ")}
             </p>
             <h1
-              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 font-semibold ${
+              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 md:leading-none font-semibold ${
                 hero ? "text-very-light-blue" : ""
               }`}
             >
@@ -145,7 +145,7 @@ export default function StoryTemplate({ data }) {
               <h2 className="mb-4 mr-12 font-serif text-4xl font-semibold">
                 Books:
               </h2>
-              <div className="flex-wrap justify-between flex-grow sm:flex">
+              <div className="flex-wrap justify-between grow sm:flex">
                 {books.map(book => {
                   return (
                     <a

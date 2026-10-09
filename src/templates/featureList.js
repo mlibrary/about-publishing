@@ -1,7 +1,6 @@
 import React from "react"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -51,18 +50,16 @@ export default function FeatureList({ data, pageContext }) {
           <div>
             {!isFirst && (
               <div>
-                <AniLink
-                  fade
-                  duration={0.25}
+                <Link
                   to="/features"
                   className="hidden mr-8 md:inline"
                 >
                   « first
-                </AniLink>
+                </Link>
 
-                <AniLink fade duration={0.25} to={prevPage}>
+                <Link to={prevPage}>
                   ‹ previous
-                </AniLink>
+                </Link>
               </div>
             )}
 
@@ -76,9 +73,7 @@ export default function FeatureList({ data, pageContext }) {
 
           <div className="hidden md:block">
             {Array.from({ length: featurePages }, (_, i) => (
-              <AniLink
-                fade
-                duration={0.25}
+              <Link
                 key={`pagination-number${i + 1}`}
                 to={`/stories-of-impact/${i === 0 ? "" : i + 1}`}
                 className={`py-1 px-2 ${
@@ -86,25 +81,23 @@ export default function FeatureList({ data, pageContext }) {
                 }`}
               >
                 {i + 1}
-              </AniLink>
+              </Link>
             ))}
           </div>
 
           <div>
             {!isLast && (
               <div>
-                <AniLink fade duration={0.25} to={nextPage}>
+                <Link to={nextPage}>
                   next ›
-                </AniLink>
+                </Link>
 
-                <AniLink
-                  fade
-                  duration={0.025}
+                <Link
                   to={`/feautres/${featurePages.toString()}`}
                   className="hidden ml-8 md:inline"
                 >
                   last »
-                </AniLink>
+                </Link>
               </div>
             )}
 

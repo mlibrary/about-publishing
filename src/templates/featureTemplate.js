@@ -50,7 +50,7 @@ export default function FeatureTemplate({ data }) {
               {frontmatter.subtitle}
             </p>
             <h1
-              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 font-semibold ${
+              className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 md:leading-none font-semibold ${
                 hero ? "text-very-light-blue" : ""
               }`}
             >
