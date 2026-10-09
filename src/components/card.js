@@ -1,10 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 
 const Card = ({ title, href, image, alt, subtitle, children, className }) => {
   return (
-    <AniLink fade duration={0.25} to={href} className={`block ${className}`}>
+    <Link to={href} className={`block ${className}`}>
       <div className="card rounded flex flex-col h-full">
         <img src={image} alt={alt} className="rounded-t" />
         <div className="border border-very-light-blue px-6 h-full">
@@ -15,7 +15,7 @@ const Card = ({ title, href, image, alt, subtitle, children, className }) => {
           <p className="mb-8">{children}</p>
         </div>
       </div>
-    </AniLink>
+    </Link>
   )
 }
 

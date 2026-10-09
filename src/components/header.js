@@ -1,4 +1,4 @@
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import React, { Component } from "react"
 
 import Navigation from "./navigation"
@@ -30,13 +30,13 @@ class Header extends Component {
         <m-universal-header></m-universal-header>
         <div className="container relative flex items-center justify-between px-4 pt-8 pb-4 mx-auto lg:block lg:px-10">
           <h1 className="mr-6 lg:mb-8 lg:w-5/12">
-            <AniLink fade duration={0.25} to="/">
+            <Link to="/">
               <img
                 src="/assets/signature.svg"
                 alt="Michigan Publishing signature"
                 className="resize"
               />
-            </AniLink>
+            </Link>
           </h1>
           <div
             className={`navigation lg:static fixed left-0 top-0 bottom-0 bg-white z-8 w-320 lg:w-auto lg:translate-x-0 ${

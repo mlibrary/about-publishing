@@ -117,7 +117,7 @@ class IndexPage extends Component {
           <div className="lg:w-7/12">
             <video
               muted
-              autoplay="true"
+              autoPlay
               aria-describedby="video-description"
             >
               <source

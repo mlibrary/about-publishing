@@ -1,28 +1,56 @@
 ## About Michigan Publishing
 This is the brochureware/about informational website for Michigan Publishing.
 
-It uses GatsbyJS, Netlify hosting, and Netlify CMS.
+It uses Gatsby 5, React 19, Tailwind CSS, Decap CMS, and Netlify hosting.
 
 View it at https://publishing.umich.edu
 
 
 ## 🚀 Quick start
 
-1.  **Start developing.**
+1.  **Use the supported Node.js and npm versions.**
 
-    Navigate into your new site’s directory and start it up.
+    The required Node.js version is in `.node-version` and `.nvmrc`
+    (24.15.0). Use the npm release that ships with it (11.12.1). Netlify reads
+    `.node-version` for every deploy.
+
+1.  **Install dependencies.**
 
     ```sh
-    gatsby develop
+    npm ci
     ```
 
-1.  **Open the source code and start editing!**
+    The Gatsby CLI is installed with the project, so a global `gatsby`
+    install is not needed. Run unlisted Gatsby commands with
+    `npm exec -- gatsby <command>`.
+
+1.  **Start developing.**
+
+    ```sh
+    npm run develop
+    ```
 
     Your site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries)._
 
-3. **Project notes**
+1.  **Build and preview the production site.**
+
+    ```sh
+    npm run clean
+    npm run build
+    npm run serve
+    ```
+
+1.  **Content management**
+
+    Decap CMS is available at `/admin/` and uses the GitHub backend for
+    `mlibrary/about-publishing`. The CMS edits the branch given by the
+    `GATSBY_CMS_BRANCH` build variable. Netlify sets it to the branch being
+    built, so a deploy preview edits its own branch. Local builds default to
+    `master`.
+
+1.  **Project notes**
 
     Project interacts with this API for trending books on front page:
     https://api.altmetric.com/

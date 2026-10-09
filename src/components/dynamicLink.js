@@ -1,5 +1,5 @@
 import React from "react"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 
 const DynamicLink = ({
   children,
@@ -12,14 +12,14 @@ const DynamicLink = ({
 
   if (internal) {
     return (
-      <AniLink fade duration={.25}
+      <Link
         to={to}
         activeClassName={activeClassName}
         partiallyActive={partiallyActive}
         {...other}
       >
         {children}
-      </AniLink>
+      </Link>
     )
   }
   return (

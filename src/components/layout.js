@@ -37,12 +37,16 @@ const Layout = ({ children }) => {
         }}
       />
       
-      <Header siteTitle={data.site.siteMetadata.title} />
+      {/* Clips content that is intentionally wider than the page, as the
+          wrapper from the former gatsby-plugin-transition-link did. */}
+      <div className="overflow-x-hidden max-w-full">
+        <Header siteTitle={data.site.siteMetadata.title} />
 
-      <div className="container mx-auto lg:px-10 px-4 py-4 mt-8">
-        <main id="main" tabIndex="-1">{children}</main>
+        <div className="container mx-auto lg:px-10 px-4 py-4 mt-8">
+          <main id="main" tabIndex="-1" className="fade-in">{children}</main>
+        </div>
+        <Footer />
       </div>
-      <Footer />
     </>
   )
 }
