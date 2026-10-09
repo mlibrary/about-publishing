@@ -29,7 +29,7 @@ highlight:
   heading: Our Reach
   image:
     alt: Map showing usage of Michigan Publishing projects around the world
-    file: /assets/screen-shot-2020-08-13-at-4.56.25-pm.png
+    file: /assets/readership-map-2026.png
   link_text: Explore Our Reach
   link_url: /our-reach
 profile: Jeremy Glover
