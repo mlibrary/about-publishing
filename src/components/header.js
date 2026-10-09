@@ -17,7 +17,7 @@ class Header extends Component {
       <header className="border-b border-almost-black-21">
         <a
           href="#main"
-          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:px-4 focus:py-2 focus:bg-white focus:text-almost-black-100 focus:shadow-md focus:border focus:border-almost-black-21 focus:outline-none"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:px-4 focus:py-2 focus:bg-white focus:text-almost-black-100 focus:shadow-md focus:border focus:border-almost-black-21 focus:outline-hidden"
         >
           Skip to main content
         </a>
@@ -42,7 +42,7 @@ class Header extends Component {
             className={`navigation lg:static fixed left-0 top-0 bottom-0 bg-white z-8 w-320 lg:w-auto lg:translate-x-0 ${
               this.state.active
                 ? "transition-transform translate-x-0"
-                : "transition-transform -translate-x-320"
+                : "transition-transform -translate-x-80"
             }`}
           >
             <Navigation />

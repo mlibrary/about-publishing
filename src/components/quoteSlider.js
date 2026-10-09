@@ -40,7 +40,7 @@ const QuoteSlider = ({ content, books, slides }) => {
               <img
                 src={book.frontmatter.image.file}
                 alt={book.frontmatter.image.alt}
-                className="flex-shrink-0 mb-6 rounded sm:pr-6 sm:w-4/12 sm:mb-0"
+                className="shrink-0 mb-6 rounded-sm sm:pr-6 sm:w-4/12 sm:mb-0"
               />
 
               <Quote
@@ -59,7 +59,7 @@ const QuoteSlider = ({ content, books, slides }) => {
             style={{ transform: `translateX(${slidePosition}%)` }}
           >
             {slides.map(slide => (
-              <div className="flex-shrink-0 p-3 md:w-5/12">
+              <div className="shrink-0 p-3 md:w-5/12">
                 <Slide
                   image={slide.image}
                   alt={slide.image_alt}
@@ -71,7 +71,7 @@ const QuoteSlider = ({ content, books, slides }) => {
           </div>
 
           {/* Slide blur */}
-          <div className="absolute top-0 right-0 flex-shrink-0 hidden w-2/12 h-90 slide-blur md:block"></div>
+          <div className="absolute top-0 right-0 shrink-0 hidden w-2/12 h-90 slide-blur md:block"></div>
         </div>
       )}
 

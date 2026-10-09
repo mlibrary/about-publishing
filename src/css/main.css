@@ -2,50 +2,152 @@
 
 /* @import url("https://cdn.jsdelivr.net/npm/@umich-lib/web@latest/umich-lib.css") layer(third-party);*/
 
-@tailwind base;
+/*
+  Tailwind CSS v4 puts its utilities in a cascade layer, where they lose to
+  every unlayered rule in this file. Import them unlayered so specificity and
+  source order decide, as they did with Tailwind CSS v3.
+*/
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/preflight.css' layer(base);
+@import 'tailwindcss/utilities.css';
 
-@tailwind components;
-
-@layer components {
-  @media (min-width: 1536px) {
-    .container {
-      max-width: 1280px;
-    }
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+  @media (width >= theme(--breakpoint-lg)) {
+    padding-inline: 2.5rem;
   }
 }
 
-@tailwind utilities;
+@theme {
+  --color-*: initial;
+  --color-almost-black-21: rgba(6, 8, 10, 0.21);
+  --color-almost-black-30: rgba(6, 8, 10, 0.6);
+  --color-almost-black-default: #06080a;
 
-@layer utilities {
-  .line-heading {
-    position: relative;
+  --color-battleship-grey: #637381;
+  --color-bluey-grey: #64717c;
+  --color-cloudy-blue: #aab9e3;
+  --color-cornflower-blue: #506fc5;
+  --color-dark: #212b36;
+  --color-dusk-blue: #274391;
+  --color-eggshell: #cbe5be;
+  --color-golden: #eaba02;
+  --color-grey: #979797;
+  --color-metallic-blue: #4c6781;
+  --color-michigan-blue: #00274c;
+  --color-michigan-maize: #ffcb05;
+  --color-mid-blue: #1c7797;
+  --color-pale-grey: #e9f2f5;
+  --color-pale-grey-2: #f7f8f9;
+  --color-scarlet: #ea4335;
+  --color-sea-blue: #1a6681;
+  --color-slate-grey: #5f686d;
+  --color-very-light-blue: #e5e9ed;
+  --color-white: #fefefe;
+
+  --font-*: initial;
+  --font-sans: Muli, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
+  --font-serif: Crimson Text, Georgia, Cambria, Times New Roman, serif;
+  --font-mono: Menlo, Monaco, Consolars, Libertation Mono, monospace;
+
+  /*
+    Tailwind CSS v3 used absolute line heights for its font sizes. Keep them so
+    custom font sizes without a line height still inherit the same spacing.
+  */
+  --text-xs--line-height: 1rem;
+  --text-sm--line-height: 1.25rem;
+  --text-base--line-height: 1.5rem;
+  --text-lg--line-height: 1.75rem;
+  --text-xl--line-height: 1.75rem;
+  --text-2xl--line-height: 2rem;
+  --text-3xl--line-height: 2.25rem;
+  --text-4xl--line-height: 2.5rem;
+
+  --text-6: 6rem;
+  --text-35: 3.5rem;
+  --text-175: 1.75rem;
+  --text-375: 3.75rem;
+  --text-525: 5.25rem;
+  --text-09375: 0.9375rem;
+
+  --height-90: 90%;
+  --height-414: 414px;
+  --height-38125: 38.125rem;
+
+  --inset-2: 2rem;
+  --inset-7: 7rem;
+  --inset-9: 9rem;
+  --inset-12: 12rem;
+
+
+  --leading-105: 1.05;
+  --leading-118: 1.18;
+
+  --max-height-24: 24rem;
+  --max-height-38125: 38.125rem;
+
+  --container-60: 60%;
+  --container-70: 70%;
+  --container-336: 336px;
+  --container-8125: 8.125rem;
+
+  --spacing-275: 2.75rem;
+  --spacing-1675: 16.75rem;
+
+  --width-13: 13rem;
+  --width-38: 38%;
+  --width-320: 20rem;
+
+  --z-index-5: 5;
+  --z-index-8: 8;
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
   }
+}
 
-  .line-heading::after {
+@utility container {
+  @media (min-width: 1536px) {
+    max-width: 1280px;
+  }
+}
+
+@utility line-heading {
+  position: relative;
+
+  &::after {
     border-bottom: 1px solid #aab9e3;
-    content: "";
+    content: '';
     position: absolute;
     width: 100%;
   }
 
-  .line-heading > * {
+  & > * {
     background-color: #fefefe;
     position: relative;
     z-index: 1;
   }
-
-  .shadow-1 {
-    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
-  }
-
-  .translate-x-0 {
-    transform: translateX(0);
-  }
-
-  .-translate-x-320 {
-    transform: translateX(-320px);
-  }
 }
+
+@utility shadow-1 {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
+}
+
 
 @layer overrides {
   img, 
@@ -625,7 +727,9 @@ blockquote.quote > p::after {
 }
 
 .transition-transform {
-  transition: transform 0.15s ease-in;
+  transition:
+    transform 0.15s ease-in,
+    translate 0.15s ease-in;
 }
 
 .animated {
@@ -695,14 +799,6 @@ blockquote.quote > p::after {
   }
 }
 
-/* Translates */
-.translate-x-0 {
-  transform: translateX(0);
-}
-
-.-translate-x-320 {
-  transform: translateX(-320px);
-}
 
 /* Hamburger */
 .hamburger {

@@ -73,7 +73,7 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                 {categories && categories.join(" | ")}
               </p>
               <h1
-                className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 font-semibold ${
+                className={`font-serif text-4xl md:text-5xl lg:text-375 leading-105 md:leading-none font-semibold ${
                   hero ? "text-very-light-blue" : ""
                 }`}
               >
@@ -141,7 +141,7 @@ const StoryPreview = ({ entry, widgetFor, widgetsFor, fieldsMetaData }) => {
                 <h2 className="text-4xl font-semibold font-serif mb-4 mr-12">
                   Books:
                 </h2>
-                <div className="sm:flex flex-grow flex-wrap justify-between">
+                <div className="sm:flex grow flex-wrap justify-between">
                   {books.map(book => {
                     const bookData = fieldsMetaData.getIn([
                       "books",

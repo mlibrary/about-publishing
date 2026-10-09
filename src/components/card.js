@@ -5,13 +5,13 @@ import { Link } from "gatsby"
 const Card = ({ title, href, image, alt, subtitle, children, className }) => {
   return (
     <Link to={href} className={`block ${className}`}>
-      <div className="card rounded flex flex-col h-full">
+      <div className="card rounded-sm flex flex-col h-full">
         <img src={image} alt={alt} className="rounded-t" />
         <div className="border border-very-light-blue px-6 h-full">
           <p className="text-sm uppercase text-dusk-blue mb-2 mt-4 tracking-widest">
             {subtitle}
           </p>
-          <h2 className="text-2xl xl:text-3xl leading-tight mb-6">{title}</h2>
+          <h2 className="text-2xl xl:text-3xl leading-tight xl:leading-9 mb-6">{title}</h2>
           <p className="mb-8">{children}</p>
         </div>
       </div>

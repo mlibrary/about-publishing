@@ -1,7 +1,7 @@
 import React from "react"
 
 export const Slide = ({ image, alt, heading, text }) => (
-  <div className="h-full border rounded border-very-light-blue">
+  <div className="h-full border rounded-sm border-very-light-blue">
     {image && <img src={image} alt={alt} className="w-full" />}
 
     <div className="p-6">
