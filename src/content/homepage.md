@@ -32,7 +32,7 @@ highlight:
     file: /assets/readership-map-2026.png
   link_text: Explore Our Reach
   link_url: /our-reach
-profile: Jeremy Glover
+profile: Abigail De Kosnik
 stories:
   - Sustainable Publishing for Digital Scholarship in the Humanities
   - '"Coronavirus Politics" book will shape future health policy '
